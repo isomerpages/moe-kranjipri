@@ -2,6 +2,7 @@ collections:
   life-at-kranji:
     output: true
     order:
+      - Virtual Open House/.keep
       - Achievements/Student and School Achievement.md
       - Achievements/Staff Achievement.md
       - Achievements/.keep

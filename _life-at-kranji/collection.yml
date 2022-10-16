@@ -2,4 +2,5 @@ collections:
   life-at-kranji:
     output: true
     order:
+      - Achievements/Staff Achievement.md
       - Achievements/.keep

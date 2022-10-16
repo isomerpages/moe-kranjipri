@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Executive and Administrative Staff.md
       - Our People/School Advisory Committee.md
       - Our People/.keep
       - Contact Us.md

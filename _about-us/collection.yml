@@ -1,5 +1,4 @@
 collections:
   about-us:
     output: true
-    order:
-      - Contact Us/.keep
+    order: []

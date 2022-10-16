@@ -1,6 +1,21 @@
 logo: /images/Homepage/Homepage1.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: "About Us "
+    url: /permalink
+    sublinks:
+      - title: Principal's Message
+        url: /permalink
+      - title: School Philosophy and More
+        url: /permalink
+      - title: School Creed, Crest and Song
+        url: /permalink
+      - title: School History
+        url: /permalink
+      - title: School Facilities
+        url: /permalink
+      - title: Our People
+        url: /permalink
+      - title: Contact Us
+        url: /permalink
+      - title: Social Media Guidelines @ KPS
+        url: /permalink

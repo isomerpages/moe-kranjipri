@@ -54,3 +54,24 @@ links:
         url: /permalink
       - title: Parents Gateway
         url: /permalink
+  - title: "MOE Kindergarten "
+    url: /permalink
+    sublinks:
+      - title: Our Centre Head
+        url: /permalink
+      - title: Our Staff
+        url: /permalink
+      - title: Learning Environment
+        url: /permalink
+      - title: Programmes and Activities
+        url: /permalink
+      - title: Kindergarten Care (KCare)
+        url: /permalink
+      - title: K2-P1 Transition Programme
+        url: /permalink
+      - title: Our Partners
+        url: /permalink
+      - title: Information for Parents
+        url: /permalink
+      - title: Contact Us
+        url: /permalink

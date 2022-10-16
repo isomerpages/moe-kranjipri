@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Programmes and Activities/Programmes and Activities.md
       - Programmes and Activities/HI Light Programme.md
       - Programmes and Activities/Starlight Literacy Programme for EL and MTL.md
       - Programmes and Activities/Weeks of Wonder Projects (WoW).md

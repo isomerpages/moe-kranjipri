@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Student Care Centre.md
       - Parents Gateway/Parents Gateway.md
       - Parents Gateway/Travel Declaration Guide.md
       - Parents Gateway/.keep

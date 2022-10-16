@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/School Executive Committee.md
       - Our People/Teacher Leaders.md
       - Our People/Teaching Staff 2022.md
       - Our People/Allied Educators.md

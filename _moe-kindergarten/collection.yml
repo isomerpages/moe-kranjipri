@@ -2,5 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Information for Parents/MK Registration.md
       - Information for Parents/.keep
       - Contact Us.md

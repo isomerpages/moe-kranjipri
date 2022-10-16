@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Prize Giving Day & P6 Graduation 2021.md
       - Parents' Briefing Slides.md
       - Parent Support Group (PSG).md
       - Student Care Centre.md

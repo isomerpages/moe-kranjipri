@@ -75,3 +75,14 @@ links:
         url: /permalink
       - title: Contact Us
         url: /permalink
+  - title: "Resources "
+    url: /permalink
+    sublinks:
+      - title: For Student, Teacher & Parent
+        url: /permalink
+      - title: Student ICON
+        url: /permalink
+      - title: Student Learning Space (SLS)
+        url: /permalink
+      - title: Student Password Reset Help
+        url: /permalink

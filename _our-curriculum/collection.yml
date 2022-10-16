@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Signature Programmes/1 1 Learning Experience.md
       - Signature Programmes/.keep
       - Student WellBeing Framework.md

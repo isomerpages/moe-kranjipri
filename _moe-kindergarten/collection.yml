@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Our Partners.md
       - Information for Parents/Information for Parents.md
       - Information for Parents/LIFE@MK.md
       - Information for Parents/MK Registration.md

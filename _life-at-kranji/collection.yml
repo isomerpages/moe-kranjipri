@@ -2,6 +2,7 @@ collections:
   life-at-kranji:
     output: true
     order:
+      - Virtual Open House/The Kranji Experience.md
       - Virtual Open House/Testimonials for our School.md
       - Virtual Open House/.keep
       - Achievements/Student and School Achievement.md

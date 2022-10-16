@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Programmes and Activities/.keep
       - Kindergarten Care KCare/Kindergarten Care (KCare).md
       - Kindergarten Care KCare/KCare Programme.md
       - Kindergarten Care KCare/.keep

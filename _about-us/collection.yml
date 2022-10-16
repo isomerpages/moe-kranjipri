@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Facilities.md
       - Our People/School Leaders.md
       - Our People/School Executive Committee.md
       - Our People/Teacher Leaders.md

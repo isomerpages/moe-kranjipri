@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Signature Programmes/Learning for Life Programme (LLP).md
       - Signature Programmes/Applied Learning Programme (ALP).md
       - Signature Programmes/1 1 Learning Experience.md
       - Signature Programmes/.keep

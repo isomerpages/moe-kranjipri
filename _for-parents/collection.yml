@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Gateway/Travel Declaration Guide.md
       - Parents Gateway/.keep

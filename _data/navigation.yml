@@ -30,3 +30,10 @@ links:
         url: /permalink
       - title: Student Well-Being Framework
         url: /permalink
+  - title: Life @ Kranji
+    url: /permalink
+    sublinks:
+      - title: "Virtual Open House  "
+        url: /permalink
+      - title: Achievements
+        url: /permalink

@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Philosophy, School Vision, School Mission, Core Values.md
       - School Creed, Crest and Song.md
       - School History.md
       - School Facilities.md

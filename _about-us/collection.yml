@@ -1,4 +1,5 @@
 collections:
   about-us:
     output: true
-    order: []
+    order:
+      - Social Media Guidelines at Kranji Primary School.md

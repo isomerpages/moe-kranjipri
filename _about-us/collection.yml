@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/.keep
       - Contact Us.md
       - Social Media Guidelines at Kranji Primary School.md

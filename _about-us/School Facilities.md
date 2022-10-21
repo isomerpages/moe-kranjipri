@@ -10,15 +10,44 @@ We also have a Student Care Centre located within the school. Click [here](http
 
 
 Please click on the image below to start the virtual tour. Do also click on the 'i' symbol at the bottom right hand corner of the virtual tour for more information on the various locations/ facilities.    
-  
-![](/images/About%20Us/School%20Facilities/S1.png)  
+ 
+ 
+
+<div>
+
+<div style="float: left">
+
+<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+
+<img src="/images/About%20Us/School%20Facilities/S1.png">
+
+     
+
+</a>
+
+</div>
 
 #### **2nd Floor** 
 
 
 Please click on the image below to start the virtual tour. Do also click on the 'i' symbol at the bottom right hand corner of the virtual tour for more information on the various locations/ facilities.    
-  
-![](/images/About%20Us/School%20Facilities/S2.png)  
+ 
+ <div>
+
+<div style="float: left">
+
+<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+
+<img src="/images/About%20Us/School%20Facilities/S2.png">
+
+ 
+</a>
+
+</div>
+
+<div>
+
+</div>  
 
 #### **3rd Floor**
 

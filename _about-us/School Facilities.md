@@ -156,7 +156,7 @@ Please click on the image below to start the virtual tour. Do also click on the 
 
 <a href="https://momento360.com/e/uc/590dde71cecf42fba0fe2e4798286cfa?utm_campaign=embed&utm_source=other&size=medium">
 
-<img src="/images/red%20cross%20logo.png">
+<img src="/images/About%20Us/School%20Facilities/S7.png">
 
 </a>
 

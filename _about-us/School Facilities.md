@@ -131,7 +131,7 @@ Please click on the image below to start the virtual tour. Do also click on the 
 
 <div style="float: left">
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="https://momento360.com/e/uc/2d653abe3cda497abcf161ec8048d2c7?utm_campaign=embed&utm_source=other&size=medium">
 
 <img src="/images/red%20cross%20logo.png">
 

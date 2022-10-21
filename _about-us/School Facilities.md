@@ -7,6 +7,11 @@ description: ""
 
 We also have a Student Care Centre located within the school. Click [here](https://kranjipri-moe-edu-sg-admin.cwp.sg/life-at-kranji/virtual-open-house/virtual-school-tour/student-care-centre) to find out more!
 
+
+#### **1st Floor**
+
+
+Please click on the image below to start the virtual tour. Do also click on the 'i' symbol at the bottom right hand corner of the virtual tour for more information on the various locations/ facilities.
 <div>
 
 
@@ -26,6 +31,12 @@ We also have a Student Care Centre located within the school. Click [here](http
 
 </div>
 
+
+#### **2nd Floor**
+
+
+  
+Please click on the image below to start the virtual tour. Do also click on the 'i' symbol at the bottom right hand corner of the virtual tour for more information on the various locations/ facilities
 <div>
 
 
@@ -45,6 +56,10 @@ We also have a Student Care Centre located within the school. Click [here](http
 
 </div>
 
+#### **3rd Floor**
+
+
+Please click on the image below to start the virtual tour. Do also click on the 'i' symbol at the bottom right hand corner of the virtual tour for more information on the various locations/ facilities.
 <div>
 
 
@@ -64,6 +79,9 @@ We also have a Student Care Centre located within the school. Click [here](http
 
 </div>
 
+#### **4th Floor**
+
+Please click on the image below to start the virtual tour. Do also click on the 'i' symbol at the bottom right hand corner of the virtual tour for more information on the various locations/ facilities.
 <div>
 
 
@@ -83,6 +101,9 @@ We also have a Student Care Centre located within the school. Click [here](http
 
 </div>
 
+#### **5th Floor**
+
+Please click on the image below to start the virtual tour. Do also click on the 'i' symbol at the bottom right hand corner of the virtual tour for more information on the various locations/ facilities.
 <div>
 
 
@@ -102,6 +123,9 @@ We also have a Student Care Centre located within the school. Click [here](http
 
 </div>
 
+#### **6th Floor**
+
+Please click on the image below to start the virtual tour. Do also click on the 'i' symbol at the bottom right hand corner of the virtual tour for more information on the various locations/ facilities.
 <div>
 
 
@@ -121,6 +145,10 @@ We also have a Student Care Centre located within the school. Click [here](http
 
 </div>
 
+#### **Our Classrooms**
+
+
+Please click on the image below to start the virtual tour. Do also click on the 'i' symbol at the bottom right hand corner of the virtual tour for more information on the various locations/ facilities.
 <div>
 
 
@@ -140,21 +168,3 @@ We also have a Student Care Centre located within the school. Click [here](http
 
 </div>
 
-<div>
-
-
-<div style="float: left">
-
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
-
-<img src="/images/red%20cross%20logo.png">
-
-</a>
-
-</div>
-
-<div>
-
-</div>
-
-</div>

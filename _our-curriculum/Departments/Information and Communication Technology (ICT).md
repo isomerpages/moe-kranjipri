@@ -122,15 +122,23 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 </tbody>
 </table>
 
-**Students in Action!**
+##### **Students in Action!**
 
   
 
-![P3 mbot robotics.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/ICT/P3%20mbot%20robotics.PNG)
+![](/images/Our%20Curriculum/Departments/ICT/ICT/I3.png)
 
-![P6CFF.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/ICT/P6CFF.PNG)![Kbit.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/ICT/Kbit.PNG)![ICTbooth.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/ICT/ICTbooth.PNG)![techconv.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/ICT/techconv.PNG)![tech community.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/ICT/tech%20community.PNG)
+![](/images/Our%20Curriculum/Departments/ICT/ICT/I4.png)
 
-**ICT Facilities**
+![](/images/Our%20Curriculum/Departments/ICT/ICT/I5.png)
+
+![](/images/Our%20Curriculum/Departments/ICT/ICT/I6.png)
+
+![](/images/Our%20Curriculum/Departments/ICT/ICT/I7.png)
+
+![](/images/Our%20Curriculum/Departments/ICT/ICT/I8.png)
+
+##### **ICT Facilities**
 
   
 
@@ -140,7 +148,6 @@ In collaboration with both the instructional and non-instructional programmes, s
 
   
 
-![WhatsApp Image 2020-03-04 at 11.28.37 AM.jpeg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/ICT/WhatsApp%20Image%202020-03-04%20at%2011.28.37%20AM.jpeg)
+![](/images/Our%20Curriculum/Departments/ICT/ICT/I9.jpeg)
 
-  
-![WhatsApp Image 2020-03-04 at 11.29.47 AM.jpeg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/ICT/WhatsApp%20Image%202020-03-04%20at%2011.29.47%20AM.jpeg)
+![](/images/Our%20Curriculum/Departments/ICT/ICT/I10.jpeg)

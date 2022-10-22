@@ -19,9 +19,9 @@ third_nav_title: Our People
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/About%20Us/Executive/Angie1.jpg" alt="Angie1.jpg" width="178" height="221"></th>
-    <th class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/About%20Us/Executive/Yong%20Chin1.jpg" alt="Yong Chin1.jpg" width="176" height="228"></th>
-    <th class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/bee%20leng_2021.jpg" alt="bee leng_2021.jpg" width="160"></th>
+    <th class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S1.jpg" alt="Angie1.jpg" width="178" height="221"></th>
+    <th class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S2.jpg" alt="Yong Chin1.jpg" width="176" height="228"></th>
+    <th class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S3.jpg" alt="bee leng_2021.jpg" width="160"></th>
   </tr>
 </thead>
 <tbody>
@@ -31,9 +31,9 @@ third_nav_title: Our People
     <td class="tg-sr94">Mdm Neo Bee Leng<br><span style="color:#001C38;background-color:#F5EFC5">HOD Mathematics</span><br>neo_bee_leng@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/amanda_2021.jpg" alt="amanda_2021.jpg" width="160"></td>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/azzulin_2021.jpg" alt="azzulin_2021.jpg" width="160"></td>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/wilson_2021.jpg" alt="wilson_2021.jpg" width="160"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S4.jpg" alt="amanda_2021.jpg" width="160"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S5.jpg" alt="azzulin_2021.jpg" width="160"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S6.jpg" alt="wilson_2021.jpg" width="160"></td>
   </tr>
   <tr>
     <td class="tg-sr94">Mdm Lin Wei Jia, Amanda<br><span style="color:#001C38;background-color:#F5EFC5">HOD English</span><br>lin_weijia@moe.edu.sg<br></td>
@@ -41,9 +41,9 @@ third_nav_title: Our People
     <td class="tg-sr94">Mr Ng Whye Shoen Wilson<br><span style="color:#001C38;background-color:#F5EFC5">HOD CCE</span><br>ng_whye_shoen_wilson@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/hajerah_2021.jpg" alt="hajerah_2021.jpg" width="161"></td>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/fazalina_2021.jpg" alt="fazalina_2021.jpg" width="160"></td>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/lim%20fang%20fang_2021.jpg" alt="lim fang fang_2021.jpg" width="160"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S7.jpg" alt="hajerah_2021.jpg" width="161"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S8.jpg" alt="fazalina_2021.jpg" width="160"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S9.jpg" alt="lim fang fang_2021.jpg" width="160"></td>
   </tr>
   <tr>
     <td class="tg-sr94">Mdm Hajerah Beevi D/O Kutus<br><span style="color:#001C38;background-color:#F5EFC5">HOD Student Management </span><br>hajerah_beevi_kutus@moe.edu.sg<br></td>
@@ -51,9 +51,9 @@ third_nav_title: Our People
     <td class="tg-sr94">Mdm Lim Fang Fang<br><span style="color:#001C38;background-color:#F5EFC5">Year Head P1&amp; P2</span><br>lim_fang_fang@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/joanna_2021.jpg" alt="joanna_2021.jpg" width="168" height="225"></td>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/rufaidah_2021.jpg" alt="rufaidah_2021.jpg" width="168" height="226"></td>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/lena_2021.jpg" alt="lena_2021.jpg" width="160"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S10.jpg" alt="joanna_2021.jpg" width="168" height="225"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S11.jpg" alt="rufaidah_2021.jpg" width="168" height="226"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S12.jpg" alt="lena_2021.jpg" width="160"></td>
   </tr>
   <tr>
     <td class="tg-sr94">Mrs Joanna Wong<br><span style="color:#001C38;background-color:#F5EFC5">HOD PE &amp; CCA</span><br>joanna_teo_wei-jin@moe.edu.sg<br></td>
@@ -61,9 +61,9 @@ third_nav_title: Our People
     <td class="tg-sr94">Mdm Lena Chua<br><span style="color:#001C38;background-color:#F5EFC5">LH, Mathematics</span><br>lena_chua_siao_yen@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/About%20Us/Executive/Fazlee.jpg" alt="Fazlee.jpg" width="164" height="209"></td>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/STEPH_2021.jpg" alt="STEPH_2021.jpg" width="160"></td>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/chang%20siying_2021.jpg" alt="chang siying_2021.jpg" width="160"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S13.jpg" alt="Fazlee.jpg" width="164" height="209"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S14.jpg" alt="STEPH_2021.jpg" width="160"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S15.jpg" alt="chang siying_2021.jpg" width="160"></td>
   </tr>
   <tr>
     <td class="tg-sr94">Mr Mohamad Fazlee Bin Sabari<br><span style="color:#001C38;background-color:#F5EFC5">SH, English</span><br>mohamad_fazlee_sabari@moe.edu.sg<br></td>
@@ -71,9 +71,9 @@ third_nav_title: Our People
     <td class="tg-sr94">Miss Chang Si Ying<br><span style="color:#001C38;background-color:#F5EFC5">SH PE/CCA</span><br>chang_si_ying@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/About%20Us/Executive/Seetoh1.jpg" alt="Seetoh1.jpg" width="171" height="226"></td>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/adelene_2021.jpg" alt="adelene_2021.jpg" width="168"></td>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/About%20Us/Executive/suhui1.jpg" alt="suhui1.jpg" width="165" height="228"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S16.jpg" alt="Seetoh1.jpg" width="171" height="226"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S17.jpg" alt="adelene_2021.jpg" width="168"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S18.jpg" alt="suhui1.jpg" width="165" height="228"></td>
   </tr>
   <tr>
     <td class="tg-sr94">Mdm Yak Hui Hwa (Mrs Seetoh)<br><span style="color:#001C38;background-color:#F5EFC5">SH, ICT (Covering)</span><br>yak_hui_hwa@moe.edu.sg<br></td>
@@ -81,9 +81,9 @@ third_nav_title: Our People
     <td class="tg-sr94">Mdm Ong Su Hui<br><span style="color:#001C38;background-color:#F5EFC5">SH, CCE (Covering)</span><br>ong_su_hui@moe.edu.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-zsjr"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/tan%20chin%20hong_2021.jpg" alt="tan chin hong_2021.jpg" width="163" height="215"></td>
+    <td class="tg-zsjr"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S19.jpg" alt="tan chin hong_2021.jpg" width="163" height="215"></td>
     <td class="tg-sg6x"></td>
-    <td class="tg-zsjr"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/valarie_2021.jpg" alt="valarie_2021.jpg" width="163" height="217"></td>
+    <td class="tg-zsjr"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S20.jpg" alt="valarie_2021.jpg" width="163" height="217"></td>
   </tr>
   <tr>
     <td class="tg-1yev"><span style="color:#001C38;background-color:#F5EFC5"> </span>Mr Tan Chin Hong<br><span style="color:#001C38;background-color:#F5EFC5">Operations Manager</span><br>tan_chin_hong_a@moe.edu.sg</td>

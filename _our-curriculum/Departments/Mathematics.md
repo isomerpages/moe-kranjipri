@@ -102,34 +102,8 @@ The Excellence 2000 (E2K) Math Talent Development Programme is offered to Primar
 
 ![](/images/Our%20Curriculum/Departments/Mathematics/M10.png)  
  
+![](/images/Our%20Curriculum/Departments/Mathematics/M11.png)
 
-![Math TDP 3.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Math%20TDP%203.jpg)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Students make math thinking visible through their reasoning and explanation
 
 **Support Programme**
 

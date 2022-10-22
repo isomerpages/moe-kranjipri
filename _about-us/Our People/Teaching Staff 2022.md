@@ -57,3 +57,9 @@ third_nav_title: Our People
 | 6 Respect    |  Miss Cheng Li Yin cheng_li_yin@moe.edu.sg | Mdm Hajerah Beevi D/O Kutus hajerah_beevi_kutus@moe.edu.sg | Mdm Lim Chai Lay            lim_chai_lay@moe.edu.sg        |
 
 #### **FLEXI-ADJUNCT TEACHERS**
+
+| Mdm Violet Gee gee_violet@moe.edu.sg                 | Mdm Noorhani Bte Adenan noorhani_bte_adenan@moe.edu.sg | Mdm Nazli Binti Mat Ali nazli_mat_ali@moe.edu.sg    |
+|------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------|
+| Mdm Ho Qian Wen ho_qian_wen@moe.edu.sg               | Mdm Lee Siyin lee_siyin@moe.edu.sg                     | Mdm Ong Wee Fern (Jermaine) ong_wee_fern@moe.edu.sg |
+| Mdm Kailee Muthu Silvi kailee_muthu_silvi@moe.edu.sg | Mdm Juliet Ang Shy Yunn juliet_ang_shy_yunn@moe.edu.sg | Mdm Tan Ai Fang tan_ai_fang@moe.edu.sg              |
+|  Miss Swee Maye Lin swee_maye_lin@moe.edu.sg         |                                                        |                                                     |

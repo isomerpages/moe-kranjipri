@@ -109,9 +109,15 @@ The Mother Tongue Language Fortnight aims to create an immersive environment fo
 
                                **CL Activities: Shadow Puppet, Chinese Bean Artwork, Paper Cutting**
 
-![MT Camp 4.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/MT%20Camp%204.jpg)![MT Camp 5.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/MT%20Camp%205.jpg)                                                                      **ML Activities: Silat, Kite-making**
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M8.jpg)
 
-![MT Camp 6.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/MT%20Camp%206.jpg)![MT Camp 7.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/MT%20Camp%207.jpg)
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M9.jpg)
+
+**ML Activities: Silat, Kite-making**
+
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M10.jpg)
+
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M11.jpg)
 
                                                **TL Activities: Drama and performance, Face-mask painting**  
 
@@ -125,14 +131,13 @@ Learning Journeys aims to provide a platform for pupils to extend their learning
 
   
 
-![LJ 1.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/LJ%201.jpg)                                                                                   CL: Tea Appreciation
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M12.jpg)                                                                                   CL: Tea Appreciation
 
   
 
-![LJ 2.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/LJ%202.jpg)                                                             ML: Making of Malay Delicacies -Ondeh-ondeh
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M13.jpg)                                                            ML: Making of Malay Delicacies -Ondeh-ondeh
 
-![LJ 3.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/LJ%203.jpg)
-
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M14.jpg)
                            TL: Pupils had a close-up of cows, calves and goats and could not contain the excitement!
 
   
@@ -143,21 +148,21 @@ Learning Journeys aims to provide a platform for pupils to extend their learning
 
 KPS Mother Tongue Reading Programme aims to cultivate pupils’ interest in reading and expose them to books of different genre. To carry out this programme, the department has purchased a range of books that are recommended for the different levels from P1 to P6. Class-based library corners are set up to provide the opportunity for students to be engaged in reading activities or even borrow books home for leisure reading. Students are also given the reading passports to note down their reading progress and share with the teachers and their peers their reading journey. 
 
-![Recess Activity 1.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/Recess%20Activity%201.jpg)
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M15.jpg)
 
-![Recess Activity 2.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/Recess%20Activity%202.jpg)
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M16.jpg)
 
                                                                                                                     Recess Activity @ KPS Reading Cafe
 
   
 
-**Talent Development Programme**
+##### **Talent Development Programme**
 
 The Mother Tongue Talent Development Programme (TDP) is designed to nurture promising students who have consistently demonstrated a keen ability and interest in their Mother Tongue.  These pupils are selected for the Higher Mother Tongue Programme from Primary 3 .  The programme aims to hone students’ language skills, deepen their knowledge of the language and appreciation of their culture through a wide range of enrichment activities.  These activities include storytelling, class-based talk shows, book sharing, cultural festivals exposure and literature studies.  Students will have opportunities to collaborate with their peers and engage in experiential learning, which help them to develop their critical and inventive thinking, communication and collaboration skills, nurturing them into proficient learners of the language.  
 
-![MT TDP.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/MT%20TDP.PNG)
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M17.png)
 
-**Tips for parents**
+##### **Tips for parents**
 
       ·       Speak to your child in MTL whenever possible.
 

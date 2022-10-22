@@ -26,6 +26,12 @@ third_nav_title: Our People
 
 #### **Primary 3**
 
+| Class        | Form Teacher                                                   | Co-Form Teacher                                        | Co-Form Teacher                                                                                |
+|--------------|----------------------------------------------------------------|--------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| 3 Compassion | Mdm (Valerie) Liaw Bee Ling liaw_bee_leng@moe.edu.sg           | Mdm Adelene Tan Tse Hui tan_tse_hui_adelene@moe.edu.sg |                                                                                                |
+| 3 Integrity  | Mr Wee Kang Sheng, Nicholas wee_kang_sheng_nicholas@moe.edu.sg | Mdm (Amanda) Lin Weijia lin_weijia@moe.edu.sg          | Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin raja_nur_rasyidah_raja_kamarul_bahrin@moe.edu.sg |
+| 3 Respect    | Mdm Radhiah Bte Jais radhiah_jais@moe.edu.sg                   | Mdm Ong Su Hui ong_su_hui@moe.edu.sg                   | Mdm Saraswathi D/O Valiappan saraswathi_valliappan@moe.edu.sg                                  |
+
 #### **Primary 4**
 
 #### **Primary 5**

@@ -72,25 +72,24 @@ The story mountain strategy is a pedagogical tool adopted by the Kranji Primary 
 
 This strategy aids pupils to plan their composition more effectively before writing the actual composition. It also acts as a check list for pupils to self-assess their own work and identify if all the important aspects of a composition in included in their work. 
 
-**Mother Tongue Enrichment Programme**
+##### **Mother Tongue Enrichment Programme**
 
   
-**K-Studio  
-**  
+**K-Studio**  
 
 K-Studio is our customised broadcasting programme that aims to hone our students’ language skills and instill the joy of learning through authentic and interactive learning experiences. As “Little Reporters”, students learn to gather and organise information for news presentations, speak fluently and articulate their ideas clearly to the audience. Through this process, they build confidence in self-expression. Besides sharpening their oracy skills, students also have the opportunity to collaborate and work as a team to discover the joy of learning and sharing of knowledge. 
 
-![K Studio Pic 1.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/K%20Studio%20Pic%201.PNG)
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M2.png)
 
  **KPS Little Reporters first appearance. Doing great!**
 
-![K Studio Pic 2.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/K%20Studio%20Pic%202.PNG)
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M3.png)
 
          **Lights, camera, action!**
 
-![K Studio Pic 3.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/K%20Studio%20Pic%203.PNG)                                                         **With confidence, we deliver our TL MTL Camp highlights to our fellow Kranjians.**   
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M4.png)                        **With confidence, we deliver our TL MTL Camp highlights to our fellow Kranjians.**   
 
-**Other Programmes**
+##### **Other Programmes**
 
   
 
@@ -102,11 +101,13 @@ The Mother Tongue Language Fortnight aims to create an immersive environment fo
 
                            
 
-![MT Camp 1.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/MT%20Camp%201.jpg)![MT Camp 3.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/MT%20Camp%203.jpg)
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M5.jpg)
 
-![MT Camp 2.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/MT%20Camp%202.jpg)
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M6.jpg)
 
-                                         **CL Activities: Shadow Puppet, Chinese Bean Artwork, Paper Cutting**
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M7.jpg)
+
+                               **CL Activities: Shadow Puppet, Chinese Bean Artwork, Paper Cutting**
 
 ![MT Camp 4.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/MT%20Camp%204.jpg)![MT Camp 5.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/MT%20Camp%205.jpg)                                                                      **ML Activities: Silat, Kite-making**
 

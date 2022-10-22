@@ -4,14 +4,17 @@ permalink: /our-curriculum/Departments/Mathematics/
 description: ""
 third_nav_title: Departments
 ---
-**Math Curriculum Framework**
+##### **Math Curriculum Framework**
 
   
-The central focus of the Mathematics Framework is mathematical problem solving, that is, using Mathematics to solve problems. The framework stresses conceptual understanding, skills proficiency and mathematical processes, and gives due emphasis to attitudes and metacognition. These five components are inter-related.   
-![MA Curriculum Framework.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Instructional%20Programme/Maths/MA%20Curriculum%20Framework.PNG)Source: [](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics_syllabus_primary_1_to_6.pdf) [Mathematics\_syllabus\_primary\_1\_to\_6.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics_syllabus_primary_1_to_6.pdf)   
+The central focus of the Mathematics Framework is mathematical problem solving, that is, using Mathematics to solve problems. The framework stresses conceptual understanding, skills proficiency and mathematical processes, and gives due emphasis to attitudes and metacognition. These five components are inter-related. 
+
+![](/images/Our%20Curriculum/Departments/Mathematics/M1.png)
+
+Source: [](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics_syllabus_primary_1_to_6.pdf) [Mathematics\_syllabus\_primary\_1\_to\_6.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics_syllabus_primary_1_to_6.pdf)   
   
 
-**Department Pedagogy**
+##### **Department Pedagogy**
 
   
 
@@ -31,7 +34,7 @@ We believe every Kranjian can be a joyful and confident problem solver with stro
 
 We plan learning experiences and opportunities for Kranjians to learn skills and concepts by doing. They are actively involved in constructing knowledge through hands on experiences 
 
-![MA Activity 1.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Instructional%20Programme/Maths/MA%20Activity%201.PNG)
+![](/images/Our%20Curriculum/Departments/Mathematics/M2.png)
 
   
 
@@ -41,11 +44,11 @@ Teaching resources are used to help Kranjians interact as well as to construct m
 
 We lead Kranjians to explore, investigate and find answers on their own. This is achieved by providing opportunities for them to communicate ideas, questions and comments using mathematical language. 
 
-![MA activity.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/MA%20activity.PNG)
+![](/images/Our%20Curriculum/Departments/Mathematics/M3.png)
 
   
 
-**Math Level Programmes**
+##### **Math Level Programmes**
 
   
 
@@ -55,35 +58,31 @@ At KPS, we focus on building strong numeracy and problem-solving skills in our s
 
 **Fun-In-Learning @ Kranji**
 
-![P1 MA Trail.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Instructional%20Programme/Maths/P1%20MA%20Trail.PNG)
+![](/images/Our%20Curriculum/Departments/Mathematics/M4.png)
 
-  
+![](/images/Our%20Curriculum/Departments/Mathematics/M5.png)
 
-![P1 Shopping Trip.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Instructional%20Programme/Maths/P1%20Shopping%20Trip.PNG)
-
-  
-
-![P1-6 Carnival.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Instructional%20Programme/Maths/P1-6%20Carnival.PNG)
+![](/images/Our%20Curriculum/Departments/Mathematics/M6.png)
 
 Through games, skills such as spatial-visualization, reasoning and critical thinking are enhanced.  
 
   
 
-![P5 & 6 MA trail.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Instructional%20Programme/Maths/P5%20&%206%20MA%20trail.PNG)
+![](/images/Our%20Curriculum/Departments/Mathematics/M7.png)
 
   
 
-**Math Enrichment Programme**
+##### **Math Enrichment Programme**
 
 Learning of mathematics should be fun, relevant and meaningful to students.  We immerse students in a learning environment that arouses creativity and stimulates thinking. Our Math Champion Chef programme seeks to ignite the joy of learning through authentic learning experiences in baking. As students apply mathematics in real-life activities, their mathematical concepts and skills are reinforced, reasoning and communication skills are strengthened and they will see the relevance of mathematics in real life that makes learning of mathematics meaningful.
 
   
 
-![CHEf 1.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Instructional%20Programme/Maths/CHEf%201.PNG)
+![](/images/Our%20Curriculum/Departments/Mathematics/M8.png)
 
-![Chef 2.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Instructional%20Programme/Maths/Chef%202.PNG) 
+![](/images/Our%20Curriculum/Departments/Mathematics/M9.png)
 
-**Talent Development Programme**
+##### **Talent Development Programme**
 
 High-ability learners in mathematics are given the opportunity to realise their potential through our Talent Development Programme, which aims to develop students’ critical and creative thinking, and cultivate students’ confidence and perseverance.  Our programme focuses on providing enrichment and competition opportunities, by adopting a differentiated approach at the upper primary levels.
 
@@ -101,31 +100,8 @@ Through the Olympiad training, students expand their knowledge of mathematical c
 
 The Excellence 2000 (E2K) Math Talent Development Programme is offered to Primary 4 and 5 high-ability learners. It aims to develop students’ mathematical reasoning skills and to deepen their conceptual understanding through an inquiry approach. Students have opportunities to collaborate with their peers and engage in mathematical thinking through puzzles, games and Mathematical explorations.  The rich learning experiences offered by the programme serve to help students to develop the habits, attitudes and dispositions mathematicians possess, and gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills.  The programme is conducted in-house by our Math teachers who have been trained in the E2K pedagogy by MOE Gifted Education Branch (GEB).
 
-![Math TDP 1.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Math%20TDP%201.jpg)![Math TDP 2.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Math%20TDP%202.jpg)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Students are engaged in discussion to explore alternative solutions during E2K lessons  
+![](/images/Our%20Curriculum/Departments/Mathematics/M10.png)  
+ 
 
 ![Math TDP 3.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Math%20TDP%203.jpg)  
 

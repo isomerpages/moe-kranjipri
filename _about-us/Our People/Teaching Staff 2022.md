@@ -34,6 +34,12 @@ third_nav_title: Our People
 
 #### **Primary 4**
 
+| Class        | Form Teacher                                              | Co-Form Teacher                                                          | Co-Form Teacher                                               |
+|--------------|-----------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------|
+| 4 Compassion | Mr Soh Eng Siong soh_eng_siong@moe.edu.sg                 | Miss Fan Yiou fan_yiou@moe.edu.sg                                        | Miss Loh Jun Qin loh_jun_qin@moe.edu.sg                       |
+| 4 Integrity  | Mdm Liu Yan lliu_yan@moe.edu.sg                           | Mrs Stephanie Thoo stephanie_thoo@moe.edu.sg                             | Mr Mohamad Fazlee Bin Sabari mohamad_fazlee_sabari@moe.edu.sg |
+| 4 Respect    | Mdm Sarimah Bte Mohd Noor sarimah_mohamad_noor@moe.edu.sg | Mdm Hafizah Beevi Binti Abdul Basit hafizah_beevi_abdul_Basit@moe.edu.sg | Mdm Yak Hui Hwa (Seetoh) yak_hui_hwa@moe.edu.sg               |
+
 #### **Primary 5**
 
 #### **Primary 6**

@@ -105,7 +105,7 @@ The Excellence 2000 (E2K) Math Talent Development Programme is offered to Primar
 ![](/images/Our%20Curriculum/Departments/Mathematics/M11.png)
 
 
-**Support Programme**
+##### **Support Programme**
 
   
 
@@ -115,38 +115,36 @@ We have a structured approach to support students’ development of basic numera
 *         After-School Remediation for P2 to P6
 *         Small-class teaching to support the students’ varied learning needs 
 
-**Tips for parents**
+##### **Tips for parents**
 
 Help to develop number sense in the following ways:
 
-    ü  Make Math fun at home by playing games involving math concepts. Games can be used to promote critical thinking  
+ Make Math fun at home by playing games involving math concepts. Games can be used to promote critical thinking and reasoning skills.
 
-        and reasoning skills.
+  Look for Math around us and talk about how it relates/connects to real-life situations
 
-> ü  Look for Math around us and talk about how it relates/connects to real-life situations
+  Encourage explanation of his/her thinking or reasoning when solving math problems
 
-> ü  Encourage explanation of his/her thinking or reasoning when solving math problems
+  Encourage right attitude to respond positively to errors
 
-> ü  Encourage right attitude to respond positively to errors
+   Always check his/her work before submission
 
-o   Always check his/her work before submission
+   Identify own errors
 
-o   Identify own errors
+   Reflect what has gone wrong
 
-o   Reflect what has gone wrong
+  Correct the errors 
 
-o   Correct the errors 
+ Encourage speed and accuracy in recalling basic math facts to strengthen basic calculation skills:
 
-> ü  Encourage speed and accuracy in recalling basic math facts to strengthen basic calculation skills:
+   Commit to memory - Multiplication table
 
-o   Commit to memory - Multiplication table
-
-o   Conversions of units/fractions/decimals/percentage
+   Conversions of units/fractions/decimals/percentage
 
 In preparation of Math examinations:
 
-> ü  Do not over-do home-based practice papers
+ Do not over-do home-based practice papers
 
-> ü  Enable your child to do full practice papers in one sitting (within the stipulated time)
+ Enable your child to do full practice papers in one sitting (within the stipulated time)
 
-> ü  Encourage good time management
+Encourage good time management

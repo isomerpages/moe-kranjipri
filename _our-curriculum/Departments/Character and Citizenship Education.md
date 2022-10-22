@@ -94,3 +94,7 @@ Overseas learning journeys to China and Malaysia are organized to inculcate glob
 ![](/images/Our%20Curriculum/Departments/CCE/C8.jpg)
 
 ![](/images/Our%20Curriculum/Departments/CCE/C9.jpg)
+
+**Please click [here](/Sexuality-Education/) for Sexuality Education information**
+
+**Please click [here](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) for Education and Career Guidance (ECG)**

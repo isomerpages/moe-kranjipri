@@ -4,7 +4,7 @@ permalink: /our-curriculum/Departments/English/
 description: ""
 third_nav_title: Departments
 ---
-**English Curriculum Framework**
+##### **English Curriculum Framework**
 
   
 
@@ -15,21 +15,21 @@ The following diagram presents the key features of the EL Syllabus 2020 undergir
 
 Source: [](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/primary_els-2020-_syllabus.pdf) [Primary\_els 2020 \_syllabus.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/primary_els-2020-_syllabus.pdf)   
 
-**Department Pedagogy**
+##### **Department Pedagogy**
 
   
 **STELLAR programme**  
 STELLAR stands for “Strategies for English Language Learning and Reading”. The programme uses research-based teaching strategies and age-appropriate materials to engage children in the learning of English. It aims to strengthen children’s language and reading skills, as well as promote a positive attitude towards learning in the foundational years.  
 
-![EL syllabus new.png](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/EL%20syllabus%20new.png)
+![](/images/Our%20Curriculum/Departments/English/E2.png)
 
   
 **STELLAR at Lower Primary**    
-![Stellar lower.png](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/Stellar%20lower.png)  
+![](/images/Our%20Curriculum/Departments/English/E3.png)  
 The lower primary strategies include the Shared Book Approach (SBA) and Modified Language Experience Approach (MLEA), as well as the use of Learning Centres (LC). Pupils have the opportunity to re-learn, revisit or extend what they have learnt at their own pace and in differentiated ability groups.  
    
  **STELLAR at Upper Primary**    
-![Stellar upper.png](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/Stellar%20upper.png)
+![](/images/Our%20Curriculum/Departments/English/E4.png)
 
 The Upper Primary strategies include:  
 
@@ -43,76 +43,18 @@ The Upper Primary strategies include:
 
 • Writing Process Cycle (WPC)
 
-  
+ 
+![](/images/Our%20Curriculum/Departments/English/E5.png) 
 
-**P2: A Butterfly is Born**
+![](/images/Our%20Curriculum/Departments/English/E6.png)
 
-![S1.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/S1.jpg)![S2.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/S2.jpg)  
+![](/images/Our%20Curriculum/Departments/English/E7.png)  
 
-  
 
-  
-
-  
 
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-**P3: Stephanie Investigates**
-
-![S3.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/S3.jpg)
-
-![S4.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/S4.jpg)  
-
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-**P4: Making Ice-Cream**  
-
-![S5.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/S5.jpg)
-
-  
-
-**Level Programmes**
+##### **Level Programmes**
 
 **1\. D.I.C.E** **(Drama infused Curriculum in English)**
 
@@ -122,17 +64,17 @@ It is a powerful teaching tool to capture the attention of students in the class
 
 Our drama activities include: 
 
-![Slide1.JPG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/Slide1.JPG)
+!![](/images/Our%20Curriculum/Departments/English/E8.png)
 
-![Slide2.JPG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/Slide2.JPG)
+![](/images/Our%20Curriculum/Departments/English/E9.png)
 
-![Slide3.JPG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/Slide3.JPG)
+![](/images/Our%20Curriculum/Departments/English/E10.png)
 
 **2\. EL Fiesta**  
 
 To promote the joy of learning and to bring about greater interest in the learning of English, Kranjians were treated to a slew of English activities during our annual English Fiesta. Activities include drama performances, puppet shows, English quizzes, spelling bee competition, as well as different library activities. In 2019, EL Fiesta concluded with the official reopening of our newly renovated Media Resource Library. The School Leaders and all English teachers were involved in a Character Parade, much to the delight of the students!  
 
-![Slide4.JPG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/Slide4.JPG)
+![](/images/Our%20Curriculum/Departments/English/E11.jpg)
 
 **3\. Reading Programme**
 
@@ -140,11 +82,13 @@ As Dr Seuss would say “The more that you read, the more you will know, the mor
 
 Each classroom is equipped with books appropriate for the reading level of the students and are rotated every semester, so as to provide reading opportunities for all. In addition, weekly library visits are weaved into the EL curriculum. During the library visits, students are introduced to different genres of books, storytelling and engaged in other extensive reading activities.
 
-![R1.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/R1.jpg)
+![](/images/Our%20Curriculum/Departments/English/E12.jpg)
 
-![R2.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/R2.jpg)
+![](/images/Our%20Curriculum/Departments/English/E13.jpg)
 
-![R3.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/R3.jpg)![R4.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/R4.jpg)
+![](/images/Our%20Curriculum/Departments/English/E13.jpg)
+
+![](/images/Our%20Curriculum/Departments/English/E14.jpg)
 
   
 
@@ -166,7 +110,7 @@ During each session, students read and respond to works of literature with empha
 
 In addition, our Talent Development Programme provides a platform for students to further develop their oral communication and creative writing skills. Verbally talented students are selected and trained to achieve high standards of expression, argument and presentation through the introduction and exposure to debate. Budding writers are also given opportunities to hone their creative writing skills through various writing competitions. Such activities nurture our students’ flair and passion for the English Language.
 
-![EL TDP.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/EL%20TDP.PNG)
+![](/images/Our%20Curriculum/Departments/English/E16.png)
 
 **Support Programmes**  
 

@@ -50,4 +50,10 @@ third_nav_title: Our People
 
 #### **Primary 6**
 
+| Class        | Form Teacher                               | Co-Form Teacher                                            | Co-Form Teacher                                            |
+|--------------|--------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
+| 6 Compassion | Mdm Shirlene Tan shirlene_tan@moe.edu.sg   | Mr Liew Lim Han liew_lim_han@moe.edu.sg                    | Mdm Nur Fazalina Bte Hussin nur_fazalina_hussin@moe.edu.sg |
+| 6 Integrity  | Miss Ting Pui Sin ting_pui_sin@moe.edu.sg  | Mr Wilson Ng Whye Shoen ng_shye_shoen_wilson@moe.edu.sg    | Mdm (Angie) Ng Pai Chen ng_pai_chen@moe.edu.sg             |
+| 6 Respect    |  Miss Cheng Li Yin cheng_li_yin@moe.edu.sg | Mdm Hajerah Beevi D/O Kutus hajerah_beevi_kutus@moe.edu.sg | Mdm Lim Chai Lay            lim_chai_lay@moe.edu.sg        |
+
 #### **FLEXI-ADJUNCT TEACHERS**

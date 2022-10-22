@@ -141,7 +141,7 @@ Help to develop number sense in the following ways:
 
    Conversions of units/fractions/decimals/percentage
 
-In preparation of Math examinations:
+**In preparation of Math examinations:**
 
  Do not over-do home-based practice papers
 

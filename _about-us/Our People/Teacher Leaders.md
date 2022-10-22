@@ -20,7 +20,7 @@ third_nav_title: Our People
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zsjr"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/suo%20hui_2021.jpg" alt="suo hui_2021.jpg" width="162"></th>
+    <th class="tg-zsjr"><img src="/images/About%20Us/Our%20People/Teacher%20Leaders/S1.jpg" alt="suo hui_2021.jpg" width="162"></th>
     <th class="tg-sg6x"></th>
     <th class="tg-0lax"></th>
   </tr>
@@ -32,9 +32,9 @@ third_nav_title: Our People
     <td class="tg-b3av"></td>
   </tr>
   <tr>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/HESHEAM_2021.jpg" alt="HESHEAM_2021.jpg" width="179" height="230"></td>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/loh%20jun%20qin_2021.jpg" alt="loh jun qin_2021.jpg" width="169"></td>
-    <td class="tg-5r95"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/orgz/org-2021/mariah_2021.jpg" alt="mariah_2021.jpg" width="162"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/Teacher%20Leaders/S2.jpg" alt="HESHEAM_2021.jpg" width="179" height="230"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/Teacher%20Leaders/S3.jpg" alt="loh jun qin_2021.jpg" width="169"></td>
+    <td class="tg-5r95"><img src="/images/About%20Us/Our%20People/Teacher%20Leaders/S4.jpg" alt="mariah_2021.jpg" width="162"></td>
   </tr>
   <tr>
     <td class="tg-sr94">Mrs Hesheam Hashim<br><span style="color:#001C38;background-color:#F5EFC5">Senior Teacher/ML</span><br>hesheam_hashim@moe.edu.sg<br></td>

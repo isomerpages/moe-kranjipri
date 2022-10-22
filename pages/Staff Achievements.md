@@ -21,3 +21,14 @@ Mdm Fazalina's care extends to more than her students. To her fellow teachers, e
 (Catch Mdm Fazalina's interview from 8:33 to 9:31)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4h1Xa6iRL6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/images/About%20Us/Our%20People/Teaching%20Staff%202022/Staff%20Achievements/S2.jpg)
+
+Our Subject Head/ ICT, Mdm Vivienne Yap was awarded the Outstanding Youth in Education Award (OYEA) 2020, which recognises and honours the achievements of young educators who have the passion and commitment to teaching, inspiring and nurturing the students.
+
+Mdm Vivienne Yap believes in leveraging on technology to engage her students in the learning of the Chinese Language. Click on the video below to view what her student has to say about her.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/29Xbk-Hkq8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+She was also featured in Lianhe Zaobao on 4 September:
+![](/images/About%20Us/Our%20People/Teaching%20Staff%202022/Staff%20Achievements/S3.jpg)

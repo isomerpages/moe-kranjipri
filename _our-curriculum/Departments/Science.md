@@ -4,7 +4,7 @@ permalink: /our-curriculum/Departments/Science/
 description: ""
 third_nav_title: Departments
 ---
-**Science Curriculum Framework**
+##### **Science Curriculum Framework**
 
   
 
@@ -12,35 +12,35 @@ The Science Curriculum Framework is derived from the Policy Framework for the Te
 
   
 
-![SC Curriculum Framework.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Instructional%20Programme/Science/SC%20Curriculum%20Framework.PNG)  
+![](/images/Our%20Curriculum/Departments/Science/S1.png)  
 
 Source: [Science primary 2014.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/science-primary-2014.pdf) 
 
   
 
-**Department Pedagogy**
+##### **Department Pedagogy**
 
   
 
 Science teaching and learning are anchored on inquiry-based lessons where students are exposed to hands-on activities in the learning of Science concepts. To deepen students’ learning, thinking routines are infused during lessons to help in students’ cognitive development. Science investigative skills are developed through Investigative Tasks and Performance Tasks, which form part of holistic assessment in Science. Students are given a scenario in which they have to design their experiment, gather information, interpret data and make conclusions based on their findings.  
 
-![SC pic 1.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/SC%20pic%201.PNG)
+![](/images/Our%20Curriculum/Departments/Science/S2.png)
 
 Our key programme, Awe & Wonder in Science, aims to instil a sense of curiosity in students as they learn science within the classroom and beyond. While being introduced to a scientific concept, students are exposed to discrepant events to pique their interest. These ‘surprising’ events allow students to develop an inquiry mindset. Students raise questions related to the topic through structured journal writing. Students are encouraged to be self-directed learners as they search for answers to their questions. Teachers will also address some of these questions at the closure of the topics.  
 
-![SC pic 2.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/SC%20pic%202.PNG)  
+![](/images/Our%20Curriculum/Departments/Science/S3.png)  
 
-**Level Programmes**
+##### **Level Programmes**
 
   
 
 The Science Department also organises learning journeys to reinforce what is being taught in the classroom. Learning journeys serve to provide authentic learning experiences for the students and further fuels the spirit of Awe & Wonder in Science. For the year 2020, the students will be participating in the following learning journeys.
 
-![Screenshot (2).png](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/Screenshot%20(2).png)
+![](/images/Our%20Curriculum/Departments/Science/S4.png)
 
-![Screenshot (1).png](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Departments/Screenshot%20(1).png)
+![](/images/Our%20Curriculum/Departments/Science/S5.png)
 
-**Talent Development Programme**
+##### **Talent Development Programme**
 
   
 
@@ -50,61 +50,18 @@ The Excellence 2000 (E2K) Science Talent Development Programme is designed to de
 
 Observing ultra-violet rays
 
-![Science TDP 1.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Science%20TDP%201.PNG)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+![](/images/Our%20Curriculum/Departments/Science/S6.png)  
 
 Studying the effects of yeast  
 
-![Science TDP 2.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Science%20TDP%202.PNG)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+![](/images/Our%20Curriculum/Departments/Science/S7.png) 
 
 Singapore Amazing Flying Machine Competition organised by Science Centre Singapore  
-
-![Science TDP 3.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Science%20TDP%203.PNG)
+![](/images/Our%20Curriculum/Departments/Science/S8.png)
 
   
 
-**Support Programme**
+##### **Support Programme**
 
   
 
@@ -112,7 +69,7 @@ The After School Programme (ASP) for Science is designed to close the gaps in st
 
   
 
-**Tips for parents**
+##### **Tips for parents**
 
      **Inquiry @ Home**
 

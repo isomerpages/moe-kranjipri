@@ -102,9 +102,7 @@ Kranjian Champions are life-long learners who strive to: 
 *   Communicate and collaborate effectively with others 
 *   Lead others and serve the community 
 
-  
-
-  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o7OGJx9FMGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A Day in the Life of a P1 Kranjian  
 

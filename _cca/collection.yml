@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Football.md
       - Percussion Ensemble.md
       - Science Club.md

@@ -71,14 +71,14 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
   
 **Photos of Scouts in action**
 
-![](/images/Our%20Curriculum/Departments/CCA/Scouts/S1.jpg)
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S1.jpg">
 Flag bearers during National Day Observance Ceremony
 
-![](/images/Our%20Curriculum/Departments/CCA/Scouts/S2.jpg)
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S2.jpg">
 Tent-pitching during Primary 2 CCA Experience
 
-![](/images/Our%20Curriculum/Departments/CCA/Scouts/S3.jpg)
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S3.jpg">
 Southern Ridges Nature Walk in conjunction with South East CDC Walk for Rice
 
-![](/images/Our%20Curriculum/Departments/CCA/Scouts/S4.jpg)
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S4.jpg">
 Sing-a-along session with actions

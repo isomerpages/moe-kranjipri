@@ -29,18 +29,18 @@ third_nav_title: Achievements
     <td class="tg-9hzb" colspan="2">English</td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="background-color:initial"> NUS High School Oratorical Challenge</span><br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A1.jpg" alt="NUS Oratorical Competition 1.jpg" width="50" height="50"><br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/NUS%20Oratorical%20Competition%202.jpg" alt="NUS Oratorical Competition 2.jpg" width="169" height="169"></td>
+    <td class="tg-ktyi"><span style="background-color:initial"> NUS High School Oratorical Challenge</span><br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A1.jpg" alt="NUS Oratorical Competition 1.jpg" width="50" height="50"><br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A1(1).jpg" alt="NUS Oratorical Competition 2.jpg" width="169" height="169"></td>
     <td class="tg-zr06"> 2022: Commendation Award<br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-f4yw" colspan="2">  Mathematics </td>
   </tr>
   <tr>
-    <td class="tg-zr06"> Singapore and Asian Schools Math Olympiad<br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/Singapore%20and%20Asian%20Schools%20Math%20Olympiad.jpeg" alt="Singapore and Asian Schools Math Olympiad.jpeg" width="260" height="200"></td>
+    <td class="tg-zr06"> Singapore and Asian Schools Math Olympiad<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A2.jpg" alt="Singapore and Asian Schools Math Olympiad.jpeg" width="260" height="200"></td>
     <td class="tg-zr06">2022: 3 Gold, 2 Silver, 7 Bronze <br>2020: 4 Silver, 10 Bronze<br>2019: 2 Gold, 5 Silver, 6 Bronze<br>2018: 5 Gold, 6 Silver, 9 Bronze<br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06"> Singapore Mathematical Olympiad for Primary Schools<br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/Math%20Olympiad%202022.jpeg" alt="Math Olympiad 2022.jpeg" width="257" height="170"></td>
+    <td class="tg-zr06"> Singapore Mathematical Olympiad for Primary Schools<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A3.jpg" alt="Math Olympiad 2022.jpeg" width="257" height="170"></td>
     <td class="tg-zr06">2022: 1 Bronze<br>2019: 2 Bronze <br><br><br><br><br><br><br></td>
   </tr>
   <tr>
@@ -55,26 +55,26 @@ third_nav_title: Achievements
     <td class="tg-9hzb" colspan="2">Science   </td>
   </tr>
   <tr>
-    <td class="tg-zr06"> Singapore Amazing Flying Machine Competition<br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Life%20at%20Kranji/Student%20Achievement/Singapore%20Amazing%20Flying%20competition%202021.jpg" alt="Singapore Amazing Flying competition 2021.jpg" width="211" height="211"></td>
+    <td class="tg-zr06"> Singapore Amazing Flying Machine Competition<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A4.jpg" alt="Singapore Amazing Flying competition 2021.jpg" width="211" height="211"></td>
     <td class="tg-zr06"> 2022: 1 team in finals <br> 2021: 2nd place, 3 teams in finals <br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Singapore Primary Science Olympiad Competition<br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/Science%20Olympiad%202022.jpeg" alt="Science Olympiad 2022.jpeg" width="242" height="159"></td>
+    <td class="tg-zr06">Singapore Primary Science Olympiad Competition<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A5.jpg" alt="Science Olympiad 2022.jpeg" width="242" height="159"></td>
     <td class="tg-zr06">2022: 2 Gold, 1 Bronze<br><br><br><br><br><br><br> </td>
   </tr>
   <tr>
-    <td class="tg-zr06">P5 Raffles Science Olympiad <br>West Zone Junior Science Whiz Challenge (P6)<br>National Thinkers Challenge (P5 - Eco Champions)<br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/Science%20Competition%202022.jpeg" alt="Science Competition 2022.jpeg" width="233" height="155"></td>
+    <td class="tg-zr06">P5 Raffles Science Olympiad <br>West Zone Junior Science Whiz Challenge (P6)<br>National Thinkers Challenge (P5 - Eco Champions)<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A6.jpg" alt="Science Competition 2022.jpeg" width="233" height="155"></td>
     <td class="tg-zr06">2022: 3 Merit <br>2022: 21st to 30th scorer, Audience Round Winner, School Tour Winner<br>2022: Commendation Award<br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-9hzb" colspan="2">Mother Tongue Languages - Chinese Language</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Memory Games Challenge<br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/Memory%20Game%20Challenge%202022.jpg" alt="Memory Game Challenge 2022.jpg" width="234" height="213"><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Life%20at%20Kranji/Student%20Achievement/FCL%20memory%20games%202021.jpeg" alt="FCL memory games 2021.jpeg" width="226" height="226"></td>
+    <td class="tg-zr06">Memory Games Challenge<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A7.jpg" alt="Memory Game Challenge 2022.jpg" width="234" height="213"><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A8.jpg" alt="FCL memory games 2021.jpeg" width="226" height="226"></td>
     <td class="tg-zr06"> 2022: Champion<br><br><br><br><br><br><br><br><br><br><br> <br> 2021: Top 3 team<br><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">National Primary School "Picture Book Creation" Competition<br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/Picture%20Book%20Competition%202021%20-%20Silver.jpg" alt="Picture Book Competition 2021 - Silver.jpg" width="213" height="213"></td>
+    <td class="tg-zr06">National Primary School "Picture Book Creation" Competition<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A9.jpg" alt="Picture Book Competition 2021 - Silver.jpg" width="213" height="213"></td>
     <td class="tg-zr06"> 2021: Silver Award <br><br><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
@@ -85,7 +85,7 @@ third_nav_title: Achievements
     <td class="tg-zr06"> 2019: Top 2 (P4 Teams A &amp; C) <br></td>
   </tr>
   <tr>
-    <td class="tg-zr06"> National Malay Language Writing Competition<br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Life%20at%20Kranji/Student%20Achievement/National%20Malay%202021.jpg" alt="National Malay 2021.jpg" width="223" height="223"></td>
+    <td class="tg-zr06"> National Malay Language Writing Competition<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A10.jpg" alt="National Malay 2021.jpg" width="223" height="223"></td>
     <td class="tg-zr06"> 2019: 2 Silver, 2nd place <br><br><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>

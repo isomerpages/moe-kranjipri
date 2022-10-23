@@ -52,7 +52,7 @@ Character and Citizenship Education (CCE) at Kranji Primary School adopts an int
 
 Find out more about the character building and leadership development programmes we have in KPS!
 
-  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rf5I5Xnu0Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 ![inquiry based font.png](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/inquiry%20based%20font.png)  
   

@@ -2,6 +2,7 @@ collections:
   home-based-learning:
     output: true
     order:
+      - Google Classroom.md
       - Resources for Students.md
       - Resources for Parents.md
       - SLS and Zoom Guide.md

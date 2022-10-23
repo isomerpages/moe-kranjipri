@@ -4,7 +4,6 @@ permalink: /life-at-kranji/Virtual-Open-House/Virtual-Open-House/
 description: ""
 third_nav_title: Virtual Open House
 ---
-
 ![](/images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/V1.png)
 
 https://www.flipsnack.com/kpstimes/kranji-primary-school-brochure-zn0xw6an30.html
@@ -19,7 +18,7 @@ https://www.flipsnack.com/kpstimes/kranji-primary-school-brochure-zn0xw6an30.htm
 
 <div style="float: left">
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/life-at-kranji/Virtual-Open-House/About-Us/">
 
 	
 <img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/V2.png">
@@ -39,7 +38,7 @@ https://www.flipsnack.com/kpstimes/kranji-primary-school-brochure-zn0xw6an30.htm
 
 <div style="float: left">
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/life-at-kranji/Virtual-Open-House/Virtual-School-Tour/">
 
 <img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/V3.png">
 
@@ -59,7 +58,7 @@ https://www.flipsnack.com/kpstimes/kranji-primary-school-brochure-zn0xw6an30.htm
 
 <div style="float: left">
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/life-at-kranji/Virtual-Open-House/The-Kranji-Experience/">
 
 <img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/V4.png">
 
@@ -79,7 +78,7 @@ https://www.flipsnack.com/kpstimes/kranji-primary-school-brochure-zn0xw6an30.htm
 
 <div style="float: left">
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/life-at-kranji/Virtual-Open-House/Testimonials-for-our-School/">
 
 <img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/V5.png">
 

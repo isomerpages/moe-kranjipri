@@ -2,6 +2,7 @@ collections:
   home-based-learning:
     output: true
     order:
+      - Use of CamScanner.md
       - Google Classroom.md
       - Resources for Students.md
       - Resources for Parents.md

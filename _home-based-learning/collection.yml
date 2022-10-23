@@ -2,4 +2,5 @@ collections:
   home-based-learning:
     output: true
     order:
+      - Contact Information of Teachers & Log in time to SLS.md
       - Home Based Learning.md

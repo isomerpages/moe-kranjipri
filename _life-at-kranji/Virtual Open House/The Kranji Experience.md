@@ -54,30 +54,21 @@ Find out more about the character building and leadership development programmes
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rf5I5Xnu0Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-![inquiry based font.png](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/inquiry%20based%20font.png)  
-  
-  
+<img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/Q6.png">
 
 **Applied Learning Programme** 
 
 The Applied Learning Programme (ALP) is specially designed to develop critical and inventive Kranjians. The programme runs through a 3-tiered Approach – Experience, Inquire and Hone, anchored by a strong foundation in Science and Math curriculum. Under the ‘Experience’ tier, the K-Maker programme engages students in the process of making. Students are able to design, experiment, build and invent their prototype with upcycling initiatives in the Makerspace room. Upcycling allows students to be creative as they reinvent unwanted materials and transform them into useful products. Let’s do our part to promote upcycling. Watch the video and learn how to make a paper wallet using a recyclable paper bag. 
 
-![Parent child clipart.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Parent%20child%20clipart.PNG)  
+![](/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/A3.png)  
 
-**Activity Title:** **Applied Learning Programme -Making a Paper Wallet**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VBwDDzLzM6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-  
-
-  
-
-  
-
-![tech mediated font.png](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/tech%20mediated%20font.png)  
-
+<img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/Q8.png">
   
   
-**P4 1:1 Learning Experience  
-**1:1 refers to one device for every student, where students will access learning through the device, both in and out of the classroom. By equipping students with an individual learning device in school, they are able to access the Internet and apps to complete online activities, document their learning progress and save their work across their subjects with ease.   
+**P4 1:1 Learning Experience**  
+1:1 refers to one device for every student, where students will access learning through the device, both in and out of the classroom. By equipping students with an individual learning device in school, they are able to access the Internet and apps to complete online activities, document their learning progress and save their work across their subjects with ease.   
   
 The main aim of the 1:1 Learning Experience is to enable our students to gain future-ready competencies. By redesigning how teachers teach and how students learn with technology, we strive to create a positive and impactful teaching and learning environment which encourages our students to: 
 

@@ -9,7 +9,7 @@ third_nav_title: Virtual Open House
 Welcome to our **Virtual Open House** microsite. Here, you will find a series of videos that provide a window to the Kranji Experience.  In most of them, you will find our young Kranjians  introducing to you various programmes.  Look out for parent-child bonding activities led by our students in our videos.  Simply click on the link to view the videos and spend quality time with your child by engaging in the activities together as a family.  
   
   
-![parent-child-clipart-5.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/parent-child-clipart-5.jpg)Click on the 'download' button below to access the lesson plans and resources for the parent-child bonding activities! Download now to have some fun and purposeful learning with your child.     
+![](/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/Q1.jpg)Click on the 'download' button below to access the lesson plans and resources for the parent-child bonding activities! Download now to have some fun and purposeful learning with your child.     
   
                                                                                  ![Download button.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Download%20button.PNG)  
                                            

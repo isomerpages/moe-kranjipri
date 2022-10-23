@@ -65,26 +65,14 @@ Selected students in Football will be able to participate in the National School
 
 **Photos of our Footballers in action**
 
-  
-
-![football players.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Football%202020/football%20players.jpg)
-
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F1.jpg">
 Senior Boys 2020 with Coach Omar (Ex National Player)
 
-  
-
-![junior boys 2020.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Football%202020/junior%20boys%202020.jpg)
-
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F2.jpg">
 Junior Boys 2020
 
-  
-
-![senior boys division.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Football%202020/senior%20boys%20division.jpg)
-
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F3.jpg">
 National School Games 2020: West Zone Senior Boys Division
 
-  
-
-![player in action.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Football%202020/player%20in%20action.jpg)
-
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F4.jpg">
 National School Games 2020: West Zone Senior Boys Division

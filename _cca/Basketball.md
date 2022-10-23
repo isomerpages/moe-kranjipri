@@ -94,86 +94,28 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 **Photos of Basketballers in action**
 
-![basketball in action.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Basketball%202020/basketball%20in%20action.jpg)
-
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B1.jpg">
 It's not the height, but the passion and skills that matter
 
   
 
-![i have the ball.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Basketball%202020/i%20have%20the%20ball.jpg)I have the ball and I'm not letting go!
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B2.jpg">
+I have the ball and I'm not letting go!
 
   
 
-![chasing the ball.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Basketball%202020/chasing%20the%20ball.jpg)Look at the camera over there! Maybe I will have a chance to get the ball then
+<img style="width:50%;height:50%" src="images/Our%20Curriculum/Departments/CCA/Basketball/B3.jpg">
+Look at the camera over there! Maybe I will have a chance to get the ball then
 
   
 
-![overcome every obstacle.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Basketball%202020/overcome%20every%20obstacle.jpg)
-
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B4.jpg">
 I will overcome every obstacle. It does not matter who, what or how tall they are.
 
-  
 
-![basketball rebound.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Basketball%202020/basketball%20rebound.jpg)![basketball player.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Basketball%202020/basketball%20player.jpg)  
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B5.jpg">
+Anticipating a rebound. 
 
-  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Anticipating a rebound.                                                                                                  Behind every good player, there is a supportive team.
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B6.jpg">
+Behind every good player, there is a supportive team. 

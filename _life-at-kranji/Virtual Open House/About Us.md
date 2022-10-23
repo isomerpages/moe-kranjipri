@@ -4,3 +4,6 @@ permalink: /life-at-kranji/Virtual-Open-House/About-Us/
 description: ""
 third_nav_title: Virtual Open House
 ---
+![](/images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/V1.png)
+
+https://www.flipsnack.com/kpstimes/kranji-primary-school-brochure-zn0xw6an30.html

@@ -104,12 +104,12 @@ Kranjian Champions are life-long learners who strive to: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o7OGJx9FMGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A Day in the Life of a P1 Kranjian  
+#### **A Day in the Life of a P1 Kranjian**  
 
-=====================================
 
-  
 Wonder how a day of a P1 Kranjian looks like? Watch the video below to find out more!  
   
-    ![Arrow Down.png](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Arrow%20Down.png)     Click on the interactive boxes in the image below to find out more about our school's unique       
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxonLbSyESs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
+	
+  Click on the interactive boxes in the image below to find out more about our school's unique       
        programmes!

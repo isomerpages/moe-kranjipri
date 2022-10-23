@@ -2,8 +2,8 @@ collections:
   home-based-learning:
     output: true
     order:
-      - Home Based Learning Plan.md
       - Home Based Learning.md
+      - Home Based Learning Plan.md
       - Contact Information of Teachers & Log in time to SLS.md
       - Technical Issue Support.md
       - Student Learning Space.md

@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Percussion Ensemble.md
       - Science Club.md

@@ -123,11 +123,11 @@ third_nav_title: Achievements
     <td class="tg-9hzb">Staff</td>
   </tr>
   <tr>
-    <td class="tg-3y36"><a href="https://kranjipri.moe.edu.sg/life-at-kranji/achievements/staff-achievement/national-awards"><span style="text-decoration:underline;color:#0D5EAC">Outstanding in Youth Education Award (OYEA) 2020</span></a><br><img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A6.jpg" alt="Vivienne OYEA 1.jpg" width="290" height="192"></td>
+    <td class="tg-3y36"><a href="/National-Awards/"><span style="text-decoration:underline;color:#0D5EAC">Outstanding in Youth Education Award (OYEA) 2020</span></a><br><img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A6.jpg" alt="Vivienne OYEA 1.jpg" width="290" height="192"></td>
     <td class="tg-zr06"> Mdm Vivienne Yap (SH/ICT)<br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06"> <a href="https://kranjipri.moe.edu.sg/life-at-kranji/achievements/staff-achievement/national-awards"><span style="text-decoration:underline;color:#0D5EAC">Listening Educator for Advancement and Progress (LEAP) Award 2020 </span></a><br><img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A7.png" alt="Fazalina_LEAP.png" width="310" height="239"></td>
+    <td class="tg-zr06"> <a href="/National-Awards/"><span style="text-decoration:underline;color:#0D5EAC">Listening Educator for Advancement and Progress (LEAP) Award 2020 </span></a><br><img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A7.png" alt="Fazalina_LEAP.png" width="310" height="239"></td>
     <td class="tg-zr06"> Mdm Nur Fazalina  Bte Hussin (YH/P5 &amp; P6)</td>
   </tr>
   <tr>

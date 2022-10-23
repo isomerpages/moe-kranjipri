@@ -13,29 +13,9 @@ Welcome to our **Virtual Open House** microsite. Here, you will find a series 
 
 Click on the 'download' button below to access the lesson plans and resources for the parent-child bonding activities! Download now to have some fun and purposeful learning with your child.     
   
+<img style="width:30%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/Download%20button.png">
 
-
-<div>
-
-<div style="float: left">
-
-<a href="/files/Life%20at%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/The%20Kranji%20Experience%20Hands%20on%20Activities_Lesson%20Plans%20and%20Resources.pdf">
-
-<img style="width:70%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/Download%20button.png">
-
-
-</a>
-
-</div>
-
-<div>
-
-</div>
-
-</div>
-
-
-                                           
+[The Kranji Experience Hands on Activities\_Lesson Plans and Resources.pdf](/files/Life%20at%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/The%20Kranji%20Experience%20Hands%20on%20Activities_Lesson%20Plans%20and%20Resources.pdf)                                           
   
   
   

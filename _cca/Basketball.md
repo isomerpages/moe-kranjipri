@@ -80,69 +80,15 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
   
 
-CCA Achievements
+##### **CCA Achievements**
 
   
 
-| Year | West Zone | National | Others |
-| --- | --- | --- | --- |
-| 2019  
-  
-  
-  
- | 
-Senior Girls - **Champion**
-
-Senior Boys - Top 21
-
-  
-
-  
-
-
- | 
-
-Junior Girls - Top 37
-
-Senior Girls - **Champion**
-
-Junior Boys - Tier 2 Top 8
-
-  
-
-
- | 
-
-AES 5-a-side Basketball Challenge Cup 2019
-
-\- Boys Team (2nd)
-
-\- Best Defensive player Award Boys
-
-\- Basketball Skills Challenge (Boys) (**1st**)
-
- |
-| 2018  
-  
-  
-  
- | Junior Girls - **Champion**  
-Senior Girls - **Champion**  
-Junior Boys - Top 8  
-Senior Boys - Top 16 | Junior Girls - 4th  
-Senior Girls - **Champion**  
-  
-  
- |   
- |
-|  2017 | Junior Girls - 2nd  
-Senior Girls - 2nd  
-Junior Boys - Top 8  
-Senior Boys - 2nd  | Junior Girls - Top 8  
-Senior Girls - **Champion**  
-Senior Boys - Top 8  
-  
- |   |
+|   Year   |                                         West Zone                                        |                                 National                                 |                                                                   Others                                                                   |
+|:--------:|:----------------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
+|  2019    | Senior Girls - Champion Senior Boys - Top 21                                             | Junior Girls - Top 37 Senior Girls - Champion Junior Boys - Tier 2 Top 8 | AES 5-a-side Basketball Challenge Cup 2019 - Boys Team (2nd) - Best Defensive player Award Boys - Basketball Skills Challenge (Boys) (1st) |
+|  2018    | Junior Girls - Champion Senior Girls - Champion Junior Boys - Top 8 Senior Boys - Top 16 | Junior Girls - 4th Senior Girls - Champion                               |                                                                                                                                            |
+|  2017    | Junior Girls - 2nd Senior Girls - 2nd Junior Boys - Top 8 Senior Boys - 2nd              | Junior Girls - Top 8 Senior Girls - Champion Senior Boys - Top 8         |                                                                                                                                            |
 
   
 

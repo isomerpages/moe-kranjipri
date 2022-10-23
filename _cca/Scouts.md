@@ -35,7 +35,7 @@ Students will be able to:
 
   
 
-<table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; background: red; border: none; width: 985px; height: 12px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="472" valign="top" style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 985px; background: rgb(255, 80, 80);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 15px; text-align: center;"><font color="#ffffff" face="Arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Introduction</b></span></font></p></td></tr></tbody></table>
+##### **Introduction**
 
   
 
@@ -59,61 +59,14 @@ Scouts have three progress levels to achieve from Primary 3 to Primary 6
 
 Going on outdoor exploration, learning about nature, new games, sports and camping, are some of the highlights of being a  Scout.
 
-  
+##### **CCA Achievements**
 
-<table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; background: red; border: none; width: 986px; height: 20px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="472" valign="top" style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 986px; background: rgb(255, 80, 80);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 15px; text-align: center;"><font color="#ffffff" face="Arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA Achievements</b></span></font></p></td></tr></tbody></table>
-
-  
-
-  
-
-| Year | West Zone | National |
-| --- | --- | --- |
-| 2019  
-  
- | 
-*   Attained Best Dressed (Pirate Cosplay) in the West Area Campfire - Pirate Night 2019
-
-
-
-
-
- | 
-
-*   Attained Silver in Frank Cooper Sands Award
-
-  
-
-
-
-
- |
-|  2018 | 
-
-*   Attained Gold in Adiji Chief Scout - Cubs West Area Day (Caterpillar Race) 
-
- | 
-
-*   Attained Bronze in Frank Cooper Sands Award
-
-  
-
-
- |
-| 2017  | 
-
-*   Attained Silver in West Area World Scout Day 
-
- | 
-
-*   Attained Bronze in Frank Cooper Sands Award
-
-  
-
-
- |
-
-  
+|        |                                                                                      |                                             |
+|--------|--------------------------------------------------------------------------------------|---------------------------------------------|
+|  Year  |                                       West Zone                                      |                   National                  |
+|  2019  | Attained Best Dressed (Pirate Cosplay) in the West Area Campfire - Pirate Night 2019 | Attained Silver in Frank Cooper Sands Award |
+|  2018  | Attained Gold in Adiji Chief Scout - Cubs West Area Day (Caterpillar Race)           | Attained Bronze in Frank Cooper Sands Award |
+| 2017   | Attained Silver in West Area World Scout Day                                         | Attained Bronze in Frank Cooper Sands Award |
 
   
 **Photos of Scouts in action**

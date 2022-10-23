@@ -56,24 +56,14 @@ Students will have the opportunity to take part in competitions as part of their
 
 **Photos of our Digital Media Club students in action**
 
-![microbit programme_v2.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/ICT%202020/microbit%20programme_v2.jpg)
-
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Digital%20Media%20Club/D1.jpg">
 Students analysing their programming code during the Maker Jr Programme using Microsoft Makecode and BBC Microbit controller
 
-  
-
-![scratch.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/ICT%202020/scratch.jpg)
-
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Digital%20Media%20Club/D2.jpg">
 Students debugging in MIT Scratch
 
-  
-
-![bbc microbit.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/ICT%202020/bbc%20microbit.jpg)
-
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Digital%20Media%20Club/D3.jpg">
 Presenting our smart vehicle for the disadvantaged with the BBC Microbit controller
 
-  
-
-![scratchJr.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/ICT%202020/scratchJr.jpg)
-
+<img style="width:70%;height:50%" src="images/Our%20Curriculum/Departments/CCA/Digital%20Media%20Club/D4.jpg">
 Students learning MIT ScratchJr in preparation to teach pre-schoolers for the Values-in-Action Outreach Programme

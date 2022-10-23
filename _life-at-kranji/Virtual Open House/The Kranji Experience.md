@@ -17,28 +17,14 @@ Click on the 'download' button below to access the lesson plans and resources fo
 
 [The Kranji Experience Hands on Activities\_Lesson Plans and Resources.pdf](/files/Life%20at%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/The%20Kranji%20Experience%20Hands%20on%20Activities_Lesson%20Plans%20and%20Resources.pdf)                                           
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![Exp word.png](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Exp%20word.png)  
-  
 
+ <img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/Q3.png">
+ 
 **Junior Tinkering Programme**
 
 The Junior Tinkering Programme (JTP) develops children in their critical and inventive thinking skills as they tinker on their mini projects. Through the JTP, students learn essential 21st Century skills such as programming and coding with Ozobot and Scratch Junior as well as build and create with Logo and Strawbees. Watch this video and spend some quality time with your child by building a dream playground together at home.
 
-![Parent child clipart.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Parent%20child%20clipart.PNG)  
-
-**Activity Title: Junior Tinkering Programme- Making My Dream Playground**
-
-  
-  
+![](/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/A1.png)
 
 **English Reading Programme** 
 
@@ -48,28 +34,15 @@ Our reading programme focuses on the development and reinforcement of the key la
 
 An exciting reader’s theatre performance awaits you! Continue to immerse yourself in the story by following the video to make a chef’s hat and pizza toast with your child. 
 
-  
+![](/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/A2.png)
 
-![Parent child clipart.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Parent%20child%20clipart.PNG)  
-
-**Activity Title:** **Reading Programme - Reader’s Theatre: The Little Red Hen, How to Make a Paper Chef’s Hat**                                            **& How to Make Pizza Bread**
-
-  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wnOpKzzicmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Joyful Learners**
 
 Find out more about our interesting and unique learning programmes that are designed to bring about authentic and purposeful learning.   
 
-  
-
-  
-
-  
-
-![character focused font.png](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/character%20focused%20font.png)  
-
-  
-  
+<img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/Q5.png">
 
 **Character and Citizenship Education**
 

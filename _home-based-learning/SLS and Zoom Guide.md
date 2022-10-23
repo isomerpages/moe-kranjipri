@@ -11,6 +11,6 @@ description: ""
 ##### **Please click on the Zoom instructions below to find out more:**
 
 
-1. [MOE Instructional Guide for Students on using Zoom for video conferencing](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Students-Guide-to-Video-Conferencing-with-Teachers-Using-Zoom-for-HBL-MOE-ETD-Version-20March2020.pdf)  
+1. [MOE Instructional Guide for Students on using Zoom for video conferencing](/files/Our%20Curriculum/Departments/ICT/Home%20Based%20Learning/SLS%20and%20Zoom%20Guide/Students-Guide-to-Video-MOE-ETD-Version-20March2020.pdf)  
   
-2. [Simplified Instructional Guide for Students on logging in and using Zoom](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Use%20of%20Zoom%20for%20Students%20-%20Simplified.pdf)
+2. [Simplified Instructional Guide for Students on logging in and using Zoom](/files/Our%20Curriculum/Departments/ICT/Home%20Based%20Learning/SLS%20and%20Zoom%20Guide/Use%20of%20Zoom%20for%20Students%20-%20Simplified.pdf)

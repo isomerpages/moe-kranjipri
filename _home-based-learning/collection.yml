@@ -1,4 +1,5 @@
 collections:
   home-based-learning:
     output: true
-    order: []
+    order:
+      - Home Based Learning.md

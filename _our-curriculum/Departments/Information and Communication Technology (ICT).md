@@ -152,10 +152,10 @@ In collaboration with both the instructional and non-instructional programmes, s
 
 ![](/images/Our%20Curriculum/Departments/ICT/ICT/I10.jpeg)
 
-Please Click here for Student Learning Space
+Please Click [here](/Student-Learning-Space/) for Student Learning Space
 
-Please click here for Student iCON
+Please click [here](/Student-iCON/) for Student iCON
 
-Please click here for Cyber Wellness
+Please click [here](/Cyber-Wellness/) for Cyber Wellness
 
-Please click here for Home-Based Learning
+Please click [here](/home-based-learning/Home-Based-Learning/) for Home-Based Learning

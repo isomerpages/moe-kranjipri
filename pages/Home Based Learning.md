@@ -49,9 +49,9 @@ For Password Reset, you may also click on this "[**Password Reset Link**](http:/
 
   
 
-![SLS Log In Infograph.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/SLS%20Log%20In%20Infograph.jpg)
+![](/images/Our%20Curriculum/Departments/ICT/Home%20Based%20Learning/H1.jpg)
 
   
 **SLS log-in troubleshooting guide:**  [Login troubleshooting.html](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html)  
   
-**Instructions on setting up a password reset email:**  [ANNEX B\_Setting up password reset email in SLS.pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/ANNEX%20B_Setting%20up%20password%20reset%20email%20in%20SLS.pdf)
+**Instructions on setting up a password reset email:**  [ANNEX B\_Setting up password reset email in SLS.pdf](/files/Our%20Curriculum/Departments/ICT/Home%20Based%20Learning/ANNEX%20B_Setting%20up%20password%20reset%20email%20in%20SLS.pdf)

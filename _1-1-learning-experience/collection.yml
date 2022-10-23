@@ -1,4 +1,5 @@
 collections:
   1-1-learning-experience:
     output: true
-    order: []
+    order:
+      - FAQs.md

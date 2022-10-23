@@ -42,6 +42,8 @@ An exciting reader’s theatre performance awaits you! Continue to immerse yours
 
 Find out more about our interesting and unique learning programmes that are designed to bring about authentic and purposeful learning.   
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IoaeNKzwcqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/Q5.png">
 
 **Character and Citizenship Education**

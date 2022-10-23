@@ -75,3 +75,5 @@ The Talent Development Programme is designed to develop and challenge students w
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A15.jpg)
 Young Mathematicians explore different methods of problem solving
+
+**Please click [here](/Junior-Tinkering-Programme/) for Junior Tinkering Programme**

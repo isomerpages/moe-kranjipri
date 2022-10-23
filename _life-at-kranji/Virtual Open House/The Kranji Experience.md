@@ -88,13 +88,10 @@ The Learning for Life Programme (LLP) seeks to nurture Champions in Life through
 
 Do join our students for a short workout session at the end of the video! 
 
- ![Parent child clipart.PNG](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Parent%20child%20clipart.PNG)
+![](/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/A4.png)
 
-**Let's sweat it out together!**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3m8Y9cSMXVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  
-
-  
 
 **Champions in Life**
 

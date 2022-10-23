@@ -19,7 +19,7 @@ Click on the 'download' button below to access the lesson plans and resources fo
 
 <div style="float: left">
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="files/Life%20at%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/The%20Kranji%20Experience%20Hands%20on%20Activities_Lesson%20Plans%20and%20Resources.pdf">
 
 <img style="width:70%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/Download%20button.png">
 

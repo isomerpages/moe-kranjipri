@@ -33,3 +33,5 @@ With 1:1 Learning Experience, the learning of our Kranjians is no longer constra
   
   
 **Our iPad Learning Experience**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yM4ZJyPLIgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

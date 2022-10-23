@@ -21,7 +21,26 @@ https://www.flipsnack.com/kpstimes/kranji-primary-school-brochure-zn0xw6an30.htm
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
 	
-<img src="/images/red%20cross%20logo.png">
+<img src="/images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/V2.png">
+
+
+</a>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+<div>
+
+<div style="float: left">
+
+<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+
+<img src="/images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/V3.png">
 
 
 
@@ -41,7 +60,7 @@ https://www.flipsnack.com/kpstimes/kranji-primary-school-brochure-zn0xw6an30.htm
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img src="/images/red%20cross%20logo.png">
+<img src="/images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/V4.png">
 
 
 
@@ -61,47 +80,7 @@ https://www.flipsnack.com/kpstimes/kranji-primary-school-brochure-zn0xw6an30.htm
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img src="/images/red%20cross%20logo.png">
-
-
-
-</a>
-
-</div>
-
-<div>
-
-</div>
-
-</div>
-
-<div>
-
-<div style="float: left">
-
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
-
-<img src="/images/red%20cross%20logo.png">
-
-
-
-</a>
-
-</div>
-
-<div>
-
-</div>
-
-</div>
-
-<div>
-
-<div style="float: left">
-
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
-
-<img src="/images/red%20cross%20logo.png">
+<img src="/images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/V5.png">
 
 
 

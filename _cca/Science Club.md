@@ -30,41 +30,22 @@ Students will be able to:
 | Mrs Seetoh (Mdm Yak Hui Hwa) | yak_hui_hwa@moe.edu.sg |
 |       Miss Loh Jun Qin       | loh_jun_qin@moe.edu.sg |
 
+
+##### **Introduction**
+
   
-
-<table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: none; width: 982px; height: 17px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="472" valign="top" style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 982px; background: rgb(51, 51, 255);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 15px; text-align: center;"><font color="#ffffff" face="Arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Introduction</b></span></font></p></td></tr></tbody></table>
-
-  
-
 The Science Club provides students with an interest in Science with opportunities to put on different hats and let creativity and innovation flow as they explore scientific concepts and apply them to solving challenges as an extension to the school’s Applied Learning Programme (ALP). During the weekly Science Club sessions, members work together to solve everyday problems. Students make use of the Design Thinking process and Maker-centred approach to help them draft, design and test-run their artefacts as possible solutions to the everyday problems posed to them over a three- to four-week timeframe. 
 
 Science Club members can look forward to visiting Science Fairs, such as Singapore Youth Science Fair, and also taking part in the Science fairs to showcase their products. 
 
   
 
-<table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: none; width: 983px; height: 15px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="472" valign="top" style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 983px; background: rgb(51, 51, 255);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 15px; text-align: center;"><font color="#ffffff" face="Arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA Achievements</b></span></font></p></td></tr></tbody></table>
+##### **CCA Achievements**
 
-  
-  
-
-| Year | Events |
-| --- | --- |
-| 2019  
-  
-  
- | 
-*   Participated in Makers' Fiesta @ Westwood Primary School
-*   Particiapted in National Flight Simulation Challenge @ Northbrooks Secondary School
-
-
-
- |
-| 2017 | 
-
-*   Submitted projects for Sony Creative Toy Competition 
-
- |
-
+|  Year  |                                                                    Events                                                                    |
+|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
+| 2019   | Participated in Makers' Fiesta @ Westwood Primary School Particiapted in National Flight Simulation Challenge @ Northbrooks Secondary School |
+|  2017  | Submitted projects for Sony Creative Toy Competition                                                                                         |
   
   
 **Photos of Science Club students in action**  

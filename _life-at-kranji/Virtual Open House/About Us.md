@@ -15,7 +15,7 @@ Click on each of the categories below to find out more about us!
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="width:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/About%20us/A1.png">
 
 
 </a>
@@ -35,7 +35,7 @@ Click on each of the categories below to find out more about us!
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="width:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/About%20us/A2.jpg">
 
 
 </a>
@@ -55,7 +55,7 @@ Click on each of the categories below to find out more about us!
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="width:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/About%20us/A3.png">
 
 
 </a>
@@ -75,7 +75,7 @@ Click on each of the categories below to find out more about us!
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="width:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/About%20us/A4.png">
 
 
 </a>
@@ -87,6 +87,3 @@ Click on each of the categories below to find out more about us!
 </div>
 
 </div>
-
-
-

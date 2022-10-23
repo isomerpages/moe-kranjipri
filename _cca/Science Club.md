@@ -50,28 +50,19 @@ Science Club members can look forward to visiting Science Fairs, such as Singapo
   
 **Photos of Science Club students in action**  
   
-![portable chair.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Science%20Club%202020/portable%20chair.jpg)
-
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S1.jpg">
 Project: Design and make a portable chair for Senior Citizens
 
-  
-
-![portable chair for senior.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Science%20Club%202020/portable%20chair%20for%20senior.jpg)
-
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S2.jpg">
 Make use of recycled materials for their portable chair
 
-  
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S3.jpg">
+Exploring the structure of the portable chair
 
-![portable chair structure.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Science%20Club%202020/portable%20chair%20structure.jpg)Exploring the structure of the portable chair
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S4.jpg">
+Testing their prototype
 
-  
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S5.jpg">
+Science Club members taking part in the National Flight Simulation Challenge 2019
 
-![testing portable chair.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Science%20Club%202020/testing%20portable%20chair.jpg)Testing their prototype
-
-  
-
-![flight simulation.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Science%20Club%202020/flight%20simulation.jpg)Science Club members taking part in the National Flight Simulation Challenge 2019
-
-  
-
-![flight simulation in progress.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Science%20Club%202020/flight%20simulation%20in%20progress.jpg)
+ <img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S6.jpg">

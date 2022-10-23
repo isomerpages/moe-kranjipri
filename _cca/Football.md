@@ -56,32 +56,11 @@ Selected students in Football will be able to participate in the National School
 
 ##### **CCA Achievements**
 
-  
-  
-
-| Year | West Zone | Others |
-| --- | --- | --- |
-| 2019  
-  
- | 
-Junior Boys - 1st Round
-
-Senior Boys - 1st Round
-
- | 
-
-Kranji Cup - **Champions**
-
-Admiralty Primary and Active SG Cup - 1st Runner-Up
-
- |
-|  2018 | Junior Boys - 1st Round  
-Senior Boys - 1st Round  | Xingnan Invitational - Group Stages  |
-|  2017 | Junior Boys - 1st Round  
-Senior Boys - 1st Round |   |
-
-  
-
+|  Year  |                     West Zone                    |                                   Others                                   |
+|:------:|:------------------------------------------------:|:--------------------------------------------------------------------------:|
+|  2019  | Junior Boys - 1st Round Senior Boys - 1st Round  | Kranji Cup - Champions Admiralty Primary and Active SG Cup - 1st Runner-Up |
+|  2018  | Junior Boys - 1st Round Senior Boys - 1st Round  | Xingnan Invitational - Group Stages                                        |
+|  2017  | Junior Boys - 1st Round Senior Boys - 1st Round  |                                                                            |
   
 
 **Photos of our Footballers in action**

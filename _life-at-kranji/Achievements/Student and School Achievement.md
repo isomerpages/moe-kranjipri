@@ -4,6 +4,7 @@ permalink: /life-at-kranji/Achievements/Student-and-School-Achievement/
 description: ""
 third_nav_title: Achievements
 ---
+##### **Academic Achievement**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -113,6 +114,117 @@ third_nav_title: Achievements
   <tr>
     <td class="tg-zr06">Tirukkural Vizha - Oratorical Competition</td>
     <td class="tg-zr06"> 2019: 2nd place </td>
+  </tr>
+</tbody>
+</table>
+
+##### **CCA Achievement**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Event Name</span></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Achievement</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06"> Singapore Olym<span style="background-color:initial">pic Foundation - Peter Lim Scholarship </span><br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/Peter%20Lim%20Scholarship.png" alt="Peter Lim Scholarship.png" width="235" height="279"></td>
+    <td class="tg-zr06">2022: 3 Encouragement Award<br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9hzb" colspan="2">Basketball</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">National School Games Basketball Championship<br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Life%20at%20Kranji/Student%20Achievement/Bball%20tier%202.jpg" alt="Bball tier 2.jpg" width="281" height="206"></td>
+    <td class="tg-zr06"> 2019: 1st place (Senior Girls), Tier 2 1st Position (Junior Boys)<br> 2018: 1st place (Senior Girls), 4th place (Junior Girls)<br><br><br><br><br><br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"> National School Games West Zone Basketball Championship<br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/NSG%20Basketball%202022.PNG" alt="NSG Basketball 2022.PNG" width="275" height="275"><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Life%20at%20Kranji/Student%20Achievement/West%20zone%20bball.jpg" alt="West zone bball.jpg" width="275" height="275"></td>
+    <td class="tg-zr06"> 2022: 1st place (Senior Girls), Tier 2 1st Position (Junior Girls),<br>                Tier 1 (Junior Boys)<br><br><br><br><br><br><br><br><br><br><br><br><br> 2019: 1st place (Senior Girls) <br> 2018: 1st place (Senior Girls), 1th place (Junior Girls)<br><br><br><br><br><br><br><br><br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9hzb" colspan="2">Soccer</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">AES 8-A-Side Football Challenge Cup <br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/AES%20Challenge%202022.jpg" alt="AES Challenge 2022.jpg" width="282" height="282"></td>
+    <td class="tg-zr06"> 2022: 2nd  place<br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">National School Games Football Competition     <br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/Soccer.jpeg" alt="Soccer.jpeg" width="286" height="167"></td>
+    <td class="tg-zr06">2022: Tier 2 (Junior Boys) <br><br><br><br><br><br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw" colspan="2">  Dance </td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Singapore Youth Festival (SYF) Arts Presentation - International Dance<br></td>
+    <td class="tg-zr06"> 2018: Certification of Distinction<br></td>
+  </tr>
+  <tr>
+    <td class="tg-9hzb" colspan="2">Digital Media Club</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"> Swift Explorer Singapore 2022<br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/Digital%20Media%20Club%20Swift%20Explorer[1].jpg" alt="Digital Media Club Swift Explorer.jpg" width="274" height="187"></td>
+    <td class="tg-zr06">2022: Best 20 teams <br><br><br><br><br><br><br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9hzb" colspan="2">Art Club</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"> Singapore Youth Festival (SYF) Arts Presentation – Visual Arts</td>
+    <td class="tg-zr06"> 2021: Certificate of Recognition <br> 2019: Certificate of Recognition</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"> Stagmont Park Residents’ Committee’s National Day Art Competition<br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Life%20at%20Kranji/Student%20Achievement/FCL%20memory%20games%202021.jpeg" alt="FCL memory games 2021.jpeg" width="269" height="269"></td>
+    <td class="tg-zr06"> 2020: 1st , 3rd , 4th  and 5th place<br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9hzb" colspan="2"> Cub Scouts</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"> Frank Cooper Sands Award – Cub Scouts<br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Life%20at%20Kranji/Student%20Achievement/Cub%20scout.jpg" alt="Cub scout.jpg" width="251" height="251"></td>
+    <td class="tg-zr06"> 2019: Silver <br> 2018: Bronze<br><br><br><br><br><br><br><br><br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Cub Scout Mind Quiz </td>
+    <td class="tg-zr06"> 2021: 5th place </td>
+  </tr>
+</tbody>
+</table>
+
+##### **School Achievement**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2705" colspan="2"><span style="color:#EEE;background-color:#2A2A2A">Environment</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">School Green Awards<br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Life%20at%20Kranji/Student%20Achievement/Kopsia.png" alt="Kopsia.png"></td>
+    <td class="tg-zr06"> 2019: Kopsia Award<br> 2018: Kopsia Award</td>
   </tr>
 </tbody>
 </table>

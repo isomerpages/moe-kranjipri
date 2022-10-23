@@ -29,11 +29,11 @@ third_nav_title: Achievements
     <td class="tg-9hzb" colspan="2">Staff</td>
   </tr>
   <tr>
-    <td class="tg-zr06" colspan="3">MOE Service Excellence Award (MSEA) 2022<br><br>1 Platinum<br>2 Gold<br>8 Silver<br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/MSEA%202022.png" alt="MSEA 2022.png" width="533" height="299"></td>
+    <td class="tg-zr06" colspan="3">MOE Service Excellence Award (MSEA) 2022<br><br>1 Platinum<br>2 Gold<br>8 Silver<br><img style="width:70%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/MSEA%202022.png" alt="MSEA 2022.png" width="533" height="299"></td>
     <td class="tg-tsok" colspan="2"><span style="color:#222"> Mr Tan</span> <span style="color:#222">Chin</span> Hong (OM)<span style="color:#222;background-color:initial"> Mdm Ang Yue Quin Sherin (AM)</span><br><span style="color:#222;background-color:initial"> Mdm Subaidah Bte Syed Ahmad</span><br><span style="color:#222;background-color:initial"> Mdm Ida Fittri Binte Arifin</span><br><span style="color:#222;background-color:initial"> Mdm K Rajeswary</span><br><span style="color:#222;background-color:initial"> Mdm Poh Lay Hong</span><br><span style="color:#222;background-color:initial"> Mr Tan Tien Leng  (Senior School Counsellor)                </span><br><span style="color:#222;background-color:initial"> Miss Ting Pui Sin</span><br><span style="color:#222;background-color:initial"> Mdm Wong Wai Leng</span><br><span style="color:#222;background-color:initial"> Mdm Yak Hui Hwa (SH/ICT)</span><br><span style="color:#222;background-color:initial"> Miss Yeo Hwee Koon (AM)</span><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06" colspan="3">National Day Awards 2022<br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/National%20Day%20Awards%202022.jpg" alt="National Day Awards 2022.jpg" width="473" height="473"></td>
+    <td class="tg-zr06" colspan="3">National Day Awards 2022<br><img style="width:70%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/National%20Day%20Awards%202022.jpg" alt="National Day Awards 2022.jpg" width="473" height="473"></td>
     <td class="tg-zr06" colspan="2"> The Commendation Medal –<br> Mdm Hajerah Beevi D/O Kutus (HOD/SM)<br> Dr Chang Suo Hui (LT/MA)<br><br> The Long Service Medal –<br> Mdm Hajerah Beevi D/O Kutus (HOD/SM)<br><span style="color:#222"> Mr Tan Tien Leng  (Senior School Counsellor)</span><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
   </tr>
 </tbody>
@@ -62,7 +62,7 @@ third_nav_title: Achievements
     <td class="tg-9hzb">Staff</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Presentation of research paper on 'Developing Thinking Disposition in<br>Oral Skill' at the Malay Seminar organised by Malay Language Center of Singapore <br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Event/Staff%20Achievement/ML%20Sharing.png" alt="ML Sharing.png" width="385" height="177"></td>
+    <td class="tg-zr06">Presentation of research paper on 'Developing Thinking Disposition in<br>Oral Skill' at the Malay Seminar organised by Malay Language Center of Singapore <br><img style="width:70%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Event/Staff%20Achievement/ML%20Sharing.png" alt="ML Sharing.png" width="385" height="177"></td>
     <td class="tg-zr06"> Mrs Hesheam Hashim (ST/ML) <br> Mdm Sri Rahayu Mohamed Amin <br> Mdm Nordiana Mohd Rashid             <br><br><br><br><br><br><br>        <br></td>
   </tr>
   <tr>
@@ -90,11 +90,11 @@ third_nav_title: Achievements
     <td class="tg-zr06"> Miss Azzulin Aripin (HOD/SC)<br> Miss Loh Jun Qin (ST/SC)<br> Mdm Neo Bee Leng (HOD/MA)<br> Mdm Lena Chua (LH/MA) </td>
   </tr>
   <tr>
-    <td class="tg-zr06">MOE Service Excellence Award (MSEA) 2021<br><br>2 Gold<br>12 Silver<br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/MSEA%202021.png" alt="MSEA 2021.png" width="554" height="311"></td>
+    <td class="tg-zr06">MOE Service Excellence Award (MSEA) 2021<br><br>2 Gold<br>12 Silver<br><img style="width:70%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/MSEA%202021.png" alt="MSEA 2021.png" width="554" height="311"></td>
     <td class="tg-zr06"> Miss Woon Ai Ling (ICT Manager)<br> Mdm Yap Zhi Jun Vivienne (SH/ICT)<br> Mdm Ang Hoon Kwan Angela<br> Dr Chang Suo Hui (LT/MA)<br> Mdm Chua Siao Yen Lena (LH/MA)<br> Mdm Ernie Binte Jumat<br> Mdm Hajerah Beevi D/O Kutus (HOD/SM)<br> Mrs Hesheam Hashim (ST/ML)<br> Mdm Lim Fang Fang (YH/P1 &amp; P2)<br> Mdm Ng Pai Chen (SSD)<br> Mr Soh Eng Siong Steven<br> Mdm Subaidah Bte Syed Ahmad<br> Mdm Shirlene Tan<br><span style="background-color:initial"> Mrs Tham-Lin Weijia Amanda (HOD/EL)</span><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">National Day Awards 2021<br> <img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/National%20Day%20Awards%202021.png" alt="National Day Awards 2021.png" width="375" height="487"></td>
+    <td class="tg-zr06">National Day Awards 2021<br> <img style="width:70%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/National%20Day%20Awards%202021.png" alt="National Day Awards 2021.png" width="375" height="487"></td>
     <td class="tg-ktyi"><br><br><br> The Commendation Medal -<br> Mdm Suriana Bte Mohamamed Bakri (ST/ML)<br><br> The Long Service Medal –<br> Mdm Yong Chin (HOD/MT)<br> Mdm Nur Fazalina Bte Hussin (YH/P5 &amp; P6<br><br><br><br><br><br><br><br><br><br><br><br><br></td>
   </tr>
 </tbody>
@@ -123,11 +123,11 @@ third_nav_title: Achievements
     <td class="tg-9hzb">Staff</td>
   </tr>
   <tr>
-    <td class="tg-3y36"><a href="https://kranjipri.moe.edu.sg/life-at-kranji/achievements/staff-achievement/national-awards"><span style="text-decoration:underline;color:#0D5EAC">Outstanding in Youth Education Award (OYEA) 2020</span></a><br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Event/Staff%20Achievement/Vivienne%20OYEA%201.jpg" alt="Vivienne OYEA 1.jpg" width="290" height="192"></td>
+    <td class="tg-3y36"><a href="https://kranjipri.moe.edu.sg/life-at-kranji/achievements/staff-achievement/national-awards"><span style="text-decoration:underline;color:#0D5EAC">Outstanding in Youth Education Award (OYEA) 2020</span></a><br><img style="width:70%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Event/Staff%20Achievement/Vivienne%20OYEA%201.jpg" alt="Vivienne OYEA 1.jpg" width="290" height="192"></td>
     <td class="tg-zr06"> Mdm Vivienne Yap (SH/ICT)<br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06"> <a href="https://kranjipri.moe.edu.sg/life-at-kranji/achievements/staff-achievement/national-awards"><span style="text-decoration:underline;color:#0D5EAC">Listening Educator for Advancement and Progress (LEAP) Award 2020 </span></a><br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Event/Staff%20Achievement/Fazalina_LEAP.png" alt="Fazalina_LEAP.png" width="310" height="239"></td>
+    <td class="tg-zr06"> <a href="https://kranjipri.moe.edu.sg/life-at-kranji/achievements/staff-achievement/national-awards"><span style="text-decoration:underline;color:#0D5EAC">Listening Educator for Advancement and Progress (LEAP) Award 2020 </span></a><br><img style="width:70%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Event/Staff%20Achievement/Fazalina_LEAP.png" alt="Fazalina_LEAP.png" width="310" height="239"></td>
     <td class="tg-zr06"> Mdm Nur Fazalina  Bte Hussin (YH/P5 &amp; P6)</td>
   </tr>
   <tr>
@@ -143,7 +143,7 @@ third_nav_title: Achievements
     <td class="tg-zr06"> Mrs Hesheam Hashim  (ST/ML)<br> Mdm Sarimah Mohamad Noor<br> Mdm Nordiana Mohd Rashid<br>Mdm Noorasmaedah Ahmad<br>Mdm Radhiah Jais </td>
   </tr>
   <tr>
-    <td class="tg-zr06">MOE Service Excellence Award (MSEA) 2020 <br><br>10 Silver     <br><img src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Event/Staff%20Achievement/2020%20MOE%20Service%20Excellence%20Award%20Winners.png" alt="2020 MOE Service Excellence Award Winners.png" width="510" height="286"><br></td>
+    <td class="tg-zr06">MOE Service Excellence Award (MSEA) 2020 <br><br>10 Silver     <br><img style="width:70%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Event/Staff%20Achievement/2020%20MOE%20Service%20Excellence%20Award%20Winners.png" alt="2020 MOE Service Excellence Award Winners.png" width="510" height="286"><br></td>
     <td class="tg-zr06"> Mrs Joanna Wong (HOD/PE &amp; CCA)<br> Mdm Junaidah Bte Senor<br> Miss Lim Su Bing<br> Mdm Neo Bee Leng (HOD/MA)<br> Mr Roy Tan (Senior School Counsellor)<br> Mdm Deborah Tham<br> Mr Peter Wang<br> Miss Woon Ai Ling (ICT Manager)<br> Mdm Vivienne Yap (SH/ICT)<br> Mdm Yong Chin (HOD/MT) <br><br><br><br><br></td>
   </tr>
 </tbody>

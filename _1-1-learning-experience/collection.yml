@@ -2,6 +2,7 @@ collections:
   1-1-learning-experience:
     output: true
     order:
+      - Digital Parenting.md
       - Resources and Forms.md
       - Apps.md
       - FAQs.md

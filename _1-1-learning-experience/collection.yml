@@ -2,4 +2,5 @@ collections:
   1-1-learning-experience:
     output: true
     order:
+      - Apps.md
       - FAQs.md

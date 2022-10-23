@@ -29,4 +29,5 @@ Click on the following article to find out more:
 Teaching digital natives? No problem.  Mdm Vivienne Yap always has a techie technique to capture her students’ attention and immerse them in a world of learning.   
   
 ![](/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/National%20Awards/S3.jpg)
+
 ![](/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/National%20Awards/S4.jpg)

@@ -11,19 +11,14 @@ The school has prepared a **HBL  plan** for our students, indicating the titl
 
   
 
-  
-
-| Level | HBL Weekly Plan (Mon-Thurs) |
-| --- | --- |
-| Primary 1 | [HBL Plan 11Oct- 12Oct](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/HBL%202020/Year%202021/4-7Oct/P1%20HBL%20Plan_11%20Oct%20to%2012%20Oct_Final.pdf)  
- |
-| Primary 2 | [HBL Plan 11Oct - 12Oct](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/HBL%202020/Year%202021/4-7Oct/P2%20HBL%20Plan_11%20Oct%20to%2012%20Oct_Final.pdf)  
- |
-| Primary 3 | N.A |
-| Primary 4  
- | N.A |
-| Primary 5 | N.A |
-| Primary 6 |  N.A |
+|   Level   | HBL Weekly Plan (Mon-Thurs) |
+|:---------:|:---------------------------:|
+| Primary 1 |    HBL Plan 11Oct- 12Oct    |
+| Primary 2 |    HBL Plan 11Oct - 12Oct   |
+| Primary 3 |             N.A             |
+| Primary 4 |             N.A             |
+| Primary 5 |             N.A             |
+| Primary 6 |              N.A            |
 
   
 

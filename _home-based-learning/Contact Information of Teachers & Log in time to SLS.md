@@ -24,8 +24,8 @@ description: ""
 Please click here to view the contact information of your child/ward's subject teachers should you have any enquiries with regards to the HBL assigments.  
   
 
-*   [Email Address of EMS Teachers](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/HBL%202020/Year%202021/2021%20Email%20Address%20of%20EMS%20teachers_20%20Sep_v3.pdf)
-*   [Email Address of MT & EL CCE Teachers](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/HBL%202020/Year%202021/MT%20Teachers%20Email%20Address.pdf)
+*   [Email Address of EMS Teachers](/files/Our%20Curriculum/Departments/ICT/Home%20Based%20Learning/Contac%20Info%20of%20Teac%20Log%20to%20SLS/2021%20Email%20Address%20of%20EMS%20teachers_20%20Sep_v3.pdf)
+*   [Email Address of MT & EL CCE Teachers](/files/Our%20Curriculum/Departments/ICT/Home%20Based%20Learning/Contac%20Info%20of%20Teac%20Log%20to%20SLS/MT%20Teachers%20Email%20Address.pdf)
 
 **School Counsellor Contact Information**
 

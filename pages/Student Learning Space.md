@@ -14,9 +14,10 @@ description: ""
   
 **SLS Video Introduction:** [https://www.youtube.com/watch?time\_continue=80&v=F0FTP2FveSg](https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg)  
   
-**SLS Instructions & Guide:** [SLS Students Instructions & FAQs.pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/SLS%20Students%20Instructions%20&%20FAQs.pdf)   
+**SLS Instructions & Guide:** [SLS Students Instructions & FAQs.pdf](/files/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/SLS%20Students%20Instructions%20&%20FAQs.pdf)
+
 **[](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)**  
-**Guide on how to access and navigate home-based learning assignments in SLS:**  [2021 SLS Navigation Guide.pptx.pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/2021%20SLS%20Navigation%20Guide.pptx.pdf)  
+**Guide on how to access and navigate home-based learning assignments in SLS:**  [2021 SLS Navigation Guide.pptx.pdf](/files/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/2021%20SLS%20Navigation%20Guide.pdf)  
 
 At Kranji Primary School, we believe in helping every child find joy in learning and equip our students with the skill to leverage on technology to become future-ready champions in life.
 
@@ -27,22 +28,16 @@ As part of Ministry of Education’s (MOE) commitment to nurture future-ready le
   
 Teachers will also use the SLS to complement classroom teaching and learning through designing meaningful lessons for students to explore and work collaboratively as well as facilitate students to learn at their own pace.   The Singapore SLS is collectively shaped by teachers and students. Taking into consideration their ideas and feedback on the resources and tools, the system is developed iteratively to stay dynamic and responsive.  
 
-Student's Username & Password
------------------------------
+##### **Student's Username & Password**
+
 
 Students have been informed of their SLS username and password. **P1 to P2** students have their usernames and password printed in card form and attached to their student handbook , while P3 to P6 students have their username and password recorded in their handbook in the account information page.   
   
 The username of SLS is made up of students' name and Birth Certificate (BC) number.  For example, if your name is **June C**han Mei Li,   and your BC number is T123**4567A**, then your SLS username is: **JUNEC4567A**
 
-Frequently Asked Questions (FAQs)
----------------------------------
+##### **Frequently Asked Questions (FAQs)**
 
-  
-![SLS Log In Infograph.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/SLS%20Log%20In%20Infograph.jpg)  
-  
-  
-  
-  
+![](/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/S2.jpg)
 
 **Q1: I have forgotten my username. What should I do?**   
 

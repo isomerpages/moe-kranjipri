@@ -51,8 +51,7 @@ Students will be able to:
 
   
 
-<table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; width: 982px; height: 18px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="472" valign="top" style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 982px; background: rgb(142, 170, 219);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 15px; text-align: center;"><font face="Arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Introduction</b></span></font></p></td></tr></tbody></table>
-
+##### **Introduction**
   
 
 Development of students is differentiated based on their readiness. After a quick warm up, they are guided through routines like dribbling, lay-ups and ball control. Students with more advanced basketball skills will practise attacking and defensive drills. They will also take part in basketball games to put into practice what they have learnt. School team players work with the coaches on more specific drills such as attack or defence moves and set plays. 
@@ -81,7 +80,7 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
   
 
-<table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; width: 983px; height: 8px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="472" valign="top" style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 983px; background: rgb(142, 170, 219);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 15px; text-align: center;"><font face="Arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 16px;"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA Achievements</b></span></font></p></td></tr></tbody></table>
+CCA Achievements
 
   
 

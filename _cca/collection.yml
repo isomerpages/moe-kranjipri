@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Digital Media Club.md
       - Football.md
       - Percussion Ensemble.md
       - Science Club.md

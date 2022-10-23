@@ -59,19 +59,19 @@ In every CCA session, students will be guided by instructors/experienced teacher
   
 **Photos of Art Club students in action**  
   
-![art senior.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Art%202020/art%20senior.jpg)
-
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A1.jpg">
 Art Club seniors expressing their version of Garden City on our very own Doodle wall.
 
   
 
-![syf group.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Art%202020/syf%20group.jpg)
-
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A2.jpg">
 A group photo in front of our hard work! (2019 SYF)
 
   
-![art group.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Art%202020/art%20group.jpg)Art is best enjoyed with friends
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A3.jpg">
+Art is best enjoyed with friends
 
   
 
-![art with pre-schoolers.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Art%202020/art%20with%20pre-schoolers.jpg)Art Club students guiding pre-schoolers on how to create an artwork using pipe cleaners
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A4.jpg">
+Art Club students guiding pre-schoolers on how to create an artwork using pipe cleaners

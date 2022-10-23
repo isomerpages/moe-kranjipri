@@ -13,8 +13,8 @@ The school has prepared a **HBL  plan** for our students, indicating the titl
 
 |   Level   | HBL Weekly Plan (Mon-Thurs) |
 |:---------:|:---------------------------:|
-| Primary 1 |    HBL Plan 11Oct- 12Oct    |
-| Primary 2 |    HBL Plan 11Oct - 12Oct   |
+| Primary 1 |    [ HBL Plan 11Oct- 12Oct](/files/Our%20Curriculum/Departments/ICT/Home%20Based%20Learning/P1%20HBL%20Plan_11%20Oct%20to%2012%20Oct_Final.pdf)    |
+| Primary 2 |    [HBL Plan 11Oct - 12Oct](/files/Our%20Curriculum/Departments/ICT/Home%20Based%20Learning/P2%20HBL%20Plan_11%20Oct%20to%2012%20Oct_Final.pdf)   |
 | Primary 3 |             N.A             |
 | Primary 4 |             N.A             |
 | Primary 5 |             N.A             |

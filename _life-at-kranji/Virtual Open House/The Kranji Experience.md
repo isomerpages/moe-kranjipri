@@ -64,7 +64,7 @@ The Applied Learning Programme (ALP) is specially designed to develop critical a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VBwDDzLzM6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-<img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/Q8.png">
+<img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/Q8.png">
   
   
 **P4 1:1 Learning Experience**  
@@ -76,16 +76,11 @@ The main aim of the 1:1 Learning Experience is to enable our students to gain fu
 
 2) participate in collaborative learning and
 
-3) extend their learning beyond the classroom. 
-
+3) extend their learning beyond the classroom.
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yM4ZJyPLIgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-
-  
-
-  
-![positive education driven font.png](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/positive%20education%20driven%20font.png)  
-  
-  
+<img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/Q9.png">
 
 **Learning for Life Programme** 
 

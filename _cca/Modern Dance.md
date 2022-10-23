@@ -56,30 +56,17 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 
 **Photos of dance members in action**
 
-  
-
-![weekly training.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Dance%202020/weekly%20training.jpg)
-
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M1.jpg">
 Weekly Training with our instructor, Mr Danny Lee
 
-  
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M2.jpg">
+SYF Arts Presentation 2018 (Biennially)
 
-![syf 2018.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Dance%202020/syf%202018.jpg)SYF Arts Presentation 2018 (Biennially)
-
-  
-
-![dance with students from China.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Dance%202020/dance%20with%20students%20from%20China.jpg)
-
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M3.jpg">
 A photo to remember with our friends from China in 2019 who participated in a CCA Immersion Programme
 
-  
-
-![2019 chingay.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Dance%202020/2019%20chingay.jpg)
-
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M4.jpg">
 2019 Chingay Performance by ShowStopperz
 
-  
-
-![singapore carnival 2019.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Non%20Instructional%20Programme/CCA/Dance%202020/singapore%20carnival%202019.jpg)
-
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M5.jpg">
 Clean & Green Singapore Carnival 2019 @ Causeway Point

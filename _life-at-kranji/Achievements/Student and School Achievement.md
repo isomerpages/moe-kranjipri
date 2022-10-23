@@ -140,29 +140,29 @@ third_nav_title: Achievements
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06"> Singapore Olym<span style="background-color:initial">pic Foundation - Peter Lim Scholarship </span><br><img style="width:50%;height:50%"src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/Peter%20Lim%20Scholarship.png" alt="Peter Lim Scholarship.png" width="235" height="279"></td>
+    <td class="tg-zr06"> Singapore Olym<span style="background-color:initial">pic Foundation - Peter Lim Scholarship </span><br><img style="width:50%;height:50%"src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A11.jpg" alt="Peter Lim Scholarship.png" width="235" height="279"></td>
     <td class="tg-zr06">2022: 3 Encouragement Award<br><br><br><br><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-9hzb" colspan="2">Basketball</td>
   </tr>
   <tr>
-    <td class="tg-zr06">National School Games Basketball Championship<br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Life%20at%20Kranji/Student%20Achievement/Bball%20tier%202.jpg" alt="Bball tier 2.jpg" width="281" height="206"></td>
+    <td class="tg-zr06">National School Games Basketball Championship<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A12.jpg" alt="Bball tier 2.jpg" width="281" height="206"></td>
     <td class="tg-zr06"> 2019: 1st place (Senior Girls), Tier 2 1st Position (Junior Boys)<br> 2018: 1st place (Senior Girls), 4th place (Junior Girls)<br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06"> National School Games West Zone Basketball Championship<br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/NSG%20Basketball%202022.PNG" alt="NSG Basketball 2022.PNG" width="275" height="275"><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Life%20at%20Kranji/Student%20Achievement/West%20zone%20bball.jpg" alt="West zone bball.jpg" width="275" height="275"></td>
+    <td class="tg-zr06"> National School Games West Zone Basketball Championship<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A13.jpg" alt="NSG Basketball 2022.PNG" width="275" height="275"><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A14.jpg" alt="West zone bball.jpg" width="275" height="275"></td>
     <td class="tg-zr06"> 2022: 1st place (Senior Girls), Tier 2 1st Position (Junior Girls),<br>                Tier 1 (Junior Boys)<br><br><br><br><br><br><br><br><br><br><br><br><br> 2019: 1st place (Senior Girls) <br> 2018: 1st place (Senior Girls), 1th place (Junior Girls)<br><br><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-9hzb" colspan="2">Soccer</td>
   </tr>
   <tr>
-    <td class="tg-zr06">AES 8-A-Side Football Challenge Cup <br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/AES%20Challenge%202022.jpg" alt="AES Challenge 2022.jpg" width="282" height="282"></td>
+    <td class="tg-zr06">AES 8-A-Side Football Challenge Cup <br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A15.jpg" alt="AES Challenge 2022.jpg" width="282" height="282"></td>
     <td class="tg-zr06"> 2022: 2nd  place<br><br><br><br><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">National School Games Football Competition     <br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/Soccer.jpeg" alt="Soccer.jpeg" width="286" height="167"></td>
+    <td class="tg-zr06">National School Games Football Competition     <br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A16.jpg" alt="Soccer.jpeg" width="286" height="167"></td>
     <td class="tg-zr06">2022: Tier 2 (Junior Boys) <br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
@@ -176,7 +176,7 @@ third_nav_title: Achievements
     <td class="tg-9hzb" colspan="2">Digital Media Club</td>
   </tr>
   <tr>
-    <td class="tg-zr06"> Swift Explorer Singapore 2022<br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1444/Digital%20Media%20Club%20Swift%20Explorer[1].jpg" alt="Digital Media Club Swift Explorer.jpg" width="274" height="187"></td>
+    <td class="tg-zr06"> Swift Explorer Singapore 2022<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A17.jpg" alt="Digital Media Club Swift Explorer.jpg" width="274" height="187"></td>
     <td class="tg-zr06">2022: Best 20 teams <br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
@@ -187,14 +187,14 @@ third_nav_title: Achievements
     <td class="tg-zr06"> 2021: Certificate of Recognition <br> 2019: Certificate of Recognition</td>
   </tr>
   <tr>
-    <td class="tg-zr06"> Stagmont Park Residents’ Committee’s National Day Art Competition<br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Life%20at%20Kranji/Student%20Achievement/FCL%20memory%20games%202021.jpeg" alt="FCL memory games 2021.jpeg" width="269" height="269"></td>
+    <td class="tg-zr06"> Stagmont Park Residents’ Committee’s National Day Art Competition<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A18.jpg" alt="FCL memory games 2021.jpeg" width="269" height="269"></td>
     <td class="tg-zr06"> 2020: 1st , 3rd , 4th  and 5th place<br><br><br><br><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-9hzb" colspan="2"> Cub Scouts</td>
   </tr>
   <tr>
-    <td class="tg-zr06"> Frank Cooper Sands Award – Cub Scouts<br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Life%20at%20Kranji/Student%20Achievement/Cub%20scout.jpg" alt="Cub scout.jpg" width="251" height="251"></td>
+    <td class="tg-zr06"> Frank Cooper Sands Award – Cub Scouts<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A19.jpg" alt="Cub scout.jpg" width="251" height="251"></td>
     <td class="tg-zr06"> 2019: Silver <br> 2018: Bronze<br><br><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
@@ -223,7 +223,7 @@ third_nav_title: Achievements
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06">School Green Awards<br><img style="width:50%;height:50%" src="https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Life%20at%20Kranji/Student%20Achievement/Kopsia.png" alt="Kopsia.png"></td>
+    <td class="tg-zr06">School Green Awards<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A20.jpg" alt="Kopsia.png"></td>
     <td class="tg-zr06"> 2019: Kopsia Award<br> 2018: Kopsia Award</td>
   </tr>
 </tbody>

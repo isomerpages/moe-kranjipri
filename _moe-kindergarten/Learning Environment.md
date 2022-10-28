@@ -89,3 +89,7 @@ description: ""
 </div>
 
 </div>
+
+_Credit: https://beta.moe.gov.sg/preschool/moe-kindergarten/mk-virtual-tour/_  
+
+#### **A Day at MK Kindergarten**

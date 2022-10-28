@@ -20,7 +20,7 @@ The HI-Light Programme is designed to support the holistic development of childr
 
 _Source: https://beta.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light/_
 
-![hilight_foyer.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/MK%20Dept%20-%202019/MK%20Programmes/hilight_foyer.jpg)
+![](/images/MOE%20Kindergarten/Programmes%20and%20Activities/HI%20Light%20Programme/P1.jpg)
 
   
 
@@ -28,12 +28,12 @@ _Source: https://beta.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light
 
   
 
-![hilight_checkup.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/MK%20Dept%20-%202019/MK%20Programmes/hilight_checkup.jpg)  
+![](/images/MOE%20Kindergarten/Programmes%20and%20Activities/HI%20Light%20Programme/P2.jpg)  
 
 Creating a body chart with a child’s body.  
 
   
 
-![hilight_dance.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/MK%20Dept%20-%202019/MK%20Programmes/hilight_dance.jpg)  
+![](/images/MOE%20Kindergarten/Programmes%20and%20Activities/HI%20Light%20Programme/P3.jpg) 
 
 Children engaged in Music and Movement activities, dancing to the song “Head, Shoulders, Knees and Toes” as they learnt to identify their body parts.

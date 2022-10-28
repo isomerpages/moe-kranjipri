@@ -93,3 +93,5 @@ description: ""
 _Credit: https://beta.moe.gov.sg/preschool/moe-kindergarten/mk-virtual-tour/_  
 
 #### **A Day at MK Kindergarten**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oaFqK_vLFYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -53,3 +53,26 @@ v   To be a Magnet to Attract Other Parents
 ·         We reach out to other fellow KPS parents and involve them in contribution to make the school environment more conducive for learning.
 
 ·         We support and guide our fellow KPS parents in their Parenting journey
+
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P3.jpg)
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P4.jpg)
+
+### PSG Involvement
+
+**Chinese New Year**
+
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P5.jpg)
+
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P6.jpg)
+
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P7.jpg)
+
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P8.jpg)
+
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P9.jpg)
+
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P10.jpg)
+
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P11.jpg)
+
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P12.jpg)

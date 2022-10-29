@@ -196,7 +196,7 @@ description: ""
 
 <div>
 
-<a href="https://thankyoucher.edu.sg/">
+<a href="/for-parents/Parents-Briefing-Slides/">
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N10.jpg">

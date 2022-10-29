@@ -4,8 +4,7 @@ permalink: /moe-kindergarten/Information-for-Parents/Information-for-Parents/
 description: ""
 third_nav_title: Information for Parents
 ---
-  
-![Outdoor.png](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Outdoor.png)  
+![](/images/MOE%20Kindergarten/Information%20for%20Parents/Information%20for%20Parents/I1.png)
   
   
 Click on the pdf file below to view more information about MK:  
@@ -64,4 +63,4 @@ Credit Source: [https://www.moe.gov.sg/microsites/moekindergarten/our-centres/m
 
 **[Workshops for Parents: LIFE@MK](https://kranjipri-moe-edu-sg-admin.cwp.sg/moe-kindergarten/information-for-parents/life-at-mk)**
 
-![parent-child-clipart-5.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/parent-child-clipart-5.jpg)
+<img style="width:30%;height:50%" src="/images/MOE%20Kindergarten/Information%20for%20Parents/Information%20for%20Parents/I2.jpg">

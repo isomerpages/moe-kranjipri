@@ -5,7 +5,7 @@ description: ""
 ---
 <div>
 
-<div style="float: left">
+<div>
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
@@ -23,7 +23,7 @@ description: ""
 
 <div>
 
-<div style="float: left">
+<div>
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
@@ -41,7 +41,7 @@ description: ""
 
 <div>
 
-<div style="float: left">
+<div>
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
@@ -59,7 +59,7 @@ description: ""
 
 <div>
 
-<div style="float: left">
+<div>
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
@@ -77,7 +77,7 @@ description: ""
 
 <div>
 
-<div style="float: left">
+<div>
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
@@ -95,7 +95,7 @@ description: ""
 
 <div>
 
-<div style="float: left">
+<div>
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
@@ -113,7 +113,7 @@ description: ""
 
 <div>
 
-<div style="float: left">
+<div>
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
@@ -131,7 +131,7 @@ description: ""
 
 <div>
 
-<div style="float: left">
+<div>
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
@@ -149,7 +149,7 @@ description: ""
 
 <div>
 
-<div style="float: left">
+<div>
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
@@ -167,7 +167,7 @@ description: ""
 
 <div>
 
-<div style="float: left">
+<div>
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 

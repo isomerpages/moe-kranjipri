@@ -22,9 +22,9 @@ sections:
       alt: Image alt text
       image: /images/Homepage/experience.png
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: VOICES OF OUR ALUMNI
+      button: Read more
       alt: Image alt text
+      image: /images/Homepage/S1.png
+      url: /Voices-of-our-alumni
 ---

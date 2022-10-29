@@ -4,3 +4,64 @@ permalink: /moe-kindergarten/Information-for-Parents/Information-for-Parents/
 description: ""
 third_nav_title: Information for Parents
 ---
+  
+![Outdoor.png](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Outdoor.png)  
+  
+  
+Click on the pdf file below to view more information about MK:  
+  
+[2022 MK Open House KPS .pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/MK%20Dept%20-%202019/2022%20MKOH%20Overview%20Presentation.pdf)  
+[2021 MK Open House\_KPS.pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/MK%20Dept%20-%202019/2021%20MK%20Open%20House_KPS.pdf)   
+[2020 MK Open House Corporate Presentation.pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/2020%20MK%20Open%20House%20Corporate%20Presentation.pdf)   
+  
+  
+Click on the pdf file below to view the K1 Orientation slides:  
+[MK Slides for K1 Orientation\_2021.pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/MK%20Dept%20-%202019/MK%20Slides%20for%20K1%20Orientation_2021.pdf)  
+[KCare Orientation Slides 2022.pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/MK%20Dept%20-%202019/KJKCC%202022%20KCare%20Orientation%20Slides%20002.pdf)  
+  
+  
+  
+
+[](https://www.moe.gov.sg/microsites/moekindergarten/our-centres/mk-kranji.html)
+
+**Programmes Available**  
+  
+K1, K2, KCare
+
+  
+**MK Registration**  
+  
+Please click on the link below for more information about registration:  
+  
+[https://www.moe.gov.sg/preschool/moe-kindergarten/register](https://www.moe.gov.sg/preschool/moe-kindergarten/register)  
+  
+
+Registration starts from **9am on Friday, 4 February 2022 to 4pm on Tuesday, 8 February 2022**.Details can be found on [**www.moe.gov.sg/mk**.](http://www.moe.gov.sg/mk)
+
+  
+
+**Collaboration with Early Years Centre(s)**  
+  
+This MOE is in collaboration with Early Years Centre(s) which provides infant care and childcare services for children aged two months to four years.  
+  
+Partner Early Years Centre(s):  
+
+  
+
+*        **PCF Sparkletots Preschool @ Limbang Blk 543**
+
+    Block 543 Choa Chu Kang Street 52    #01-70 Singapore 680543  
+    Tel: 6766 3379
+
+*         **PCF Sparkletots Preschool @ Limbang Blk 786**
+
+    Block 786 Choa Chu Kang Dr     #01-237 Singapore 680786  
+    Tel : 6766 5694  
+  
+Credit Source: [https://www.moe.gov.sg/microsites/moekindergarten/our-centres/mk-kranji.html](https://www.moe.gov.sg/microsites/moekindergarten/our-centres/mk-kranji.html)
+
+  
+
+**[Workshops for Parents: LIFE@MK](https://kranjipri-moe-edu-sg-admin.cwp.sg/moe-kindergarten/information-for-parents/life-at-mk)**
+
+![parent-child-clipart-5.jpg](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/parent-child-clipart-5.jpg)

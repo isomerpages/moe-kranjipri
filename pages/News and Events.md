@@ -49,7 +49,7 @@ description: ""
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="https://kranjipri-moe-edu-sg-admin.cwp.sg/#">
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N3.jpg">

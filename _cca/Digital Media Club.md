@@ -65,5 +65,5 @@ Students debugging in MIT Scratch
 <img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Digital%20Media%20Club/D3.jpg">
 Presenting our smart vehicle for the disadvantaged with the BBC Microbit controller
 
-<img style="width:70%;height:50%" src="images/Our%20Curriculum/Departments/CCA/Digital%20Media%20Club/D4.jpg">
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Digital%20Media%20Club/D4.jpg">
 Students learning MIT ScratchJr in preparation to teach pre-schoolers for the Values-in-Action Outreach Programme

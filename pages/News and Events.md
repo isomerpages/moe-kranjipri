@@ -11,7 +11,7 @@ description: ""
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N1.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>  
+<figcaption> <strong> KPS Teachers' Day </strong> </figcaption>  
 </figure>
 	
 </a>
@@ -32,7 +32,7 @@ description: ""
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N2.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>  
+<figcaption> <strong> Caring Teacher Award </strong> </figcaption>  
 </figure>
 	
 </a>
@@ -53,7 +53,7 @@ description: ""
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N3.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>  
+<figcaption> <strong> Basketball West Zone Senior Division Champions </strong> </figcaption>  
 </figure>
 	
 </a>
@@ -74,7 +74,7 @@ description: ""
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N4.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>  
+<figcaption> <strong> Applied Learning Programme (ALP) </strong> </figcaption>  
 </figure>
 	
 </a>
@@ -95,7 +95,7 @@ description: ""
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N5.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>  
+<figcaption> <strong> P1 1:1 Learning Experience </strong> </figcaption>  
 </figure>
 	
 </a>
@@ -116,7 +116,7 @@ description: ""
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N6.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>  
+<figcaption> <strong> 2021 WE STories </strong> </figcaption>  
 </figure>
 	
 </a>
@@ -137,7 +137,7 @@ description: ""
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N7.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>  
+<figcaption> <strong> My children deserve the best - and that's why I Chose Kranji Primary School! </strong> </figcaption>  
 </figure>
 	
 </a>
@@ -158,7 +158,7 @@ description: ""
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N8.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>  
+<figcaption> <strong> I love Kranji Primary - And You Will Too </strong> </figcaption>  
 </figure>
 	
 </a>

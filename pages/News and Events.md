@@ -91,7 +91,7 @@ description: ""
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/our-curriculum/Signature-Programmes/1-1-Learning-Experience/">
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N5.jpg">
@@ -112,7 +112,7 @@ description: ""
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="https://online.fliphtml5.com/obrr/vrmu/#p=1">
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N6.jpg">

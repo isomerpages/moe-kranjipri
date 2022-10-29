@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: NEWS & EVENTS
           description: Click here for more
-          url: ""
+          url: /News-and-Events/
 ---

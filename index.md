@@ -8,4 +8,8 @@ notification: Welcome to Kranji Primary School!
 sections:
   - hero:
       background: /images/Homepage/KPS Banner Video.gif
+      key_highlights:
+        - title: NEWS & EVENTS
+          description: Click here for more
+          url: ""
 ---

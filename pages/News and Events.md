@@ -133,7 +133,7 @@ description: ""
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/Testimonial-by-a-Parent/">
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N7.jpg">
@@ -154,7 +154,7 @@ description: ""
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/I-Love-Kranji-Primary-And-You-Will-Too/">
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N8.jpg">

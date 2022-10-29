@@ -7,7 +7,7 @@ description: ""
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="https://thankyoucher.edu.sg/">
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N1.jpg">
@@ -28,7 +28,7 @@ description: ""
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="files/News%20&%20Events/Caring%20Teacher%20Awards%202022.pdf">
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N2.jpg">

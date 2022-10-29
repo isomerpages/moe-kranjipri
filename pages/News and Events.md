@@ -179,7 +179,7 @@ description: ""
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N9.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>  
+<figcaption> <strong> Nurturing and Passionate Teachers </strong> </figcaption>  
 </figure>
 	
 </a>
@@ -200,7 +200,7 @@ description: ""
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N10.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>  
+<figcaption> <strong> Information For Parents </strong> </figcaption>  
 </figure>
 	
 </a>

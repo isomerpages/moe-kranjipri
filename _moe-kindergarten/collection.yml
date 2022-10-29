@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Moe Kindergarten.md
       - Our Centre Head.md
       - Our Staff.md
       - Learning Environment.md

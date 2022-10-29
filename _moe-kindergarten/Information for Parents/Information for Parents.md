@@ -61,6 +61,6 @@ Credit Source: [https://www.moe.gov.sg/microsites/moekindergarten/our-centres/m
 
   
 
-**[Workshops for Parents: LIFE@MK](https://kranjipri-moe-edu-sg-admin.cwp.sg/moe-kindergarten/information-for-parents/life-at-mk)**
+**[Workshops for Parents: LIFE@MK](/moe-kindergarten/Information-for-Parents/LIFE-at-MK/)**
 
 <img style="width:30%;height:50%" src="/images/MOE%20Kindergarten/Information%20for%20Parents/Information%20for%20Parents/I2.jpg">

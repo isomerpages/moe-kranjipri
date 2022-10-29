@@ -9,7 +9,7 @@ description: ""
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="width:50%" src="/images/News%20and%20Events/N1.jpg">
 
 </a>
 
@@ -27,7 +27,7 @@ description: ""
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="width:50%" src="/images/News%20and%20Events/N2.jpg">
 
 </a>
 
@@ -45,7 +45,7 @@ description: ""
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="width:50%" src="/images/News%20and%20Events/N3.jpg">
 
 </a>
 
@@ -63,7 +63,7 @@ description: ""
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="width:50%" src="/images/News%20and%20Events/N4.jpg">
 
 </a>
 
@@ -81,7 +81,7 @@ description: ""
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="width:50%" src="/images/News%20and%20Events/N5.jpg">
 
 </a>
 
@@ -99,7 +99,7 @@ description: ""
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="width:50%" src="/images/News%20and%20Events/N6.jpg">
 
 </a>
 
@@ -117,7 +117,7 @@ description: ""
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="width:50%" src="/images/News%20and%20Events/N7.jpg">
 
 </a>
 
@@ -135,7 +135,7 @@ description: ""
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="width:50%" src="/images/News%20and%20Events/N8.jpg">
 
 </a>
 
@@ -153,7 +153,7 @@ description: ""
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="width:50%" src="/images/News%20and%20Events/N9.jpg">
 
 </a>
 
@@ -171,7 +171,7 @@ description: ""
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="width:50%" src="/images/News%20and%20Events/N10.jpg">
 
 </a>
 

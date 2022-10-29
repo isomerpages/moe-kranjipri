@@ -175,7 +175,7 @@ description: ""
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="">
 	
 <figure>
 <img style="width:50%" src="/images/News%20and%20Events/N9.jpg">

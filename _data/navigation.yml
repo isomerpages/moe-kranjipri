@@ -1,24 +1,24 @@
 logo: /images/Homepage/Homepage1.png
 links:
   - title: "About Us "
-    url: /permalink
+    url: /about-us/Principals-Message/
     sublinks:
       - title: Principal's Message
-        url: /permalink
+        url: //about-us/Principals-Message/
       - title: School Philosophy and More
-        url: /permalink
+        url: /about-us/School-Philosophy-School-Vision-School-Mission-Core-Values/
       - title: School Creed, Crest and Song
-        url: /permalink
+        url: /about-us/School-Creed-Crest-and-Song/
       - title: School History
-        url: /permalink
+        url: /about-us/School-History/
       - title: School Facilities
-        url: /permalink
+        url: /about-us/School-Facilities/
       - title: Our People
-        url: /permalink
+        url: /about-us/Our-People/School-Leaders/
       - title: Contact Us
-        url: /permalink
+        url: /about-us/Contact-Us/
       - title: Social Media Guidelines @ KPS
-        url: /permalink
+        url: /about-us/Social-Media-Guidelines-at-Kranji-Primary-School/
   - title: Our Curriculum
     url: /permalink
     sublinks:

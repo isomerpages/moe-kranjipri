@@ -9,14 +9,14 @@ third_nav_title: Information for Parents
   
 Click on the pdf file below to view more information about MK:  
   
-[2022 MK Open House KPS .pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/MK%20Dept%20-%202019/2022%20MKOH%20Overview%20Presentation.pdf)  
-[2021 MK Open House\_KPS.pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/MK%20Dept%20-%202019/2021%20MK%20Open%20House_KPS.pdf)   
-[2020 MK Open House Corporate Presentation.pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/2020%20MK%20Open%20House%20Corporate%20Presentation.pdf)   
+[2022 MK Open House KPS .pdf](/files/MOE%20kindergarten/Information%20for%20Parents/2022%20MKOH%20Overview%20Presentation.pdf)  
+[2021 MK Open House\_KPS.pdf](/files/MOE%20kindergarten/Information%20for%20Parents/2021%20MK%20Open%20House_KPS.pdf)   
+[2020 MK Open House Corporate Presentation.pdf](/files/MOE%20kindergarten/Information%20for%20Parents/2020%20MK%20Open%20House%20Corporate%20Presentation.pdf)   
   
   
 Click on the pdf file below to view the K1 Orientation slides:  
-[MK Slides for K1 Orientation\_2021.pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/MK%20Dept%20-%202019/MK%20Slides%20for%20K1%20Orientation_2021.pdf)  
-[KCare Orientation Slides 2022.pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/MK%20Dept%20-%202019/KJKCC%202022%20KCare%20Orientation%20Slides%20002.pdf)  
+[MK Slides for K1 Orientation\_2021.pdf](/files/MOE%20kindergarten/Information%20for%20Parents/MK%20Slides%20for%20K1%20Orientation_2021.pdf)  
+[KCare Orientation Slides 2022.pdf](/files/MOE%20kindergarten/Information%20for%20Parents/KJKCC%202022%20KCare%20Orientation%20Slides%20002.pdf)  
   
   
   

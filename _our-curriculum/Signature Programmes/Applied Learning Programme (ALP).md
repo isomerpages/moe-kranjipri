@@ -29,7 +29,15 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
   
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP1.jpg">
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP2.jpg">
+
+<figcaption> <strong> We are building the tallest ice cream castle! </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP3.jpg">
 
 <figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
@@ -37,7 +45,7 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP1.jpg">
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP4.jpg">
 
 <figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
@@ -45,15 +53,7 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP1.jpg">
-
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP1.jpg">
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP5.jpg">
 
 <figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
@@ -70,11 +70,11 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A5.jpg)
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP1.jpg">
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP6.jpg">
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP1.jpg">
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP7.jpg">
 
 <figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
@@ -82,7 +82,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP1.jpg">
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP8.jpg">
 
 <figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
@@ -90,7 +90,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP1.jpg">
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP9.jpg">
 
 <figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
@@ -98,7 +98,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP1.jpg">
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP10.jpg">
 
 <figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
@@ -106,7 +106,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP1.jpg">
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP11.jpg">
 
 <figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
@@ -122,7 +122,15 @@ Project Work unites the teaching and learning of Science and Mathematics in an i
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP1.jpg">
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP12.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP13.jpg">
 
 <figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 

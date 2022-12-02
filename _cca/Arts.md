@@ -59,19 +59,19 @@ In every CCA session, students will be guided by instructors/experienced teacher
   
 **Photos of Art Club students in action**  
   
+
+<figure>
+
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A1.jpg">
-Art Club seniors expressing their version of Garden City on our very own Doodle wall.
 
-  
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A2.jpg">
-A group photo in front of our hard work! (2019 SYF)
+</figure>
 
-  
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A3.jpg">
-Art is best enjoyed with friends
+<figure>
 
-  
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A1.jpg">
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A4.jpg">
-Art Club students guiding pre-schoolers on how to create an artwork using pipe cleaners
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>

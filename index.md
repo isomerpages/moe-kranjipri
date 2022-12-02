@@ -32,4 +32,13 @@ sections:
       alt: Image alt text
       image: /images/Homepage/S1.png
       url: /Voices-of-our-alumni
+  - infopic:
+      title: Basketball West Zone Senior Division Champions
+      description: We are proud to announce that our Senior Girls Basketball Team has
+        emerged as the Champion at the National School Games West Zone
+        Basketball Competition.
+      button: Read more
+      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/
+      image: /images/News and Events/N3.jpg
+      alt: Image alt text
 ---

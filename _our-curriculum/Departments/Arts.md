@@ -75,29 +75,19 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
   
 
-    1.    Experimentation: Broad-based Learning of Art during Art lessons.
+   1.    Experimentation: Broad-based Learning of Art during Art lessons.
 
   
 
-    2.    Exploration: Exploration of different art genres, including Printmaking, Digital Photography, Basic Ceramic 
-
-           Handbuilding and Digital Manga. The inclusion of digital media is also in line with MOE Art Unit's curriculum shift
-
-           towards New Media. Professional Artist are tapped on to impart their professional knowledge in different art genres
-
-           and to complement the expertise of the art teachers.
+   2.   Exploration: Exploration of different art genres, including Printmaking, Digital Photography, Basic Ceramic Handbuilding and Digital Manga. The inclusion of digital media is also in line with MOE Art Unit's curriculum shift towards New Media. Professional Artist are tapped on to impart their professional knowledge in different art genres and to complement the expertise of the art teachers.
 
   
 
-    3.        Exposure: Opportunities for students to be exposed to artworks by master artists through a Learning Journey to National   
-
-                Gallery at Primary 4 and to practising artists through school Assembly Programmes.
+   3.        Exposure: Opportunities for students to be exposed to artworks by master artists through a Learning Journey to National Gallery at Primary 4 and to practising artists through school Assembly Programmes.
 
   
 
-    4.        Expression: Opportunities for students to showcase their talents at various platforms such as our Annual Art Exhibition and 
-
-                Doodle Wall in the canteen.
+   4.        Expression: Opportunities for students to showcase their talents at various platforms such as our Annual Art Exhibition and Doodle Wall in the canteen.
 
   
 
@@ -124,15 +114,15 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 <img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Capturing Nature </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+<img src="/images/Our%20Curriculum/Departments/Art/A5.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Creating a subject </strong> </figcaption>
 
 </figure>
 
@@ -142,25 +132,25 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+<img src="/images/Our%20Curriculum/Departments/Art/A6.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
-
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Getting excited over interactive digital art </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+<img src="/images/Our%20Curriculum/Departments/Art/A7.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Interactive art at the National Gallery </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Art/A8.jpg">
+
+<figcaption> <strong> All ears in appreciating art at the National Gallery </strong> </figcaption>
 
 </figure>
 
@@ -170,33 +160,33 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+<img src="/images/Our%20Curriculum/Departments/Art/A9.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
-
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Before glazing </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+<img src="/images/Our%20Curriculum/Departments/Art/A10.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Students glazing their work </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+<img src="/images/Our%20Curriculum/Departments/Art/A11.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Happy faces </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Art/A12.jpg">
+
+<figcaption> <strong> Work in progress </strong> </figcaption>
 
 </figure>
 
@@ -206,25 +196,25 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+<img src="/images/Our%20Curriculum/Departments/Art/A13.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
-
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Completed work #1 </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+<img src="/images/Our%20Curriculum/Departments/Art/A14.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Completed work #2 </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Art/A15.jpg">
+
+<figcaption> <strong> Completed work #3 </strong> </figcaption>
 
 </figure>
 
@@ -234,9 +224,9 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+<img src="/images/Our%20Curriculum/Departments/Art/A16.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Doodling Skill </strong> </figcaption>
 
 </figure>
 
@@ -252,9 +242,9 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+<img src="/images/Our%20Curriculum/Departments/Art/A19.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Showing off the works of our talented students </strong> </figcaption>
 
 </figure>
 

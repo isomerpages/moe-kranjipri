@@ -7,7 +7,7 @@ third_nav_title: Signature Programmes
 ##### **Nurturing Joyful Learners through Critical and Inventive Thinking**
 
   
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A1.png)
+<img style="width:500%;height:100%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A1.png">
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A2.jpg)
 

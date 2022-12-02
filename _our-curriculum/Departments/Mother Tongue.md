@@ -79,15 +79,30 @@ This strategy aids pupils to plan their composition more effectively before writ
 
 K-Studio is our customised broadcasting programme that aims to hone our students’ language skills and instill the joy of learning through authentic and interactive learning experiences. As “Little Reporters”, students learn to gather and organise information for news presentations, speak fluently and articulate their ideas clearly to the audience. Through this process, they build confidence in self-expression. Besides sharpening their oracy skills, students also have the opportunity to collaborate and work as a team to discover the joy of learning and sharing of knowledge. 
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M2.png)
+<figure>
 
- **KPS Little Reporters first appearance. Doing great!**
+<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M2.png">
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M3.png)
+<figcaption> <strong> KPS Little Reporters first appearance. Doing great! </strong> </figcaption>
 
-         **Lights, camera, action!**
+</figure>
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M4.png)                        **With confidence, we deliver our TL MTL Camp highlights to our fellow Kranjians.**   
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M3.png">
+
+<figcaption> <strong> Lights, camera, action! </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M4.png">
+
+<figcaption> <strong> With confidence, we deliver our TL MTL Camp highlights to our fellow Kranjians. </strong> </figcaption>
+
+</figure>  
 
 ##### **Other Programmes**
 
@@ -101,25 +116,41 @@ The Mother Tongue Language Fortnight aims to create an immersive environment fo
 
                            
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M5.jpg)
+<img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M5.jpg">
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M6.jpg)
+<img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M6.jpg">
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M7.jpg)
+<figure>
 
-                               **CL Activities: Shadow Puppet, Chinese Bean Artwork, Paper Cutting**
+<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M7.jpg">
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M8.jpg)
+<figcaption> <strong> CL Activities: Shadow Puppet, Chinese Bean Artwork, Paper Cutting </strong> </figcaption>
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M9.jpg)
+</figure> 
 
-**ML Activities: Silat, Kite-making**
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M10.jpg)
+<img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M8.jpg">
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M11.jpg)
+<figure>
 
-                                               **TL Activities: Drama and performance, Face-mask painting**  
+<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M9.jpg">
+
+<figcaption> <strong> ML Activities: Silat, Kite-making </strong> </figcaption>
+
+</figure> 
+
+
+
+<img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M10.jpg">
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M11.jpg">
+
+<figcaption> <strong> TL Activities: Drama and performance, Face-mask painting </strong> </figcaption>
+
+</figure> 
+
 
 2.   **Learning Journey**
 
@@ -128,17 +159,30 @@ The Mother Tongue Language Fortnight aims to create an immersive environment fo
 Learning Journeys aims to provide a platform for pupils to extend their learning beyond the classroom. The learning journey creates a wonderful experience for pupils as they are able to gain a hands-on-experience and have a better understanding of their language and culture. Reflections done after the trip helps pupils to examine and interpret their experience to gain new understanding which provides deeper learning.  
 
   
+<figure>
 
-  
+<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M12.jpg">
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M12.jpg)                                                                                   CL: Tea Appreciation
+<figcaption> <strong> CL: Tea Appreciation </strong> </figcaption>
 
-  
+</figure>
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M13.jpg)                                                            ML: Making of Malay Delicacies -Ondeh-ondeh
+<figure>
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M14.jpg)
-                           TL: Pupils had a close-up of cows, calves and goats and could not contain the excitement!
+<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M13.jpg">
+
+<figcaption> <strong> ML: Making of Malay Delicacies -Ondeh-ondeh </strong> </figcaption>
+
+</figure>                                                           
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M14.jpg">
+
+<figcaption> <strong> TL: Pupils had a close-up of cows, calves and goats and could not contain the excitement! </strong> </figcaption>
+
+</figure> 
+                           
 
   
 
@@ -148,11 +192,16 @@ Learning Journeys aims to provide a platform for pupils to extend their learning
 
 KPS Mother Tongue Reading Programme aims to cultivate pupils’ interest in reading and expose them to books of different genre. To carry out this programme, the department has purchased a range of books that are recommended for the different levels from P1 to P6. Class-based library corners are set up to provide the opportunity for students to be engaged in reading activities or even borrow books home for leisure reading. Students are also given the reading passports to note down their reading progress and share with the teachers and their peers their reading journey. 
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M15.jpg)
+<img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M15.jpg">
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M16.jpg)
+<figure>
 
-                                                                                                                    Recess Activity @ KPS Reading Cafe
+<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M16.jpg">
+
+<figcaption> <strong> Recess Activity @ KPS Reading Cafe </strong> </figcaption>
+
+</figure>
+
 
   
 

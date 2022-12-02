@@ -64,7 +64,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A1.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Art Club seniors expressing their version of Garden City on our very own Doodle wall. </strong> </figcaption>
 
 </figure>
 
@@ -72,7 +72,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A2.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> A group photo in front of our hard work! (2019 SYF) </strong> </figcaption>
 
 </figure>
 
@@ -80,7 +80,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A3.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Certificate of Recognition "Technology in our Lives" by the P2 students </strong> </figcaption>
 
 </figure>
 
@@ -88,7 +88,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A4.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Hard at work </strong> </figcaption>
 
 </figure>
 
@@ -96,7 +96,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A5.png">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> With teachers' guidance </strong> </figcaption>
 
 </figure>
 
@@ -104,7 +104,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A6.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Art is best enjoyed with friends </strong> </figcaption>
 
 </figure>
 
@@ -112,7 +112,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A7.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Joy and satisfaction from doing the things we love </strong> </figcaption>
 
 </figure>
 
@@ -120,7 +120,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A8.png">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> With our very own kiln, we dabble with Ceramics too! </strong> </figcaption>
 
 </figure>
 
@@ -128,7 +128,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A9.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Art Club students getting creative with a ceramic tile. Our ceramic lessons are all conducted by experienced instructors. </strong> </figcaption>
 
 </figure>
 
@@ -136,7 +136,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A10.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Displaying Art Club Works at KPS Art Exhibition </strong> </figcaption>
 
 </figure>
 
@@ -144,6 +144,6 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A11.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Ceramic Art Works </strong> </figcaption>
 
 </figure>

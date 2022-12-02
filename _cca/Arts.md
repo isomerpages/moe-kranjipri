@@ -75,3 +75,75 @@ In every CCA session, students will be guided by instructors/experienced teacher
 <figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
 </figure>
+
+<figure>
+
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A3.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A4.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A5.png">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A6.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A7.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A8.png">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A9.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A10.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A11.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>

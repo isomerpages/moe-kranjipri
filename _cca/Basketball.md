@@ -94,6 +94,18 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 **Photos of Basketballers in action**
 
+
+
+<figure>
+
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B1.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+
+
 <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B1.jpg">
 It's not the height, but the passion and skills that matter
 

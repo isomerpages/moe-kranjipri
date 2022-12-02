@@ -181,9 +181,9 @@ Play Cool Sports in offered to all Primary 3 to 6 students to expose them to spo
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L15.png">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L15new.png">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Rollerblading is fun but having to balance and move is not easy!   I can barely see my opponent but I definitely look forward to this fencing experience. Lunge and parry away! </strong> </figcaption>
 
 </figure>
 <figure>

@@ -45,6 +45,7 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 ##### **CCA Achievements**
 
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P1.jpg">
 
   
 
@@ -52,10 +53,50 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P1.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P2.png">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> KPS is 25! </strong> </figcaption>
 
 </figure>
 
+<figure>
 
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P3.png">
+
+<figcaption> <strong> We Love Percussion Ensemble! </strong> </figcaption>
+
+</figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P4.png">
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P5.png">
+
+<figcaption> <strong> SYF Arts Presentation 2022 - Rolling Walnuts </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P6.jpg">
+
+<figcaption> <strong> Thank you parents for your support! </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P7.png">
+
+<figcaption> <strong> Celebrating 25th Anniversary of our school </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P8.jpg">
+
+<figcaption> <strong> Ready, get set ,ROLL! </strong> </figcaption>
+
+</figure>

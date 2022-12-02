@@ -80,4 +80,10 @@ sections:
       url: /I-Love-Kranji-Primary-And-You-Will-Too/
       image: /images/News and Events/N8.jpg
       alt: Image alt text
+  - infopic:
+      description: Nurturing and Passionate Teachers Information for Parents
+      button: Read More
+      url: /life-at-kranji/Achievements/Student-and-School-Achievement/
+      image: /images/News and Events/N9.jpg
+      alt: Image alt text
 ---

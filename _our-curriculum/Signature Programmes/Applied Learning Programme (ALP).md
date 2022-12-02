@@ -49,8 +49,13 @@ Project Work unites the teaching and learning of Science and Mathematics in an i
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A10.png)
 
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A11.jpg)
-Primary 5 students with their portable Water Filtration System
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A11.jpg">
+
+<figcaption> <strong> Step and swing, aim and toss! </strong> </figcaption>
+
+</figure>
 
 ##### **Science Club**
 
@@ -59,8 +64,13 @@ Primary 5 students with their portable Water Filtration System
 Science Club CCA provides opportunity for extension for Primary 3 to 6 students, who demonstrate strong interest in Science.  Through their response to everyday problems using the maker-centred approaches, students engage in drafting, designing and testing their solutions while maintaining a strong focus on the application of science concepts.  
 
   
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A12.png)
-Young Scientists testing their prototypes of portable chairs designed for senior citizens
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A12.jpg">
+
+<figcaption> <strong> Step and swing, aim and toss! </strong> </figcaption>
+
+</figure>
 
 ##### **Talent Development Programme**
 
@@ -70,10 +80,20 @@ The Talent Development Programme is designed to develop and challenge students w
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A13.jpg)
 
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A14.jpg)
- Activities to develop thinking and reasoning skills in Mathematics  
+<figure>
 
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A15.jpg)
-Young Mathematicians explore different methods of problem solving
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A14.jpg">
+
+<figcaption> <strong> Step and swing, aim and toss! </strong> </figcaption>
+
+</figure> 
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A15.jpg">
+
+<figcaption> <strong> Step and swing, aim and toss! </strong> </figcaption>
+
+</figure>
 
 **Please click [here](/Junior-Tinkering-Programme/) for Junior Tinkering Programme**

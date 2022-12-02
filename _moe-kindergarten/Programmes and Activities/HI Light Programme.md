@@ -20,20 +20,29 @@ The HI-Light Programme is designed to support the holistic development of childr
 
 _Source: https://beta.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light/_
 
-![](/images/MOE%20Kindergarten/Programmes%20and%20Activities/HI%20Light%20Programme/P1.jpg)
 
+
+<figure>
+
+<img src="/images/MOE%20Kindergarten/Programmes%20and%20Activities/HI%20Light%20Programme/P1.jpg">
+
+<figcaption> <strong>  Using the Primary school parade square, children explored moving different parts of their bodies and observed their own shadows. </strong> </figcaption>
+
+</figure>
+
+
+<figure>
+
+<img src="/images/MOE%20Kindergarten/Programmes%20and%20Activities/HI%20Light%20Programme/P2.jpg">
+
+<figcaption> <strong> Creating a body chart with a child’s body. </strong> </figcaption>
+
+</figure>
   
+<figure>
 
- Using the Primary school parade square, children explored moving different parts of their bodies and observed their own shadows.
+<img src="/images/MOE%20Kindergarten/Programmes%20and%20Activities/HI%20Light%20Programme/P3.jpg">
 
-  
+<figcaption> <strong> Children engaged in Music and Movement activities, dancing to the song “Head, Shoulders, Knees and Toes” as they learnt to identify their body parts. </strong> </figcaption>
 
-![](/images/MOE%20Kindergarten/Programmes%20and%20Activities/HI%20Light%20Programme/P2.jpg)  
-
-Creating a body chart with a child’s body.  
-
-  
-
-![](/images/MOE%20Kindergarten/Programmes%20and%20Activities/HI%20Light%20Programme/P3.jpg) 
-
-Children engaged in Music and Movement activities, dancing to the song “Head, Shoulders, Knees and Toes” as they learnt to identify their body parts.
+</figure>

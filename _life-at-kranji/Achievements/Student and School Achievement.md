@@ -140,7 +140,7 @@ third_nav_title: Achievements
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06"> Singapore Olym<span style="background-color:initial">pic Foundation - Peter Lim Scholarship </span><br><img style="width:50%;height:50%"src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A11.jpg" alt="Peter Lim Scholarship.png" width="235" height="279"></td>
+    <td class="tg-zr06"> Singapore Olym<span style="background-color:initial">pic Foundation - Peter Lim Scholarship </span><br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A11.jpg" alt="Peter Lim Scholarship.png" width="235" height="279"></td>
     <td class="tg-zr06">2022: 3 Encouragement Award<br><br><br><br><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>

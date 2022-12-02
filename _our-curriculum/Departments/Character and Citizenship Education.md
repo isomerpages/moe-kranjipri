@@ -20,9 +20,9 @@ The school takes a three-pronged approach in delivering Character and Citizenshi
 
 Our School Values are Compassion, Integrity, Resilience, Respect and Responsibility and the five Social Emotional Competencies are Self-awareness, Social Awareness, Self-Management, Relationship Management and Responsible Decision-Making.  In Kranji Primary School, we leverage on two main curricular platforms to deliver these outcomes:
 
-    i.    Character and Citizenship Education lessons in Mother Tongue Languages teach values, knowledge and skills. Activities include classroom-based lessons as well as home-based action which involve family members.
+   i.    Character and Citizenship Education lessons in Mother Tongue Languages teach values, knowledge and skills. Activities include classroom-based lessons as well as home-based action which involve family members.
 
-    ii.    Form Teacher Guidance Period is a weekly platform where form teachers engage in quality interactions with their students and help them strengthen their social and emotional competencies through classroom-based lessons and experiential activities. Form teachers at Kranji Primary School also meet their students at least once a semester for a face-to-face chat so as to get to know their students better.
+   ii.    Form Teacher Guidance Period is a weekly platform where form teachers engage in quality interactions with their students and help them strengthen their social and emotional competencies through classroom-based lessons and experiential activities. Form teachers at Kranji Primary School also meet their students at least once a semester for a face-to-face chat so as to get to know their students better.
 
   
 
@@ -32,43 +32,65 @@ Having inculcated the necessary values and socio-emotional competencies in schoo
 
   
 
-     i.    Food donation and distribution @ Limbang Senior Activities Centre - As a way to show care for others and contribute to the community, students collect food every year and distribute them to the needy in the Limbang neighbourhood.  
-
-  
-![](/images/Our%20Curriculum/Departments/CCE/C1.jpg)
-
-Food Donation and Distribution
-
-  
-
-    ii.    CCA VIA Outreach @ Sparkletots Kindergarten - Since 2019, our Co-Curricular Activity (CCA) group have linked up with pre-schoolers in the vicinity of the school, to carry out activities with the young children, and share the skills they have learnt in CCA. Through the CCA Outreach, our CCA leaders step out of their comfort zone to demonstrate leadership and also hone their interpersonal skills.
+   i.    Food donation and distribution @ Limbang Senior Activities Centre - As a way to show care for others and contribute to the community, students collect food every year and distribute them to the needy in the Limbang neighbourhood.  
 
 
-![](/images/Our%20Curriculum/Departments/CCE/C2.jpg)
 
-CCA Groups Outreach
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/CCE/C1.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
 
   
 
-    iii.    Gratitude Day \- Gratitude Day provides an opportunity for our students to show gratitude to the staff (both teaching and non-teaching) for their contributions to the school. Kranjians write 'Thank you' notes and present them to the teaching and non-teaching staff to demonstrate their gratitude to them.  
+   ii.    CCA VIA Outreach @ Sparkletots Kindergarten - Since 2019, our Co-Curricular Activity (CCA) group have linked up with pre-schoolers in the vicinity of the school, to carry out activities with the young children, and share the skills they have learnt in CCA. Through the CCA Outreach, our CCA leaders step out of their comfort zone to demonstrate leadership and also hone their interpersonal skills.
+
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/CCE/C1.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+  
+
+   iii.    Gratitude Day \- Gratitude Day provides an opportunity for our students to show gratitude to the staff (both teaching and non-teaching) for their contributions to the school. Kranjians write 'Thank you' notes and present them to the teaching and non-teaching staff to demonstrate their gratitude to them.  
 
 
 ![](/images/Our%20Curriculum/Departments/CCE/C3.jpg)  
 
-    iv.    Recycling @ Kranji - Kranjians reflect on the state of the environment and respond to the community, national and global issues by being responsible citizens as they participate in recycling and upcycling efforts both in and out of the school.
+   iv.    Recycling @ Kranji - Kranjians reflect on the state of the environment and respond to the community, national and global issues by being responsible citizens as they participate in recycling and upcycling efforts both in and out of the school.
 
 
-![](/images/Our%20Curriculum/Departments/CCE/C4.jpg)
+<figure>
 
-Recycling Corner
+<img src="/images/Our%20Curriculum/Departments/CCE/C1.jpg">
 
-![](/images/Our%20Curriculum/Departments/CCE/C5.jpg)
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
-Primary 2 Recycling Briefing
+</figure>
 
-![](/images/Our%20Curriculum/Departments/CCE/C6.jpg)
+<figure>
 
-Primary 6 Upcycling
+<img src="/images/Our%20Curriculum/Departments/CCE/C1.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/CCE/C1.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
 
   
 
@@ -78,10 +100,13 @@ Primary 6 Upcycling
 
 The Six National Education Messages are transmitted to Kranjians during Total Defence Day, International Friendship Day, Racial Harmony Day and National Day through parades, assembly talks, concerts, classroom-based lessons and recess activities.It is hoped that through active participation and sharing of our common Identity, students develop the sense of belonging and commitment to Singapore.
 
-  
+<figure>
 
-![](/images/Our%20Curriculum/Departments/CCE/C7.jpg)                                                                                                                                                                                                                SG United Card Game  
+<img src="/images/Our%20Curriculum/Departments/CCE/C1.jpg">
 
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
   
 
 In Kranji Primary, providing cultural immersion experiences through overseas learning journeys is an integral part of the Kranji Experience to enrich our students’ holistic development. In this globalised world, everyone must possess a global outlook and learn to collaborate and communicate with people from different countries, be it for studies, work or play. Such a global outlook is best developed from a young age. The provision of overseas immersion experiences is key to developing this global outlook.

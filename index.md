@@ -9,15 +9,6 @@ sections:
   - hero:
       background: /images/Homepage/KPS Banner Video.gif
   - infopic:
-      title: Basketball West Zone Senior Division Champions
-      description: We are proud to announce that our Senior Girls Basketball Team has
-        emerged as the Champion at the National School Games West Zone
-        Basketball Competition.
-      button: Read more
-      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/
-      image: /images/News and Events/N3.jpg
-      alt: Image alt text
-  - infopic:
       title: KPS Teachers' Day
       description: Even though all the 𝙚𝙭-𝙨𝙩𝙪𝙙𝙚𝙣𝙩𝙨 are deeply missed by your
         teachers, we decided to keep everyone safe this year. We hope to see you
@@ -25,6 +16,15 @@ sections:
       button: Read More
       url: https://thankyoucher.edu.sg/
       image: /images/News and Events/N1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Basketball West Zone Senior Division Champions
+      description: We are proud to announce that our Senior Girls Basketball Team has
+        emerged as the Champion at the National School Games West Zone
+        Basketball Competition.
+      button: Read more
+      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/
+      image: /images/News and Events/N3.jpg
       alt: Image alt text
   - infopic:
       title: Applied Learning Programme (ALP)

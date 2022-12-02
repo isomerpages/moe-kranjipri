@@ -98,7 +98,23 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B1.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B1.png">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B2.png">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B3.jpg">
 
 <figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 

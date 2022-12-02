@@ -3,7 +3,6 @@ title: Infocomm Media Club
 permalink: /cca/Infocomm-Media-Club/
 description: ""
 ---
-
 ##### **Objectives**
 
   
@@ -62,16 +61,11 @@ Members will also have opportunities to take part in competitions such as the Na
 
 ##### **CCA Achievements**
 
-|   Year  |                                                                                               Event Description                                                                                               |
-|:-------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  2019   | Showcased project "Lighting Up Lives" at EduTECH Asia 2019 Took part in 3D Tronics Digital Making National Infocomm Competition Attended Maker JR (Newbie) using Micro:bits Programme                         |
-|  2018   | Took part in Our Schools, Our Stories Photo Contest Took part in 7th National Young Shutterbugs Competition 2018 Attended Photography  Programme conducted by C'ignature Enrichment Group                     |
-|  2017   | Took part in National Coding Competition 2017 (Bronze Award) Took part in Schools Digital Media Awards 2017 (SDMA) Competition  Attended Film Production Programme conducted by Kelin Sng Productions Pte Ltd |
-  
+![](/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/I1.jpg)
 
 **Photos of our Digital Media Club students in action**
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Digital%20Media%20Club/D1.jpg">
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/I1.jpg">
 Students analysing their programming code during the Maker Jr Programme using Microsoft Makecode and BBC Microbit controller
 
 <img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Digital%20Media%20Club/D2.jpg">

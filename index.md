@@ -27,21 +27,6 @@ sections:
       image: /images/News and Events/N1.jpg
       alt: Image alt text
   - infopic:
-      title: EXCITE
-      description: Guided by our school vision of Learners, Gracious and Champions in
-        Life, the EXCITE approach outlines how learning is designed, curated and
-        enacted in KPS
-      button: Read more
-      url: /our-curriculum/EXCITE-Learning-Approach/
-      alt: Image alt text
-      image: /images/Homepage/experience.png
-  - infopic:
-      title: VOICES OF OUR ALUMNI
-      button: Read more
-      alt: Image alt text
-      image: /images/Homepage/S1.png
-      url: /Voices-of-our-alumni
-  - infopic:
       title: Applied Learning Programme (ALP)
       description: Rooted in our belief that “Every Kranjian Matters and Deserves the
         Best”, the ALP programme is specially designed to develop critical and
@@ -92,4 +77,19 @@ sections:
       url: /for-parents/Parents-Briefing-Slides/
       image: /images/News and Events/N10.jpg
       alt: Image alt text
+  - infopic:
+      title: EXCITE
+      description: Guided by our school vision of Learners, Gracious and Champions in
+        Life, the EXCITE approach outlines how learning is designed, curated and
+        enacted in KPS
+      button: Read more
+      url: /our-curriculum/EXCITE-Learning-Approach/
+      alt: Image alt text
+      image: /images/Homepage/experience.png
+  - infopic:
+      title: VOICES OF OUR ALUMNI
+      button: Read more
+      alt: Image alt text
+      image: /images/Homepage/S1.png
+      url: /Voices-of-our-alumni
 ---

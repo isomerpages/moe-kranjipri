@@ -118,81 +118,127 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 **P4 Digital Photography Programme**
 
-  
 
-![](/images/Our%20Curriculum/Departments/Art/A4.jpg)
-Capturing Nature
 
-  
+<figure>
 
-![](/images/Our%20Curriculum/Departments/Art/A5.jpg)
-Creating a subject
+<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
 
   
 
 **P4 Learning Journey to National Gallery**
 
-  
+<figure>
 
-![](/images/Our%20Curriculum/Departments/Art/A6.jpg)
-Getting excited over interactive digital art
+<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
 
-  
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
-![](/images/Our%20Curriculum/Departments/Art/A7.jpg)
-Interactive art at the National Gallery
+</figure>
 
-  
+<figure>
 
-![](/images/Our%20Curriculum/Departments/Art/A8.jpg)
-All ears in appreciating art at the National Gallery
+<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
 
   
 
 **P5 Ceramics - Basic Hand Building Programme**
 
-  
+<figure>
 
-![](/images/Our%20Curriculum/Departments/Art/A9.jpg)
-Before glazing
+<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
 
-  
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
-![](/images/Our%20Curriculum/Departments/Art/A10.jpg)
-Students glazing their work
+</figure>
 
-  
+<figure>
 
-![](/images/Our%20Curriculum/Departments/Art/A11.jpg)
-Happy faces
+<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
 
-  
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
-![](/images/Our%20Curriculum/Departments/Art/A12.jpg)
-Work in progress
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
 
   
 
 **P6 Digital Manga Programme**
 
-  
+<figure>
 
-![](/images/Our%20Curriculum/Departments/Art/A13.jpg)
-Completed work #1
+<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
 
-  
-![](/images/Our%20Curriculum/Departments/Art/A14.jpg)
-Completed work #2
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
-![](/images/Our%20Curriculum/Departments/Art/A15.jpg)
-Completed work #3
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
 
   
 
 **Assembly Programme**
 
-![](/images/Our%20Curriculum/Departments/Art/A16.jpg)
-Doodling Skill
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
 
   
 
@@ -204,9 +250,13 @@ Doodling Skill
 
 ![](/images/Our%20Curriculum/Departments/Art/A18.jpg)
 
-![](/images/Our%20Curriculum/Departments/Art/A19.jpg)
+<figure>
 
-Showing off the works of our talented students
+<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
 
   
 

@@ -86,8 +86,7 @@ description: ""
 
 <figure>
 <img style="width:50%" src="/images/MOE%20Kindergarten/Learning%20Environment/L1.jpg">
-<figcaption> <strong> GARDEN(Please click on the photo to view the virtual tour)  
-** </strong> </figcaption>
+<figcaption> <strong> GARDEN(Please click on the photo to view the virtual tour)</strong> </figcaption>
 
 </figure>
 </a>

@@ -100,7 +100,7 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B1.png">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Eyes on the prize! Our student athletes receive their well-deserved recognitions for their hard work all year round. </strong> </figcaption>
 
 </figure>
 
@@ -108,7 +108,7 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B2.png">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Applying what we learn during training in the competition </strong> </figcaption>
 
 </figure>
 
@@ -116,7 +116,30 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B3.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Soar for the sky! Watch me score this bucket! </strong> </figcaption>
 
 </figure>
 
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B4.jpg">
+
+<figcaption> <strong> Somebody has to win, so why not me? </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B5.jpg">
+
+<figcaption> <strong> Not going down without a fight </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B6.jpg">
+
+<figcaption> <strong> You miss 100% of the shots that you don't take... I'm definitely taking this one! </strong> </figcaption>
+
+</figure>

@@ -42,10 +42,8 @@ Science Club members can look forward to visiting Science Fairs, such as Singapo
 
 ##### **CCA Achievements**
 
-|  Year  |                                                                    Events                                                                    |
-|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
-| 2019   | Participated in Makers' Fiesta @ Westwood Primary School Particiapted in National Flight Simulation Challenge @ Northbrooks Secondary School |
-|  2017  | Submitted projects for Sony Creative Toy Competition                                                                                         |
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S5.jpg">
+
   
   
 **Photos of Science Club students in action**  
@@ -58,4 +56,3 @@ Science Club members can look forward to visiting Science Fairs, such as Singapo
 <figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
 </figure>
-

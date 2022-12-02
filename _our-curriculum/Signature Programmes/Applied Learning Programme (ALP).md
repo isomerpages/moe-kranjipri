@@ -53,7 +53,7 @@ Project Work unites the teaching and learning of Science and Mathematics in an i
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A11.jpg">
 
-<figcaption> <strong> Step and swing, aim and toss! </strong> </figcaption>
+<figcaption> <strong> Primary 5 students with their portable Water Filtration System </strong> </figcaption>
 
 </figure>
 
@@ -66,9 +66,9 @@ Science Club CCA provides opportunity for extension for Primary 3 to 6 students,
   
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A12.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A12.png">
 
-<figcaption> <strong> Step and swing, aim and toss! </strong> </figcaption>
+<figcaption> <strong> Young Scientists testing their prototypes of portable chairs designed for senior citizens </strong> </figcaption>
 
 </figure>
 
@@ -84,7 +84,7 @@ The Talent Development Programme is designed to develop and challenge students w
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A14.jpg">
 
-<figcaption> <strong> Step and swing, aim and toss! </strong> </figcaption>
+<figcaption> <strong>  Activities to develop thinking and reasoning skills in Mathematics </strong> </figcaption>
 
 </figure> 
 
@@ -92,7 +92,7 @@ The Talent Development Programme is designed to develop and challenge students w
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A15.jpg">
 
-<figcaption> <strong> Step and swing, aim and toss! </strong> </figcaption>
+<figcaption> <strong> Young Mathematicians explore different methods of problem solving </strong> </figcaption>
 
 </figure>
 

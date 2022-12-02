@@ -86,4 +86,10 @@ sections:
       url: /life-at-kranji/Achievements/Student-and-School-Achievement/
       image: /images/News and Events/N9.jpg
       alt: Image alt text
+  - infopic:
+      title: Information for Parents
+      button: Read More
+      url: /for-parents/Parents-Briefing-Slides/
+      image: /images/News and Events/N10.jpg
+      alt: Image alt text
 ---

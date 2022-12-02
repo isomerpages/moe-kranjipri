@@ -48,25 +48,8 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 
 ##### **CCA Achievements**
 
-|    Year    |                                 National                                |                                                  Community                                                 |                                                                                                                School                                                                                                                |
-|:----------:|:-----------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|   2019     | The Singapore Youth Festival Art Presentation is held biennially        | Performed for Clean & Green Singapore Carnival @ Causeway Point Performed in Chingay Celebrations @ Yewtee | Performed for KPS National Day Celebration Performed for KPS Annual Prize Giving Day Performed for KPS Arts Appreciation Week Participated in the Primary 2 CCA Experience Participated in the China Immersion School Visit          |
-|  2018      | Participated in Singapore Youth Festival (Certificate of Distinction)   | Performed for Dance Extravaganza @ Bukit Panjang Plaza Performed for Limbang CCC National Day Celebration  | Participated in KPS Racial Harmony Day recess activity Performed for KPS Arts Appreciation Week Performed for KPS National Day Celebration Performed for KPS 21st Anniversary Celebration Performed for KPS Annual Prize Giving Day  |
+![](/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M1.jpg)
   
 
 **Photos of dance members in action**
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M1.jpg">
-Weekly Training with our instructor, Mr Danny Lee
-
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M2.jpg">
-SYF Arts Presentation 2018 (Biennially)
-
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M3.jpg">
-A photo to remember with our friends from China in 2019 who participated in a CCA Immersion Programme
-
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M4.jpg">
-2019 Chingay Performance by ShowStopperz
-
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M5.jpg">
-Clean & Green Singapore Carnival 2019 @ Causeway Point

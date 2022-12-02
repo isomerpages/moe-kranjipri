@@ -40,7 +40,7 @@ Having inculcated the necessary values and socio-emotional competencies in schoo
 
 <img src="/images/Our%20Curriculum/Departments/CCE/C1.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Food Donation and Distribution </strong> </figcaption>
 
 </figure>
 
@@ -52,9 +52,9 @@ Having inculcated the necessary values and socio-emotional competencies in schoo
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCE/C1.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCE/C2.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> CCA Groups Outreach </strong> </figcaption>
 
 </figure>
 
@@ -70,25 +70,25 @@ Having inculcated the necessary values and socio-emotional competencies in schoo
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCE/C1.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCE/C4.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/CCE/C1.jpg">
-
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Recycling Corner </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCE/C1.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCE/C5.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Primary 2 Recycling Briefing </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/CCE/C6.jpg">
+
+<figcaption> <strong> Primary 6 Upcycling </strong> </figcaption>
 
 </figure>
 
@@ -102,9 +102,9 @@ The Six National Education Messages are transmitted to Kranjians during Total De
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCE/C1.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCE/C7.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> SG United Card Game </strong> </figcaption>
 
 </figure>
   

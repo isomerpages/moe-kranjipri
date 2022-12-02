@@ -56,20 +56,41 @@ Selected students in Football will be able to participate in the National School
 
 ##### **CCA Achievements**
 
-|  Year  |                     West Zone                    |                                   Others                                   |
-|:------:|:------------------------------------------------:|:--------------------------------------------------------------------------:|
-|  2019  | Junior Boys - 1st Round Senior Boys - 1st Round  | Kranji Cup - Champions Admiralty Primary and Active SG Cup - 1st Runner-Up |
-|  2018  | Junior Boys - 1st Round Senior Boys - 1st Round  | Xingnan Invitational - Group Stages                                        |
-|  2017  | Junior Boys - 1st Round Senior Boys - 1st Round  |                                                                            |
+![](/images/Our%20Curriculum/Departments/CCA/Football/F1.jpg)
   
 
 **Photos of our Footballers in action**
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F1.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F2.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Senior Boys Austin in action during the AES 8-a-side Tournament </strong> </figcaption>
 
 </figure>
 
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F3.jpg">
+
+<figcaption> <strong> Junior Boy Rayyan setting himself up for a shot during the NSG Tournament </strong> </figcaption>
+
+</figure>
+
+**Junior and Senior Boys in NSG 2022**
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F4.jpg">
+
+<figcaption> <strong> Senior Boys before a NSG match </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F5.jpg">
+
+<figcaption> <strong> Junior Boys listening intently on how to improve during the second half </strong> </figcaption>
+
+</figure>

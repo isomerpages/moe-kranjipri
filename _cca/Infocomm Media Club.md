@@ -65,14 +65,38 @@ Members will also have opportunities to take part in competitions such as the Na
 
 **Photos of our Digital Media Club students in action**
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/I1.jpg">
-Students analysing their programming code during the Maker Jr Programme using Microsoft Makecode and BBC Microbit controller
+<figure>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Digital%20Media%20Club/D2.jpg">
-Students debugging in MIT Scratch
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/I2.jpg">
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Digital%20Media%20Club/D3.jpg">
-Presenting our smart vehicle for the disadvantaged with the BBC Microbit controller
+<figcaption> <strong> Students celebrating their success as they emerged champion in the IMDA's DISCOVER 65Drones Learning Journey after beating other members. They won a drone. </strong> </figcaption>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Digital%20Media%20Club/D4.jpg">
-Students learning MIT ScratchJr in preparation to teach pre-schoolers for the Values-in-Action Outreach Programme
+</figure>
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/I3.jpg">
+
+<figcaption> <strong> Students learning in the IMDA's LEARN Game Development and Mobile App Development Programme </strong> </figcaption>
+
+</figure>
+
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/I4.jpg">
+
+<figcaption> <strong> Students learning and presenting in the IMDA's SERVE Emerging Tech x Values-in-Action Project (Social Robots) </strong> </figcaption>
+
+</figure>
+
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/I5.jpg">
+
+<figcaption> <strong> Students showcasing their project at the Swift Explorers Singapore Graduation Ceremony Showcase and students who completed the Inclusive App Design Challenge Everyone Can Code Bootcamp in Swift Explorers Singapore </strong> </figcaption>
+
+</figure>
+
+

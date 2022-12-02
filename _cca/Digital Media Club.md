@@ -35,13 +35,27 @@ Students will be able to:
 
 ##### **Introduction**
 
-  
-
-Digital Media Club conducts training sessions to impart students with coding and debugging skills using ScratchJr and Python. Students are also grouped and assigned distinct roles and duties with emphasis on building student leadership. 
+Digital Media Club works with Infocomm Media Development Authority (IMDA) to offer members opportunities to pursue their interest, deepen their learning in emerging technologies and gain industry exposure. Members will indulge in activities under the **DISCOVER,** **LEARN, SERVE** and **EXCEL** pillars.
 
   
 
-Students will have the opportunity to take part in competitions as part of their development  such as the National Infocomm Competition and National Coding Competition, ‘Our Schools, Our Stories’ Photo Contest, National Young Shutterbugs Competition and Schools Digital Media Awards Competition.  
+**DISCOVER:** Members enjoy exclusive tech an media learning journeys, curated authentic learning experiences with hands-on activities.
+
+  
+
+**LEARN:** Members get trained in emerging technologies in comprehensive courses, accelerators and bootcamps.
+
+  
+
+**SERVE:** Members are empowered to enrich lives through meaningful Values-in-Action projects.
+
+  
+
+**EXCEL:** Members get to compete on a national stage.
+
+  
+
+Members will also have opportunities to take part in competitions such as the National Primary Games Creation and Coding Competition and Swift Explorers Singapore and National Digital Explorer.
 
   
 

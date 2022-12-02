@@ -9,23 +9,49 @@ description: ""
 
 We aim to establish a strong home-school partnership with our parents as we believe that parents play a very important role in their children’s development. Through various activities, we seek parents’ involvement by contributing their time, knowledge and expertise to enhance children’s learning experiences.  
 
-![](/images/MOE%20Kindergarten/Our%20Partners/P2.jpg)
 
-Parents volunteered their time and skills to show children how to make Indian food. 
 
-![](/images/MOE%20Kindergarten/Our%20Partners/P3.jpg)
+<figure>
 
-Parents joined us on our field trips to help facilitate children’s learning. 
+<img src="/images/MOE%20Kindergarten/Our%20Partners/P2.jpg">
 
-![](/images/MOE%20Kindergarten/Our%20Partners/P4.jpg)
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
-Parents joined us in a gardening workshop as we collaborated with NParks to enhance the MK garden. 
+</figure>
 
-![](/images/MOE%20Kindergarten/Our%20Partners/P5.png)
-Parents organized a party for our teachers on Teachers’ Day. 
 
-![](/images/MOE%20Kindergarten/Our%20Partners/P6.jpg)
-Parents worked with teachers to host a Children’s Day celebration. 
+<figure>
+
+<img src="/images/MOE%20Kindergarten/Our%20Partners/P3.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/MOE%20Kindergarten/Our%20Partners/P4.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/MOE%20Kindergarten/Our%20Partners/P5.png">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/MOE%20Kindergarten/Our%20Partners/P6.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+ 
 
 **2.** **Kranji Primary School**
 
@@ -43,29 +69,29 @@ Immersion Programme at KPS.
 
   
 
-  
+ <figure>
 
-  
+<img src="/images/MOE%20Kindergarten/Our%20Partners/P8.jpg">
 
-  
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
-  
+</figure>
 
-  
+<figure>
 
-  
+<img src="/images/MOE%20Kindergarten/Our%20Partners/P9.jpg">
 
-![](/images/MOE%20Kindergarten/Our%20Partners/P8.jpg)
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
-The Scouts led our children in a tent-building activity. 
+</figure>
 
-![](/images/MOE%20Kindergarten/Our%20Partners/P9.jpg)
+<figure>
 
-Budding Champions Day: Through this sports event, our kindergarten students came together with the lower primary students to experience relay sports and learnt important school values of resilience and compassion.
+<img src="/images/MOE%20Kindergarten/Our%20Partners/P10.jpg">
 
-![](/images/MOE%20Kindergarten/Our%20Partners/P10.jpg)
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
-The primary school and kindergarten come together to celebrate major festivals throughout the year. Mid-Autumn Festival was one of them.   
+</figure>   
 
   
 
@@ -73,17 +99,34 @@ The primary school and kindergarten come together to celebrate major festivals t
 
 Collaboration with the community can also enhance the learning experience for our children.
 
-![](/images/MOE%20Kindergarten/Our%20Partners/P11.jpg)
+<figure>
 
-Inviting our neighbourhood policemen to give a talk to our children about their occupation and simple rules on safety. 
+<img src="/images/MOE%20Kindergarten/Our%20Partners/P11.jpg">
 
-![](/images/MOE%20Kindergarten/Our%20Partners/P12.jpg)
-Visiting a community garden in our neighbourhood gave children insights to being self-sufficient and growing our own plants and vegetables. 
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
-![](/images/MOE%20Kindergarten/Our%20Partners/P13.jpg)
+</figure>
 
- The Health Promotion Board hosted a mini carnival to guide children on cultivating good habits to keep healthy. 
+<figure>
 
-![](/images/MOE%20Kindergarten/Our%20Partners/P14.jpg)
+<img src="/images/MOE%20Kindergarten/Our%20Partners/P12.jpg">
 
-Start Small Dream Big Project: Through "Start Small Dream Big", we hope to encourage young children to use their own resources and creativity to give back to society, and in the process, instil the spirit of giving and good values such as care for others, humility, kindness and compassion.
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/MOE%20Kindergarten/Our%20Partners/P13.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/MOE%20Kindergarten/Our%20Partners/P14.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>

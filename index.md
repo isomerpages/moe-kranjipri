@@ -74,4 +74,10 @@ sections:
       url: /Testimonial-by-a-Parent/
       image: /images/News and Events/N7.jpg
       alt: Image alt text
+  - infopic:
+      description: I Love Kranji Primary - And You Will Too
+      button: Read More
+      url: /I-Love-Kranji-Primary-And-You-Will-Too/
+      image: /images/News and Events/N8.jpg
+      alt: Image alt text
 ---

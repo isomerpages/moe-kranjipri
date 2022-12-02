@@ -73,8 +73,56 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 
 <figure>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S1.jpg">
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S1NEW.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Flag bearers during National Day Observance Ceremony </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S2.jpg">
+
+<figcaption> <strong> Tent-pitching </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S3.jpg">
+
+<figcaption> <strong> West Area Cub Scout Field Day - Sarimbun Camp </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S4.jpg">
+
+<figcaption> <strong> Sing-a-long session with actions </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S5.jpg">
+
+<figcaption> <strong> Knots Tying Skill </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S6.jpg">
+
+<figcaption> <strong> First Aid - Arm Sling </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S7.jpg">
+
+<figcaption> <strong> West Area Cub Scout Leadership Course - Sarimbun Camp </strong> </figcaption>
 
 </figure>

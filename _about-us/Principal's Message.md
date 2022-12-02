@@ -5,17 +5,13 @@ description: ""
 ---
 <img style="width:30%;height:50%" src="/images/About%20Us/Principal's%20Message/P1.jpg">
 
-**
 
 Welcome to Kranji Primary School!  My colleagues and I have spent much time and effort to put together the content that you see on our website, which showcases the unique value propositions and rich programmes of our school.  Before you proceed, allow me to provide a short introduction of what is important to us, and has been keeping us busy.
 
-  
-
-  
 
 Nurturing Future-Ready Learners
 
-**
+
 
 Kranji Primary School is committed to provide a forward-looking learning experience in the school so that all our students can be future-ready at the end of their six years with us.  The **EXCITE Learning Approach (EX**periential, **C**haracter Focused, **I**nquiry Based, **T**echnology Mediated, Positive **E**ducation Driven) outlines what our Kranjians experience here in Kranji Primary on a daily basis, and is a consolidation of how learning is designed, curated and enacted in Kranji Primary School (KPS).  You can read more about it on our dedicated webpage [https://kranjipri.moe.edu.sg/our-curriculum/excite-learning-approach](https://kranjipri.moe.edu.sg/our-curriculum/excite-learning-approach).  
 

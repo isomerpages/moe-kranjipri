@@ -50,19 +50,12 @@ Science Club members can look forward to visiting Science Fairs, such as Singapo
   
 **Photos of Science Club students in action**  
   
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S1.jpg">
-Project: Design and make a portable chair for Senior Citizens
+
+<figure>
 
 <img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S2.jpg">
-Make use of recycled materials for their portable chair
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S3.jpg">
-Exploring the structure of the portable chair
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S4.jpg">
-Testing their prototype
+</figure>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S5.jpg">
-Science Club members taking part in the National Flight Simulation Challenge 2019
-
- <img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S6.jpg">

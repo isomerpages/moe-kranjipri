@@ -22,10 +22,11 @@ The ALP programme runs through a 3-tiered Approach – Experience, Inquire and H
 
 ##### **Junior Tinkering Programme**
 
-  
+ 
 
 The Junior Tinkering Programme was conceptualized to give our students a head start in developing 21st Century Competencies.  These competencies, such as critical and inventive thinking skills, communication, collaboration and information skills, are core to the ALP.  The Junior Tinkering Programme was designed in-house by our teachers and tailored for our Kranjians.  It is conducted as part of the curriculum for our students in Primary 1 and 2 on a weekly basis.
 
+**Primary 1- Tinkering Basics**
   
 <figure>
 
@@ -39,7 +40,7 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 
 <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP3.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Look....my red octopus can stand! </strong> </figcaption>
 
 </figure>
 
@@ -47,7 +48,7 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 
 <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP4.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Look at our 2D shapes </strong> </figcaption>
 
 </figure>
 
@@ -55,7 +56,7 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 
 <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP5.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> We built a strong and stable Truss Bridge </strong> </figcaption>
 
 </figure>
 
@@ -70,13 +71,15 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A5.jpg)
 
+**Highlights of the Innocarnival**
+
 <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP6.jpg">
 
 <figure>
 
 <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP7.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Young makers creating their own light-up cards </strong> </figcaption>
 
 </figure>
 
@@ -84,7 +87,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP8.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> What is Micro:bit? </strong> </figcaption>
 
 </figure>
 
@@ -92,7 +95,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP9.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Check out our cool Micro:bit watches! </strong> </figcaption>
 
 </figure>
 
@@ -100,7 +103,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP10.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Exploring how the Ozobot works </strong> </figcaption>
 
 </figure>
 
@@ -108,7 +111,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP11.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Setting the path for the Ozobot </strong> </figcaption>
 
 </figure>
 
@@ -120,25 +123,22 @@ Project Work unites the teaching and learning of Science and Mathematics in an i
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A9.jpg) 
 
-<figure>
+
 
 <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP12.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
-
-</figure>
 
 <figure>
 
 <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP13.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Primary 5 Young Environmentalist in action </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A11.jpg">
+<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A11.jpg">
 
 <figcaption> <strong> Primary 5 students with their portable Water Filtration System </strong> </figcaption>
 

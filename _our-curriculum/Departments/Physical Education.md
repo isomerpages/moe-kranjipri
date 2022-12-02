@@ -10,6 +10,7 @@ third_nav_title: Departments
 
 The purpose of physical education is to enable students to demonstrate individually and with others, the physical skills, practices and values to enjoy a lifetime of active, healthy living.
 
+
 ![](/images/Our%20Curriculum/Departments/Physical%20Education/P1.jpg) 
 
 The PE syllabus seeks to achieve the goals of physical education based on the framework above. Students learn fundamental movement skills incorporating the movement concepts. They develop efficiency, effectiveness and versatility in their performance as they practise and transfer their skills across the seven learning areas of Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical Health and Fitness, and Swimming to become competent movers. Through a balanced and well-designed curriculum, delivered through appropriate and effective pedagogies and meaningful assessment, students will acquire the knowledge, skills and values to live active and healthy lives.
@@ -47,46 +48,98 @@ In Kranji, a whole-school approach is adopted in promoting health and skill-rela
 
 **Dance**  
 
-![](/images/Our%20Curriculum/Departments/Physical%20Education/P3.jpg)
-Dancing in unison
 
-![](/images/Our%20Curriculum/Departments/Physical%20Education/P4.jpg)
-Time to modify the steps
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P3.jpg">
+
+<figcaption> <strong> Dancing in unison </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P4.jpg">
+
+<figcaption> <strong> Time to modify the steps </strong> </figcaption>
+
+</figure>
 
 **Games & Sports**
 
-![](/images/Our%20Curriculum/Departments/Physical%20Education/P5.jpg)
-Run to space, if not I cannot pass the ball!
+<figure>
 
-![](/images/Our%20Curriculum/Departments/Physical%20Education/P6.jpg)
-Getting ready to take a shot!
+<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P5.jpg">
+
+<figcaption> <strong> Run to space, if not I cannot pass the ball! </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P6.jpg">
+
+<figcaption> <strong> Getting ready to take a shot! </strong> </figcaption>
+
+</figure>
 
 **Gymnastics**
 
-![](/images/Our%20Curriculum/Departments/Physical%20Education/P7.jpg)
-Part of my sequence is to do a one-point balance
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P7.jpg">
+
+<figcaption> <strong> Part of my sequence is to do a one-point balance </strong> </figcaption>
+
+</figure>
 
   
 
 **Swimsafer 2.0 Programme**
 
-![](/images/Our%20Curriculum/Departments/Physical%20Education/P8.jpg)
-Keep your legs straight and kick up a storm!
+<figure>
 
-![](/images/Our%20Curriculum/Departments/Physical%20Education/P9.jpg)
-We look forward to each and every swimming class!
+<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P8.jpg">
+
+<figcaption> <strong> Keep your legs straight and kick up a storm! </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P9.jpg">
+
+<figcaption> <strong> We look forward to each and every swimming class! </strong> </figcaption>
+
+</figure>
 
 **Athletics**
 
-![](/images/Our%20Curriculum/Departments/Physical%20Education/P10.jpg)
-Building our stamina!
+<figure>
 
-![](/images/Our%20Curriculum/Departments/Physical%20Education/P11.jpg)
-Practising for crouch start. Ready, get set .....
+<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P10.jpg">
+
+<figcaption> <strong> Building our stamina! </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P11.jpg">
+
+<figcaption> <strong> Practising for crouch start.  Ready, get set ..... </strong> </figcaption>
+
+</figure>
 
   
 
 **Physical Health and Fitness**
 
-![](/images/Our%20Curriculum/Departments/Physical%20Education/P12.jpg)
-Assembly Talk to reinforce the importance of Healthy Eating
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P12.jpg">
+
+<figcaption> <strong> Assembly Talk to reinforce the importance of Healthy Eating </strong> </figcaption>
+
+</figure>

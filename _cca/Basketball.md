@@ -104,30 +104,3 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 </figure>
 
-
-
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B1.jpg">
-It's not the height, but the passion and skills that matter
-
-  
-
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B2.jpg">
-I have the ball and I'm not letting go!
-
-  
-
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B3.jpg">
-Look at the camera over there! Maybe I will have a chance to get the ball then
-
-  
-
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B4.jpg">
-I will overcome every obstacle. It does not matter who, what or how tall they are.
-
-
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B5.jpg">
-Anticipating a rebound. 
-
-
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B6.jpg">
-Behind every good player, there is a supportive team.

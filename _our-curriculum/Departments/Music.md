@@ -79,71 +79,113 @@ Our school has a structured whole-school approach to music learning through a 6-
 
       **P1 Creative Movement**
 
-![](/images/Our%20Curriculum/Departments/Music/M2.jpg)
 
-Let's move with the elastablast band, see how we flow together!
 
-  
+<figure>
 
-![](/images/Our%20Curriculum/Departments/Music/M3.jpg)
-Dancing gracefully with the scarves
+<img src="/images/Our%20Curriculum/Departments/Music/M2.jpg">
+
+<figcaption> <strong> Let's move with the elastablast band, see how we flow together! </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Music/M3.jpg">
+
+<figcaption> <strong> Dancing gracefully with the scarves </strong> </figcaption>
+
+</figure>
 
       **P2 Ethnic Drums**
 
-![](/images/Our%20Curriculum/Departments/Music/M4.jpg)
-What's the rhythm I can play on the Indian dhol?
+<figure>
 
-  
+<img src="/images/Our%20Curriculum/Departments/Music/M4.jpg">
 
-![](/images/Our%20Curriculum/Departments/Music/M5.jpg)
-Having fun beating on the Chinese drums and Indian dhol
+<figcaption> <strong> What's the rhythm I can play on the Indian dhol? </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Music/M5.jpg">
+
+<figcaption> <strong> Having fun beating on the Chinese drums and Indian dhol </strong> </figcaption>
+
+</figure>
 
   
 
       **P3 Boomwhackers**
 
-![](/images/Our%20Curriculum/Departments/Music/M6.jpg)
-Do-re-mi, making music with the boomwhackers
+<figure>
 
-  
+<img src="/images/Our%20Curriculum/Departments/Music/M6.jpg">
 
-![](/images/Our%20Curriculum/Departments/Music/M7.jpg)
-What is the next pitch to play?
+<figcaption> <strong> Do-re-mi, making music with the boomwhackers </strong> </figcaption>
 
-  
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Music/M7.jpg">
+
+<figcaption> <strong> What is the next pitch to play? </strong> </figcaption>
+
+</figure>
 
      **P4 GarageBand**
 
-![](/images/Our%20Curriculum/Departments/Music/M8.jpg)
-Exploring the musical loop with GarageBand
+<figure>
 
-  
+<img src="/images/Our%20Curriculum/Departments/Music/M8.jpg">
 
-![](/images/Our%20Curriculum/Departments/Music/M9.jpg)
-Creative juices flow while making audio tracks with smart instruments
+<figcaption> <strong> Exploring the musical loop with GarageBand </strong> </figcaption>
 
-  
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Music/M9.jpg">
+
+<figcaption> <strong> Creative juices flow while making audio tracks with smart instruments </strong> </figcaption>
+
+</figure>
 
      **P5 Ukelele**
 
-  
+<figure>
 
-![](/images/Our%20Curriculum/Departments/Music/M10.jpg)
-Strumming the chords and finding the right fingering is not an easy feat!
+<img src="/images/Our%20Curriculum/Departments/Music/M10.jpg">
 
-  
+<figcaption> <strong> Strumming the chords and finding the right fingering is not an easy feat! </strong> </figcaption>
 
-![](/images/Our%20Curriculum/Departments/Music/M11.jpg)
-Finally we can play a tune!
+</figure>
 
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Music/M11.jpg">
+
+<figcaption> <strong> Finally we can play a tune! </strong> </figcaption>
+
+</figure>
   
 
         **P6 Cajon**  
 
-![](/images/Our%20Curriculum/Departments/Music/M12.jpg)
-Encouraging socialization, self-expression and communication through Cajon
+<figure>
 
-  
+<img src="/images/Our%20Curriculum/Departments/Music/M12.jpg">
 
-![](/images/Our%20Curriculum/Departments/Music/M13.jpg)
-Let's keep the beat together - gaining confidence and teamwork through playing in an ensemble
+<figcaption> <strong> Encouraging socialization, self-expression and communication through Cajon </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/Music/M13.jpg">
+
+<figcaption> <strong> Let's keep the beat together - gaining confidence and teamwork through playing in an ensemble </strong> </figcaption>
+
+</figure>

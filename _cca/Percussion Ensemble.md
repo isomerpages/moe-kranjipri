@@ -43,16 +43,19 @@ Students will be able to:
 
 The Percussion Ensemble aims to enhance students’ musical learning experience by introducing them to various percussion instruments, both tuned and untuned. Students will play basic percussive rhythms and create music in an ensemble.  Through regular practices, students will have the opportunity to improve their musical skills while benefitting from performing in a ensemble.  To provide the Percussion Ensemble students with exposure and showcase their talents, students perform at School Assembly, Year-End Prize Giving Ceremony and participate in the biennial Singapore Youth Festival (SYF) Arts Presentation.
 
+##### **CCA Achievements**
+
+
   
 
 **Photos of Percussion Ensemble in action**
 
-  
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P1.jpg">
-What's the next rhythm?
+<figure>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P2.jpg">
-Tika, Tika, Titi, Ta!
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P1.jpg">
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P3.jpg">
-Drumsticks up and let's get ready!
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+

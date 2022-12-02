@@ -19,9 +19,9 @@ third_nav_title: Our People
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S1.jpg" alt="Angie1.jpg" width="178" height="221"></th>
-    <th class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S2.jpg" alt="Yong Chin1.jpg" width="176" height="228"></th>
-    <th class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S3.jpg" alt="bee leng_2021.jpg" width="160"></th>
+    <th class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S1.jpg" alt="Angie1.jpg"></th>
+    <th class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S2.jpg" alt="Yong Chin1.jpg"></th>
+    <th class="tg-5r95"><img src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S3.jpg" alt="bee leng_2021.jpg"></th>
   </tr>
 </thead>
 <tbody>

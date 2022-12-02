@@ -6,8 +6,24 @@ third_nav_title: Signature Programmes
 ---
 ##### **Nurturing Joyful Learners through Critical and Inventive Thinking**
 
+
+
+<div>
+
+<div style="float: right">
+
+<img style="width:30%;height:50%" src="images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP1.jpg" />
+
+</div><div>
+
+Nurturing Joyful Learners through Critical and Inventive Thinking embodies the school’s aspirations and drive in realising our school vision of ‘Joyful Learners, Gracious Citizens, Champions in Life’.   
+Rooted in our belief that “Every Kranjian Matters and Deserves the Best”,  
+the ALP programme is specially designed to develop critical and inventive Kranjians.  
   
-<img style="width:500%;height:100%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A1.png">
+
+The ALP programme runs through a 3-tiered Approach – Experience, Inquire and Hone, anchored by a strong foundation in the Sciences (Mathematics and Science curriculum). The ‘Experience’ and ‘Inquire’ tiers seek to provide opportunities for the masses while ‘Hone’ tier will promote the learning for interested and talented students. The approach is designed to allow students to deepen their appreciation and application of as they progress through each tier.
+
+
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A2.jpg)
 

@@ -26,6 +26,8 @@ The Junior Tinkering Programme (JTP) develops children in their critical and inv
 
 ![](/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/A1.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ve73KT46HCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **English Reading Programme** 
 
 Our reading programme focuses on the development and reinforcement of the key language skills (Reading, Oracy, Listening and Writing) through an enjoyment of the language and promotion of extensive reading. Students are exposed to a wide array of activities that are closely aligned to the STELLAR (Strategies for English Language Learning and Reading) programme to build a love for the language and master core language skills progressively. To develop a strong language foundation, students read, listen and view texts so that they can write about and discuss topics of relevance and interest to them. In addition, drama is used as a vehicle to complement the reading programme and to inject an element of fun in language learning. Such social engagement will encourage respectful, confident exchanges, as well as a love and enjoyment of the language that will greatly enhance the motivation to learn it. 

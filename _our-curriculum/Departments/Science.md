@@ -70,40 +70,40 @@ The After School Programme (ASP) for Science is designed to close the gaps in st
 
 ##### **Tips for parents**
 
-     **Inquiry @ Home**
+**Inquiry @ Home**
 
-           ·       Opportunities and exposure to science around them
+* Opportunities and exposure to science around them
 
-           ·       Promote self-initiated and self-directed learning
+* Promote self-initiated and self-directed learning
 
-           ·       Engaged further through questioning
+* Engaged further through questioning
 
-           ·       Making connections for the things around them
+* Making connections for the things around them
 
-    **Concept Building**
+**Concept Building**
 
-·       Mind maps or concepts maps
+* Mind maps or concepts maps
 
-·       Write science notes  (Science journal)
+* Write science notes  (Science journal)
 
-·       Discuss or talk it over with family or friends
+* Discuss or talk it over with family or friends
 
-·       Clarify with teachers
+* Clarify with teachers
 
 **Awe & Wonder at Home**
 
-     ·    Self-directed learners who will search and learn more deeply on their own through:
+* Self-directed learners who will search and learn more deeply on their own through:
 
-           ·       Toys
+* Toys
 
-           ·       Non-fiction books
+* Non-fiction books
 
-           ·       Newspaper articles
+* Newspaper articles
 
-           ·       Science magazines
+* Science magazines
 
-           ·       Television programmes
+* Television programmes
 
-           ·       Online research (Science websites or quizzes)
+* Online research (Science websites or quizzes)
 
-           ·       Online interactive simulations or videos
+* Online interactive simulations or videos

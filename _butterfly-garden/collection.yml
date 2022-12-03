@@ -2,6 +2,7 @@ collections:
   butterfly-garden:
     output: true
     order:
+      - Plant 8 Juniperus horizontalis.md
       - Plant 9 Melastoma malabathcirum.md
       - Plant 10 Opuntia basilaris.md
       - Plant 11 Echinocactus grusonii.md

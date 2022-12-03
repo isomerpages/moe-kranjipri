@@ -36,7 +36,7 @@ description: ""
 
 <div style="float: left">
 
-<a href="https://www.google.com/maps/@1.3937359,103.7477512,3a,75y,174.69h,89.64t/data=!3m7!1e1!3m5!1sAF1QipMsWiiKpnPUGZxU4TL_8l7WlfmA3UbtZmOE1uZ6!2e10!3e12!7i13200!8i6600">
+<a href="https://www.google.com/maps/@1.3937359,103.7477512,3a,75y,174.69h,89.64t/data=!3m7!1e1!3m5!1sAF1QipMsWiiKpnPUGZxU4TL_8l7WlfmA3UbtZmOE1uZ6!2e10!3e12!7i13200!8i6600" target = "_blank">
 
 <figure>
 <img src="/images/MOE%20Kindergarten/Learning%20Environment/L1.jpg" style="width:50%">

@@ -40,19 +40,19 @@ We are a group of parents who play a key role in inspiring our fellow PSG member
 
 ### **Our Roles:**
 
-v   To be the Bridge Between Parents and School  
+* To be the Bridge Between Parents and School  
 
-·         We facilitate school's communication to parents
+>We facilitate school's communication to parents
 
-·         We listen to parents' feedback and contribute constructive feedback / ideas to improve the PSG and the school
+>We listen to parents' feedback and contribute constructive feedback / ideas to improve the PSG and the school
 
   
 
-v   To be a Magnet to Attract Other Parents
+* To be a Magnet to Attract Other Parents
 
-·         We reach out to other fellow KPS parents and involve them in contribution to make the school environment more conducive for learning.
+>We reach out to other fellow KPS parents and involve them in contribution to make the school environment more conducive for learning.
 
-·         We support and guide our fellow KPS parents in their Parenting journey
+>We support and guide our fellow KPS parents in their Parenting journey
 
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P3.jpg)
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P4.jpg)

@@ -82,5 +82,19 @@ Your Children's information will be populated automatically by MOE.
 
 22. **For vaccination record handed in to school, do I need to ask HPB for additional proof or just send our original overseas vaccination record?**  
 All children (Singapore Citizens and Non-Singapore Citizens) should have completed the necessary immunication before entry into P1. Please download a copy of your child's immunization records via the online form link indicated in our letter of 15 Oct (SC/SPR) and 9 Nov (non-SC/SPR)  
-Parents may retrieve your child's immunization records from the National Immunization Registry at [http://www.nir.hpb.gov.sg](http://www.nir.hpb.gov.sg) or call HPB Healthline at 2800-223 1313 or write to hpb_nir@hpb.gov.sg for clarification of your child's immunization requirements.
+Parents may retrieve your child's immunization records from the National Immunization Registry at [http://www.nir.hpb.gov.sg](http://www.nir.hpb.gov.sg) or call HPB Healthline at 1800-223 1313 or write to hpb_nir@hpb.gov.sg for clarification of your child's immunization requirements.
+
+##### **School Matters**
+
+23. **Can a student bring a smart phone or a smart watch to school?**  
+We do not encourage students to bring devices to school, unless required to do so by the school (i.e P4 1:1 Learning Experience). For parents who wish to have their child bring a handphone in order to contact them, please note that you may do so, however use of handphones will not be allowed during school hours.
+
+24. **What is the earliest time the student can go to school?**  
+Children are advised not to arrive too early. After 7am would be the recommended time.
+
+25. **Are there any buddy systems during the early days of school?**  
+KPS practises a buddy system, but is cognisant of the current pandemic situation, where we do not allot intermingling of students across classes and cohorts. There will be three Form Teachers per class and your child will be well supported.
+
+26. **With all the new singapore systems and my belief that KPS has wonderful systems put in place, how does KPS recognise each student's IQ and capability?**  
+We provide holistic education for our children, focusing on a wide range of learning and development across all domains. for children with higher ability, we have our suite of talent development programmes in all subject areas. Children with learning or behavioural needs are provided with greater support to address their needs with trained personnel through established intervention programmes. you may check out our school's website for more information
 

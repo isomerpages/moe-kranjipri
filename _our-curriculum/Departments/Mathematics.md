@@ -11,7 +11,7 @@ The central focus of the Mathematics Framework is mathematical problem solving, 
 
 ![](/images/Our%20Curriculum/Departments/Mathematics/M1.png)
 
-Source: [](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics_syllabus_primary_1_to_6.pdf) [Mathematics\_syllabus\_primary\_1\_to\_6.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics_syllabus_primary_1_to_6.pdf)   
+ 
   
 
 ##### **Department Pedagogy**
@@ -132,32 +132,32 @@ We have a structured approach to support students’ development of basic numera
 
 Help to develop number sense in the following ways:
 
- Make Math fun at home by playing games involving math concepts. Games can be used to promote critical thinking and reasoning skills.
+*  Make Math fun at home by playing games involving math concepts. Games can be used to promote critical thinking and reasoning skills.
 
-  Look for Math around us and talk about how it relates/connects to real-life situations
+* Look for Math around us and talk about how it relates/connects to real-life situations
 
-  Encourage explanation of his/her thinking or reasoning when solving math problems
+* Encourage explanation of his/her thinking or reasoning when solving math problems
 
-  Encourage right attitude to respond positively to errors
+* Encourage right attitude to respond positively to errors
 
-   Always check his/her work before submission
+> Always check his/her work before submission
 
-   Identify own errors
+> Identify own errors
 
-   Reflect what has gone wrong
+> Reflect what has gone wrong
 
-  Correct the errors 
+> Correct the errors 
 
- Encourage speed and accuracy in recalling basic math facts to strengthen basic calculation skills:
+* Encourage speed and accuracy in recalling basic math facts to strengthen basic calculation skills:
 
-   Commit to memory - Multiplication table
+> Commit to memory - Multiplication table
 
-   Conversions of units/fractions/decimals/percentage
+> Conversions of units/fractions/decimals/percentage
 
 **In preparation of Math examinations:**
 
- Do not over-do home-based practice papers
+* Do not over-do home-based practice papers
 
- Enable your child to do full practice papers in one sitting (within the stipulated time)
+* Enable your child to do full practice papers in one sitting (within the stipulated time)
 
-Encourage good time management
+* Encourage good time management

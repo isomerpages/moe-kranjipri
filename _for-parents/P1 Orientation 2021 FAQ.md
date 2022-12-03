@@ -98,3 +98,12 @@ KPS practises a buddy system, but is cognisant of the current pandemic situation
 26. **With all the new singapore systems and my belief that KPS has wonderful systems put in place, how does KPS recognise each student's IQ and capability?**  
 We provide holistic education for our children, focusing on a wide range of learning and development across all domains. for children with higher ability, we have our suite of talent development programmes in all subject areas. Children with learning or behavioural needs are provided with greater support to address their needs with trained personnel through established intervention programmes. you may check out our school's website for more information
 
+27. **will there be more sports CCA introduced in the future such as badminton, netball etc.?**  
+CCA is offered from Primary 3. Basketball and Soccer are the current sports CCA options. However, the school continually reviews our choice of CCAs. The Physical Education curriculum also provides children with opportunity to experience different sports and games.
+
+##### **Miscellaneous**
+
+28. **Are there COVID-19 positive cases in KPS so far? How is KPS dealing with the pandemic situation?**  
+Our School has all the processes in place to ensure that the school is safe for all our children. That includes measures like mask wearing, safe distancing, frequent handwashing, and wipe-down routine. Our students are frequently briefed and reminded to be socially responsible and practise personal hygiene
+
+1. 

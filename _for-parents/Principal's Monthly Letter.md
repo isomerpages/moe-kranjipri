@@ -27,4 +27,3 @@ description: ""
 22. [2021 P1 Parent Briefing Slides](/files/For%20Parents/Principal's%20Monthly%20Letter/P_Briefing_P1_2021_For%20Website.pdf)
 23. [P1 Start of School 2021](/files/For%20Parents/Principal's%20Monthly%20Letter/P1%20Start%20of%20School%202021.pdf)
 24. [P2 to P6 Start of School 2021](/files/For%20Parents/Principal's%20Monthly%20Letter/P2%20to%20P6%20Start%20of%20School%202021.pdf)
-25. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/P2%20to%20P6%20Start%20of%20School%202021.pdf" target = "\_blank"> P2 to P6 Start of School 2021

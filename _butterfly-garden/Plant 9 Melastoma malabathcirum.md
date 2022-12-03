@@ -3,20 +3,23 @@ title: Plant 9 Melastoma malabathcirum
 permalink: /butterfly-garden/Plant-9-Melastoma-malabathcirum/
 description: ""
 ---
-Singapore Rhododendron
-----------------------
+#### **Singapore Rhododendron**
+
 
 **Melastoma malabathcirum**  
   
 
-<table class="iveo_table ives_tab_simple3 ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid rgb(170, 170, 170); width: 867.406px; height: 69px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 208px;"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Plant Growth Form</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 659px;"><span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp; &nbsp;</span>Shrub (Woody)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">&nbsp;<b style="margin: 0px; outline: 0px; padding: 0px;">Native distribution :</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp; &nbsp; Indian Ocean, China, Taiwan, South and Southeast Asia (including Singapore), Australia and South<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp; &nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;<span>&nbsp;</span></span>Pacific</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Maximum Height :&nbsp;</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 60px;"><span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp; &nbsp; 1 m to 5 m</span><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
+|                        |                                                                                                                     |
+|------------------------|---------------------------------------------------------------------------------------------------------------------|
+|    **Plant Growth Form**   |     Shrub (Woody)                                                                                                   |
+|  **Native distribution** : |     Indian Ocean, China, Taiwan, South and Southeast Asia (including Singapore), Australia and South        Pacific |
+|    **Maximum Height** :    |     1 m to 5 m                                                                                                      |
   
   
    
-**Description :  
+**Description :**  
   
-**![Plant 9. Melastoma malabatricum.png](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Departments/Instructional%20Programme/Science/Butterfly%20Garden/Plant%209.%20Melastoma%20malabatricum.png)
+<img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B9.png">
 
 **Growth Form**: It is a shrub or small tree up to 5 m tall. Its stems reddish, covered with small scales.
 

@@ -2,6 +2,7 @@ collections:
   butterfly-garden:
     output: true
     order:
+      - Plant 2 Ixora Sunkist.md
       - Plant 3 Calliandra emarginata.md
       - Plant 4 Stachytarpheta indica.md
       - Plant 5 Jasminum grandiflorum.md

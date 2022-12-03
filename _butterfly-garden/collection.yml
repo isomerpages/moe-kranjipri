@@ -2,6 +2,7 @@ collections:
   butterfly-garden:
     output: true
     order:
+      - Plant 13 Stapelia gigantea.md
       - Plant 14 Crassula ovata.md
       - Plant 15 Euphorbia milii.md
       - Plant 17 Buddleja asiatica.md

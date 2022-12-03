@@ -75,19 +75,19 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
   
 
-   1.    Experimentation: Broad-based Learning of Art during Art lessons.
+1. Experimentation: Broad-based Learning of Art during Art lessons.
 
   
 
-   2.   Exploration: Exploration of different art genres, including Printmaking, Digital Photography, Basic Ceramic Handbuilding and Digital Manga. The inclusion of digital media is also in line with MOE Art Unit's curriculum shift towards New Media. Professional Artist are tapped on to impart their professional knowledge in different art genres and to complement the expertise of the art teachers.
+2. Exploration: Exploration of different art genres, including Printmaking, Digital Photography, Basic Ceramic Handbuilding and Digital Manga. The inclusion of digital media is also in line with MOE Art Unit's curriculum shift towards New Media. Professional Artist are tapped on to impart their professional knowledge in different art genres and to complement the expertise of the art teachers.
 
   
 
-   3.        Exposure: Opportunities for students to be exposed to artworks by master artists through a Learning Journey to National Gallery at Primary 4 and to practising artists through school Assembly Programmes.
+3. Exposure: Opportunities for students to be exposed to artworks by master artists through a Learning Journey to National Gallery at Primary 4 and to practising artists through school Assembly Programmes.
 
   
 
-   4.        Expression: Opportunities for students to showcase their talents at various platforms such as our Annual Art Exhibition and Doodle Wall in the canteen.
+4. Expression: Opportunities for students to showcase their talents at various platforms such as our Annual Art Exhibition and Doodle Wall in the canteen.
 
   
 

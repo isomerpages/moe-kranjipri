@@ -13,16 +13,12 @@ Student Care Centre (SCC) @ Kranji Primary School aims to provide a safe, struct
 
 **Student Care Centre Operation Hour**
 
-**School Term:**  1.30pm to 7.00pm
-
+**School Term:**  1.30pm to 7.00pm   
 **School Holiday:** 7.30am to 7.00pm
-
-  
 
 **Office Operation Hour**
 
-**School Term:**  10.00am to 7.00pm
-
+**School Term:**  10.00am to 7.00pm  
 **School Holiday:** 10.00am to 7.00pm
 
   

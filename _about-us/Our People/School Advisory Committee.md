@@ -6,4 +6,4 @@ third_nav_title: Our People
 ---
 #### **School Advisory Committee**
 
-![](/images/About%20Us/Our%20People/School%20Advisory%20Committee/SAC%20Organization%20Chart_Aug%202021.jpg)
+<img style="width:150%;height:50%" src="/images/About%20Us/Our%20People/School%20Advisory%20Committee/SAC%20Organization%20Chart_Aug%202021.jpg">

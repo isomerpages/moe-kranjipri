@@ -1,4 +1,5 @@
 collections:
   butterfly-garden:
     output: true
-    order: []
+    order:
+      - Plant 24 Thunbergia grandiflora.md

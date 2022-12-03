@@ -58,7 +58,7 @@ description: ""
 
 <div style="float: left">
 
-<a href="https://www.google.com/maps/@1.3936831,103.7478275,3a,75y,52.96h,89.71t/data=!3m6!1e1!3m4!1sAF1QipPoRAidGgWbD08PSSDsjvYM5r_BeRqEvcRJhJul!2e10!7i13200!8i6600?shorturl=1">
+<a href="https://www.google.com/maps/@1.3936831,103.7478275,3a,75y,52.96h,89.71t/data=!3m6!1e1!3m4!1sAF1QipPoRAidGgWbD08PSSDsjvYM5r_BeRqEvcRJhJul!2e10!7i13200!8i6600?shorturl=1" target = "_blank">
 
 <figure>
 <img src="/images/MOE%20Kindergarten/Learning%20Environment/L1.jpg" style="width:50%">
@@ -82,7 +82,7 @@ description: ""
 
 <div style="float: left">
 
-<a href="https://www.google.com/maps/@1.3937061,103.7478026,3a,75y,292.98h,80.16t/data=!3m6!1e1!3m4!1sAF1QipPi_HOBcOHqZwJ3-tboGGEEoT24UtI1PYjXy0Rn!2e10!7i13200!8i6600?shorturl=1">
+<a href="https://www.google.com/maps/@1.3937061,103.7478026,3a,75y,292.98h,80.16t/data=!3m6!1e1!3m4!1sAF1QipPi_HOBcOHqZwJ3-tboGGEEoT24UtI1PYjXy0Rn!2e10!7i13200!8i6600?shorturl=1" target = "_blank">
 
 <figure>
 <img src="/images/MOE%20Kindergarten/Learning%20Environment/L1.jpg" style="width:50%">

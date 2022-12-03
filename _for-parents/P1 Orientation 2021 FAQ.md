@@ -44,3 +44,23 @@ A softcopy of the Y2022 P1 book list indicating the number of exercise books or 
 10. **Can we purchase or colelct the P1 books physically in school?**
 11. **Can we buy the uniform in school as it is difficult to check the suitable size for my child?**
 Due to current COVID-19 situation, parents are strongly encouraged to purchase the school textbooks and uniforms via the online channels. The details are provided in our letter dated 15 Oct (SC/SPR) and 9 Nov (non-SC/SPR). Parents who are unable to purchase via online channels can buy the textbooks/uniforms in school during the School Holidays strictly on an appointment basis. Due to safe management considerations, we seek your understanding that the daily number of parents allowed into the school is restricted. A separate letter will be issued to parents by 19 Nov to advise them on how to book an appointment to purchase school textbooks and uniforms in school.
+
+12. **Is it compulsory to purchase the school's shoes? Could you provide the size guide as it is not stated in the website?**  
+All black shoes and socks would be acceptable. The shoes should be all black.
+
+13. **Will the girls be allowed to wear long track pants for PE lessons?**  
+The school uniform does not include track pants for PE. Please approach your child's Form Teacher if you have any concerns.
+
+##### **Student Care**
+
+14. **Is student care only open for P3? There is nothing in place for P1?**  
+Student care is open for P1 (Singaporean or Singapore Permanent Resident_ students and older
+
+15. **Will Phase 3 students have a chance of getting a place in the Student Care within the school?**  
+Due to limited vacancies, the SCC services are available to only SC/SPR students with no after-school care arrangement. The school may consider requests from non-SC/SPR students on an exceptional basis and subject to availability after admission of all eligible SC/SPR students.
+
+16. **I have expressed interest in the Nascans Student Care in Kranji Primary. May I know when is the registration date and when will we know if we are given a slot?**  
+If you have submitted your Expression of Interest for the SCC services (SC/SPR students), our SCC operator (Nascans Pte Ltd) will be contacting you in the course of next week if your request is approved. If your request is not approved, the school will inform you directly.
+
+17. **What happens in student care? Any teaching done?**  
+Student Care Centre (SCC) @ Kranji Primary School aims to provide a safe, structured and conducive environment for our students to rest and learn after school hours. In Kranji Primary School, we partner NASCANS Pte Ltd to provide quality after-school care. The SCC programmes are designed to focus on students' after-school care needs and to provide opportunities for them to develop social and emotional competencies and nurture healthy relationships. You may refer to 

@@ -62,7 +62,7 @@ It is a powerful teaching tool to capture the attention of students in the class
 
 Our drama activities include: 
 
-!![](/images/Our%20Curriculum/Departments/English/E8.png)
+![](/images/Our%20Curriculum/Departments/English/E8.png)
 
 ![](/images/Our%20Curriculum/Departments/English/E9.png)
 

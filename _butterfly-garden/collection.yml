@@ -2,6 +2,7 @@ collections:
   butterfly-garden:
     output: true
     order:
+      - Plant 19 Mussaenda erythrophylla.md
       - Plant 20 Wrightia religiosa.md
       - Plant 21 Citrus microcarpa.md
       - Plant 22 Antigonon leptopus.md

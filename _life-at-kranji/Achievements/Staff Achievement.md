@@ -29,7 +29,7 @@ third_nav_title: Achievements
     <td class="tg-9hzb" colspan="2">Staff</td>
   </tr>
   <tr>
-    <td class="tg-zr06" colspan="3">MOE Service Excellence Award (MSEA) 2022<br><br>1 Platinum<br>2 Gold<br>8 Silver<br><img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A1.png" alt="MSEA 2022.png" width="533" height="299"></td>
+    <td class="tg-zr06" colspan="3">MOE Service Excellence Award (MSEA) 2022<br><br>1 Platinum<br>2 Gold<br>8 Silver<br><img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/SANEW1.png" alt="MSEA 2022.png" width="533" height="299"></td>
     <td class="tg-tsok" colspan="2"><span style="color:#222"> Mr Tan</span> <span style="color:#222">Chin</span> Hong (OM)<span style="color:#222;background-color:initial"> Mdm Ang Yue Quin Sherin (AM)</span><br><span style="color:#222;background-color:initial"> Mdm Subaidah Bte Syed Ahmad</span><br><span style="color:#222;background-color:initial"> Mdm Ida Fittri Binte Arifin</span><br><span style="color:#222;background-color:initial"> Mdm K Rajeswary</span><br><span style="color:#222;background-color:initial"> Mdm Poh Lay Hong</span><br><span style="color:#222;background-color:initial"> Mr Tan Tien Leng  (Senior School Counsellor)                </span><br><span style="color:#222;background-color:initial"> Miss Ting Pui Sin</span><br><span style="color:#222;background-color:initial"> Mdm Wong Wai Leng</span><br><span style="color:#222;background-color:initial"> Mdm Yak Hui Hwa (SH/ICT)</span><br><span style="color:#222;background-color:initial"> Miss Yeo Hwee Koon (AM)</span><br></td>
   </tr>
   <tr>

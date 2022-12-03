@@ -54,7 +54,9 @@ We are a group of parents who play a key role in inspiring our fellow PSG member
 
 >We support and guide our fellow KPS parents in their Parenting journey
 
-![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P3.jpg)
+  
+<img style="width:160%;height:100%" src="/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P3.jpg">
+
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P4.jpg)
 
 ### PSG Involvement

@@ -106,4 +106,8 @@ CCA is offered from Primary 3. Basketball and Soccer are the current sports CCA 
 28. **Are there COVID-19 positive cases in KPS so far? How is KPS dealing with the pandemic situation?**  
 Our School has all the processes in place to ensure that the school is safe for all our children. That includes measures like mask wearing, safe distancing, frequent handwashing, and wipe-down routine. Our students are frequently briefed and reminded to be socially responsible and practise personal hygiene
 
-1. 
+29. **Are all the Parent Engagement sessions via Zoom?**  
+Depending on the pandemic situation, the school will decide what the best mode is for the engagement sessions and will keep parents informed.
+
+30. **May I know the bus routes and stops for school bus service?**  
+Please contact the school bus service provider to enquire directly.

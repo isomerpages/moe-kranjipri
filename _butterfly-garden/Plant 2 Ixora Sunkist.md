@@ -3,8 +3,6 @@ title: Plant 2 Ixora Sunkist
 permalink: /butterfly-garden/Plant-2-Ixora-Sunkist/
 description: ""
 ---
-<img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B1.jpg">
-
 #### **Jungle Flame**
 
 

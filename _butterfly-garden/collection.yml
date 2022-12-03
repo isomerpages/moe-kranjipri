@@ -2,4 +2,5 @@ collections:
   butterfly-garden:
     output: true
     order:
+      - Plant 23 Tristellateia australasiae.md
       - Plant 24 Thunbergia grandiflora.md

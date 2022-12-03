@@ -9,7 +9,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-1-Asystasia-intrusia/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B1.jpg">
 
@@ -20,7 +20,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-2-Ixora-Sunkist/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B2.png">
 
@@ -31,7 +31,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-3-Calliandra-emarginata/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B3.png">
 
@@ -42,7 +42,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-4-Stachytarpheta-indica/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B4.png">
 
@@ -53,7 +53,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-5-Jasminum-grandiflorum/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B5.png">
 
@@ -64,7 +64,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-6-Murraya-koenigii/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B6.png">
 
@@ -75,7 +75,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-7-Lantana-Camara/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B7.png">
 
@@ -86,7 +86,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-8-Juniperus-horizontalis/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B8.jpg">
 
@@ -97,7 +97,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-9-Melastoma-malabathcirum/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B9.png">
 
@@ -108,7 +108,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-10-Opuntia-basilaris/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B10.png">
 
@@ -119,7 +119,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-11-Echinocactus-grusonii/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B11.png">
 
@@ -130,7 +130,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-12-Opuntia-cochenillifera/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B12.png">
 
@@ -141,7 +141,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-13-Stapelia-gigantea/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B13.png">
 
@@ -152,7 +152,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-14-Crassula-ovata/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B14.png">
 
@@ -163,7 +163,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-15-Euphorbia-milii/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B15.png">
 
@@ -174,7 +174,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-17-Buddleja-asiatica/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B16.jpg">
 
@@ -185,7 +185,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-18-Caesalpinia-pulcherrima/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B17.png">
 
@@ -196,7 +196,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-19-Mussaenda-erythrophylla/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B18.png">
 
@@ -207,7 +207,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-20-Wrightia-religiosa/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B19.png">
 
@@ -218,7 +218,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-21-Citrus-microcarpa/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B20.png">
 
@@ -229,7 +229,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-22-Antigonon-leptopus/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B21.png">
 
@@ -240,7 +240,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-23-Tristellateia-australasiae/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B22.png">
 
@@ -251,7 +251,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 <br>
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "_blank">
+<a href="/butterfly-garden/Plant-24-Thunbergia-grandiflora/" target = "_blank">
 
 <img style="width:50%" src="/images/Butterfly%20Garden/B23.png">
 

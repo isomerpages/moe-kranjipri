@@ -13,8 +13,6 @@ The following diagram presents the key features of the EL Syllabus 2020 undergir
 ![](/images/Our%20Curriculum/Departments/English/E1.png)
 
 
-Source: [](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/primary_els-2020-_syllabus.pdf) [Primary\_els 2020 \_syllabus.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/primary_els-2020-_syllabus.pdf)   
-
 ##### **Department Pedagogy**
 
   

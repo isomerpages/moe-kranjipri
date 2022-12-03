@@ -213,16 +213,16 @@ The Mother Tongue Talent Development Programme (TDP) is designed to nurture prom
 
 ##### **Tips for parents**
 
-      ·       Speak to your child in MTL whenever possible.
+* Speak to your child in MTL whenever possible.
 
-      ·       Show interest in your child’s MTL learning experiences and encourage him or her to share them with you
+* Show interest in your child’s MTL learning experiences and encourage him or her to share them with you
 
-      ·    Have regular conversation with your child about his/her experience in class.
+* Have regular conversation with your child about his/her experience in class.
 
-      ·       Cultivate good **reading habits** (reading together). Reading resources includes books, newspapers, magazines, online          resources, etc.)
+* Cultivate good **reading habits** (reading together). Reading resources includes books, newspapers, magazines, online          resources, etc.)
 
-*     Encourage and accompany your child to watch suitable TV programmes in MTL.
+* Encourage and accompany your child to watch suitable TV programmes in MTL.
 
-      ·       Use physical and digital resources to help your child revise the vocabulary and learning content.
+* Use physical and digital resources to help your child revise the vocabulary and learning content.
 
-      ·       Make use of objects in the environment to engage your child in **conversations**.
+* Make use of objects in the environment to engage your child in **conversations**.

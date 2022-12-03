@@ -2,6 +2,7 @@ collections:
   butterfly-garden:
     output: true
     order:
+      - Plant 21 Citrus microcarpa.md
       - Plant 22 Antigonon leptopus.md
       - Plant 23 Tristellateia australasiae.md
       - Plant 24 Thunbergia grandiflora.md

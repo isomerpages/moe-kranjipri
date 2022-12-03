@@ -63,4 +63,24 @@ Due to limited vacancies, the SCC services are available to only SC/SPR students
 If you have submitted your Expression of Interest for the SCC services (SC/SPR students), our SCC operator (Nascans Pte Ltd) will be contacting you in the course of next week if your request is approved. If your request is not approved, the school will inform you directly.
 
 17. **What happens in student care? Any teaching done?**  
-Student Care Centre (SCC) @ Kranji Primary School aims to provide a safe, structured and conducive environment for our students to rest and learn after school hours. In Kranji Primary School, we partner NASCANS Pte Ltd to provide quality after-school care. The SCC programmes are designed to focus on students' after-school care needs and to provide opportunities for them to develop social and emotional competencies and nurture healthy relationships. You may refer to 
+Student Care Centre (SCC) @ Kranji Primary School aims to provide a safe, structured and conducive environment for our students to rest and learn after school hours. In Kranji Primary School, we partner NASCANS Pte Ltd to provide quality after-school care. The SCC programmes are designed to focus on students' after-school care needs and to provide opportunities for them to develop social and emotional competencies and nurture healthy relationships. You may refer to [/for-parents/Student-Care-Centre/](/for-parents/Student-Care-Centre/) for more information about the SCC programme at Kranji Primary.
+
+##### **Admin Matters**
+
+18. **When will I get the student admission form?**  
+Please refer to our letter dated 15 Oct (SC/SPR) and 9 Nov (non-SC/SPR). The 2022 P1 Student Admission Form link can be found in the table under Section A of the letter. If unsure, please contact the school for the form link to be resent to you.
+
+19. **How can I get the student data form (hardcopy) and student ID?**  
+**Hardcopy** Student Data form is applicable only for non-SC/SPR students. The school had contacted the parents to collect the for,. For SC/SPR students, the school would provide more details on the **online** submission of this form in early December.
+
+20. **I have installed the Parent Gateway app but my child's name is not there. Could you let me know what we need to do?**  
+For parents of SC/SPR children (except newly transferred in students), you should be able to see your child's record registered under Kranji Primary School if you have successfully logged into Parents Gateway.   
+For parents of non-SC/SPR children and newly transgerred in students from other schools, you should be able to see your child's record registered under Kranji Primary School in Parents Gateway after 29 November 2021. If you still do not see your child's record in Parents Gateway after 29 November 2021, please call the school at 6763-4812 for further assistance.
+
+21. **Would like to check how to add another child into Parents Gateway App?**  
+Your Children's information will be populated automatically by MOE.
+
+22. **For vaccination record handed in to school, do I need to ask HPB for additional proof or just send our original overseas vaccination record?**  
+All children (Singapore Citizens and Non-Singapore Citizens) should have completed the necessary immunication before entry into P1. Please download a copy of your child's immunization records via the online form link indicated in our letter of 15 Oct (SC/SPR) and 9 Nov (non-SC/SPR)  
+Parents may retrieve your child's immunization records from the National Immunization Registry at [http://www.nir.hpb.gov.sg](http://www.nir.hpb.gov.sg) or call HPB Healthline at 2800-223 1313 or write to hpb_nir@hpb.gov.sg for clarification of your child's immunization requirements.
+

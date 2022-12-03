@@ -135,22 +135,22 @@ The MOE's School-based Dyslexia Remediation programme is a two-year intervention
 
 **Tips for parents**
 
-·       Provide good home support.
+* ·       Provide good home support.
 
-è Encourage your child to develop a good reading habit. Make frequent visits to the library and provide access to different genres
+> Encourage your child to develop a good reading habit. Make frequent visits to the library and provide access to different genres
 
-è Be a good role model. Read to them, write notes and speak Standard English to your child
+> Be a good role model. Read to them, write notes and speak Standard English to your child
 
-è Listen to English news on the radio or television
+> Listen to English news on the radio or television
 
-è Encourage your child to express his/her opinion on current news, stories or events
+> Encourage your child to express his/her opinion on current news, stories or events
 
-·       Develop good penmanship from young
+*   Develop good penmanship from young
 
-·       Encourage the use of dictionary to improve vocabulary
+* Encourage the use of dictionary to improve vocabulary
 
-·       Encourage purposeful writing e.g. grocery list, planning a holiday, journal of important events, postcard
+* Encourage purposeful writing e.g. grocery list, planning a holiday, journal of important events, postcard
 
-·       Make revision notes – grammar rules, commonly misspelt words, good words and phrases
+* Make revision notes – grammar rules, commonly misspelt words, good words and phrases
 
-·       Use annotation strategies during the reading of comprehension texts
+* Use annotation strategies during the reading of comprehension texts

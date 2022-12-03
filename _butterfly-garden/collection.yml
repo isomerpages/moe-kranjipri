@@ -2,6 +2,7 @@ collections:
   butterfly-garden:
     output: true
     order:
+      - Plant 17 Buddleja asiatica.md
       - Plant 18 Caesalpinia pulcherrima.md
       - Plant 19 Mussaenda erythrophylla.md
       - Plant 20 Wrightia religiosa.md

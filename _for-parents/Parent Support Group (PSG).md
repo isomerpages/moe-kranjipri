@@ -129,4 +129,5 @@ Together with the school, parents play an important role in enriching our childr
 
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P11.jpg)
 
+**Parenting Talk**
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P12.jpg)

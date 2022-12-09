@@ -13,7 +13,7 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-  <tr>
+  <tr> 
     <th class="tg-0lax">1. 2022 Principal's Letter to Parents - Nov</th>
     <th class="tg-0lax"></th>
   </tr>

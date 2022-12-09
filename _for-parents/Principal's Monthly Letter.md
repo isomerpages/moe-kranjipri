@@ -3,30 +3,117 @@ title: Principal's Monthly Letter
 permalink: /for-parents/Principals-Monthly-Letter/
 description: ""
 ---
-1. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Oct22.pdf" target="\_blank">2022 Principal's Letter to Parents - Oct</a>
-3. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Sep22.pdf" target="\_blank">2022 Principal's Letter to Parents - Sept</a>
-
-4. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Aug22.pdf" target="\_blank">2022 Principal's Letter to Parents - Aug</a>
-
-6. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Jul22.pdf" target="\_blank">2022 Principal's Letter to Parents - Jul</a>
-
-7. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20May22.pdf" target="\_blank">2022 Principal's Letter to Parents - May</a>
-8. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Apr22.pdf" target="\_blank">2022 Principal's Letter to Parents - Apr</a>
-9. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Mar22.pdf" target="\_blank">2022 Principal's Letter to Parents - Mar</a>
-10. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Feb22.pdf" target="\_blank">2022 Principal's Letter to Parents - Feb</a>
-11. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Jan22.pdf" target="\_blank">2022 Principal's Letter to Parents - Jan</a>
-12. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20to%20Parents_2022%20P1_Beginning%20of%20School_final.pdf" target="\_blank">2022 Principal's Letter to Parents\_P1 Beginning of School</a>
-13. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20to%20Parents_2022%20P2%20to%20P6_Beginning%20of%20School_final.pdf" target="\_blank">2022 Principal's Letter to Parents\_P2 to P6 Beginning of School</a>
-14. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/KPS%20Principals%20Letter%20Nov%202021.pdf" target="\_blank">2021 Principal's Letter to Parents - Nov</a>
-15. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/KPS%20Principals%20Letter%20Oct%202021.pdf" target="\_blank">2021 Principal's Letter to Parents - Oct</a>
-16. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/KPS%20Principals%20Letter%20Sep%202021.pdf" target="\_blank">2021 Principal's Letter to Parents - Sep</a>
-17. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/KPS%20Principals%20Letter_Aug%202021.pdf" target="\_blank">2021 Principal's Letter to Parents - Aug</a>
-18. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/KPS%20Principals%20Letter_July%202021.pdf" target="\_blank">2021 Principal's Letter to Parents - July</a> 
-19. [2021 Principal's Letter to Parents - May](/files/For%20Parents/Principal's%20Monthly%20Letter/KPS%20Principals%20Letter_May%202021.pdf)
-20. [2021 Principal's Letter to Parents - Apr](/files/For%20Parents/Principal's%20Monthly%20Letter/KPS%20Principals%20Letter_April%202021.pdf)
-21. [2021 Principal's Letter to Parents - Mar](/files/For%20Parents/Principal's%20Monthly%20Letter/KPS%20Principals%20Letter_Mar%202021_final.pdf)
-22. [2021 Principal's Letter to Parents - Feb](/files/For%20Parents/Principal's%20Monthly%20Letter/KPS%20Principals%20Letter_Feb%202021.pdf)
-23. [2021 Principal's Letter to Parents - Jan](/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20to%20Parents_Jan%202021.pdf)
-24. [2021 P1 Parent Briefing Slides](/files/For%20Parents/Principal's%20Monthly%20Letter/P_Briefing_P1_2021_For%20Website.pdf)
-25. [P1 Start of School 2021](/files/For%20Parents/Principal's%20Monthly%20Letter/P1%20Start%20of%20School%202021.pdf)
-26. [P2 to P6 Start of School 2021](/files/For%20Parents/Principal's%20Monthly%20Letter/P2%20to%20P6%20Start%20of%20School%202021.pdf)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">1. 2022 Principal's Letter to Parents - Nov</th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">2022 Principal's Letter to Parents - Oct</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3. 2022 Principal's Letter to Parents - Sept</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4. 2022 Principal's Letter to Parents - Aug</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5. 2022 Principal's Letter to Parents - Jul</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6. 2022 Principal's Letter to Parents - May</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">7. 2022 Principal's Letter to Parents - Apr</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">8. 2022 Principal's Letter to Parents - Mar</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9. 2022 Principal's Letter to Parents - Feb</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10. 2022 Principal's Letter to Parents - Jan</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">11. 2022 Principal's Letter to Parents_P1 Beginning of School</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">12. 2022 Principal's Letter to Parents_P2 to P6 Beginning of School</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">13. 2021 Principal's Letter to Parents - Nov</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">14. 2021 Principal's Letter to Parents - Oct</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">15. 2021 Principal's Letter to Parents - Sep</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">16. 2021 Principal's Letter to Parents - Aug</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">17. 2021 Principal's Letter to Parents - July</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">18. 2021 Principal's Letter to Parents - May</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">19. 2021 Principal's Letter to Parents - Apr</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">20. 2021 Principal's Letter to Parents - Mar</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">21. 2021 Principal's Letter to Parents - Feb</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">22. 2021 Principal's Letter to Parents - Jan</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">23. 2021 P1 Parent Briefing Slides</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">24. P1 Start of School 2021</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">25. P2 to P6 Start of School 2021</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>

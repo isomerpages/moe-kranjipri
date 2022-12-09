@@ -4,8 +4,9 @@ permalink: /for-parents/Principals-Monthly-Letter/
 description: ""
 ---
 1. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Oct22.pdf" target="\_blank">2022 Principal's Letter to Parents - Oct</a>
-3. [2022 Principal's Letter to Parents - Sept](/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Sep22.pdf)
-4. [2022 Principal's Letter to Parents - Aug](/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Aug22.pdf)
+3. <a href="files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Sep22.pdf" target="\_blank">2022 Principal's Letter to Parents - Sept</a>
+
+4. [2022 Principal's Letter to Parents - Aug](/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Aug22.pdf" target="\_blank">2022 Principal's Letter to Parents - Aug
 5. [2022 Principal's Letter to Parents - Jul](/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Jul22.pdf)
 6. [2022 Principal's Letter to Parents - May](/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20May22.pdf) 
 7. [2022 Principal's Letter to Parents - Apr](/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Apr22.pdf)

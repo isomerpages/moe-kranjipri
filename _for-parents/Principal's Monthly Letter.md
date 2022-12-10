@@ -3,7 +3,7 @@ title: Principal's Monthly Letter
 permalink: /for-parents/Principals-Monthly-Letter/
 description: ""
 ---
-1. [2022 Principal's Letter to Parents - Nov](/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf)  
+1. [2022 Principal's Letter to Parents - Nov]<a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">TEST  
 2.   [2022 Principal's Letter to Parents - Oct](https://kranjipri.moe.edu.sg/qql/slot/u536/Parent/Year%202022/Principals%20Letter%20Oct22.pdf)  
 3. [2022 Principal's Letter to Parents - Sept](https://kranjipri.moe.edu.sg/qql/slot/u536/Parent/Year%202022/Principals%20Letter%20Sep22.pdf)  
 4. [2022 Principal's Letter to Parents - Aug](https://kranjipri.moe.edu.sg/qql/slot/u536/Parent/Year%202022/Principals%20Letter%20Aug22.pdf)  

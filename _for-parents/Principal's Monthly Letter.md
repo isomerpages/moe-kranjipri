@@ -25,6 +25,6 @@ description: ""
 20. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/KPS%20Principals%20Letter_Mar%202021_final.pdf" target = "\_blank">2021 Principal's Letter to Parents - Mar
 21. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/KPS%20Principals%20Letter_Feb%202021.pdf" target = "\_blank">2021 Principal's Letter to Parents - Feb
 22. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20to%20Parents_Jan%202021.pdf" target = "\_blank">2021 Principal's Letter to Parents - Jan
-23. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">TEST
-24. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">TEST
-25. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">TEST
+23. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2021 P1 Parent Briefing Slides
+24. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/P1%20Start%20of%20School%202021.pdf" target = "\_blank">P1 Start of School 2021
+25. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/P2%20to%20P6%20Start%20of%20School%202021.pdf" target = "\_blank">P2 to P6 Start of School 2021

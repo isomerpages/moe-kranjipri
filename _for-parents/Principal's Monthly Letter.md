@@ -20,7 +20,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Oct22.pdf" target="\_blank">2022 Principal's Letter to Parents - Oct</a></td>
+    <td class="tg-0lax"><a href="files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Oct22.pdf" target="\_blank">2022 Principal's Letter to Parents - Oct</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>

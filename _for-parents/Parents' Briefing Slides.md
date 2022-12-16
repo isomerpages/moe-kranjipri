@@ -37,5 +37,3 @@ description: ""
 17. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
 	
 18. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
-	
-	

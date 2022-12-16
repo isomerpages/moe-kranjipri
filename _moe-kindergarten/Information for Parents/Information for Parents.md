@@ -9,15 +9,13 @@ third_nav_title: Information for Parents
   
 Click on the pdf file below to view more information about MK:  
   
-[2022 MK Open House KPS .pdf](/files/MOE%20kindergarten/Information%20for%20Parents/2022%20MKOH%20Overview%20Presentation.pdf)  
-[2021 MK Open House\_KPS.pdf](/files/MOE%20kindergarten/Information%20for%20Parents/2021%20MK%20Open%20House_KPS.pdf)   
-[2020 MK Open House Corporate Presentation.pdf](/files/MOE%20kindergarten/Information%20for%20Parents/2020%20MK%20Open%20House%20Corporate%20Presentation.pdf)   
+<a href="/files/MOE%20kindergarten/Information%20for%20Parents/2022%20MKOH%20Overview%20Presentation.pdf" target = "\_blank">2022 MK Open House KPS .pdf  
+<a href="/files/MOE%20kindergarten/Information%20for%20Parents/2021%20MK%20Open%20House_KPS.pdf" target = "\_blank">2021 MK Open House KPS .pdf   
+<a href="/files/MOE%20kindergarten/Information%20for%20Parents/2020%20MK%20Open%20House%20Corporate%20Presentation.pdf" target = "\_blank">2020 MK Open House Corporate Presentation.pdf
   
   
-Click on the pdf file below to view the K1 Orientation slides:  
-[MK Slides for K1 Orientation\_2021.pdf](/files/MOE%20kindergarten/Information%20for%20Parents/MK%20Slides%20for%20K1%20Orientation_2021.pdf)  
-[KCare Orientation Slides 2022.pdf](/files/MOE%20kindergarten/Information%20for%20Parents/KJKCC%202022%20KCare%20Orientation%20Slides%20002.pdf)  
-  
+<a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov  
+<a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
   
   
 

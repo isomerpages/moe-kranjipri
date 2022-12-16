@@ -18,9 +18,11 @@ description: ""
 **SLS Instructions & Guide:** 	
 <a href="/files/Resources/SLS/SLS%20Students%20Instructions%20&%20FAQs.pdf" target = "\_blank">SLS Students Instructions & FAQs.pdf
  
-**Guide on how to access home-based learning assignments in SLS:**  
+**Guide on how to access home-based learning assignments in SLS:**
 	
-[Accessing Home-Based Learning (HBL) Assignments for P1-P6.pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Accessing%20Home-Based%20Learning%20(HBL)%20Assignments%20for%20P1-P6.pdf)   
+<a href="/files/Resources/SLS/Accessing%20Home-Based%20Learning%20(HBL)%20Assignments%20for%20P1-P6.pdf" target = "\_blank">Accessing Home-Based Learning (HBL) Assignments for P1-P6.pdf</a>
+	
+	
 
 At Kranji Primary School, we believe in helping every child find joy in learning and equip our students with the skill to leverage on technology to become future-ready champions in life.
 

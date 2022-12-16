@@ -18,15 +18,15 @@ description: ""
 
 8. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/2021%20-%20PSLE%20Scoring%20Range%20%20DSA%20Briefing%20-%207%20May.pdf" target = "\_blank">2021 - PSLE Scoring Range DSA Briefing.pdf
 
-9. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
+9. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/2021%20P2%20P3%20Parent%20Briefing%20Slides.pdf" target = "\_blank">2021 P2 P3 Parent Briefing Slides.pdf
 	
-10. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
+10. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/2021%20P5%20P6%20Parent%20Briefing%20Slides.pdf" target = "\_blank">2021 P5 P6 Parents Briefing Slides.pdf
 	
-11. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
+11. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/P4%20Parents%20Briefing_2021_22Jan.pdf" target = "\_blank">P4 Parents Briefing Slides\_2021\_22Jan.pdf
 	
-12. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
+12. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/P1_Parents%20Meeting%20Slides%2015%20Jan%202021_School.pdf" target = "\_blank">P1\_Parents Meeting Slides 15 Jan 2021\_School.pdf
 	
-13. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
+13. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">[P6 DSA Parents Engagement on 10 May 2019](https://kranjipri.moe.edu.sg/)
 	
 14. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
 	

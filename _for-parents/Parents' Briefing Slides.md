@@ -26,7 +26,7 @@ description: ""
 	
 12. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/P1_Parents%20Meeting%20Slides%2015%20Jan%202021_School.pdf" target = "\_blank">P1\_Parents Meeting Slides 15 Jan 2021\_School.pdf
 	
-13. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">[P6 DSA Parents Engagement on 10 May 2019](https://kranjipri.moe.edu.sg/)
+13. <a href="https://staging.d2akfpcn0n1ap5.amplifyapp.com/" target = "\_blank">P6 DSA Parents Engagement on 10 May 2019
 	
 14. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
 	

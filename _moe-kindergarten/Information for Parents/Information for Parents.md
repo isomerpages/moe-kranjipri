@@ -14,8 +14,8 @@ Click on the pdf file below to view more information about MK:
 <a href="/files/MOE%20kindergarten/Information%20for%20Parents/2020%20MK%20Open%20House%20Corporate%20Presentation.pdf" target = "\_blank">2020 MK Open House Corporate Presentation.pdf
   
   
-<a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov  
-<a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
+<a href="/files/MOE%20kindergarten/Information%20for%20Parents/MK%20Slides%20for%20K1%20Orientation_2021.pdf" target = "\_blank">MK Slides for K1 Orientation\_2021.pdf  
+<a href="/files/MOE%20kindergarten/Information%20for%20Parents/KJKCC%202022%20KCare%20Orientation%20Slides%20002.pdf" target = "\_blank">KCare Orientation Slides 2022.pdf
   
   
 

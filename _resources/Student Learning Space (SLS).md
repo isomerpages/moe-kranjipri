@@ -12,11 +12,15 @@ description: ""
 **User Log In Troubleshooting Guide:**   
 	<a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#" target = "\_blank">https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#
   
-**SLS Video Introduction:** [https://www.youtube.com/watch?time\_continue=80&v=F0FTP2FveSg](https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg)  
+**SLS Video Introduction:** 		
+<a href="https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg" target = "\_blank">https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg
   
-**SLS Instructions & Guide:** [SLS Students Instructions & FAQs.pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/SLS%20Students%20Instructions%20&%20FAQs.pdf)   
-**[](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)**  
-**Guide on how to access home-based learning assignments in SLS:**  [Accessing Home-Based Learning (HBL) Assignments for P1-P6.pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Accessing%20Home-Based%20Learning%20(HBL)%20Assignments%20for%20P1-P6.pdf)   
+**SLS Instructions & Guide:** 	
+<a href="/files/Resources/SLS/SLS%20Students%20Instructions%20&%20FAQs.pdf" target = "\_blank">SLS Students Instructions & FAQs.pdf
+ 
+**Guide on how to access home-based learning assignments in SLS:**  
+	
+[Accessing Home-Based Learning (HBL) Assignments for P1-P6.pdf](https://kranjipri-moe-edu-sg-admin.cwp.sg/qql/slot/u1370/Accessing%20Home-Based%20Learning%20(HBL)%20Assignments%20for%20P1-P6.pdf)   
 
 At Kranji Primary School, we believe in helping every child find joy in learning and equip our students with the skill to leverage on technology to become future-ready champions in life.
 

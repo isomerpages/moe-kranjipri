@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/Resources/Student%20Learning%20Space%20(SLS)/S1.png)
   
-**SLS Website:** [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)  
+**SLS Website:** <a href="https://vle.learning.moe.edu.sg/login" target = "\_blank">https://vle.learning.moe.edu.sg/login
   
 **User Log In Troubleshooting Guide:** [https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)  
   

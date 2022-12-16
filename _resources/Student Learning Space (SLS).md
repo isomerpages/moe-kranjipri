@@ -39,12 +39,12 @@ Teachers will also use the SLS to complement classroom teaching and learning thr
 
 Students have been informed of their SLS username and password. **P1 to P3** students have their usernames and password printed in card form and attached to their student handbook , while P4 to P6 students have their username and password recorded in their handbook in the account information page.   
   
-The username of SLS is made up of students' name and Birth Certificate (BC) number.  For example, if your name is **June C**han Mei Li,   and your BC number is T123**4567A**, then your SLS username is: **JUNEC4567A  
-**  
+The username of SLS is made up of students' name and Birth Certificate (BC) number.  For example, if your name is **June C**han Mei Li,   and your BC number is T123**4567A**, then your SLS username is: **JUNEC4567A**  
 
 #### **Frequently Asked Questions (FAQs)**
 
-![](/images/Resources/Student%20Learning%20Space%20(SLS)/S2.jpg)
+  
+<img style="width:100%;height:50%" src="/images/Resources/Student%20Learning%20Space%20(SLS)/S2.jpg">
   
 
 **Q1: I have forgotten my username. What should I do?**   

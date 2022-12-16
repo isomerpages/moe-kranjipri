@@ -28,12 +28,11 @@ description: ""
 	
 13. <a href="https://staging.d2akfpcn0n1ap5.amplifyapp.com/" target = "\_blank">P6 DSA Parents Engagement on 10 May 2019
 	
-14. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
+14. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/user-guide-for-dsa-sec-application-mainstream.pdf" target = "\_blank">User Guide for DSA-SEC Application
 	
-15. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
+15. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/1MOESubjectBased%20Banding%20n%20English.pdf" target = "\_blank">MOE Subject Based Banding Info (in English)
 	
-16. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
+16. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/2%20MOE_Subject-Based%20Banding%20(in%20Chinese).pdf" target = "\_blank">MOE Subject Based Banding Info (in Chinese)
 	
-17. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
-	
-18. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
+17. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/3%20MOE_Subject-Based%20Banding%20(in%20Malay).pdf" target = "\_blank">MOE Subject Based Banding Info (in Malay)
+18. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/4%20MOE_Subject-Based%20Banding%20(in%20Tamil).pdf" target = "\_blank">MOE Subject Based Banding Info (in Tamil)

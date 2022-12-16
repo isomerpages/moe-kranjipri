@@ -72,7 +72,7 @@ The username of SLS is made up of students' name and Birth Certificate (BC) numb
 
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password. 
 
- **(i) On normal school days, please**: Go to  our [password reset page](http://go.gov.sg/passwordresetform)  to inform the school SLS administrator about your locked account. 
+ **(i) On normal school days, please**: Go to  our <a href="http://go.gov.sg/passwordresetform" target = "\_blank">password reset page</a> 
 
 **(ii) During home-based/ e-learning period, please:**
 

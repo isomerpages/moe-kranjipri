@@ -16,7 +16,7 @@ description: ""
 	
 7. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/2021%20P4%201-1%20Learning%20Experience%20Briefing%20Slides_final.pdf" target = "\_blank">2021 P4 1-1 Learning Experience Briefing Slides\_final.pdf
 
-8. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
+8. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/2021%20-%20PSLE%20Scoring%20Range%20%20DSA%20Briefing%20-%207%20May.pdf" target = "\_blank">2021 - PSLE Scoring Range DSA Briefing.pdf
 
 9. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
 	

@@ -34,4 +34,4 @@ Resilience
 Respect  
 Responsibility
 
-![](/images/About%20Us/School%20Philosophy,%20School%20Vis/S3.png)
+![](/images/About%20Us/School%20Philosophy,%20School%20Vis/S3.jpg)

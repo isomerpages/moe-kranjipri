@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Our School Philosophy**
 
-
+<center>
 **“Every Kranjian Matters and Deserves the Best!”**
 
 We value every student  
@@ -35,3 +35,4 @@ Respect
 Responsibility
 
 ![](/images/About%20Us/School%20Philosophy,%20School%20Vis/S3.jpg)
+</center>

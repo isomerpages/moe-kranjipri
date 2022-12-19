@@ -3,9 +3,11 @@ title: School Philosophy, School Vision, School Mission, Core Values
 permalink: /about-us/School-Philosophy-School-Vision-School-Mission-Core-Values/
 description: ""
 ---
+<center>
+
 ### **Our School Philosophy**
 
-<center>
+
 **“Every Kranjian Matters and Deserves the Best!”**
 
 We value every student  

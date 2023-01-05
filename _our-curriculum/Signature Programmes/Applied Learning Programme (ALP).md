@@ -47,8 +47,6 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 
 **Primary 2 - Tinkering with Strawbees**
 	
-</figure>
-
 <figure>
 
 <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP4.jpg">

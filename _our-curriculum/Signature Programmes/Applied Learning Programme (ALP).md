@@ -26,8 +26,9 @@ The ALP programme runs through a 3-tiered Approach – Experience, Inquire and H
 
 The Junior Tinkering Programme was conceptualized to give our students a head start in developing 21st Century Competencies.  These competencies, such as critical and inventive thinking skills, communication, collaboration and information skills, are core to the ALP.  The Junior Tinkering Programme was designed in-house by our teachers and tailored for our Kranjians.  It is conducted as part of the curriculum for our students in Primary 1 and 2 on a weekly basis.
 
+
 **Primary 1- Tinkering Basics**
-  
+	  
 <figure>
 
 <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP2.jpg">
@@ -42,6 +43,10 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 
 <figcaption> <strong> Look....my red octopus can stand! </strong> </figcaption>
 
+</figure>
+
+**Primary 2 - Tinkering with Strawbees**
+	
 </figure>
 
 <figure>

@@ -7,7 +7,7 @@ permalink: /
 notification: Welcome to Kranji Primary School!
 sections:
   - hero:
-      background: /images/Homepage/KPS Banner Video.gif
+      background: /images/image001.png
   - infopic:
       title: KPS Teachers' Day
       description: Even though all the 𝙚𝙭-𝙨𝙩𝙪𝙙𝙚𝙣𝙩𝙨 are deeply missed by your

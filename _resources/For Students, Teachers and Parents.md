@@ -72,6 +72,8 @@ description: ""
 *   [Student Learning Space (Tutorial Site for Learning)](https://docs.learning.moe.edu.sg/sls/index.html)  
     
 *   [Report of Absence](https://docs.google.com/forms/d/e/1FAIpQLScaBt_7W7QVaVlUb9UZcpsy0ub0rm0Olk7ooZmrjxLy1RJYTw/viewform)
+*   [Google Teacher Center](https://edu.google.com/for-educators/overview/?modal_active=none)
+*   [Apple Teacher Learning Center](https://education.apple.com/#/home/resources)
 
 #### **For Parents**
 

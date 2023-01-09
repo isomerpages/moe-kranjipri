@@ -13,7 +13,7 @@ The Science Curriculum Framework is derived from the Policy Framework for the Te
   
 
 ![](/images/Our%20Curriculum/Departments/Science/S1.png)  
-
+Source: Science_primary_2014.pdf
 
   
 

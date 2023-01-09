@@ -58,10 +58,11 @@ third_nav_title: Our People
 
 #### **FLEXI-ADJUNCT TEACHERS**
 
-| Mdm Violet Gee gee_violet@moe.edu.sg                 | Mdm Noorhani Bte Adenan noorhani_bte_adenan@moe.edu.sg | Mdm Nazli Binti Mat Ali nazli_mat_ali@moe.edu.sg    |
-|------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------|
-| Mdm Ho Qian Wen ho_qian_wen@moe.edu.sg               | Mdm Lee Siyin lee_siyin@moe.edu.sg                     | Mdm Ong Wee Fern (Jermaine) ong_wee_fern@moe.edu.sg |
-| Mdm Kailee Muthu Silvi kailee_muthu_silvi@moe.edu.sg | Mdm Juliet Ang Shy Yunn juliet_ang_shy_yunn@moe.edu.sg | Mdm Tan Ai Fang tan_ai_fang@moe.edu.sg              |
-|  Miss Swee Maye Lin swee_maye_lin@moe.edu.sg         |                                                        |                                                     |
+| | | | |
+|--|--|--|--|
+| Mdm Violet Gee<br>gee_violet@moe.edu.sg | Mdm Noorhani Bte Adenan<br>noorhani_bte_adenan@moe.edu.sg | Mdm Nazli Binti Mat Ali<br>nazli_mat_ali@moe.edu.sg    |
+| Mdm Ho Qian Wen<br>ho_qian_wen@moe.edu.sg| Mdm Lee Siyin <br>lee_siyin@moe.edu.sg| Mdm Ong Wee Fern (Jermaine)<br>ong_wee_fern@moe.edu.sg |
+|Mdm Kailee Muthu Silvi<br>kailee_muthu_silvi@moe.edu.sg | Mdm Juliet Ang Shy Yunn<br>juliet_ang_shy_yunn@moe.edu.sg | Mdm Tan Ai Fang<br>tan_ai_fang@moe.edu.sg|
+|Miss Swee Maye Lin swee_maye_lin@moe.edu.sg| | |
 
 Please click [here](/Staff-Achievements/) to view Staff Achievements

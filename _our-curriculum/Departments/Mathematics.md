@@ -10,26 +10,19 @@ third_nav_title: Departments
 The central focus of the Mathematics Framework is mathematical problem solving, that is, using Mathematics to solve problems. The framework stresses conceptual understanding, skills proficiency and mathematical processes, and gives due emphasis to attitudes and metacognition. These five components are inter-related. 
 
 ![](/images/Our%20Curriculum/Departments/Mathematics/M1.png)
-
- 
-  
+Source: Mathematics_syllabus_primary_1 to 6.pdf 
 
 ##### **Department Pedagogy**
 
-  
+###### We believe every Kranjian can be a joyful and confident problem solver with strong numeracy skills. Our Math lessons aim to:
 
-We believe every Kranjian can be a joyful and confident problem solver with strong numeracy skills. Our Math lessons aim to:
-
-  
 
 1) Help Kranjians acquire skills and concepts relevant to real-world context, 
 
 2) Develop thinking, reasoning and communication skills and 
 
 3) Build confidence and foster interest 
-
   
-
 **Activity-Based Learning**
 
 We plan learning experiences and opportunities for Kranjians to learn skills and concepts by doing. They are actively involved in constructing knowledge through hands on experiences 
@@ -124,9 +117,9 @@ The Excellence 2000 (E2K) Math Talent Development Programme is offered to Primar
 
 We have a structured approach to support students’ development of basic numeracy skills.  Emphasis is placed on motivating students and building their love for and confidence in mathematics.
 
-*           Learning Support Math (LSM) @ Lower Primary
-*         After-School Remediation for P2 to P6
-*         Small-class teaching to support the students’ varied learning needs 
+* Learning Support Math (LSM) @ Lower Primary
+* After-School Remediation for P2 to P6
+* Small-class teaching to support the students’ varied learning needs 
 
 ##### **Tips for parents**
 
@@ -140,19 +133,13 @@ Help to develop number sense in the following ways:
 
 * Encourage right attitude to respond positively to errors
 
-> Always check his/her work before submission
-
-> Identify own errors
-
-> Reflect what has gone wrong
-
-> Correct the errors 
-
+	- Always check his/her work before submission
+	- Identify own errors
+	- Reflect what has gone wrong
+	- Correct the errors
 * Encourage speed and accuracy in recalling basic math facts to strengthen basic calculation skills:
-
-> Commit to memory - Multiplication table
-
-> Conversions of units/fractions/decimals/percentage
+	- Commit to memory - Multiplication table
+	- Conversions of units / fractions / decimals / percentage
 
 **In preparation of Math examinations:**
 

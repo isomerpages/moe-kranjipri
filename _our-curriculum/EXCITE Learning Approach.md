@@ -3,10 +3,9 @@ title: EXCITE Learning Approach
 permalink: /our-curriculum/EXCITE-Learning-Approach/
 description: ""
 ---
-![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/Q1.jpg)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE_2May_amended.png)
 
-##### **Excite** 
-
+### **Excite** 
 ##### **Our Learning Approach at KPS**
 
 Guided by our school vision of Joyful Learners, Gracious Citizens and Champions in Life, the EXCITE approach outlines how learning is designed, curated and enacted in Kranji Primary School (KPS).
@@ -22,7 +21,3 @@ Guided by our school vision of Joyful Learners, Gracious Citizens and Champions 
 ![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/Q11.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Of6zHY_nSAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- Click on the interactive boxes in the image below to find out more about our school's unique     
-
- programmes!

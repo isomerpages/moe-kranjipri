@@ -83,13 +83,14 @@ Each classroom is equipped with books appropriate for the reading level of the s
 
 ![](/images/Our%20Curriculum/Departments/English/E13.jpg)
 
-![](/images/Our%20Curriculum/Departments/English/E13.jpg)
-
 ![](/images/Our%20Curriculum/Departments/English/E14.jpg)
+
+![](/images/Picture13.jpg)
+
 
   
 
-**Talent Development Programme**
+##### **Talent Development Programme**
 
   
 
@@ -109,7 +110,7 @@ In addition, our Talent Development Programme provides a platform for students t
 
 ![](/images/Our%20Curriculum/Departments/English/E16.png)
 
-**Support Programmes**  
+##### **Support Programmes**  
 
 **Learning Support Programme (LSP)**  
 
@@ -119,10 +120,9 @@ Pupils are identified through the Early Literacy Indicators, a group screening i
 
 Pupils will be discharged from LSP at the end of P1 and P2 when they meet the following criteria:
 
-> *        Attain a pass in the schools’ overall EL assessments
->     
-> *        Attain age-appropriate reading age
->     
+*        Attain a pass in the schools’ overall EL  assessments
+    
+*        Attain age-appropriate reading age    
 
      **Reading Remediation Programme (RRP)**
 

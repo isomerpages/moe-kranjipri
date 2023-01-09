@@ -4,14 +4,13 @@ permalink: /about-us/Our-People/Teaching-Staff-2023/
 description: ""
 third_nav_title: Our People
 ---
-
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWp0S1jsK3BE-OXvwOAUd_44LqfQZ8DVU8gCJoAhUwdqZ5yyJKF4Gh4CipF6I20wjIPzo8GiFQSkgF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### **Primary 1**
 
 | Class        | Form Teacher                                                 | Co-Form Teacher                                               | Co-Form Teacher                                          |
 |--------------|--------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------|
-| 1 Compassion | Mdm Siti Abshah Bte Sulaiman siti_abshah_sulaiman@moe.edu.sg | Miss Chang Si Yingchang_si_ying@moe.edu.sg                    | Mdm Chia Lee Eng chia_lee_eng@moe.edu.sg                 |
+| 1 Compassion | Mdm Siti Abshah Bte Sulaiman siti_abshah_sulaiman@moe.edu.sg | Miss Chang Si Ying chang_si_ying@moe.edu.sg                    | Mdm Chia Lee Eng chia_lee_eng@moe.edu.sg                 |
 | 1 Integrity  | Mdm Junaidah Bte Senor  junaidah_senor@oe.edu.sg             | Mdm Liu Dan liu_dan@moe.edu.sg                                | Mdm Alicia Ngo Phew Ling alicia_ngo_phew_ling@moe.edu.sg |
 | 1 Respect    |  Mrs Gwen Tan gwen_tan@moe.edu.sg                            | Mdm Ernie Bte Jumaternie_jumat@moe.edu.sg                     |  Mr Richard S/O Arokiasamyrichard_arokiasamy@moe.edu.sg  |
 | 1 Resilience |  Mdm Mariah Rahmat  mariah_rahmat@moe.edu.sg                 | Mr Lee Chang Sheng, Jansen  lee_chang_sheng_jansen@moe.edu.sg |  Mdm Ong Su Hui ong_su_hui@moe.edu.sg                    |

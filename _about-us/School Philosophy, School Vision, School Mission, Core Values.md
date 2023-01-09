@@ -10,7 +10,7 @@ description: ""
 
 **“Every Kranjian Matters and Deserves the Best!”**
 
-We value every student  
+	We value every student  
 
 Every student wants to succeed
 
@@ -30,11 +30,11 @@ Joyful Learners, Gracious Citizens, Champions in Life
 Nurturing Minds, Engaging Hearts, Building Character   
   
 **Core Values**  
-Compassion  
-Integrity  
-Resilience  
-Respect  
-Responsibility
+**RE**sponsibility  
+**RE**silience  
+**C**ompassion  
+**I**ntegrity  
+Res**PE**ct
 
 ![](/images/About%20Us/School%20Philosophy,%20School%20Vis/S3.jpg)
 </center>

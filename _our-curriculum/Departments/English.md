@@ -32,13 +32,13 @@ The Upper Primary strategies include:
 
 • Sustained Silent Reading (SSR)
 
-• Supported Reading (SR)
+* Supported Reading (SR)
 
-• Know - Want to know - Learnt (KWL)
+* Know - Want to know - Learnt (KWL)
 
-• Retelling (RT), Language Activities and Sentence Manipulation
+* Retelling (RT), Language Activities and Sentence Manipulation
 
-• Writing Process Cycle (WPC)
+* Writing Process Cycle (WPC)
 
  
 ![](/images/Our%20Curriculum/Departments/English/E5.png) 
@@ -98,11 +98,11 @@ The Talent Development Programme in the English Department aims to stimulate and
 
 Literature is incorporated to develop a greater appreciation of the different literary elements, deepen comprehension skills and vocabulary skills. Literature texts of progressive levels are selected for the different levels. They include:
 
-• The Magic Paintbrush by Julia Donaldson (P3)
+* The Magic Paintbrush by Julia Donaldson (P3)
 
-• Frindle by Andrew Clements (P4)
+* Frindle by Andrew Clements (P4)
 
-• Matilda by Roald Dahl (P5)
+* Matilda by Roald Dahl (P5)
 
 During each session, students read and respond to works of literature with emphasis on characterisation and plot development, perspective taking, analysing good language use and to be sensitive and empathetic towards others through the stories of the characters. These in-depth discussions and activities deepen students’ understanding of the subject, as well as enhance their thinking and reasoning skills. 
 
@@ -120,11 +120,11 @@ Pupils are identified through the Early Literacy Indicators, a group screening i
 
 Pupils will be discharged from LSP at the end of P1 and P2 when they meet the following criteria:
 
-*        Attain a pass in the schools’ overall EL  assessments
+* Attain a pass in the schools’ overall EL  assessments
     
-*        Attain age-appropriate reading age    
+* Attain age-appropriate reading age    
 
-     **Reading Remediation Programme (RRP)**
+**Reading Remediation Programme (RRP)**
 
 The MOE's School-based Dyslexia Remediation programme is a two-year intervention programme for Primary 3 and 4 students who still face consistent difficulty in reading in the English Language despite having completed the Learning Support Programme in P1 and P2.  The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists. It exposes students to a range of coping strategies for reading comprehension which will enable them to better manage their daily learning. This programme is held twice a week after curriculum hours.
 
@@ -134,15 +134,14 @@ The MOE's School-based Dyslexia Remediation programme is a two-year intervention
 
 **Tips for parents**
 
-* ·       Provide good home support.
+* Provide good home support.
+	- Encourage your child to develop a good reading habit. Make frequent visits to the library and provide access to different genres  
 
-> Encourage your child to develop a good reading habit. Make frequent visits to the library and provide access to different genres
+	- Be a good role model. Read to them, write notes and speak Standard English to your child
 
-> Be a good role model. Read to them, write notes and speak Standard English to your child
+	- Listen to English news on the radio or television
 
-> Listen to English news on the radio or television
-
-> Encourage your child to express his/her opinion on current news, stories or events
+	- Encourage your child to express his/her opinion on current news, stories or events
 
 *   Develop good penmanship from young
 

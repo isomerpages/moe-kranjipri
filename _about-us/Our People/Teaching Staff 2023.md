@@ -8,8 +8,8 @@ third_nav_title: Our People
 
 #### **Primary 1**
 
-| Class        | Form Teacher                                                 | Co-Form Teacher                                               | Co-Form Teacher                                          |
-|--------------|--------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------|
+|Class|Form Teacher|Co-Form Teacher| Co-Form Teacher|
+|--|--|--|--|
 |1 Compassion| Mdm Siti Abshah Bte Sulaiman<br> siti_abshah_sulaiman@moe.edu.sg | Miss Chang Si Ying<br>chang_si_ying@moe.edu.sg|Mdm Chia Lee Eng<br>chia_lee_eng@moe.edu.sg|
 |1 Integrity| Mdm Junaidah Bte Senor<br>junaidah_senor@oe.edu.sg   | Mdm Liu Dan<br>liu_dan@moe.edu.sg                                | Mdm Alicia Ngo Phew Ling<br> alicia_ngo_phew_ling@moe.edu.sg |
 |1 Respect|Mrs Gwen Tan<br>gwen_tan@moe.edu.sg | Mdm Ernie Bte<br> Jumaternie_jumat@moe.edu.sg|Mr Richard S/O<br> Arokiasamyrichard_arokiasamy@moe.edu.sg|

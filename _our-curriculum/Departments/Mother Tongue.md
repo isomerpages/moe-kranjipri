@@ -118,6 +118,7 @@ The Mother Tongue Language Fortnight aims to create an immersive environment fo
 
 <img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M5.jpg">
 
+<figure>
 <img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M6.jpg">
 
 <figure>
@@ -151,8 +152,9 @@ The Mother Tongue Language Fortnight aims to create an immersive environment fo
 
 </figure> 
 
+</figure>
 
-2.   **Learning Journey**
+**2. Learning Journey**
 
   
 

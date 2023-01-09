@@ -28,9 +28,9 @@ third_nav_title: Our People
 
 |Class|Form Teacher|Co-Form Teacher| Co-Form Teacher|
 |:--:|--|--|--|
-|3<br>Compassion| Mdm (Valerie) Liaw Bee Ling<br>liaw_bee_leng@moe.edu.sg| Mdm Adelene Tan Tse Hui<br>tan_tse_hui_adelene@moe.edu.sg |  |
-|3<br>Integrity| Mr Wee Kang Sheng, Nicholas<br>wee_kang_sheng_nicholas@moe.edu.sg | Mdm (Amanda) Lin Weijia <br>lin_weijia@moe.edu.sg | Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin <br>raja_nur_rasyidah_raja_kamarul_bahrin@moe.edu.sg |
-| 3 Respect    | Mdm Radhiah Bte Jais<br>radhiah_jais@moe.edu.sg | Mdm Ong Su Hui<br>ong_su_hui@moe.edu.sg| Mdm Saraswathi D/O Valiappan <br>saraswathi_valliappan@moe.edu.sg  |
+|3<br>Compassion|Mdm (Valerie) Liaw Bee Ling<br>liaw_bee_leng@moe.edu.sg| Mdm Adelene Tan Tse Hui<br>tan_tse_hui_adelene@moe.edu.sg |  |
+|3<br>Integrity|Mr Wee Kang Sheng, Nicholas<br>wee_kang_sheng_nicholas@moe.edu.sg | Mdm (Amanda) Lin Weijia <br>lin_weijia@moe.edu.sg |Mdm Raja Nur Rasyidah Bte<br>Raja Kamarul Bahrin <br>raja_nur_rasyidah_raja_kamarul_bahrin@moe.edu.sg |
+|3<br>Respect|Mdm Radhiah Bte Jais<br>radhiah_jais@moe.edu.sg |Mdm Ong Su Hui<br>ong_su_hui@moe.edu.sg| Mdm Saraswathi D/O Valiappan <br>saraswathi_valliappan@moe.edu.sg  |
 
 #### **Primary 4**
 
@@ -53,7 +53,7 @@ third_nav_title: Our People
 |Class|Form Teacher|Co-Form Teacher| Co-Form Teacher|
 |:--:|--|--|--|
 |6<br>Compassion|Mdm Shirlene Tan<br>shirlene_tan@moe.edu.sg   | Mr Liew Lim Han<br>liew_lim_han@moe.edu.sg| Mdm Nur Fazalina Bte Hussin<br>nur_fazalina_hussin@moe.edu.sg |
-|6<br>Integrity|Miss Ting Pui Sin<br>ting_pui_sin@moe.edu.sg  | Mr Wilson Ng Whye Shoen<br>ng_shye_shoen_wilson@moe.edu.sg|Mdm (Angie) Ng Pai Chen<br>ng_pai_chen@moe.edu.sg|
+|6<br>Integrity|Miss Ting Pui Sin<br>ting_pui_sin@moe.edu.sg  |Mr Wilson Ng Whye Shoen<br>ng_shye_shoen_wilson@moe.edu.sg|Mdm (Angie) Ng Pai Chen<br>ng_pai_chen@moe.edu.sg|
 |6<br>Respect|Miss Cheng Li Yin<br>cheng_li_yin@moe.edu.sg | Mdm Hajerah Beevi D/O Kutus<br>hajerah_beevi_kutus@moe.edu.sg | Mdm Lim Chai Lay           <br>lim_chai_lay@moe.edu.sg        |
 
 #### **FLEXI-ADJUNCT TEACHERS**

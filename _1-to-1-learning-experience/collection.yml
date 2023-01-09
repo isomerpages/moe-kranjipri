@@ -1,5 +1,5 @@
 collections:
-  1-1-learning-experience:
+  1-to-1-learning-experience:
     output: true
     order:
       - Digital Parenting.md

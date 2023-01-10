@@ -4,7 +4,6 @@ permalink: /our-curriculum/Departments/Arts/
 description: ""
 third_nav_title: Departments
 ---
-
 ##### **Art Curriculum Framework**
   
 Recognising students as key agents of learning, the objectives of the primary art syllabus are to develop all students as active artists and informed audience with  
@@ -21,10 +20,10 @@ The objectives of the syllabus are achieved through the Primary Art Syllabus Fra
 
 ![](/images/Our%20Curriculum/Departments/Art/A1.jpg)
 
+<figure>
 Primary Art Syllabus Framework
-
-  
-
+	  
+</figure>
 The syllabus framework presented in the form of a colour wheel illustrates the dynamic relationships amongst the various key features of the art syllabus as an integrated concept for the learning of art to be holistic and enduring. It serves as a compass to navigate the desired direction for cohesive and effective teaching and learning of art. 
 
   

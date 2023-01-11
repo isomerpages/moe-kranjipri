@@ -111,7 +111,7 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/Art/A3NEW.jpg">
 
-<figcaption> <strong> Totally engrossed in making sure every part is covered </strong> </figcaption>
+<figcaption> <strong style="left">  Totally engrossed in making sure every part is covered </strong> </figcaption>
 
 </figure>
 

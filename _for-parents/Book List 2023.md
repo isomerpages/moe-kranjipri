@@ -3,9 +3,6 @@ title: Book List 2023
 permalink: /for-parents/Book-List-2023/
 description: ""
 ---
-
-_Q & A from KPS P1 Orientation Nov 2021_
-
 ##### **P1 Class**
 
 1. **When will we know our child's class?**  

@@ -20,15 +20,15 @@ Students will be able to:
 
 | Day | Time | Remarks |
 | --- | --- | --- |
-| Friday | 7.30am to 9.00am | Within curriculum hours |
+| Friday | 7.30am to 8.30am | Within curriculum hours |
 
   
 **Teacher IC & Email address**  
   
 |          Teacher IC          |  Email address (ICON)  |
 |:----------------------------:|:----------------------:|
-| Mrs Seetoh (Mdm Yak Hui Hwa) | yak_hui_hwa@moe.edu.sg |
-|       Miss Loh Jun Qin       | loh_jun_qin@moe.edu.sg |
+| Miss Loh Jun Qin | loh_jun_qin@moe.edu.sg |
+|       Mdm Lim Chai Lay       | lim_chai_lay@moe.edu.sg |
 
 
 ##### **Introduction**

@@ -20,7 +20,7 @@ Students will be able to:
 
 | Day | Time | Remarks |
 | --- | --- | --- |
-| Friday | 7.30am to 9.00am | Within curriculum hours |
+| Friday | 7.30am to 8.30am | Within curriculum hours |
 
   
 
@@ -30,8 +30,8 @@ Students will be able to:
 
 | Teacher IC | Email address (ICON) |
 | --- | --- |
-| Mr Soh Eng Siong | soh\_eng\_siong@moe.edu.sg |
-| Mr Richard S/O Arokiasamy | richard\_arokiasamy@moe.edu.sg |
+| Mr Soh Eng Siong | soh_eng_siong@moe.edu.sg |
+| Mr Richard S/O Arokiasamy | richard_arokiasamy@moe.edu.sg |
 
 ##### **Introduction**
 
@@ -98,5 +98,3 @@ Members will also have opportunities to take part in competitions such as the Na
 <figcaption> <strong> Students showcasing their project at the Swift Explorers Singapore Graduation Ceremony Showcase and students who completed the Inclusive App Design Challenge Everyone Can Code Bootcamp in Swift Explorers Singapore </strong> </figcaption>
 
 </figure>
-
-

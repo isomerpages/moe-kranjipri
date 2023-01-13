@@ -20,7 +20,7 @@ Students will be able to:
 
 | Day | Time | Remarks |
 | --- | --- | --- |
-| Friday | 7.30am to 9.00am | Within curriculum hours |
+| Friday | 7.30am to 8.30am | Within curriculum hours |
 
   
 
@@ -63,7 +63,8 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 
 |        |                                                                                      |                                             |
 |--------|--------------------------------------------------------------------------------------|---------------------------------------------|
-|  Year  |                                       West Zone                                      |                   National                  |
+|  Year  |                                       West Zone                                      |                   National                  
+2021 | Attained 1st Position in the Virtual World Scout Day Knots Kahoot Quiz.| Attained 3 Gold Awards and 1 Silver Award in the 7th National Cub Scout Mind Quiz. </br> Attained 5th out of 6th Place (Team) in the 7th National Cub Scout Mind Quiz (Final Round).|
 |  2019  | Attained Best Dressed (Pirate Cosplay) in the West Area Campfire - Pirate Night 2019 | Attained Silver in Frank Cooper Sands Award |
 |  2018  | Attained Gold in Adiji Chief Scout - Cubs West Area Day (Caterpillar Race)           | Attained Bronze in Frank Cooper Sands Award |
 | 2017   | Attained Silver in West Area World Scout Day                                         | Attained Bronze in Frank Cooper Sands Award |

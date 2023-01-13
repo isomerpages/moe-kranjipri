@@ -3,7 +3,6 @@ title: Arts
 permalink: /cca/Arts/
 description: ""
 ---
-
 ##### **Objectives**
   
 
@@ -18,7 +17,7 @@ Students will be able to:
 
 | Day | Time | Remarks |
 | --- | --- | --- |
-| Friday | 7.30am to 9.00am | Within curriculum hours |
+| Friday | 7.30am to 8.30am | Within curriculum hours |
 
 
 **Teacher IC & Email address**
@@ -26,8 +25,8 @@ Students will be able to:
 
 | Teacher IC | Email address (ICON) |
 | --- | --- |
-| Miss Fan Yiou | fan\_yiou@moe.edu.sg |
-| Mrs Gwen Tan | gwen\_tan@moe.edu.sg |
+| Miss Fan Yiou | fan_yiou@moe.edu.sg |
+| Mrs Gwen Tan | gwen_tan@moe.edu.sg |
 
   
 

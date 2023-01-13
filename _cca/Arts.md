@@ -83,16 +83,17 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A3.jpg">
 
-<figcaption> <strong> Certificate of Recognition "Technology in our Lives" by the P2 students </strong> </figcaption>
+
+![](/images/Our%20Curriculum/Departments/Art/Recognition.jpg)
+	<figcaption> <strong> Certificate of Recognition "Technology in our Lives" by the P2 students </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A4.jpg">
 
+![](/images/Our%20Curriculum/Departments/Art/hard%20at%20work.jpg)	
 <figcaption> <strong> Hard at work </strong> </figcaption>
 
 </figure>

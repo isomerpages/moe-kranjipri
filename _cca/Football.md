@@ -21,7 +21,7 @@ Students will be able to:
 
 | Day | Time | Remarks |
 | --- | --- | --- |
-| Friday | 7.30am to 9.00am | Within curriculum hours |
+| Friday | 7.30am to 8.30am | Within curriculum hours |
 
   
 
@@ -31,8 +31,8 @@ Students will be able to:
 
 | Day | Time | Remarks |
 | --- | --- | --- |
-| Tuesday | 3.30pm to 5.00pm | Junior Boys & Senior Boys |
-|  Thursday | 3.30pm to 5.00pm | Junior Boys & Senior Boys  |
+| Tuesday | 3.30pm to 5.30pm | Junior Boys & Senior Boys |
+|  Thursday | 3.30pm to 5.30pm | Junior Boys & Senior Boys  |
 
   
 
@@ -41,8 +41,8 @@ Students will be able to:
 
 | Teacher IC | Email address (ICON) |
 | --- | --- |
-| Miss Cheng Liyin | cheng\_liyin@moe.edu.sg |
-| Mr Jansen Lee | lee\_chang\_sheng\_jansen@moe.edu.sg  
+| Miss Cheng Liyin | cheng_liyin@moe.edu.sg |
+| Mr Jansen Lee | lee_chang_sheng_jansen@moe.edu.sg  
  |
 
 ##### **Introduction**

@@ -15,17 +15,17 @@ Students will be able to:
 
   
 
-**Schedule (For all students)**
+**Schedule (for all students)**
 
 | Day | Time | Remarks |
 | --- | --- | --- |
-| Friday | 7.30am to 9.00am | Within curriculum hours |
+| Friday | 7.30am to 8.30am | Within curriculum hours |
 
-**Extra Practices (for school team)**
+**After school schedule (for Talent Development students)**
 
 | Day | Time | Remarks |
 | --- | --- | --- |
-| Tuesday | 2.30pm to 4.30pm | ShowStopperz (SYF Team) |
+| Tuesday | 3.30pm to 5.00pm | **ShowStopperz (SYF Team)** </br> Students will be give a schedule for the after school CCA sessions.  |
 
   
 
@@ -35,8 +35,8 @@ Students will be able to:
 
 | Teacher IC | Email address (ICON) |
 | --- | --- |
-| Mdm Nordiana Mohd Rashid | nordiana\_rashid@moe.edu.sg |
-| Mdm Liu Dan | liu\_dan@moe.edu.sg |
+| Mdm Nordiana Mohd Rashid | nordiana_rashid@moe.edu.sg |
+| Mdm Liu Dan | liu_dan@moe.edu.sg |
 
   
 
@@ -81,4 +81,3 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 <figcaption> <strong> National Day Performance 2022 by Limbang CC </strong> </figcaption>
 
 </figure>
-

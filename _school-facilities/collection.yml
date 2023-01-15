@@ -1,0 +1,4 @@
+collections:
+  school-facilities:
+    output: true
+    order: []

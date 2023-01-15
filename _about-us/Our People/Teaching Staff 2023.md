@@ -45,8 +45,8 @@ third_nav_title: Our People
 
 |Class|Form Teacher|Co-Form Teacher| Co-Form Teacher|
 |:--:|--|--|--|
-|5<br>Compassion|Mrs Hesheam Hashim<br>hesheam_hashim@moe.edu.sg| Mdm Neo Bee Leng<br>neo_bee_leng@moe.edu.sg| Mdm Noorasmaedah Ahmad <br>noorasmaedah_ahmad@moe.edu.sg|
-|5<br>Integrity|Mr (Ryan) Ng Chou Yeaw<br>ng_chou_yeaw@moe.edu.sg        | Mrs Joanna Wong<br>joanna_teo_wei-jin@moe.edu.sg| Miss Azzulin Bte Aripin<br>azzulin_aripin@moe.edu.sg|
+|5<br>Compassion|Mr (Ryan) Ng Chou Yeaw<br>ng_chou_yeaw@moe.edu.sg| Miss Lim Hui Khooh<br>lim_hui_khooh@moe.edu.sg| Mrs Stephanie Thoo <br>stephanie_thoo@moe.edu.sg|
+|5<br>Integrity|Mr Loh Yan Hao, Jeremy<br>loh_yan_hao_jeremy@moe.edu.sg        | Mdm Zhu Hong<br>zhu_hong@moe.edu.sg| Mdm Rufaidah Bte Ismail<br>rufaidah_ismail@moe.edu.sg|
 |5<br>Respect|Mr Loh Yan Hao, Jeremy<br>loh_yan_hao_jeremy@moe.edu.sg | Mdm Rufaidah Bte Ismail<br>rufaidah_ismail@moe.edu.sg | Mdm Yong Chin<br>yong_chin@moe.edu.sg|
 
 #### **Primary 6**

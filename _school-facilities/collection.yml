@@ -2,6 +2,7 @@ collections:
   school-facilities:
     output: true
     order:
+      - Level 3.md
       - Level 4.md
       - Level 5.md
       - Level 6.md

@@ -41,6 +41,4 @@ In line with our school motto **_K_**_nowledge, **P**ractice, **S**uccess_, w
 
 Your Partner in Education  
 
-Mdm Goh Meei Yunn  
-
-Principal
+Mdm Goh Meei Yunn<br>Principal

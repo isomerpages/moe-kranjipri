@@ -25,36 +25,15 @@ to achieve success.
 
 **School Song** 
 
-At Kranji we learn to work and play.        
-
-Making the most of each new day.
-
-Giving our best in all that we do.
-
-Living our values every day.
-
-It's here where we aspire,  to be joyful learners.
-
-Strive to be, gracious citizens.
-
-Give our best, to be champions in life every day.
-
-  
-
-It's here where we belong, in this family.
-
-We'll learn and play,  with our friends and teachers.
-
-Do our best, And we'll live up to our promise.
-
-  
-
-Through knowledge and practice we'll succeed.
-
-Following faithfully our creed.
-
-Working together hand in hand.
-
+At Kranji we learn to work and play. <br>Making the most of each new day.<br>Giving our best in all that we do.<br>Living our values every day.<br>It's here where we aspire,  to be joyful learners.<br>
+Strive to be, gracious citizens.<br>
+Give our best, to be champions in life every day.<br>
+It's here where we belong, in this family.<br>
+We'll learn and play,  with our friends and teachers.<br>
+Do our best, And we'll live up to our promise.<br>
+Through knowledge and practice we'll succeed.<br>
+Following faithfully our creed.<br>
+Working together hand in hand.<br>
 Showing our love for KPS.
 
 

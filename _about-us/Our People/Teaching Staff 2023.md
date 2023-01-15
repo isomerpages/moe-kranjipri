@@ -10,7 +10,7 @@ third_nav_title: Our People
 
 |Class|Form Teacher|Co-Form Teacher| Co-Form Teacher|
 |:--:|--|--|--|
-|<br>1 <br>Compassion| Mdm Wong Wai Leng <br> wong_wai_leng@moe.edu.sg | Mdm Deborah Tham Lai Mei<br>deborah_tham_lai_mei@moe.edu.sg|Mdm Noorasmaedah Ahmad<br> noorasmaedah_ahmad@moe.edu.sg <br>Mdm Ho Qian Wen<br>ho_qian_wen@moe.edu.sg |
+|<br>1 <br>Compassion| Mdm Wong Wai Leng <br> wong_wai_leng@moe.edu.sg | Mdm Deborah Tham Lai Mei<br>deborah_tham_lai_mei@moe.edu.sg|Mdm Noorasmaedah Bte Ahmad<br> noorasmaedah_ahmad@moe.edu.sg <br>Mdm Ho Qian Wen<br>ho_qian_wen@moe.edu.sg |
 |1<br>Integrity| Mdm Tay Li Ping<br>tay_li_ping@oe.edu.sg   | Mr Lee Chang Sheng, Jansen<br>lee_chang_sheng_jansen@moe.edu.sg | Mdm Saraswathi D/O Valliappan<br> saraswathi_valliappan@moe.edu.sg |
 |1<br>Respect|Mdm Eldora Kok Ying Zhi<br>eldora_kok_ying_zhi@moe.edu.sg | Miss Andrea Lee Qing<br> lee_qing_andrea@moe.edu.sg|Mdm Ong Su Hui<br>ong_su_hui@moe.edu.sg|
 |1<br>Resilience |  Mdm Nordiana bte Md Rashid<br>nordiana_mohd_rashid@moe.edu.sg| Mdm Lim Fang Fang<br>lim_fang_fang@moe.edu.sg | Mdm Liu Yan<br> liu_yan@moe.edu.sg <br>Mdm Ong Wee Fern (Jermaine)<br>ong_wee_fern@moe.edu.sg|
@@ -22,14 +22,14 @@ third_nav_title: Our People
 |2<br>Compassion| Mdm Siti Abshah Bte Sulaiman<br>siti_abshah_sulaiman@moe.edu.sg  |Miss Chang Si Ying<br>chang_si_ying@moe.edu.sg|Mdm Chia Lee Eng<br>chia_lee_eng@moe.edu.sg |
 |2<br>Integrity| Mdm Junaidah Bte Senor junaidah_bte_senor@moe.edu.sg | Mdm Liu Dan<br>liu_dan@moe.edu.sg <br> | Mdm Alicia Ngo Phew Ling<br>alicia_ngo_phew_ling@moe.edu.sg|
 |2<br>Respect| Mdm Gwen Tan<br>gwen_tan@moe.edu.sg|Mdm Ernie Bte Jumat<br>ernie_jumat@moe.edu.sg| Mdm Hafizah Beevi binti Abdul Basit<br>hafizah_beevi_abdul_basit@moe.edu.sg|
-|2<br>Resilience| Mdm Mariah Rahmat<br>mariah_rahmat@moe.edu.sg | Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin<br>raja_nur_rasyidah_raja_kamarul_bahrin@moe.edu.sg| Mdm Adelene Tan Tse Hui <br>tan_tse_hui_adelene@moe.edu.sg|
+|2<br>Resilience| Mdm Mariah Bte Rahmat<br>mariah_rahmat@moe.edu.sg | Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin<br>raja_nur_rasyidah_raja_kamarul_bahrin@moe.edu.sg| Mdm Adelene Tan Tse Hui <br>tan_tse_hui_adelene@moe.edu.sg|
 
 #### **Primary 3**
 
 |Class|Form Teacher|Co-Form Teacher| Co-Form Teacher|
 |:--:|--|--|--|
-|3<br>Compassion|Mdm (Valerie) Liaw Bee Ling<br>liaw_bee_leng@moe.edu.sg| Mdm Adelene Tan Tse Hui<br>tan_tse_hui_adelene@moe.edu.sg |  |
-|3<br>Integrity|Mr Wee Kang Sheng, Nicholas<br>wee_kang_sheng_nicholas@moe.edu.sg | Mdm (Amanda) Lin Weijia <br>lin_weijia@moe.edu.sg |Mdm Raja Nur Rasyidah Bte<br>Raja Kamarul Bahrin <br>raja_nur_rasyidah_raja_kamarul_bahrin@moe.edu.sg |
+|3<br>Compassion|Mdm Lim Chai Lay<br>lim_chai_lay@moe.edu.sg| Mdm Lena Chua Siao Yen<br>lena_chua_siao_yen@moe.edu.sg |  |
+|3<br>Integrity|Mdm Sri Rahayu Bte Mohd Amin<br>sri_rahayu_mohamed_amin@moe.edu.sg | Mdm (Angie) Ng Pai Chen <br>ng_pai_chen@moe.edu.sg |Mdm Raja Nur Rasyidah Bte<br>Raja Kamarul Bahrin <br>raja_nur_rasyidah_raja_kamarul_bahrin@moe.edu.sg |
 |3<br>Respect|Mdm Radhiah Bte Jais<br>radhiah_jais@moe.edu.sg |Mdm Ong Su Hui<br>ong_su_hui@moe.edu.sg| Mdm Saraswathi D/O Valiappan <br>saraswathi_valliappan@moe.edu.sg  |
 
 #### **Primary 4**

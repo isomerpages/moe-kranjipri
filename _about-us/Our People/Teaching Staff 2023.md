@@ -29,8 +29,8 @@ third_nav_title: Our People
 |Class|Form Teacher|Co-Form Teacher| Co-Form Teacher|
 |:--:|--|--|--|
 |3<br>Compassion|Mdm Lim Chai Lay<br>lim_chai_lay@moe.edu.sg| Mdm Lena Chua Siao Yen<br>lena_chua_siao_yen@moe.edu.sg |  |
-|3<br>Integrity|Mdm Sri Rahayu Bte Mohd Amin<br>sri_rahayu_mohamed_amin@moe.edu.sg | Mdm (Angie) Ng Pai Chen <br>ng_pai_chen@moe.edu.sg |Mdm Raja Nur Rasyidah Bte<br>Raja Kamarul Bahrin <br>raja_nur_rasyidah_raja_kamarul_bahrin@moe.edu.sg |
-|3<br>Respect|Mdm Radhiah Bte Jais<br>radhiah_jais@moe.edu.sg |Mdm Ong Su Hui<br>ong_su_hui@moe.edu.sg| Mdm Saraswathi D/O Valiappan <br>saraswathi_valliappan@moe.edu.sg  |
+|3<br>Integrity|Mdm Sri Rahayu Bte Mohd Amin<br>sri_rahayu_mohamed_amin@moe.edu.sg | Mdm (Angie) Ng Pai Chen <br>ng_pai_chen@moe.edu.sg |
+|3<br>Respect|Mdm (Valarie) Liaw Bee Ling<br>liaw_bee_leng@moe.edu.sg |Mr Richard S/O Arokiasamy<br>richard_arokiasamy@moe.edu.sg| 
 
 #### **Primary 4**
 

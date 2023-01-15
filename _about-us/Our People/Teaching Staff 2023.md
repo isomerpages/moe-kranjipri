@@ -31,6 +31,7 @@ third_nav_title: Our People
 |3<br>Compassion|Mdm Lim Chai Lay<br>lim_chai_lay@moe.edu.sg| Mdm Lena Chua Siao Yen<br>lena_chua_siao_yen@moe.edu.sg |  |
 |3<br>Integrity|Mdm Sri Rahayu Bte Mohd Amin<br>sri_rahayu_mohamed_amin@moe.edu.sg | Mdm (Angie) Ng Pai Chen <br>ng_pai_chen@moe.edu.sg |
 |3<br>Respect|Mdm (Valarie) Liaw Bee Ling<br>liaw_bee_leng@moe.edu.sg |Mr Richard S/O Arokiasamy<br>richard_arokiasamy@moe.edu.sg| 
+| 3<br> Resilience| Mr Wee Kang Sheng, Nicholas<br>wee_kang_sheng_nicholas@moe.edu.sg| Mdm Sarimah Bte Mohd Noor<br>sarimah_mohamad_noor@moe.edu.sg
 
 #### **Primary 4**
 

@@ -53,9 +53,9 @@ third_nav_title: Our People
 
 |Class|Form Teacher|Co-Form Teacher| Co-Form Teacher|
 |:--:|--|--|--|
-|6<br>Compassion|Mr Wilson Ng Whye Shoen<br>ng_whye_shoen_wilson@moe.edu.sg   | Mrs Hesheam Hashim<br>hesheam_hashim@moe.edu.sg| Mdm Nur Fazalina Bte Hussin<br>nur_fazalina_hussin@moe.edu.sg |
-|6<br>Integrity|Miss Ting Pui Sin<br>ting_pui_sin@moe.edu.sg  |Mr Wilson Ng Whye Shoen<br>ng_shye_shoen_wilson@moe.edu.sg|Mdm (Angie) Ng Pai Chen<br>ng_pai_chen@moe.edu.sg|
-|6<br>Respect|Miss Cheng Li Yin<br>cheng_li_yin@moe.edu.sg | Mdm Hajerah Beevi D/O Kutus<br>hajerah_beevi_kutus@moe.edu.sg | Mdm Lim Chai Lay           <br>lim_chai_lay@moe.edu.sg        |
+|6<br>Compassion|Mr Wilson Ng Whye Shoen<br>ng_whye_shoen_wilson@moe.edu.sg   | Mrs Hesheam Hashim<br>hesheam_hashim@moe.edu.sg| Mdm Neo Bee Leng<br>neo_bee_leng@moe.edu.sg |
+|6<br>Integrity|Mr Liew Lim Han<br>liew_lim_han@moe.edu.sg  |Miss Azzulin Bte Aripin<br>azzulin_aripin@moe.edu.sg|Mdm (Amanda) Lin Weijia<br>lin_weijia@moe.edu.sg|
+|6<br>Respect|Miss Cheng Li Yin<br>cheng_li_yin@moe.edu.sg | Mdm Yong Chin<br>yong_chin@moe.edu.sg | Mdm Hajerah Beevi D/O Kutus           <br>hajerah_beevi_kutus@moe.edu.sg        |
 
 #### **FLEXI-ADJUNCT TEACHERS**
 

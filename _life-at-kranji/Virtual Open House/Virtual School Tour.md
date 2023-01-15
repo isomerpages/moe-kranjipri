@@ -18,7 +18,7 @@ Please click on the image below to start the virtual tour. Do also click on the 
 
 <div style="float: left">
 
-<a href="https://momento360.com/e/uc/a5de844d2406431ab49027e2f8f4d629?utm_campaign=embed&utm_source=other&size=medium">
+<a href="/school-facilities/Level-1/">
 
 <img src="/images/About%20Us/School%20Facilities/S1.png">
 
@@ -43,7 +43,7 @@ Please click on the image below to start the virtual tour. Do also click on the 
 
 <div style="float: left">
 
-<a href="https://momento360.com/e/uc/9d1e6264e2b44d1badaa1218c7e6b9f7?utm_campaign=embed&utm_source=other&size=medium">
+<a href="/school-facilities/Level-2/">
 
 <img src="/images/About%20Us/School%20Facilities/S2.png">
 
@@ -66,7 +66,7 @@ Please click on the image below to start the virtual tour. Do also click on the 
 
 <div style="float: left">
 
-<a href="https://momento360.com/e/uc/3dbdbe8658a641fbb8237a69d034014d?utm_campaign=embed&utm_source=other&size=medium">
+<a href="/school-facilities/Level-3/">
 
 <img src="/images/About%20Us/School%20Facilities/S3.png">
 
@@ -88,7 +88,7 @@ Please click on the image below to start the virtual tour. Do also click on the 
 
 <div style="float: left">
 
-<a href="https://momento360.com/e/uc/8a1040a3e3d347f288e3918f9065dc52?utm_campaign=embed&utm_source=other&size=medium">
+<a href="/school-facilities/Level-4/">
 
 <img src="/images/About%20Us/School%20Facilities/S4.png">
 
@@ -110,7 +110,7 @@ Please click on the image below to start the virtual tour. Do also click on the 
 
 <div style="float: left">
 
-<a href="https://momento360.com/e/uc/59c599e4a93b4df5a8b5159de7525ac3?utm_campaign=embed&utm_source=other&size=medium">
+<a href="/school-facilities/Level-5/">
 	
 <img src="/images/About%20Us/School%20Facilities/S5.png">
 
@@ -132,7 +132,7 @@ Please click on the image below to start the virtual tour. Do also click on the 
 
 <div style="float: left">
 
-<a href="https://momento360.com/e/uc/2d653abe3cda497abcf161ec8048d2c7?utm_campaign=embed&utm_source=other&size=medium">
+<a href="/school-facilities/Level-6/">
 	
 <img src="/images/About%20Us/School%20Facilities/S6.png">
 
@@ -155,7 +155,7 @@ Please click on the image below to start the virtual tour. Do also click on the 
 
 <div style="float: left">
 
-<a href="https://momento360.com/e/uc/590dde71cecf42fba0fe2e4798286cfa?utm_campaign=embed&utm_source=other&size=medium">
+<a href="/school-facilities/Our-Classroom/">
 
 <img src="/images/About%20Us/School%20Facilities/S7.png">
 

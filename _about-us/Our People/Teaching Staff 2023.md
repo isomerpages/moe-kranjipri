@@ -22,7 +22,7 @@ third_nav_title: Our People
 |2<br>Compassion| Mdm Siti Abshah Bte Sulaiman<br>siti_abshah_sulaiman@moe.edu.sg  |Miss Chang Si Ying<br>chang_si_ying@moe.edu.sg|Mdm Chia Lee Eng<br>chia_lee_eng@moe.edu.sg |
 |2<br>Integrity| Mdm Junaidah Bte Senor junaidah_bte_senor@moe.edu.sg | Mdm Liu Dan<br>liu_dan@moe.edu.sg <br> | Mdm Alicia Ngo Phew Ling<br>alicia_ngo_phew_ling@moe.edu.sg|
 |2<br>Respect| Mdm Gwen Tan<br>gwen_tan@moe.edu.sg|Mdm Ernie Bte Jumat<br>ernie_jumat@moe.edu.sg| Mdm Hafizah Beevi binti Abdul Basit<br>hafizah_beevi_abdul_basit@moe.edu.sg|
-|2<br>Resilience| Mdm Mariah Rahmat<br>mariah_rahmat@moe.edu.sg | Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin<br>raja_nur_rasyidah_raja_kamarul_bahrin@moe.edu.sg| Mdm Adelene Tan Tse Hui <br>tan_tse_hui_adelen@moe.edu.sg|
+|2<br>Resilience| Mdm Mariah Rahmat<br>mariah_rahmat@moe.edu.sg | Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin<br>raja_nur_rasyidah_raja_kamarul_bahrin@moe.edu.sg| Mdm Adelene Tan Tse Hui <br>tan_tse_hui_adelene@moe.edu.sg|
 
 #### **Primary 3**
 

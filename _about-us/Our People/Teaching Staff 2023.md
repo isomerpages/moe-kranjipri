@@ -20,7 +20,7 @@ third_nav_title: Our People
 |Class|Form Teacher|Co-Form Teacher| Co-Form Teacher|
 |:--:|--|--|--|
 |2<br>Compassion| Mdm Siti Abshah Bte Sulaiman<br>siti_abshah_sulaiman@moe.edu.sg  |Miss Chang Si Ying<br>chang_si_ying@moe.edu.sg|Mdm Chia Lee Eng<br>chia_lee_eng@moe.edu.sg |
-|2<br>Integrity| Mdm Zhu Hong zhu_hong@moe.edu.sg | Mdm Eldora Kok Ying Zhi<br>eldora_kok_ying_zhi@moe.edu.sg Mdm Chong Ning Shuang, Lynn<br>chong_ning_shuang_lynn@moe.edu.sg | Mdm Lena Chua Siao Yen<br>lena_chua_siao_yen@moe.edu.sg|
+|2<br>Integrity| Mdm Junaidah Bte Senor junaidah_bte_senor@moe.edu.sg | Mdm Liu Dan<br>liu_dan@moe.edu.sg <br> | Mdm Alicia Ngo Phew Ling<br>alicia_ngo_phew_ling@moe.edu.sg|
 |2<br>Respect| Mdm Tay Li Ping<br>tay_li_ping@moe.edu.sg|Mdm Lim Fang Fang<br>lim_fang_fang@moe.edu.sg| Mdm Sri Rahayu Bte Mohd Amin<br>sri_rahayu_mohamed_amin@moe.edu.sg|
 |2<br>Resilience| Mdm Rasidah Bte Bahrom<br>rasidah_bahrom@moe.edu.sg | Miss Andrea Lee Qing<br>lee_qing_andrea@moe.edu.sg| Mdm Deborah Tham Lai Mei <br>deborah_tham_lai_mei@moe.edu.sg|
 

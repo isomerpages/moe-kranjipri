@@ -1,4 +1,5 @@
 collections:
   school-facilities:
     output: true
-    order: []
+    order:
+      - Our Classroom.md

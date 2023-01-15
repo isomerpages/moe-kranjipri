@@ -18,10 +18,10 @@ to achieve success.
 ![](/images/About%20Us/School%20Creed,%20Crest%20and%20Song/S01.png)
 
 **Symbols in the School Crest:**
-![](/images/About%20Us/School%20Creed,%20Crest%20and%20Song/S2.png)
+![](/images/About%20Us/School%20Creed,%20Crest%20and%20Song/Symbols.png)
 
 **Colours of School Crest:**
-![](/images/About%20Us/School%20Creed,%20Crest%20and%20Song/S3.png)
+![](/images/About%20Us/School%20Creed,%20Crest%20and%20Song/color.png)
 
 **School Song** 
 

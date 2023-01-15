@@ -47,7 +47,7 @@ third_nav_title: Our People
 |:--:|--|--|--|
 |5<br>Compassion|Mr (Ryan) Ng Chou Yeaw<br>ng_chou_yeaw@moe.edu.sg| Miss Lim Hui Khooh<br>lim_hui_khooh@moe.edu.sg| Mrs Stephanie Thoo <br>stephanie_thoo@moe.edu.sg|
 |5<br>Integrity|Mr Loh Yan Hao, Jeremy<br>loh_yan_hao_jeremy@moe.edu.sg        | Mdm Zhu Hong<br>zhu_hong@moe.edu.sg| Mdm Rufaidah Bte Ismail<br>rufaidah_ismail@moe.edu.sg|
-|5<br>Respect|Mr Loh Yan Hao, Jeremy<br>loh_yan_hao_jeremy@moe.edu.sg | Mdm Rufaidah Bte Ismail<br>rufaidah_ismail@moe.edu.sg | Mdm Yong Chin<br>yong_chin@moe.edu.sg|
+|5<br>Respect|Miss Loh Jun Qin<br>loh_jun_qin@moe.edu.sg | Miss Fan Yiou<br>fan_yiou@moe.edu.sg | Mr Mohamad Fazlee Bin Sabari<br>mohamad_fazlee_sabari@moe.edu.sg|
 
 #### **Primary 6**
 

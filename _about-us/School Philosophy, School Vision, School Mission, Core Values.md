@@ -36,5 +36,5 @@ Nurturing Minds, Engaging Hearts, Building Character 
 **I**ntegrity  
 Res**PE**ct
 
-![](/images/About%20Us/School%20Philosophy,%20School%20Vis/S3.jpg)
+![](/images/About%20Us/School%20Philosophy,%20School%20Vis/S4.jpg)
 </center>

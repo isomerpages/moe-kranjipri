@@ -2,4 +2,5 @@ collections:
   school-facilities:
     output: true
     order:
+      - Level 6.md
       - Our Classroom.md

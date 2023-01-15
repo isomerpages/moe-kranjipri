@@ -63,8 +63,8 @@ third_nav_title: Our People
 |--|--|--|--|
 | Mdm Violet Gee<br>gee_violet@moe.edu.sg | Mdm Noorhani Bte Adenan<br>noorhani_bte_adenan@moe.edu.sg | Mdm Nazli Binti Mat Ali<br>nazli_mat_ali@moe.edu.sg    |
 | Mdm Ho Qian Wen<br>ho_qian_wen@moe.edu.sg| Mdm Lee Siyin <br>lee_siyin@moe.edu.sg| Mdm Ong Wee Fern (Jermaine)<br>ong_wee_fern@moe.edu.sg |
-|Mdm Kailee Muthu Silvi<br>kailee_muthu_silvi@moe.edu.sg | Mdm Juliet Ang Shy Yunn<br>juliet_ang_shy_yunn@moe.edu.sg | Mdm Tan Ai Fang<br>tan_ai_fang@moe.edu.sg|
-|Miss Swee Maye Lin swee_maye_lin@moe.edu.sg| | |
+|Mdm Kailee Muthu Silvi<br>kailee_muthu_silvi@moe.edu.sg | Miss Swee Maye Lin<br>swee_maye_lin@moe.edu.sg | Mdm Tan Ai Fang<br>tan_ai_fang@moe.edu.sg|
+|Mr Abdul Rashid Bin Ismail <br>abdul_rashid_ismail@moe.edu.sg| | |
 
 
 

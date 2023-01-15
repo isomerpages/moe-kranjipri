@@ -5,7 +5,7 @@ description: ""
 ---
 **School Creed**  
   
-We, the students of KPS,  
+We, the students of KPS,<br>
 pledge to be exemplary in character at all times.  
 We will respect ourselves and others  
 and be responsible for our learning and actions.  

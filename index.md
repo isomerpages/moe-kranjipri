@@ -49,7 +49,7 @@ sections:
         secondary schools in the West Zone.
       button: Read more
       url: https://online.fliphtml5.com/obrr/qkde/#p=1
-      image: /images/News and Events/N6.jpg
+      image: /images/News and Events/westories 2022.png
       alt: Image alt text
   - infopic:
       description: My children deserve the best – and that’s why I chose Kranji

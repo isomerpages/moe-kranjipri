@@ -7,18 +7,9 @@ description: ""
 
   
 
-**Address**: 11 Choa Chu Kang Street 54, S689189
-
-  
-
-**Tel**: 67634812
-
-  
-
-**Fax**: 67634568
-
-  
-
+**Address**: 11 Choa Chu Kang Street 54, S689189<br>
+**Tel**: 67634812<br>
+**Fax**: 67634568<br>
 **E-mail**: [kranji\_ps@moe.edu.sg](mailto:kranji_ps@moe.edu.sg)
 
   
@@ -43,12 +34,9 @@ For general enquires, do send us an email [here](mailto:kranji_ps@moe.edu.sg).
 
 ### 1\. School Bookshop
 
-Name of Company: Ricky Book Centre
-
-Liaison Person: Miss Lisa
-
-Contact No.: 6363 9159 / 8875 9499
-
+Name of Company: Ricky Book Centre<br>
+Liaison Person: Miss Lisa<br>
+Contact No.: 6363 9159 / 8875 9499<br>
 Operating Hours: 
 
 *   Mondays to Fridays: 9am – 3pm (during school term but closed on Saturdays, Sundays and Public Holidays)
@@ -57,10 +45,8 @@ Operating Hours: 
 
 ### 2\. School Bus Transport 
 
-Name of Company: Chang Chen Pte Ltd
-
-Liaison Person: Mr Grif Lim
-
+Name of Company: Chang Chen Pte Ltd<br>
+Liaison Person: Mr Grif Lim<br>
 Contact No.: 6760 4835 
 
   
@@ -69,7 +55,7 @@ Contact No.: 6760 4835 
 
 Students who require dental treatment can go the Dental Clinic in school for assistance. The clinic in our school will be open from 1 August to 31 November 2022 and is supported by other buddy dental clinics in primary schools around the area on other days during the school term. 
 
-The details of the buddy dental clinics are as follows:
+**The details of the buddy dental clinics are as follows**:
 
 *   De La Salle Primary School, Tel: 6765-6407
 *   Unity Primary School, Tel: 6767-7161
@@ -82,10 +68,7 @@ Students with dental emergencies (e.g. severe pain affecting sleep, facial swell
 
 ### 4\. School Uniform
 
-Name of Company: In-Trend Uniforms
-
-General Hotline: 6741 0930 / 8448 9939
-
-Operating Hours: 
-
+Name of Company: In-Trend Uniforms<br>
+General Hotline: 6741 0930 / 8448 9939<br>
+Operating Hours: <br>
 Note: The school uniform will also be sold in school via the School Bookshop

@@ -28,7 +28,6 @@ The 5-Finger strategy was designed to help students adapt to the new format in 2
  4)    Think about possible experiences related to the theme.<br>
  5)    Link to school and community experiences, express personal opinions,
 				 feelings, thoughts and ideas.
-        feelings, thoughts and ideas.
 
 This structured model serves as a useful guide for pupils to use the silent preparation time wisely by brainstorming on the possible topic and questions that will be asked by the Oral Examiner. To facilitate teaching and learning, teachers have developed customised notes to guide students in their learning.
 

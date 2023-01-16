@@ -14,7 +14,7 @@ sections:
           url: /News-and-Events/
         - title: EXCITE
           description: ""
-          url: /faq/
+          url: /our-curriculum/EXCITE-Learning-Approach/
         - title: Voice of Our Alumni
           description: ""
           url: /faq/

@@ -17,7 +17,7 @@ sections:
           url: /our-curriculum/EXCITE-Learning-Approach/
         - title: Voice of Our Alumni
           description: ""
-          url: /faq/
+          url: /Voices-of-our-alumni/
   - infopic:
       title: KPS Teachers' Day
       description: Even though all the 𝙚𝙭-𝙨𝙩𝙪𝙙𝙚𝙣𝙩𝙨 are deeply missed by your

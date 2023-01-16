@@ -19,10 +19,10 @@ All can learn<br><br>
 
 <b>Vision</b><br>
 Joyful Learners, Gracious Citizens, Champions in Life <br>
-<img style="width:50%;height:50%" src="/images/About%20Us/School%20Philosophy,%20School%20Vis/S2.png"> 
+<img style="width:50%;height:50%" src="/images/About%20Us/School%20Philosophy,%20School%20Vis/S2.png"> <br>
   
 <b>Mission</b><br>
-Nurturing Minds, Engaging Hearts, Building Character <br> 
+Nurturing Minds, Engaging Hearts, Building Character <br><br>
   
 <b>Core Values</b> <br>
 <b>RE</b>sponsibility  <br>

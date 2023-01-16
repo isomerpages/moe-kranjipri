@@ -22,15 +22,12 @@ The key features of the Mother Tongue curriculum includes focusing on students' 
 
 The 5-Finger strategy was designed to help students adapt to the new format in 2017 PSLE E-Oral. Using 5 fingers as visual stimulus, this strategy encompasses the 5 important steps when preparing for the oral exam.
 
- 1)    Read the passage.
- 
+ 1)    Read the passage.<br>
  2)    Watch the video, listen to the narration and identify the theme and major events.
- 
- 3)    Choose one of the events and watch the relevant part carefully.
- 
- 4)    Think about possible experiences related to the theme.
- 
- 5)    Link to school and community experiences, express personal opinions, feelings, thoughts and ideas.
+ 3)    Choose one of the events and watch the relevant part carefully.<br>
+ 4)    Think about possible experiences related to the theme.<br>
+ 5)    Link to school and community experiences, express personal opinions,  
+        feelings, thoughts and ideas.
 
 This structured model serves as a useful guide for pupils to use the silent preparation time wisely by brainstorming on the possible topic and questions that will be asked by the Oral Examiner. To facilitate teaching and learning, teachers have developed customised notes to guide students in their learning.
 

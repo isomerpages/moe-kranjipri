@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: News & Events
           description: ""
-          url: /faq/
+          url: /News-and-Events/
         - title: EXCITE
           description: ""
           url: /faq/

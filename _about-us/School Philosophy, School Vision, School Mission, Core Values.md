@@ -5,36 +5,31 @@ description: ""
 ---
 <center>
 
-### **Our School Philosophy**
+<h3><b>Our School Philosophy</b></h3>
 
 
-**“Every Kranjian Matters and Deserves the Best!”**
+<b>“Every Kranjian Matters and Deserves the Best!”</b><br><br>
+We value every student <br><br>
+Every student wants to succeed<br><br>
+All can learn<br><br>
 
-	We value every student  
-
-Every student wants to succeed
-
-All can learn
-
-  
 <img style="width:50%;height:50%" src="/images/About%20Us/School%20Philosophy,%20School%20Vis/S1.png">
 
-### **School Vision, School Mission, Core Values**
+<h3><b>School Vision, School Mission, Core Values</b></h3>
 
-
-**Vision**  
-Joyful Learners, Gracious Citizens, Champions in Life  
+<b>Vision</b><br>
+Joyful Learners, Gracious Citizens, Champions in Life <br>
 <img style="width:50%;height:50%" src="/images/About%20Us/School%20Philosophy,%20School%20Vis/S2.png"> 
   
-**Mission**  
-Nurturing Minds, Engaging Hearts, Building Character   
+<b>Mission</b><br>
+Nurturing Minds, Engaging Hearts, Building Character <br> 
   
-**Core Values**  
-**RE**sponsibility  
-**RE**silience  
-**C**ompassion  
-**I**ntegrity  
-Res**PE**ct
+<b>Core Values</b> <br>
+<b>RE</b>sponsibility  <br>
+<b>RE</b>silience  <br>
+<b>C</b>ompassion  <br>
+<b>I</b>ntegrity  <br>
+Res<b>PE</b>ct<br>
 
 ![](/images/About%20Us/School%20Philosophy,%20School%20Vis/S4.png)
 </center>

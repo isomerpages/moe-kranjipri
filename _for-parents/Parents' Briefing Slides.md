@@ -3,8 +3,9 @@ title: Parents' Briefing Slides
 permalink: /for-parents/Parents-Briefing-Slides/
 description: ""
 ---
-1. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/P1_Parents%20Briefing%20Slides%2021%20Jan%202022.pdf" target = "\_blank">2022 MTP Principal's Briefing for P1
-2. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/P_Briefing_P2P3_2022_for%20sharing.pdf" target = "\_blank">2022 MTP Principal's Briefing for P2&3
+1. [Remaking Secondary School Pathways](/files/For%20Parents/Parents'%20Briefing%20Slides/Remaking-Secondary-School-Pathways.pdf)
+2. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/P1_Parents%20Briefing%20Slides%2021%20Jan%202022.pdf" target = "\_blank">2022 MTP Principal's Briefing for P1
+4. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/P_Briefing_P2P3_2022_for%20sharing.pdf" target = "\_blank">2022 MTP Principal's Briefing for P2&3
 	
 3. <a href="/files/For%20Parents/Parents'%20Briefing%20Slides/P_Briefing_P4_2022_for%20sharing.pdf" target = "\_blank">2022 MTP Principal's Briefing for P4
 	

@@ -8,6 +8,16 @@ notification: EVERY KRANJIAN MATTERS AND DESERVES THE BEST
 sections:
   - hero:
       background: /images/image001.png
+      key_highlights:
+        - title: News & Events
+          description: ""
+          url: /faq/
+        - title: EXCITE
+          description: ""
+          url: /faq/
+        - title: Voice of Our Alumni
+          description: ""
+          url: /faq/
   - infopic:
       title: KPS Teachers' Day
       description: Even though all the 𝙚𝙭-𝙨𝙩𝙪𝙙𝙚𝙣𝙩𝙨 are deeply missed by your

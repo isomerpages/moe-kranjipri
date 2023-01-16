@@ -44,11 +44,11 @@ sections:
       image: /images/News and Events/N5.jpg
       alt: Image alt text
   - infopic:
-      title: 2021 WE STories
+      title: 2022 WE STories
       description: The WE STories publication is a compilation of stories from all the
         secondary schools in the West Zone.
       button: Read more
-      url: https://online.fliphtml5.com/obrr/vrmu/#p=1
+      url: https://online.fliphtml5.com/obrr/qkde/#p=1
       image: /images/News and Events/N6.jpg
       alt: Image alt text
   - infopic:

@@ -14,7 +14,7 @@ We are the parents of KPS who contribute to the school’s efforts to give our c
 
 *   To be a Supportive Partner In Education 
 
-       We complement the school’s efforts by supporting and strengthening school programmes to enhance our children’s well-being and learning.
+	</tab>We complement the school’s efforts by supporting and strengthening school programmes to enhance our children’s well-being and learning.
 			 
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P2.jpg)
 
@@ -32,6 +32,10 @@ Our children benefit when we are more active in the school environment.  They t
 *   be able to bridge the cultural gap between school and home
 *   be less anti-social and less prone to behavioural issues
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QrtzGEsDZD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 ### **PSG Focus Group**
 
 We are a group of parents who play a key role in inspiring our fellow PSG members and coordinating their time and effort to contribute to the school’s programmes.  
@@ -42,7 +46,7 @@ We are a group of parents who play a key role in inspiring our fellow PSG member
 
 * To be the Bridge Between Parents and School  
 
->We facilitate school's communication to parents
+We facilitate school's communication to parents
 
 >We listen to parents' feedback and contribute constructive feedback / ideas to improve the PSG and the school
 

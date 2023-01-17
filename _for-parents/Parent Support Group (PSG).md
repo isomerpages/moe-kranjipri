@@ -35,6 +35,7 @@ Our children benefit when we are more active in the school environment.  They t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrtzGEsDZD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rJYZaNezc-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### **PSG Focus Group**
 
@@ -46,17 +47,17 @@ We are a group of parents who play a key role in inspiring our fellow PSG member
 
 * To be the Bridge Between Parents and School  
 
-We facilitate school's communication to parents
+	 - We facilitate school's communication to parents
 
->We listen to parents' feedback and contribute constructive feedback / ideas to improve the PSG and the school
+	- We listen to parents' feedback and contribute constructive feedback / ideas to improve the PSG and the school
 
   
 
 * To be a Magnet to Attract Other Parents
 
->We reach out to other fellow KPS parents and involve them in contribution to make the school environment more conducive for learning.
+	- We reach out to other fellow KPS parents and involve them in contribution to make the school environment more conducive for learning.
 
->We support and guide our fellow KPS parents in their Parenting journey
+	- We support and guide our fellow KPS parents in their Parenting journey
 
 
 
@@ -77,11 +78,12 @@ Kranji’s PSG has a strong network to bridge parent-school communication & supp
   
 
 We hope to see more active parent participation in our programmes so as to maintain a successful PSG-school community that raises happy and successful Kranjians!  
+ **Joreen Ong, PSG Coordinator**
+	
 
-  
-
-**Joreen Ong, PSG Coordinator**
-
+</br>	
+</br>
+	
 </div></div>
 
 
@@ -95,17 +97,11 @@ We hope to see more active parent participation in our programmes so as to maint
 
 Together with the school, parents play an important role in enriching our children’s development. 
 
-  
+Our participation in school programmes sends a strong signal to our children that we are interested in their learning and that we are walking the journey with them.
 
-1)  Our participation in school programmes sends a strong signal to our children that we are interested in their learning and that we are walking the journey with them.
-
-  
-
-2)  We believe that our collaboration with the school will raise happy and successful children and help us forge closer bonds with them.
-
-  
-
-3)  We also hope to make lasting memories for every Kranjian on their primary school life.  Hence, I encourage all parents to join hands and support our children in school whenever you are available.  Together, we will support the school in building the Kranjian spirit in our children!  
+We believe that our collaboration with the school will raise happy and successful children and help us forge closer bonds with them.
+	
+We also hope to make lasting memories for every Kranjian on their primary school life.  Hence, I encourage all parents to join hands and support our children in school whenever you are available.  Together, we will support the school in building the Kranjian spirit in our children!  
 
   
 

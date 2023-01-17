@@ -53,8 +53,8 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 
 
-| 2021 | Attained Certificate of Recognition at the Singapore Youth Festival (SYF) Arts Exhibition with mixed media collage, 'Technology In Our Lives' by P2 students.  | 
-| -------- | ---------------------- |
+| 2021 | Attained Certificate of Recognition at the Singapore Youth Festival (SYF) Arts Exhibition with mixed media collage, 'Technology In Our Lives' by P2 students.| 
+| -------- | --------- |
 
 | 2019   | Attained Certificate of Recognition at the Singapore Youth Festival (SYF) Arts Exhibition with mixed media collage, "Embrace Differences. Celebrate" by our P5 and 6 students. Selected to conduct Artists' Talk and fringe activities at the Singapore Museum in conjunction with SYF 2019 |
 |:-:|-|

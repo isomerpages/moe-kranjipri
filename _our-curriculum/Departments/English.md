@@ -30,7 +30,7 @@ The lower primary strategies include the Shared Book Approach (SBA) and Modified
 
 The Upper Primary strategies include:  
 
-• Sustained Silent Reading (SSR)
+* Sustained Silent Reading (SSR)
 
 * Supported Reading (SR)
 

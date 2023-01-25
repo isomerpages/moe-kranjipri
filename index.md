@@ -19,15 +19,6 @@ sections:
           description: ""
           url: /Voices-of-our-alumni/
   - infopic:
-      title: KPS Teachers' Day
-      description: Even though all the 𝙚𝙭-𝙨𝙩𝙪𝙙𝙚𝙣𝙩𝙨 are deeply missed by your
-        teachers, we decided to keep everyone safe this year. We hope to see you
-        soon!
-      button: Read More
-      url: https://thankyoucher.edu.sg/
-      image: /images/News and Events/N1.jpg
-      alt: Image alt text
-  - infopic:
       title: Basketball West Zone Senior Division Champions
       description: We are proud to announce that our Senior Girls Basketball Team has
         emerged as the Champion at the National School Games West Zone

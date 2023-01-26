@@ -16,13 +16,8 @@ locations:
     title: General Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6763 4812
+      - email: kranji_ps@moe.edu.sg
+      - other: "For general enquiries, do send us an email using the email above. "
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---

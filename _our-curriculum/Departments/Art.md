@@ -95,7 +95,7 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
   
 
-**Primary 3 Print Making Programme**
+<center><h5>Primary 3 Print Making Programme</h5></center>
 
 <figure>
 
@@ -124,12 +124,9 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 <figcaption> <strong> The finished product </strong> </figcaption>
 
 </figure>
-
 <figure>
-
   
-
-**P4 Digital Photography Programme**
+##### P4 Digital Photography Programme
 
 
 
@@ -179,7 +176,7 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
   
 
-**P5 Ceramics - Basic Hand Building Programme**
+##### P5 Ceramics - Basic Hand Building Programme
 
 <figure>
 
@@ -215,7 +212,7 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
   
 
-**P6 Digital Manga Programme**
+##### P6 Digital Manga Programme
 
 <figure>
 
@@ -255,7 +252,7 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
   
 
-**Annual Art Exhibition**
+##### Annual Art Exhibition
 
   
 
@@ -273,7 +270,7 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
   
 
-**KPS Virtual Art Gallery**  
+##### KPS Virtual Art Gallery
 
   
 

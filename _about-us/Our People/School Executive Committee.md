@@ -10,4 +10,5 @@ third_nav_title: Our People
 ![](/images/About%20Us/Our%20People/School%20Exec%20Committee/SEC4.png)
 ![](/images/About%20Us/Our%20People/School%20Exec%20Committee/SEC5.png)
 ![](/images/About%20Us/Our%20People/School%20Exec%20Committee/SEC6.png)
-![](/images/About%20Us/Our%20People/School%20Exec%20Committee/SEC7.png)
+![](/images/About%20Us/Our%20People/School%20Exec%20Committee/SEC8_ADMIN.png)
+

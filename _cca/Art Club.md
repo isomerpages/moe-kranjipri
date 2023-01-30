@@ -3,7 +3,6 @@ title: Art Club
 permalink: /cca/Arts/
 description: ""
 ---
-
 ##### **Objectives**
   
 

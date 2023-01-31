@@ -4,7 +4,7 @@ title: Kranji Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: EVERY KRANJIAN MATTERS AND DESERVES THE BEST
+notification: ""
 sections:
   - hero:
       background: /images/newbanner.png

@@ -4,17 +4,16 @@ permalink: /News-and-Events/
 description: ""
 ---
 ### **Read our latest news**
-| | | |  
-|:-:|:-:|:-:|
-|<a href="https://drive.google.com/file/d/1mk3H0l7QidR7BshTEeNzmLLeeyjAuIxw/view?usp=share_link">
-<img style="width:60%" src="/images/MsTayFarewell.png">	
-</a>|
+
+<a href="https://drive.google.com/file/d/1mk3H0l7QidR7BshTEeNzmLLeeyjAuIxw/view?usp=share_link">
+<img style="width:60%" align="center" src="/images/MsTayFarewell.png">	
+</a>
 Recently, we bid farewell to Ms Tay Sze Leng, our Vice-Principal. We had an event on Wednesday, 25 Jan 2023, to share the wonderful memories we had during her tenure in KPS.
 Do watch our farewell video.
 
 ##### Basketball West Zone Senior Division Champions
 
-<img style="width:50%" src= "/images/News%20and%20Events/N3.jpg">
+<img style="width:50%" align="left" src= "/images/News%20and%20Events/N3.jpg">
 
 <p style="text-align:right" >We are proud to announce that our Senior Girls Basketball Team has emerged as the Champion at the National School Games West Zone Basketball Competition. <b>Congratulations to our Basketballers!</b></p>
 <br>
@@ -26,8 +25,4 @@ Do watch our farewell video.
 <h5 style="text-align:left"> P4 1:1 Learning Experience </h5>
 <img style="width:50%" align="left" src="/images/News%20and%20Events/N5.jpg">
 
-<p style="text-align:right">The main aim of the 1:1 Learning Experience is to enable our students to gain future-ready competencies. By redesigning how teachers teach and how students learn with technology, we strive to create a positive and impactful teaching and learning environment.</p> 
-
-<a href="/our-curriculum/Signature-Programmes/1-1-Learning-Experience/"> Read More </a>
-	
-</article>
+<p style="text-align:right">The main aim of the 1:1 Learning Experience is to enable our students to gain future-ready competencies. By redesigning how teachers teach and how students learn with technology, we strive to create a positive and impactful teaching and learning environment.</p> <a href="/our-curriculum/Signature-Programmes/1-1-Learning-Experience/"> Read More </a>

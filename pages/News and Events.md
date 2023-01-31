@@ -4,24 +4,23 @@ permalink: /News-and-Events/
 description: ""
 ---
 ### **Read our latest news**
-<article>
+
 Recently, we bid farewell to Ms Tay Sze Leng, our Vice-Principal. We had an event on Wednesday, 25 Jan 2023, to share the wonderful memories we had during her tenure in KPS.
 
 Do watch our farewell for her.
-<img src="/images/MsTayFarewell.png"><a href="https://drive.google.com/file/d/1mk3H0l7QidR7BshTEeNzmLLeeyjAuIxw/view?usp=share_link">
-	
+<a href="https://drive.google.com/file/d/1mk3H0l7QidR7BshTEeNzmLLeeyjAuIxw/view?usp=share_link">
+<img src="/images/MsTayFarewell.png">	
 </a>
-
-</article>
 
 ##### Basketball West Zone Senior Division Champions
 
-<img style="width:50%" src= "/images/News%20and%20Events/N3.jpg" alt="ALP" style="text-align:right">
+<img style="width:50%" src= "/images/News%20and%20Events/N3.jpg">
 
 <p style="text-align:right" >We are proud to announce that our Senior Girls Basketball Team has emerged as the Champion at the National School Games West Zone Basketball Competition. <b>Congratulations to our Basketballers!</b></p>
 <br>
 <h5 style="text-align:right"> Applied Learning Programme </h5>
 <img style="width:50%" align="right" src="/images/News%20and%20Events/N4.jpg" alt="ALP" style="text-align:right">
+
 <p style="text-align:left"> Rooted in our belief that “Every Kranjian Matters and Deserves the Best”, the ALP programme is specially designed to develop critical and inventive Kranjians. As part of the learning process, students get to create, innovate, recover from failure, and build critical thinking and problem solving skills. </p><a href="/our-curriculum/Signature-Programmes/Applied-Learning-Programme-ALP/"> Read More </a>
 
 <h5 style="text-align:left"> P4 1:1 Learning Experience </h5>

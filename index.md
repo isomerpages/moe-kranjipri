@@ -10,13 +10,13 @@ sections:
       background: /images/newbanner.png
       key_highlights:
         - title: News & Events
-          description: ""
+          description: Latest News & Events
           url: /News-and-Events/
         - title: EXCITE
-          description: ""
+          description: Empowering Kranjians
           url: /our-curriculum/EXCITE-Learning-Approach/
         - title: Voice of Our Alumni
-          description: ""
+          description: Ex-students KPS Testimony
           url: /Voices-of-our-alumni/
       title: WELCOME TO KRANJI PRIMARY SCHOOL
       subtitle: EVERY KRANJIAN MATTERS AND DESERVES THE BEST

@@ -8,10 +8,11 @@ description: ""
 Recently, we bid farewell to Ms Tay Sze Leng, our Vice-Principal. We had an event on Wednesday, 25 Jan 2023, to share the wonderful memories we had during her tenure in KPS.
 
 Do watch our farewell for her.
-<img src="/images/MsTayFarewell.png"><a href="https://drive.google.com/file/d/1mk3H0l7QidR7BshTEeNzmLLeeyjAuIxw/view?usp=share_link">Watch It Here</a>
+<img src="/images/MsTayFarewell.png"><a href="https://drive.google.com/file/d/1mk3H0l7QidR7BshTEeNzmLLeeyjAuIxw/view?usp=share_link">
+	
+</a>
 
-
-
+</article>
 
 ##### Basketball West Zone Senior Division Champions
 

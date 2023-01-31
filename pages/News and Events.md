@@ -17,6 +17,7 @@ Do watch our farewell video.
 
 <p style="text-align:right" >We are proud to announce that our Senior Girls Basketball Team has emerged as the Champion at the National School Games West Zone Basketball Competition. <b>Congratulations to our Basketballers!</b></p>
 <br>
+<br>
 <h5 style="text-align:right"> Applied Learning Programme </h5>
 <img style="width:50%" align="right" src="/images/News%20and%20Events/N4.jpg" alt="ALP" style="text-align:right">
 

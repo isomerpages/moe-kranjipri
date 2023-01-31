@@ -6,7 +6,7 @@ description: ""
 # **Read our latest news**
 <figure>
 
-| ![](/images/News%20and%20Events/N3.jpg) | <h5>Basketball West Zone Senior Division Champions |</h5>
+| ![basketball](/images/News%20and%20Events/N3.jpg) | <h5>Basketball West Zone Senior Division Champions |</h5>
 | -------- | -------- | -------- |
 <p>We are proud to announce that our Senior Girls Basketball Team has emerged as the Champion at the National School Games West Zone Basketball Competition.</p>
 

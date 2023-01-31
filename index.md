@@ -18,6 +18,10 @@ sections:
         - title: Voice of Our Alumni
           description: ""
           url: /Voices-of-our-alumni/
+      title: WELCOME TO KRANJI PRIMARY SCHOOL
+      subtitle: EVERY KRANJIAN MATTERS AND DESERVES THE BEST
+      button: GET TO KNOW US!
+      url: /about-us/School-History/
   - infopic:
       title: Basketball West Zone Senior Division Champions
       description: We are proud to announce that our Senior Girls Basketball Team has

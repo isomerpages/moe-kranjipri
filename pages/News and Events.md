@@ -3,17 +3,14 @@ title: News and Events
 permalink: /News-and-Events/
 description: ""
 ---
-# **Read our latest news**
-<figure>
-
-| ![basketball](/images/News%20and%20Events/N3.jpg) | <h5>Basketball West Zone Senior Division Champions |</h5>
-| -------- | -------- | -------- |
-<p>We are proud to announce that our Senior Girls Basketball Team has emerged as the Champion at the National School Games West Zone Basketball Competition.</p>
+### **Read our latest news**
 
 
+##### Basketball West Zone Senior Division Champions
+![](/images/News%20and%20Events/N3.jpg) 
+We are proud to announce that our Senior Girls Basketball Team has emerged as the Champion at the National School Games West Zone Basketball Competition. Congratulations to our Basketballers!
 
-| |<h5>Applied Learning Programmed </h5>| ![ALP](/images/News%20and%20Events/N4.jpg) |
-| -------- | -------- | -------- |
-<p>Rooted in our belief that “Every Kranjian Matters and Deserves the Best”, the ALP programme is specially designed to develop critical and inventive Kranjians.</p><a href=[ALP](/our-curriculum/Signature-Programmes/Applied-Learning-Programme-ALP/)>Read More</a>
+<h5 style="text-align:right;"> Applied Learning Programme </h5>
+<img style="width:80%" align="right" src="/images/News%20and%20Events/N4.jpg" alt="ALP" style="text-align:right">
+<p style="text-align:left"> Rooted in our belief that “Every Kranjian Matters and Deserves the Best”, the ALP programme is specially designed to develop critical and inventive Kranjians. As part of the learning process, students get to create, innovate, recover from failure, and build critical thinking and problem solving skills. </p>
 
-</figure>

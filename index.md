@@ -7,7 +7,7 @@ permalink: /
 notification: EVERY KRANJIAN MATTERS AND DESERVES THE BEST
 sections:
   - hero:
-      background: /images/image001.png
+      background: /images/newbanner.png
       key_highlights:
         - title: News & Events
           description: ""

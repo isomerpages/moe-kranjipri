@@ -8,7 +8,8 @@ description: ""
 
 ##### Basketball West Zone Senior Division Champions
 
-<img style="width:80%" align="left" src= /images/News%20and%20Events/N3.jpg >
+<img style="width:80%" align="left" src= "/images/News%20and%20Events/N3.jpg" alt="ALP" style="text-align:right" >
+
 <p>We are proud to announce that our Senior Girls Basketball Team has emerged as the Champion at the National School Games West Zone Basketball Competition. Congratulations to our Basketballers!</p>
 
 <h5 style="text-align:right;"> Applied Learning Programme </h5>

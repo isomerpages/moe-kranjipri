@@ -14,6 +14,6 @@ description: ""
 
 | |<h5>Applied Learning Programmed </h5>| ![ALP](/images/News%20and%20Events/N4.jpg) |
 | -------- | -------- | -------- |
-<p>Rooted in our belief that “Every Kranjian Matters and Deserves the Best”, the ALP programme is specially designed to develop critical and inventive Kranjians.</p><a href="[CTA](/files/News%20&%20Events/Caring%20Teacher%20Awards%202022.pdf)">Read More</a>
+<p>Rooted in our belief that “Every Kranjian Matters and Deserves the Best”, the ALP programme is specially designed to develop critical and inventive Kranjians.</p><a href=[ALP](/our-curriculum/Signature-Programmes/Applied-Learning-Programme-ALP/)>Read More</a>
 
 </figure>

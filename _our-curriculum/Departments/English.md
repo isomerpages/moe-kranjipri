@@ -30,13 +30,9 @@ The lower primary strategies include the Shared Book Approach (SBA) and Modified
 The Upper Primary strategies include:  
 
 * Sustained Silent Reading (SSR)
-
 * Supported Reading (SR)
-
 * Know - Want to know - Learnt (KWL)
-
 * Retelling (RT), Language Activities and Sentence Manipulation
-
 * Writing Process Cycle (WPC)
 
  

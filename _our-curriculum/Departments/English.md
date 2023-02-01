@@ -11,7 +11,6 @@ third_nav_title: Departments
 The following diagram presents the key features of the EL Syllabus 2020 undergirded by the principles of EL teaching and learning (CLLIPS) and EL teaching processes (ACoLADE). A pedagogical emphasis on Multiliteracies, Metacognition, and Inquiry through Dialogue in the EL classroom helps to develop knowledge of language and ensures effective and affective language use for all EL learners. The approach to language teaching and learning ensures a firm and rich foundation for all for future learning. 
 
 ![](/images/Our%20Curriculum/Departments/English/E1.png)
-Source: Primary_els_2020_syllabus.pdf
 ##### **Department Pedagogy**
 
   

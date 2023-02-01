@@ -18,7 +18,7 @@ sections:
         - title: Voice of Our Alumni
           description: Ex-students KPS Testimony
           url: /Voices-of-our-alumni/
-      title: WELCOME TO KRANJI PRIMARY SCHOOL
+      title: KRANJI PRIMARY SCHOOL
       subtitle: EVERY KRANJIAN MATTERS AND DESERVES THE BEST
       button: GET TO KNOW US!
       url: /about-us/School-History/

@@ -11,10 +11,8 @@ description: ""
 Recently, we bid farewell to Ms Tay Sze Leng, our Vice-Principal. We had an event on Wednesday, 25 Jan 2023, to share the wonderful memories we had during her tenure in KPS.
 Do watch our farewell video.
 
-##### Basketball West Zone Senior Division Champions
-
+<h5 style="text-align:left"> Basketball West Zone Senior Division Champions</h5>
 <img style="width:50%" align="left" src= "/images/News%20and%20Events/N3.jpg">
-
 <p style="text-align:right" >We are proud to announce that our Senior Girls Basketball Team has emerged as the Champion at the National School Games West Zone Basketball Competition. <b>Congratulations to our Basketballers!</b></p>
 <br>
 <br>

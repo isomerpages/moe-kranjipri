@@ -9,9 +9,9 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <div>
 
-<a href="/butterfly-garden/Plant-1-Asystasia-intrusia/" target = "_blank">
+<a href="/butterfly-garden/Plant-1-Asystasia-intrusia/" target ="/butterfly-garden/Plant-1-Asystasia-intrusia/">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B1.jpg">
+<img style="width:50%" src="/images/Butterfly%20Garden/B1.jpg">**Asystasia intrusa**
 
 </a>
 

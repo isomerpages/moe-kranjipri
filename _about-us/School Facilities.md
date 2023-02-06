@@ -5,7 +5,7 @@ description: ""
 ---
 <img style="width:100%;height:50%" src="/images/About%20Us/School%20Facilities/deco1.png">
 
-We also have a Student Care Centre located within the school. Click [here](https://cms.isomer.gov.sg/sites/moe-kranjipri/folders/for-parents/editPage/Student%20Care%20Centre.md) to find out more!
+We also have a Student Care Centre located within the school. Click [here](for-parents/Student-Care-Centre/) to find out more!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pk9BBYNnf28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

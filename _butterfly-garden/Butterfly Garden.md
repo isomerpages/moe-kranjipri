@@ -22,7 +22,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-2-Ixora-Sunkist/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B2.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B2.png"> **Ixora Sunkist**
 
 </a>
 
@@ -33,7 +33,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-3-Calliandra-emarginata/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B3.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B3.png">**Calliandra Emarginata**
 
 </a>
 
@@ -44,7 +44,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-4-Stachytarpheta-indica/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B4.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B4.png"> **Stachytarpheta-indica**
 
 </a>
 
@@ -55,7 +55,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-5-Jasminum-grandiflorum/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B5.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B5.png">**Jasminum Grandiflorum**
 
 </a>
 
@@ -66,7 +66,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-6-Murraya-koenigii/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B6.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B6.png"> **Murraya Koenigii**
 
 </a>
 
@@ -77,7 +77,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-7-Lantana-Camara/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B7.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B7.png"> **Lantana Camara**
 
 </a>
 
@@ -88,7 +88,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-8-Juniperus-horizontalis/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B8.jpg">
+<img style="width:50%" src="/images/Butterfly%20Garden/B8.jpg"> **Juniperus Horizontalis**
 
 </a>
 
@@ -99,7 +99,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-9-Melastoma-malabathcirum/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B9.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B9.png"> **Melastoma Malabathcirum**
 
 </a>
 
@@ -110,7 +110,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-10-Opuntia-basilaris/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B10.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B10.png">**Opuntia Basilaris**
 
 </a>
 
@@ -121,7 +121,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-11-Echinocactus-grusonii/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B11.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B11.png">**Echinocactus Grusonii**
 
 </a>
 
@@ -132,7 +132,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-12-Opuntia-cochenillifera/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B12.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B12.png">**Opuntia Cochenillifera**
 
 </a>
 
@@ -143,7 +143,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-13-Stapelia-gigantea/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B13.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B13.png"> **Stapelia Gigantea**
 
 </a>
 
@@ -154,7 +154,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-14-Crassula-ovata/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B14.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B14.png"> 
 
 </a>
 

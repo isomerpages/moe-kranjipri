@@ -78,11 +78,8 @@ Kranji’s PSG has a strong network to bridge parent-school communication & supp
   
 
 We hope to see more active parent participation in our programmes so as to maintain a successful PSG-school community that raises happy and successful Kranjians!  
- **Joreen Ong, PSG Coordinator**
-	
-
+**Joreen Ong, PSG Coordinator**
 </br>	
-</br>
 	
 </div></div>
 
@@ -103,9 +100,7 @@ We believe that our collaboration with the school will raise happy and successfu
 	
 We also hope to make lasting memories for every Kranjian on their primary school life.  Hence, I encourage all parents to join hands and support our children in school whenever you are available.  Together, we will support the school in building the Kranjian spirit in our children!  
 
-  
-
-**Minh, PGS Coordinator**
+**Minh, PSG Coordinator**
 
 </div></div>
 

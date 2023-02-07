@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/improvedbanner.png
+      background: /images/newbanner2.png
       key_highlights:
         - title: News & Events
           description: Latest News & Events

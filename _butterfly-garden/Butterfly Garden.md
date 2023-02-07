@@ -165,7 +165,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-15-Euphorbia-milii/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B15.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B15.png"><center>**Euphorbia milii** </center>
 
 </a>
 
@@ -176,7 +176,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-17-Buddleja-asiatica/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B16.jpg">
+<img style="width:50%" src="/images/Butterfly%20Garden/B16.jpg"><center>**Buddleja Asiatica** </center>
 
 </a>
 
@@ -187,7 +187,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-18-Caesalpinia-pulcherrima/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B17.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B17.png"><center>**Caesalpinia Pulcherrima**</center>
 
 </a>
 
@@ -198,7 +198,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-19-Mussaenda-erythrophylla/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B18.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B18.png"><center>**Mussaenda Erythrophylla**</center>
 
 </a>
 
@@ -209,7 +209,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-20-Wrightia-religiosa/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B19.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B19.png"><center>**Wrightia Religiosa**</center>
 
 </a>
 
@@ -220,7 +220,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-21-Citrus-microcarpa/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B20.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B20.png"><center>**Citrus Microcarpa**</center>
 
 </a>
 
@@ -231,7 +231,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-22-Antigonon-leptopus/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B21.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B21.png"><center>**Antigonon Leptopus**</center>
 
 </a>
 
@@ -242,7 +242,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-23-Tristellateia-australasiae/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B22.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B22.png"><center>**Tristellateia Australasiae**</center>
 
 </a>
 
@@ -253,7 +253,7 @@ Here are the plants found at the butterfly garden. Most of the plants are host a
 
 <a href="/butterfly-garden/Plant-24-Thunbergia-grandiflora/" target = "_blank">
 
-<img style="width:50%" src="/images/Butterfly%20Garden/B23.png">
+<img style="width:50%" src="/images/Butterfly%20Garden/B23.png"><center>**Thunbergia Grandiflora**</center>
 
 </a>
 

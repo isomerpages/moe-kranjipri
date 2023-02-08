@@ -34,8 +34,8 @@ description: ""
 
 #### **For Teachers**
 
-* [Approval of Requirements for KPS](https://form.gov.sg/63abb30ebf597600125e5f79)
 *   [Application for Season Parking](https://form.gov.sg/63ad1a645b04ae0011a5c075)
+* [Approval of Requirements for KPS](https://form.gov.sg/63abb30ebf597600125e5f79)
 
 *   [HR and Payroll Portal (HRP)](https://www.hrp.gov.sg/hrp/#/)  
     

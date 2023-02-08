@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Departments/Science.md
       - Departments/Mother Tongue.md
       - Departments/Physical Education.md
       - Departments/Music.md

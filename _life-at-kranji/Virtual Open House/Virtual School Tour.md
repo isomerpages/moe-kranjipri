@@ -6,7 +6,7 @@ third_nav_title: Virtual Open House
 ---
 <img style="width:100%;height:50%" src="/images/About%20Us/School%20Facilities/deco1.png">
 
-We also have a Student Care Centre located within the school. Click [here]((https://staging.d2akfpcn0n1ap5.amplifyapp.com/for-parents/Student-Care-Centre/)) to find out more!
+We also have a Student Care Centre located within the school. Click [here](https://staging.d2akfpcn0n1ap5.amplifyapp.com/for-parents/Student-Care-Centre/) to find out more!
 
 
 #### **1st Floor**

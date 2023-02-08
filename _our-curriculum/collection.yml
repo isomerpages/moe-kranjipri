@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - EXCITE Learning Approach.md
       - Departments/English.md
       - Departments/Mathematics.md
       - Departments/Science.md

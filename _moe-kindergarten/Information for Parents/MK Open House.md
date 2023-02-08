@@ -8,4 +8,4 @@ third_nav_title: Information for Parents
 
 **A Day at Kindergarten**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=oaFqK_vLFYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1366" height="768" src="https://www.youtube.com/embed/oaFqK_vLFYk" title="A Day at MK Kindergarten" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

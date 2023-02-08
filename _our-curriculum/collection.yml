@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Departments/Co Curricular Activities.md
       - Departments/.keep
       - Signature Programmes/Learning for Life Programme (LLP).md
       - Signature Programmes/Applied Learning Programme (ALP).md

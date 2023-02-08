@@ -2,14 +2,14 @@ collections:
   departments:
     output: true
     order:
-      - Character and Citizenship Edu/Character and Citizenship Education.md
-      - Character and Citizenship Edu/.keep
-      - Co Curricular Activities.md
-      - Information and Communication Technology (ICT).md
-      - Art.md
-      - Music.md
-      - Physical Education.md
-      - Mother Tongue.md
-      - Science.md
-      - Mathematics.md
       - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue.md
+      - Physical Education.md
+      - Music.md
+      - Art.md
+      - Character and Citizenship Edu/.keep
+      - Character and Citizenship Edu/Character and Citizenship Education.md
+      - Information and Communication Technology (ICT).md
+      - Co Curricular Activities.md

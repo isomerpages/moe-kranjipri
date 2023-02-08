@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Departments/Music.md
       - Departments/Art.md
       - Departments/Character and Citizenship Education.md
       - Departments/Information and Communication Technology (ICT).md

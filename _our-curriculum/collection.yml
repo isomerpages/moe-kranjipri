@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Departments/Character and Citizenship Education.md
       - Departments/Information and Communication Technology (ICT).md
       - Departments/Co Curricular Activities.md
       - Departments/.keep

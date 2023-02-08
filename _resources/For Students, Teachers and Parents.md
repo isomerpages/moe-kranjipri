@@ -11,7 +11,6 @@ description: ""
 *   [Koobits](https://www.koobits.com/)  
     
 *   [KPS Art Gallery](https://sites.google.com/view/kpsartgallery2021/home)  
-    
 *   [School Facebook Page](https://www.facebook.com/KranjiPrimarySchool.Official)  
     
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)  
@@ -35,7 +34,8 @@ description: ""
 
 #### **For Teachers**
 
-  
+* [Approval of Requirements for KPS](https://form.gov.sg/63abb30ebf597600125e5f79)
+*   [Application for Season Parking](https://form.gov.sg/63ad1a645b04ae0011a5c075)
 
 *   [HR and Payroll Portal (HRP)](https://www.hrp.gov.sg/hrp/#/)  
     

@@ -2,6 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Learning for Life Programme (LLP).md
       - 1 1 Learning Experience.md
       - Applied Learning Programme (ALP).md
-      - Learning for Life Programme (LLP).md

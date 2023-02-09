@@ -71,7 +71,7 @@ third_nav_title: Achievements
   </tr>
   <tr>
     <td class="tg-zr06">5th Text Recital Competition<br></td>
-    <td class="tg-zr06"> 2022: Silver Award<br><br><br><br><br><br><br><br><br><br><br> <br> 
+		<td class="tg-zr06"> 2022: Silver Award</td> 
   </tr>
   <tr>
     <td class="tg-zr06">Memory Games Challenge<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A7.jpg" alt="Memory Game Challenge 2022.jpg" width="234" height="213"><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A8.jpg" alt="FCL memory games 2021.jpeg" width="226" height="226"></td>

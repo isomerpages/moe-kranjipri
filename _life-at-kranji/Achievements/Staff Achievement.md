@@ -34,8 +34,26 @@ third_nav_title: Achievements
   </tr>
   <tr>
     <td class="tg-zr06" colspan="3">National Day Awards 2022<br><img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A2.jpg" alt="National Day Awards 2022.jpg" width="473" height="473"></td>
-    <td class="tg-zr06" colspan="2"> The Commendation Medal –<br> Mdm Hajerah Beevi D/O Kutus (HOD/SM)<br> Dr Chang Suo Hui (LT/MA)<br><br> The Long Service Medal –<br> Mdm Hajerah Beevi D/O Kutus (HOD/SM)<br><span style="color:#222"> Mr Tan Tien Leng  (Senior School Counsellor)</span><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-zr06" colspan="2"> The Commendation Medal –<br> Mdm Hajerah Beevi D/O Kutus (HOD/SM)<br> Dr Chang Suo Hui (LT/MA)<br><br> The Long Service Medal –<br> Mdm Hajerah Beevi D/O Kutus (HOD/SM)<br><span style="color:#222"> Mr Tan Tien Leng  (Senior School Counsellor)<br>Mdm Lee Seet Fong (Admin Manager)</span></td>
   </tr>
+	 <td class="tg-zr06"> 10 Years of faithful service to Singapore Scout Association</td>
+    <td class="tg-zr06" colspan="3"> Long Service Award - Mrs Hesheam Hashim</td>
+	</tr>
+  <tr>
+	 <td class="tg-zr06"> Teacher Leaders Programme</td>
+    <td class="tg-zr06" colspan="3"> Mdm Mariah Bte Rahmat<br>Dr Chang Suo Hui</td>
+	</tr>
+  <tr>
+	 <td class="tg-zr06">School Staff Developer Induction Programme</td>
+    <td class="tg-zr06" colspan="3"> Mdm Angie Ng</td>
+	</tr>
+  <tr>
+	 <td class="tg-zr06">Teacher Agency for Professional Significance (TAPS)</td>
+    <td class="tg-zr06" colspan="3"> Certificate of Participation - Mr Richard s/o Arokiasamy</td>
+	</tr>
+  <tr>
+	 <td class="tg-zr06">Teacher Work Attachment Plus</td>
+    <td class="tg-zr06" colspan="3"> Certificate of Participation - <br>Mdm Wong Wai Leng<br>Mdm Deborah Tham</td>
 </tbody>
 </table>
 

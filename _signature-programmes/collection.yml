@@ -1,5 +1,4 @@
 collections:
   signature-programmes:
     output: true
-    order:
-      - 1 1 Learning Experience.md
+    order: []

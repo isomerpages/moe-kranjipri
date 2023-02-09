@@ -38,8 +38,8 @@ sections:
       alt: Image alt text
   - infopic:
       title: P4 1:1 Learning Experience
-      description: "The main aim of the 1:1 Learning Experience is to enable our
-        students to gain future-ready competencies. "
+      description: Every P4 to P6 student is given an iPad for their daily lessons to
+        deepen their learning.
       button: Read More
       url: /our-curriculum/Signature-Programmes/1-1-Learning-Experience/
       image: /images/News and Events/N5.jpg

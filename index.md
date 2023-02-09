@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/newbanner2.png
+      background: /images/KPS_homepage.png
       key_highlights:
         - title: News & Events
           description: Latest News & Events
@@ -18,10 +18,7 @@ sections:
         - title: Voices of Our Alumni
           description: Ex-students KPS Testimony
           url: /Voices-of-our-alumni/
-      title: KRANJI PRIMARY SCHOOL
-      subtitle: EVERY KRANJIAN MATTERS AND DESERVES THE BEST
-      button: GET TO KNOW US!
-      url: /about-us/School-History/
+      title: EMPOWERING KRANJIANS FOR THE FUTURE
   - infopic:
       title: EXCITE LEARNING APPROACH
       description: Guided by our school vision of Joyful Learners, Gracious Citizens

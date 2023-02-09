@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Mathematics.md
       - Science.md
       - Mother Tongue.md
       - Physical Education.md

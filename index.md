@@ -29,9 +29,9 @@ sections:
       alt: Image alt text
   - infopic:
       title: Applied Learning Programme (ALP)
-      description: Rooted in our belief that “Every Kranjian Matters and Deserves the
-        Best”, the ALP programme is specially designed to develop critical and
-        inventive Kranjians.
+      description: 'Through Critical and Inventive Thinking, the school aspires in
+        realizing our school vision of "Joyful Learners, Gracious Citizens,
+        Champions in Life." '
       button: Read more
       url: /our-curriculum/Signature-Programmes/Applied-Learning-Programme-ALP/
       image: /images/News and Events/N4.jpg

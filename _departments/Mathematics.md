@@ -3,15 +3,12 @@ title: Mathematics
 permalink: /Departments/Mathematics/
 description: ""
 ---
-
-
 ##### **Math Curriculum Framework**
 
   
 The central focus of the Mathematics Framework is mathematical problem solving, that is, using Mathematics to solve problems. The framework stresses conceptual understanding, skills proficiency and mathematical processes, and gives due emphasis to attitudes and metacognition. These five components are inter-related. 
 
 ![](/images/Our%20Curriculum/Departments/Mathematics/M1.png)
-Source: Mathematics_syllabus_primary_1 to 6.pdf 
 
 ##### **Department Pedagogy**
 

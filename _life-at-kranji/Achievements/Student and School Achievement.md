@@ -37,7 +37,7 @@ third_nav_title: Achievements
   </tr>
   <tr>
     <td class="tg-zr06"> Singapore and Asian Schools Math Olympiad<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A2.jpg" alt="Singapore and Asian Schools Math Olympiad.jpeg" width="260" height="200"></td>
-    <td class="tg-zr06">2022: 3 Gold, 2 Silver, 7 Bronze <br>2020: 4 Silver, 10 Bronze<br>2019: 2 Gold, 5 Silver, 6 Bronze<br>2018: 5 Gold, 6 Silver, 9 Bronze<br><br><br><br><br><br><br><br></td>
+    <td class="tg-zr06">2022: 3 Gold, 2 Silver, 7 Bronze, 8 Honourable Mention <br>2020: 4 Silver, 10 Bronze<br>2019: 2 Gold, 5 Silver, 6 Bronze<br>2018: 5 Gold, 6 Silver, 9 Bronze<br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-zr06"> Singapore Mathematical Olympiad for Primary Schools<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A3.jpg" alt="Math Olympiad 2022.jpeg" width="257" height="170"></td>

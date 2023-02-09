@@ -20,16 +20,7 @@ links:
       - title: Social Media Guidelines @ KPS
         url: /about-us/Social-Media-Guidelines-at-Kranji-Primary-School/
   - title: Our Curriculum
-    url: /EXCITE-Learning-Approach/
-    sublinks:
-      - title: EXCITE Learning Approach
-        url: /EXCITE-Learning-Approach/
-      - title: Departments
-        url: /Departments/English/
-      - title: Signature Programmes
-        url: /Signature-Programmes/Learning-for-Life-Programme-LLP/
-      - title: Student Well-Being Framework
-        url: /Student-Well-Being-Framework/
+    collection: our-curriculum
   - title: Life @ Kranji
     url: /life-at-kranji/Virtual-Open-House/Virtual-Open-House/
     sublinks:
@@ -73,8 +64,6 @@ links:
         url: /moe-kindergarten/Information-for-Parents/Information-for-Parents/
       - title: Contact Us
         url: /moe-kindergarten/Contact-Us/
-  - title: Our Curriculum
-    collection: our-curriculum
   - title: "Resources "
     url: /resources/For-Students-Teachers-and-Parents/
     sublinks:

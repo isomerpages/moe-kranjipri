@@ -49,7 +49,7 @@ sections:
       description: Every P4 to P6 student is given an iPad for their daily lessons to
         deepen their learning.
       button: Read More
-      url: /our-curriculum/Signature-Programmes/1-1-Learning-Experience/
+      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/1-1-Learning-Experience/
       image: /images/News and Events/N5.jpg
       alt: Image alt text
 ---

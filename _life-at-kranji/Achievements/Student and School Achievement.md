@@ -67,6 +67,13 @@ third_nav_title: Achievements
     <td class="tg-zr06">2022: 3 Merit <br>2022: 21st to 30th scorer, Audience Round Winner, School Tour Winner<br>2022: Commendation Award<br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
+		<td class="tg-9hzb" colspan="2">Mother Tongue Languages - Chinese Language</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">5th Text Recital Competition<br></td>
+    <td class="tg-zr06"> 2022: Silver Award<br><br><br><br><br><br><br><br><br><br><br> <br> 
+  </tr>
+  <tr>
     <td class="tg-9hzb" colspan="2">Mother Tongue Languages - Chinese Language</td>
   </tr>
   <tr>

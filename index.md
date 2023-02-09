@@ -14,8 +14,8 @@ sections:
           url: /News-and-Events/
         - title: EXCITE
           description: Empowering Kranjians
-          url: /our-curriculum/EXCITE-Learning-Approach/
-        - title: Voice of Our Alumni
+          url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/EXCITE-Learning-Approach/
+        - title: Voices of Our Alumni
           description: Ex-students KPS Testimony
           url: /Voices-of-our-alumni/
       title: KRANJI PRIMARY SCHOOL

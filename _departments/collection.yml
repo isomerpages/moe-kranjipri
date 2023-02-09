@@ -1,5 +1,4 @@
 collections:
   departments:
     output: true
-    order:
-      - Character and Citizenship Edu/.keep
+    order: []

@@ -20,7 +20,7 @@ sections:
           url: /Voices-of-our-alumni/
       title: EMPOWERING KRANJIANS FOR THE FUTURE
   - infopic:
-      title: EXCITE LEARNING APPROACH
+      title: EXCITE Learning Approach
       description: "The EXCITE approach outlines how learning is designed, curated and
         enacted in Kranji Primary School. "
       button: READ MORE
@@ -35,6 +35,13 @@ sections:
       button: Read more
       url: /our-curriculum/Signature-Programmes/Applied-Learning-Programme-ALP/
       image: /images/News and Events/N4.jpg
+      alt: Image alt text
+  - infopic:
+      title: Learning for Life Programme (LLP)
+      description: “Developing Champions in Life through Sports”, encapsulates the DNA
+        of Kranji Primary School.
+      button: READ MORE
+      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/Applied-Learning-Programme-ALP/
       alt: Image alt text
   - infopic:
       title: P4 1:1 Learning Experience

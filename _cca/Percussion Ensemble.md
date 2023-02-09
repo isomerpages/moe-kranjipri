@@ -28,7 +28,7 @@ Students will be able to:
 
 |    Day    |        Time        |                                                    Remarks                                                   |
 |:---------:|:------------------:|:------------------------------------------------------------------------------------------------------------:|
-| Tuesday   | 3.30pm to 5.00pm   | **Talent Development Programme (SYF team)** Students will be given a schedule for the after school CCA sessions. |
+| Tuesday   | 3.30pm to 5.00pm   | **Talent Development Programme (SYF team)** <br>Students will be given a schedule for the after school CCA sessions. |
 
 **Teacher IC & Email address**
 

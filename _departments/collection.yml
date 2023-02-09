@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Physical Education.md
       - Music.md
       - Arts.md
       - Character and Citizenship Edu/.keep

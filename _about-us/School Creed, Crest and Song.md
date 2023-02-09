@@ -37,4 +37,4 @@ Working together hand in hand.<br>
 Showing our love for KPS.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fnfKtbiLn2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="718" height="404" src="https://www.youtube.com/embed/3qDmPlfT930" title="Kranji Primary School song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

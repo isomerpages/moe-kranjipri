@@ -6,7 +6,8 @@ third_nav_title: Virtual Open House
 ---
 ![](/images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/V1.png)
 
-https://www.flipsnack.com/kpstimes/kranji-primary-school-brochure-zn0xw6an30.html
+![](/images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/flipsnack-KPS%20brochure.png)
+[Kranji Primary School Brochure](https://www.flipsnack.com/kpstimes/kranji-primary-school-brochure-zn0xw6an30.html)
 
 <img style="width:30%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/About%20us/P%20BUtton.png">
 

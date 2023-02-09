@@ -73,6 +73,8 @@ links:
         url: /moe-kindergarten/Information-for-Parents/Information-for-Parents/
       - title: Contact Us
         url: /moe-kindergarten/Contact-Us/
+  - title: Our Curriculum
+    collection: our-curriculum
   - title: "Resources "
     url: /resources/For-Students-Teachers-and-Parents/
     sublinks:

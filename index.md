@@ -43,6 +43,7 @@ sections:
       button: READ MORE
       url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/Applied-Learning-Programme-ALP/
       alt: Image alt text
+      image: /images/Homepage/LLP.png
   - infopic:
       title: P4 1:1 Learning Experience
       description: Every P4 to P6 student is given an iPad for their daily lessons to

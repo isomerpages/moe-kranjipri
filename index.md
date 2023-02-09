@@ -21,8 +21,8 @@ sections:
       title: EMPOWERING KRANJIANS FOR THE FUTURE
   - infopic:
       title: EXCITE LEARNING APPROACH
-      description: Guided by our school vision of Joyful Learners, Gracious Citizens
-        and Champions in Life.
+      description: "The EXCITE approach outlines how learning is designed, curated and
+        enacted in Kranji Primary School. "
       button: READ MORE
       url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/EXCITE-Learning-Approach/
       image: /images/EXCITE_2May_amended.png

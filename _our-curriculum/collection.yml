@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Departments/English.md
       - Departments/.keep
       - Signature Programmes/.keep

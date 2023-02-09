@@ -39,4 +39,12 @@ sections:
       url: /our-curriculum/Signature-Programmes/1-1-Learning-Experience/
       image: /images/News and Events/N5.jpg
       alt: Image alt text
+  - infopic:
+      title: EXCITE LEARNING APPROACH
+      description: Guided by our school vision of Joyful Learners, Gracious Citizens
+        and Champions in Life.
+      button: READ MORE
+      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/EXCITE-Learning-Approach/
+      image: /images/EXCITE_2May_amended.png
+      alt: Image alt text
 ---

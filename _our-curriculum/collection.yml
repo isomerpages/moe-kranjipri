@@ -2,8 +2,8 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Student WellBeing Framework.md
       - EXCITE Learning Approach.md
+      - Departments/.keep
       - Departments/Character and Citizenship Education.md
       - Departments/Co Curricular Activities.md
       - Departments/Information and Communication Technology (ICT).md
@@ -14,8 +14,8 @@ collections:
       - Departments/Science.md
       - Departments/Mathematics.md
       - Departments/English.md
-      - Departments/.keep
+      - Signature Programmes/.keep
       - Signature Programmes/1 1 Learning Experience.md
       - Signature Programmes/Applied Learning Programme (ALP).md
       - Signature Programmes/Learning for Life Programme (LLP).md
-      - Signature Programmes/.keep
+      - Student WellBeing Framework.md

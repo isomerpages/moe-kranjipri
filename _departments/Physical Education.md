@@ -3,8 +3,6 @@ title: Physical Education
 permalink: /Departments/Physical-Education/
 description: ""
 ---
-
-
 ##### **PE Curriculum Framework**
 
   
@@ -41,7 +39,7 @@ The 6-year PE Programme is presented below.
 
 ![](/images/Our%20Curriculum/Departments/Physical%20Education/P2.jpg)
 
-In Kranji, a whole-school approach is adopted in promoting health and skill-related fitness complemented by interactive assembly talks, skits and exhibitions. Apart from school-based health and skill-related fitness practices that value-add to our PE curriculum, opportunities are given to students to apply their learning and experience of Physical Education through sporting events that are inclusive and promote mass participation. Broad-based and interest-specific experiences are embedded with character development opportunities as we strive to educate and encourage students to pursue an active and healthy lifestyle.&nbsp; These are presented through the school’s signature&nbsp;**[Learning for Life Programme “Developing Champions in Life through Sports”](/our-curriculum/Signature-Programmes/Learning-for-Life-Programme-LLP/).**
+In Kranji, a whole-school approach is adopted in promoting health and skill-related fitness complemented by interactive assembly talks, skits and exhibitions. Apart from school-based health and skill-related fitness practices that value-add to our PE curriculum, opportunities are given to students to apply their learning and experience of Physical Education through sporting events that are inclusive and promote mass participation. Broad-based and interest-specific experiences are embedded with character development opportunities as we strive to educate and encourage students to pursue an active and healthy lifestyle.&nbsp; These are presented through the school’s signature&nbsp;**[Learning for Life Programme “Developing Champions in Life through Sports”](https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/Learning-for-Life-Programme-LLP/).**
 
   
 

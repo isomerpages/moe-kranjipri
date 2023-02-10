@@ -13,4 +13,15 @@ third_nav_title: Information for Parents
 
 We truly appreciate all the MOE Kindi teachers who have worked very hard in preparing our K2 students last year for their primary school life. You all have laid a strong foundation for these students”.
 
-**Mdm Erfana (K2 Class of 2022)**
+****Mdm Erfana (K2 Class of 2022)
+
+![](/images/MOE%20Kindergarten/Information%20for%20Parents/Information%20for%20Parents/Mdm%20Erfana.jpg)
+
+<br>
+“I would like to take this opportunity to thank you teachers for your guidance, patience and teaching while Zuo En was in K1 and K2. You teachers are wonderful.
+
+Thank you for everything in Zuo En's learning journey while he was at MK@Kranji.<br>
+Zuo En is fine. He has slowly adapted to the primary school life. There is still long way to go in his learning journey in primary school. I also hope he can continue to adapt well in his primary school life”.
+
+****Mdm Siw Yen (K2 Class of 2021)
+![](/images/MOE%20Kindergarten/Information%20for%20Parents/Information%20for%20Parents/Mdm%20Siw%20Yen.jpg)

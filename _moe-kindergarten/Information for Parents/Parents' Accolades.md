@@ -4,8 +4,7 @@ permalink: /moe-kindergarten/Information-for-Parents/MK-Open-House/
 description: ""
 third_nav_title: Information for Parents
 ---
-![](/images/MOE%20Kindergarten/Information%20for%20Parents/Information%20for%20Parents/MK%20Open%20House%202023.jpg)
+### What Parents Say About Our MK
 
-**A Day at Kindergarten**
+<iframe width="853" height="480" src="https://www.youtube.com/embed/hxr_XYoy4SY" title="Experience@MK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oaFqK_vLFYk" title="A Day at MK Kindergarten" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

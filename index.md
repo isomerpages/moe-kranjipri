@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/KPS_homepage.png
+      background: /images/Travel Promotion Facebook Post (1599 × 503 px).png
       key_highlights:
         - title: News & Events
           description: Latest News & Events

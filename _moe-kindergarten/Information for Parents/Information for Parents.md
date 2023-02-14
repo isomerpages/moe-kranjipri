@@ -17,13 +17,6 @@ K1, K2, KCare
 | $160     | $320     |
 
 
-
- Monthly fee for MK
- 
-| Singapore Citizen | Singapore Permanent Resident |
-| -------- | -------- | 
-| $160     | $320     | 
-
 ![](/images/MOE%20Kindergarten/Information%20for%20Parents/Information%20for%20Parents/MKUniform.jpg)
 	
 **Purchasing of MK Uniforms**

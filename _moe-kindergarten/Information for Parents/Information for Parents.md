@@ -19,6 +19,7 @@ K1, K2, KCare
 
 
  Monthly fee for MK
+ 
 | Singapore Citizen | Singapore Permanent Resident |
 | -------- | -------- | 
 | $160     | $320     | 

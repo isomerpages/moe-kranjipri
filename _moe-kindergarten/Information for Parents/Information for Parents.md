@@ -9,7 +9,8 @@ third_nav_title: Information for Parents
 **Programmes Available**    
 K1, K2, KCare
 	
-**MOE Kindergarten Fees**
+**MOE Kindergarten Monthly Fees**
+
 
 
 | Singapore Citizen | Singapore Permanent Resident |

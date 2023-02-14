@@ -10,7 +10,8 @@ third_nav_title: Information for Parents
 K1, K2, KCare
 	
 **MOE Kindergarten Fees**
-<br>Monthly fee for MK
+
+Monthly fee for MK
 | Singapore Citizen | Singapore Permanent Resident |
 | -------- | -------- | 
 | $160     | $320     | 

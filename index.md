@@ -18,7 +18,8 @@ sections:
         - title: Voices of Our Alumni
           description: Ex-students KPS Testimony
           url: /Voices-of-our-alumni/
-      subtitle: EMPOWERING KRANJIANS FOR THE FUTURE
+      subtitle: FOR THE FUTURE
+      title: EMPOWERING KRANJIANS
   - infopic:
       title: EXCITE Learning Approach
       description: "The EXCITE approach outlines how learning is designed, curated and

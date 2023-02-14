@@ -29,6 +29,14 @@ sections:
       image: /images/EXCITE_2May_amended.png
       alt: Image alt text
   - infopic:
+      title: P4 1:1 Learning Experience
+      description: Every P4 to P6 student is given an iPad for their daily lessons to
+        deepen their learning.
+      button: Read More
+      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/1-1-Learning-Experience/
+      image: /images/News and Events/N5.jpg
+      alt: Image alt text
+  - infopic:
       title: Applied Learning Programme (ALP)
       description: 'Through Critical and Inventive Thinking, the school aspires in
         realizing our school vision of "Joyful Learners, Gracious Citizens,
@@ -45,12 +53,4 @@ sections:
       url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/Applied-Learning-Programme-ALP/
       alt: Image alt text
       image: /images/Homepage/LLP.png
-  - infopic:
-      title: P4 1:1 Learning Experience
-      description: Every P4 to P6 student is given an iPad for their daily lessons to
-        deepen their learning.
-      button: Read More
-      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/1-1-Learning-Experience/
-      image: /images/News and Events/N5.jpg
-      alt: Image alt text
 ---

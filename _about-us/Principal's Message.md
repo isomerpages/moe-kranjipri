@@ -13,7 +13,7 @@ Welcome to Kranji Primary School!  My colleagues and I have spent much time and
 
 
 
-Kranji Primary School is committed to provide a forward-looking learning experience in the school so that all our students can be future-ready at the end of their six years with us.  The **EXCITE Learning Approach (EX**periential, **C**haracter Focused, **I**nquiry Based, **T**echnology Mediated, Positive **E**ducation Driven) outlines what our Kranjians experience here in Kranji Primary on a daily basis, and is a consolidation of how learning is designed, curated and enacted in Kranji Primary School (KPS).  You can read more about it on our dedicated webpage [here](/our-curriculum/EXCITE-Learning-Approach/).  
+Kranji Primary School is committed to provide a forward-looking learning experience in the school so that all our students can be future-ready at the end of their six years with us.  The **EXCITE Learning Approach (EX**periential, **C**haracter Focused, **I**nquiry Based, **T**echnology Mediated, Positive **E**ducation Driven) outlines what our Kranjians experience here in Kranji Primary on a daily basis, and is a consolidation of how learning is designed, curated and enacted in Kranji Primary School (KPS).  You can read more about it on our dedicated webpage [here](https://staging.d2akfpcn0n1ap5.amplifyapp.com/EXCITE-Learning-Approach/)
 
   
 

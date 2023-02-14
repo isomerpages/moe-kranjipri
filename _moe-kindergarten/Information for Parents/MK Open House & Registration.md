@@ -15,7 +15,7 @@ third_nav_title: Information for Parents
 Please scan the QR code for 2023 Open House Slides.
 <img style="width:40%" align="left" src="/images/MKBriefingSlides.png">
 
-<br><br><br><br>
+<br><br><br><br><br>
 #### **INFO ON MK REGISTRATION**
 
 MK Registration Exercise is held from **17 Feb 2023, 9am - 21 Feb 2023, 4pm**:  

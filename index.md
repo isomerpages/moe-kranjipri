@@ -29,7 +29,7 @@ sections:
       image: /images/EXCITE_2May_amended.png
       alt: Image alt text
   - infopic:
-      title: P4 1:1 Learning Experience
+      title: " 1:1 Learning Experience"
       description: Every P4 to P6 student is given an iPad for their daily lessons to
         deepen their learning.
       button: Read More

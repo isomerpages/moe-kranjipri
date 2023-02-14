@@ -31,6 +31,8 @@ links:
   - title: For Parents
     url: /for-parents/Principals-Monthly-Letter/
     sublinks:
+      - title: Sexuality Education
+        url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Sexuality-Education/
       - title: Book List 2023
         url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/for-parents/Book-List-2023/
       - title: Parent Support Group (PSG)
@@ -39,8 +41,6 @@ links:
         url: /for-parents/Student-Care-Centre/
       - title: Parents Gateway
         url: /for-parents/Parents-Gateway/Parents-Gateway/
-      - title: Sexuality Education
-        url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Sexuality-Education/
   - title: "MOE Kindergarten "
     url: /moe-kindergarten/Moe-Kindergarten/
     sublinks:

@@ -11,11 +11,12 @@ third_nav_title: Information for Parents
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oaFqK_vLFYk" title="A Day at MK Kindergarten" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Parents Briefing Slides**
+#### **Parents Briefing Slides**
 
-Please scan the QR code for 2023 Open House Slides
-<img style="width:50%" src="/images/MKBriefingSlides.png" >
-<br>
+<img style="width:40%" align="left" src="/images/MKBriefingSlides.png">
+
+Please scan the QR code for 2023 Open House Slides.
+<br><br><br>
 #### **INFO ON MK REGISTRATION**
 
 MK Registration Exercise is held from **17 Feb 2023, 9am - 21 Feb 2023, 4pm**:  

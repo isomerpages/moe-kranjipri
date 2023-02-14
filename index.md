@@ -10,13 +10,13 @@ sections:
       background: /images/Travel Promotion Facebook Post (1599 × 503 px).png
       key_highlights:
         - title: News & Events
-          description: Latest News & Events
+          description: ""
           url: /News-and-Events/
-        - title: EXCITE
-          description: Empowering Kranjians
+        - title: EXCITE Learning Approach
+          description: ""
           url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/EXCITE-Learning-Approach/
         - title: Voices of Our Alumni
-          description: Ex-students KPS Testimony
+          description: ""
           url: /Voices-of-our-alumni/
       subtitle: FOR THE FUTURE
       title: EMPOWERING KRANJIANS

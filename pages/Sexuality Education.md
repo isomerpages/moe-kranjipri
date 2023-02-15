@@ -57,7 +57,8 @@ c. Character and Citizenship Education (CCE)
 
   
 
-**At Kranji Primary School, the following Sexuality Education lessons will be taught in 2023:**
+**At Kranji Primary School, the following Sexuality Education lessons will be taught in 2023:**<br>
+**2023 Sexuality Education Lessons in Character & Citizenship Education**
 
 **PRIMARY 5**
 

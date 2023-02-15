@@ -80,4 +80,3 @@ c. Character and Citizenship Education (CCE)
 
 10\. Parents can contact the school at **[kranji\_ps@moe.edu.sg](mailto:kranji_ps@moe.edu.sg)** or 6763 4812 for discussion or to seek clarification about the school’s sexuality education programme.
 
-11. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.

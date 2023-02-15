@@ -26,7 +26,7 @@ description: ""
 
   
 
-You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
+You may click [**here**](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
 
   
 

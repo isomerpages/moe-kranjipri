@@ -27,7 +27,12 @@ third_nav_title: Our People
 					<td colspan="2" class="tg-vgmr"><img style="width:98%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/hazwan-2.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:muhammad_hazwan@moe.edu.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mr Hazwan</span></a><br>CSO
 		 <td colspan="2" class="tg-vgmr"><img style="width:68%" src="/images/Niroshini.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:niroshini_srikumar@moe.edu.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Ms Niroshini</a><br>CSO
 					<tr>
-				<td colspan="2" class="tg-vgmr"><img style="width:100%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/ong_2021.jpg"><span style="font-weight:bold">Mdm Ong Peck Eng<br>OSO
-		 <td colspan="2" class="tg-vgmr"><img style="width:54%" src="/images/Our%20Team%20UPS/SAT/mdm%20rukiya.jpg"><span style="font-weight:bold">Mdm Rukiya<br>OSO
-		<td colspan="2" class="tg-vgmr"><img style="width:50%" src="/images/Our%20Team%20UPS/SAT/Fenglian%20(OSO).png"><span style="font-weight:bold">Mdm Zhou FengLian<br>OSO
-			<tr>
+				<td colspan="2" class="tg-vgmr"><img style="width:100%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/ong_2021.jpg"><span style="font-weight:bold">Mdm Ong Peck Eng<br>OSO<td colspan="2" class="tg-vgmr"><img style="width:97%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/yong_2021.jpg"><span style="font-weight:bold">Mdm Tong Chew Yong<br>OSO
+		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/hasina_2021.jpg"><span style="font-weight:bold">Mdm Hasina D/O Sultan<br>OSO
+			<tr>	
+				<td colspan="2" class="tg-vgmr"><img style="width:100%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/tan_2021.jpg"><span style="font-weight:bold">Mr Tan Chin Seng<br>OSO<td colspan="2" class="tg-vgmr"><img style="width:97%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/lee_2021.jpg"><span style="font-weight:bold">Mdm Tong Chew Yong<br>OSO
+		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/hasina_2021.jpg"><span style="font-weight:bold">Mdm Hasina D/O Sultan<br>OSO
+			<tr>	
+				<td colspan="2" class="tg-vgmr"><img style="width:100%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/tan_2021.jpg"><span style="font-weight:bold">Mdm Ong Peck Eng<br>OSO<td colspan="2" class="tg-vgmr"><img style="width:97%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/yong_2021.jpg"><span style="font-weight:bold">Mdm Tong Chew Yong<br>OSO
+		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/hasina_2021.jpg"><span style="font-weight:bold">Mdm Hasina D/O Sultan<br>OSO
+			<tr>	

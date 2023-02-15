@@ -67,8 +67,10 @@ c. Character and Citizenship Education (CCE)
 **PRIMARY 6**
 
 ![](/images/For%20Parents/Sexuality%20Education/P6-SEd.png)
-                                                                                                                              
-
+                                     
+																		 
+**Please note:**<br>
+**For 2023, the Primary 5 lesson "Did You Know?" will also be conducted for the Primary 6 cohort.**
 
 **INFORMATION FOR PARENTS**
 

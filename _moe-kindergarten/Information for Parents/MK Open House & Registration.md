@@ -11,7 +11,7 @@ third_nav_title: Information for Parents
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oaFqK_vLFYk" title="A Day at MK Kindergarten" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### **PARENTS BRIEFING SLIDES**
+#### **PARENTS BRIEFING SLIDES**<br>
 Please scan the QR code for 2023 Open House Slides.
 <img style="width:40%" align="left" src="/images/MKBriefingSlides.png">
 

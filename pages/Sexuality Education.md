@@ -61,15 +61,13 @@ c. Character and Citizenship Education (CCE)
 
 **PRIMARY 5**
 
-![](/images/Our%20Curriculum/Departments/CCE/Sexuality%20Education/S1.jpg)
-  
+![](/images/For%20Parents/Sexuality%20Education/P5-SEd.png)
 
-![](/images/Our%20Curriculum/Departments/CCE/Sexuality%20Education/S2.jpg)
-                                                                                                                                **PRIMARY 6**  
+**PRIMARY 6**
 
-![](/images/Our%20Curriculum/Departments/CCE/Sexuality%20Education/S3.jpg)
+![](/images/For%20Parents/Sexuality%20Education/P6-SEd.png)
+                                                                                                                              
 
-![](/images/Our%20Curriculum/Departments/CCE/Sexuality%20Education/S4.jpg)
 
 **INFORMATION FOR PARENTS**
 

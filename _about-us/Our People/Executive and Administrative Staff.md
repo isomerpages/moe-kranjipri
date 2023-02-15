@@ -31,8 +31,5 @@ third_nav_title: Our People
 		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/hasina_2021.jpg"><span style="font-weight:bold">Mdm Hasina D/O Sultan<br>OSO
 			<tr>	
 				<td colspan="2" class="tg-vgmr"><img style="width:100%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/tan_2021.jpg"><span style="font-weight:bold">Mr Tan Chin Seng<br>OSO<td colspan="2" class="tg-vgmr"><img style="width:97%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/lee_2021.jpg"><span style="font-weight:bold">Mdm Tong Chew Yong<br>OSO
-		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/hasina_2021.jpg"><span style="font-weight:bold">Mdm Hasina D/O Sultan<br>OSO
-			<tr>	
-				<td colspan="2" class="tg-vgmr"><img style="width:100%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/tan_2021.jpg"><span style="font-weight:bold">Mdm Ong Peck Eng<br>OSO<td colspan="2" class="tg-vgmr"><img style="width:97%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/yong_2021.jpg"><span style="font-weight:bold">Mdm Tong Chew Yong<br>OSO
-		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/hasina_2021.jpg"><span style="font-weight:bold">Mdm Hasina D/O Sultan<br>OSO
-			<tr>	
+		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/ai leng_2021.jpg"><span style="font-weight:bold">Mdm Hasina D/O Sultan<br>OSO
+			<tr>

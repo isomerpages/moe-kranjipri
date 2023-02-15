@@ -3,8 +3,6 @@ title: Sexuality Education
 permalink: /Sexuality-Education/
 description: ""
 ---
-
-
 ##### **MOE Sexuality Education in Schools**
 
 
@@ -59,7 +57,7 @@ c. Character and Citizenship Education (CCE)
 
   
 
-**At Kranji Primary School, the following Sexuality Education lessons will be taught in 2022:**
+**At Kranji Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
 **PRIMARY 5**
 

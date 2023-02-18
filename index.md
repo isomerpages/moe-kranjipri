@@ -22,7 +22,6 @@ sections:
       title: EMPOWERING KRANJIANS
   - infopic:
       title: Every Kranjian Matters and Deserves the Best!
-      subtitle: Infopic Subtitle
       description: We value every student, Every student wants to succeed and All can learn
       button: READ MORE
       url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/EXCITE-Learning-Approach/

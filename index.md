@@ -24,7 +24,7 @@ sections:
       title: Every Kranjian Matters and Deserves the Best!
       description: We value every student, Every student wants to succeed and All can learn.
       button: READ MORE
-      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/EXCITE-Learning-Approach/
+      url: https://cms.isomer.gov.sg/sites/moe-kranjipri/editPage/Every%20Kranjian%20Matters%20and%20Deserves%20the%20Best.md
       image: /images/Homepage/KPS_main photo.jpg
       alt: Image alt text
   - infopic:

@@ -28,14 +28,6 @@ sections:
       image: /images/Homepage/KPS_main photo.jpg
       alt: Image alt text
   - infopic:
-      title: EXCITE Learning Approach
-      description: "The EXCITE approach outlines how learning is designed, curated and
-        enacted in Kranji Primary School. "
-      button: READ MORE
-      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/EXCITE-Learning-Approach/
-      image: /images/EXCITE_2May_amended.png
-      alt: Image alt text
-  - infopic:
       title: " 1:1 Learning Experience"
       description: Every P4 to P6 student is given an iPad for their daily lessons to
         deepen their learning.

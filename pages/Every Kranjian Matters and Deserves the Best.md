@@ -3,7 +3,6 @@ title: Every Kranjian Matters and Deserves the Best
 permalink: /Every-Kranjian-Matters-and-Deserves-the-Best/
 description: ""
 ---
-
 ![](/images/Homepage/KPS_main%20photo.jpg)
 
 There is a strong culture of care in Kranji Primary School. Our staff collegiality is high and colleagues would look out for and support one another. This collegial culture among colleagues is in turn translated into the deep care and support for every Kranjian who passes through our gates. This explains our school philosophy ‘**Every Kranjian Matters and Deserves the Best**’ where ‘We value every student, Every student wants to succeed  and  All can learn’.

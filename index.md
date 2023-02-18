@@ -53,4 +53,12 @@ sections:
       url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/Applied-Learning-Programme-ALP/
       alt: Image alt text
       image: /images/Homepage/LLP.png
+  - infopic:
+      title: Every Kranjian Matters and Deserves the Best!
+      subtitle: Infopic Subtitle
+      description: We value every student, Every student wants to succeed and All can learn
+      button: READ MORE
+      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/EXCITE-Learning-Approach/
+      image: /images/Homepage/KPS_main photo.jpg
+      alt: Image alt text
 ---

@@ -5,6 +5,10 @@ description: ""
 ---
 ### **Read our latest news**
 
+<img style="width:50%" src="/images/News%20and%20Events/Caring%20Award%202023.png">
+Nomination for "Arif Budiman Malay Language Teacher Award 2023" and    "Most Inspiring Tamil Teachers’ Award 2023"
+<br>
+<br>
 <a href="https://drive.google.com/file/d/1mk3H0l7QidR7BshTEeNzmLLeeyjAuIxw/view?usp=share_link">
 <img style="width:60%" align="center" src="/images/MsTayFarewell.png">	
 </a>

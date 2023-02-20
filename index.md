@@ -29,8 +29,8 @@ sections:
       alt: Image alt text
   - infopic:
       title: " 1:1 Learning Experience"
-      description: Every P4 to P6 student is given an iPad for their daily lessons to
-        deepen their learning.
+      description: An iPad is provided for every P4 to P6 Kranjian while they are in
+        school everyday, to tap on the affordances of technology for learning.
       button: Read More
       url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/1-1-Learning-Experience/
       image: /images/News and Events/N5.jpg

@@ -21,7 +21,8 @@ sections:
       subtitle: EMPOWERING KRANJIANS FOR THE FUTURE
   - infopic:
       title: Every Kranjian Matters and Deserves the Best!
-      description: We value every student, Every student wants to succeed and All can learn.
+      description: “We value every student Every student wants to succeed  All can
+        learn” This is our commitment to every Kranjian.
       button: READ MORE
       url: /Every-Kranjian-Matters-and-Deserves-the-Best/
       image: /images/Homepage/KPS_main photo.jpg

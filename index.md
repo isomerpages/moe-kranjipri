@@ -25,7 +25,7 @@ sections:
         learn” This is our commitment to every Kranjian.
       button: READ MORE
       url: /Every-Kranjian-Matters-and-Deserves-the-Best/
-      image: /images/Homepage/KPS_main photo.jpg
+      image: /images/Homepage/KPS_final.jpg
       alt: Image alt text
   - infopic:
       title: " 1:1 Learning Experience"

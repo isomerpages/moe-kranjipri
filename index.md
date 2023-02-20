@@ -1,32 +1,55 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Kranji Primary School
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Homepage/KPS_Homepage.png
+      key_highlights:
+        - title: News & Events
+          description: ""
+          url: /News-and-Events/
+        - title: EXCITE Learning Approach
+          description: ""
+          url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/EXCITE-Learning-Approach/
+        - title: Voices of Our Alumni
+          description: ""
+          url: /Voices-of-our-alumni/
+      title: EMPOWERING KRANJIANS FOR THE FUTURE
+  - infopic:
+      title: Every Kranjian Matters and Deserves the Best!
+      description: “We value every student Every student wants to succeed  All can
+        learn” This is our commitment to every Kranjian.
+      button: READ MORE
+      url: /Every-Kranjian-Matters-and-Deserves-the-Best/
+      image: /images/Homepage/KPS_final.jpg
+      alt: Image alt text
+  - infopic:
+      title: " 1:1 Learning Experience"
+      description: An iPad is provided for every P4 to P6 Kranjian while they are in
+        school everyday, to tap on the affordances of technology for learning.
+      button: Read More
+      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/1-1-Learning-Experience/
+      image: /images/News and Events/N5.jpg
+      alt: Image alt text
+  - infopic:
+      title: Applied Learning Programme (ALP)
+      description: ALP provides opportunities to hone the learning and application of
+        thinking skills and creativity through the integrated areas of science
+        and technology.
+      button: Read more
+      url: /our-curriculum/Signature-Programmes/Applied-Learning-Programme-ALP/
+      image: /images/News and Events/N4.jpg
+      alt: Image alt text
+  - infopic:
+      title: Learning for Life Programme (LLP)
+      description: “Developing Champions in Life through Sports”, encapsulates the DNA
+        of Kranji Primary School.
+      button: READ MORE
+      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/Applied-Learning-Programme-ALP/
+      alt: Image alt text
+      image: /images/Homepage/LLP.png
 ---
-

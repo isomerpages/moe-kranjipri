@@ -1,0 +1,28 @@
+collections:
+  butterfly-garden:
+    output: true
+    order:
+      - Butterfly Garden.md
+      - Plant 1 Asystasia intrusia.md
+      - Plant 2 Ixora Sunkist.md
+      - Plant 3 Calliandra emarginata.md
+      - Plant 4 Stachytarpheta indica.md
+      - Plant 5 Jasminum grandiflorum.md
+      - Plant 6 Murraya koenigii.md
+      - Plant 7  Lantana Camara.md
+      - Plant 8 Juniperus horizontalis.md
+      - Plant 9 Melastoma malabathcirum.md
+      - Plant 10 Opuntia basilaris.md
+      - Plant 11 Echinocactus grusonii.md
+      - Plant 12 Opuntia cochenillifera.md
+      - Plant 13 Stapelia gigantea.md
+      - Plant 14 Crassula ovata.md
+      - Plant 15 Euphorbia milii.md
+      - Plant 17 Buddleja asiatica.md
+      - Plant 18 Caesalpinia pulcherrima.md
+      - Plant 19 Mussaenda erythrophylla.md
+      - Plant 20 Wrightia religiosa.md
+      - Plant 21 Citrus microcarpa.md
+      - Plant 22 Antigonon leptopus.md
+      - Plant 23 Tristellateia australasiae.md
+      - Plant 24 Thunbergia grandiflora.md

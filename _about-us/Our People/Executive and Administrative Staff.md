@@ -32,7 +32,7 @@ third_nav_title: Our People
 					<td colspan="2" class="tg-vgmr"><img style="width:55%; border:1px double black" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/yong_2021.jpg"><span style="font-weight:bold">Mdm Tong Chew Yong<br>OSO
 		 <td colspan="2" class="tg-vgmr"><img style="width:54%; border:1px double black" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/hasina_2021.jpg"><span style="font-weight:bold">Mdm Hasina D/O Sultan<br>OSO
 					<tr>
-				<td colspan="2" class="tg-vgmr"><img style="width:56%; border:1px double black" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/S12.jpg"><span style="font-weight:bold">Mr Tan <br>OSO
+				<td colspan="2" class="tg-vgmr"><img style="width:56%; border:1px double black" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/S12.jpg"><span style="font-weight:bold">Mr Tan Chin Seng <br>OSO
 		 <td colspan="2" class="tg-vgmr"><img style="width:54%; border:1px double black" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/lee_2021.jpg"><span style="font-weight:bold">Mr Lee Thian Soh<br>OSO
 		<td colspan="2" class="tg-vgmr"><img style="width:50%; border:1px double black" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/ai%20leng_2021.jpg"><span style="font-weight:bold">Mdm Tan Ai Leng<br>OSO
 			<tr>

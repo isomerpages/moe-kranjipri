@@ -3,7 +3,6 @@ title: Every Kranjian Matters and Deserves the Best
 permalink: /Every-Kranjian-Matters-and-Deserves-the-Best/
 description: ""
 ---
-
 ![](/images/Homepage/Kranjians%20matters_final.png)<br>
 The school philosophy is ‘**Every Kranjian Matters and Deserves the Best**’ where ‘We value every student, Every student wants to succeed  and  All can learn’.
 

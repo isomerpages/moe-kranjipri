@@ -18,8 +18,7 @@ sections:
         - title: Voices of Our Alumni
           description: ""
           url: /Voices-of-our-alumni/
-      subtitle: FOR THE FUTURE
-      title: EMPOWERING KRANJIANS
+      subtitle: EMPOWERING KRANJIANS FOR THE FUTURE
   - infopic:
       title: Every Kranjian Matters and Deserves the Best!
       description: We value every student, Every student wants to succeed and All can learn.

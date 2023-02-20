@@ -37,9 +37,9 @@ sections:
       alt: Image alt text
   - infopic:
       title: Applied Learning Programme (ALP)
-      description: 'Through Critical and Inventive Thinking, the school aspires in
-        realizing our school vision of "Joyful Learners, Gracious Citizens,
-        Champions in Life." '
+      description: ALP provides opportunities to hone the learning and application of
+        thinking skills and creativity through the integrated areas of science
+        and technology.
       button: Read more
       url: /our-curriculum/Signature-Programmes/Applied-Learning-Programme-ALP/
       image: /images/News and Events/N4.jpg

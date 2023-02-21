@@ -4,9 +4,9 @@ permalink: /about-us/Our-People/School-Executive-Committee/
 description: ""
 third_nav_title: Our People
 ---
-##### Heads Of Department
+##### Head Of Department
 
-| <img style="width:50%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S1.jpg"> | <img style="width:53%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S2.jpg"> | <img style="width:44%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S3.jpg"> |
+| <img style="width:50%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S1.jpg"> | <img style="width:50%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S2.jpg"> | <img style="width:41%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S3.jpg"> |
 | -------- | -------- | -------- |
 | Mdm Angie Ng <br> School Staff Developer <br>ng_pei_chen@moe.edu.sg     | Mdm Yong Chin <br> HOD Mother Tongue <br>yong_chin@moe.edu.sg     | Mdm Neo Bee Leng <br> HOD Mathematics <br> neo_bee_leng@moe.edu.sg |
 |  |  |  |
@@ -28,4 +28,4 @@ third_nav_title: Our People
 | Mdm Adelene Tan <br> LH, Chinese <br>tan_tse_hui_adelene@moe.edu.sg     | Mdm Ong Su Hui <br> SH, CCE (Covering) <br>ong_su_hui@moe.edu.sg     | Mr Tan Chin Hong<br> Operations Manager <br> tan_chin_hong_a@moe.edu.sg |
 | <img style="width:52%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S20.jpg"> | <img style="width:53%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/Seet%20Fong_FINAL.jpg"> | 
 |  |  |  |
-| Miss (Valarie) Yeo Hwee Koon <br> Administration Manager<br>yeo_hwee_koon@moe.edu.sg     | Mdm Lee Seet Fong<br> Administration Manager <br>lee_seet_fong@moe.edu.sg     | 
+| Miss (Valarie) Yeo Hwee Koon <br> Administration Manager<br>yeo_hwee_koon@moe.edu.sg     | Mdm Lee Seet Fong<br> Administration Manager <br>lee_seet_fong@moe.edu.sg     |

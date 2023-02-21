@@ -20,6 +20,6 @@ third_nav_title: Our People
 |  |  |  |
 | <img style="width:50%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S11.jpg"> | <img style="width:49%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S12.jpg"> | <img style="width:49%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S13.jpg"> |
 | Mdm Rufaidah Bte Ismail <br> LH, Science <br> rufaidah_ismail@moe.edu.sg | Mdm Lena Chua <br> LH,Mathemtics <br>lena_chua_siao_yen@moe.edu.sg  | Mr Mohamed Fazlee Bin Sabari <br> SH, English <br>mohamed_fazlee_sabari@moe.edu.sg|
-| <img style="width:50%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S14.jpg"> | <img style="width:53%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S15.jpg"> | <img style="width:44%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S16.jpg"> |
+| <img style="width:50%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S14.jpg"> | <img style="width:52%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S15.jpg"> | <img style="width:54%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S16.jpg"> |
 |  |  |  |
-| Mdm Angie Ng <br> School Staff Developer <br>ng_pei_chen@moe.edu.sg     | Mdm Yong Chin <br> HOD Mother Tongue <br>yong_chin@moe.edu.sg     | Mdm Neo Bee Leng <br> HOD Mathematics <br> neo_bee_leng@moe.edu.sg |
+| Mrs Stephanie Thoo <br> Assistant Year Head P4 & P5 <br>stephanie_thoo@moe.edu.sg     | Miss Chang Si Ying <br> SH PE/CCA <br>yong_chin@moe.edu.sg     | Mdm Yak Hui Hwa (Mrs Seetoh) <br> SH, ICT (Covering) <br> neo_bee_leng@moe.edu.sg |

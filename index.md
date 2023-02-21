@@ -40,7 +40,7 @@ sections:
         thinking skills and creativity through the integrated areas of science
         and technology.
       button: Read more
-      url: /our-curriculum/Signature-Programmes/Applied-Learning-Programme-ALP/
+      url: https://cms.isomer.gov.sg/sites/moe-kranjipri/folders/our-curriculum/subfolders/Signature%20Programmes/editPage/Applied%20Learning%20Programme%20(ALP).md
       image: /images/News and Events/N4.jpg
       alt: Image alt text
   - infopic:

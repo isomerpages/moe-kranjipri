@@ -23,3 +23,9 @@ third_nav_title: Our People
 | <img style="width:50%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S14.jpg"> | <img style="width:52%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S15.jpg"> | <img style="width:54%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S16.jpg"> |
 |  |  |  |
 | Mrs Stephanie Thoo <br> Assistant Year Head P4 & P5 <br>stephanie_thoo@moe.edu.sg     | Miss Chang Si Ying <br> SH PE/CCA <br>yong_chin@moe.edu.sg     | Mdm Yak Hui Hwa (Mrs Seetoh) <br> SH, ICT (Covering) <br> neo_bee_leng@moe.edu.sg |
+| <img style="width:50%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S17.jpg"> | <img style="width:53%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S18.jpg"> | <img style="width:44%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S19.jpg"> |
+|  |  |  |
+| Mdm Adelene Tan <br> LH, Chinese <br>tan_tse_hui_adelene@moe.edu.sg     | Mdm Ong Su Hui <br> SH, CCE (Covering) <br>ong_su_hui@moe.edu.sg     | Mr Tan Chin Hong<br> Operations Manager <br> tan_chin_hong_a@moe.edu.sg |
+| <img style="width:52%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S20.jpg"> | <img style="width:53%" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/Seet%20Fong_FINAL.jpg"> | 
+|  |  |  |
+| Miss (Valarie) Yeo Hwee Koon <br> Administration Manager<br>yeo_hwee_koon@moe.edu.sg     | Mdm Lee Seet Fong<br> Administration Manager <br>lee_seet_fong@moe.edu.sg     | 

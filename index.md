@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/NewBanner.png
+      background: /images/KPSBanner_withText.png
       key_highlights:
         - title: News & Events
           description: ""
@@ -18,7 +18,6 @@ sections:
         - title: Voices of Our Alumni
           description: ""
           url: /Voices-of-our-alumni/
-      title: EMPOWERING KRANJIANS FOR THE FUTURE
   - infopic:
       title: Every Kranjian Matters and Deserves the Best!
       description: “We value every student Every student wants to succeed  All can

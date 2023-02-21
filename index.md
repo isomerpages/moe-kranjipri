@@ -55,5 +55,5 @@ sections:
       title: KPS Social Media
       description: You can follow KPS on Facebook and Instagram
       button: Click Here
-      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/Learning-for-Life-Programme-LLP/
+      url: /kps-on-social-media/
 ---

@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/KPS_Homepage.png
+      background: /images/NewBanner.png
       key_highlights:
         - title: News & Events
           description: ""

@@ -50,5 +50,5 @@ sections:
       button: READ MORE
       url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/Learning-for-Life-Programme-LLP/
       alt: Image alt text
-      image: /images/Homepage/LLP.png
+      image: /images/Homepage/LLP_2023.png
 ---

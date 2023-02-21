@@ -41,7 +41,7 @@ sections:
         and technology.
       button: Read more
       url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/Applied-Learning-Programme-ALP/
-      image: /images/News and Events/N4.jpg
+      image: /images/Homepage/ALP.png
       alt: Image alt text
   - infopic:
       title: Learning for Life Programme (LLP)

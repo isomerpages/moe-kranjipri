@@ -48,7 +48,7 @@ sections:
       description: “Developing Champions in Life through Sports”, encapsulates the DNA
         of Kranji Primary School.
       button: READ MORE
-      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/Applied-Learning-Programme-ALP/
+      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/Learning-for-Life-Programme-LLP/
       alt: Image alt text
       image: /images/Homepage/LLP.png
 ---

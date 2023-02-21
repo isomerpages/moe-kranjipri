@@ -14,9 +14,6 @@ third_nav_title: Our People
 | -------- | -------- | -------- |
 | Mdm Lin Wei Jia <br> HOD English <br>lin_weijia@moe.edu.sg     | Ms Azzulin Bte Aripin <br> HOD Science <br>azzulin_aripin@moe.edu.sg     | Mdm Hajerah Beevi <br> HOD Student Management <br> hajerah_beevi_kutus@moe.edu.sg |
 
-| <img style="width:45%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S8.jpg"> | <img style="width:51%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S9.jpg"> | <img style="width:100%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S10.jpg"> |
+| <img style="width:45%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S8.jpg"> | <img style="width:51%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S9.jpg"> | <img style="width:55%" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S10.jpg"> |
 | -------- | -------- | -------- |
 | Mdm Nur Fazalina Bte Hussin <br> Year Head P3 & P6<br>nur_fazalina_hussin@moe.edu.sg     | Mdm Lim Fang Fang <br> Year Head P1 & P2 <br>lim_fang_fang@moe.edu.sg | Mrs Joanna Wong <br> HOD PE & CCA <br> joanna_teo_wei-jin@moe.edu.sg |
-
-
-

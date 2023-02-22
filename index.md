@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/KPS_Homepage.png
+      background: /images/KPSBanner_text.png
       key_highlights:
         - title: News & Events
           description: ""
@@ -18,7 +18,6 @@ sections:
         - title: Voices of Our Alumni
           description: ""
           url: /Voices-of-our-alumni/
-      title: EMPOWERING KRANJIANS FOR THE FUTURE
   - infopic:
       title: Every Kranjian Matters and Deserves the Best!
       description: “We value every student Every student wants to succeed  All can
@@ -41,15 +40,20 @@ sections:
         thinking skills and creativity through the integrated areas of science
         and technology.
       button: Read more
-      url: /our-curriculum/Signature-Programmes/Applied-Learning-Programme-ALP/
-      image: /images/News and Events/N4.jpg
+      url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/Applied-Learning-Programme-ALP/
+      image: /images/Homepage/ALP.png
       alt: Image alt text
   - infopic:
       title: Learning for Life Programme (LLP)
       description: “Developing Champions in Life through Sports”, encapsulates the DNA
         of Kranji Primary School.
       button: READ MORE
-      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/Applied-Learning-Programme-ALP/
+      url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/Learning-for-Life-Programme-LLP/
       alt: Image alt text
-      image: /images/Homepage/LLP.png
+      image: /images/Homepage/LLP_2023.png
+  - infobar:
+      title: KPS Social Media
+      description: You can follow KPS on Facebook and Instagram
+      button: Click Here
+      url: /kps-on-social-media/
 ---

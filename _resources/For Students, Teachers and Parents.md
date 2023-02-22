@@ -24,11 +24,11 @@ description: ""
     
 *   [P1 JTP Dance Mat Typing Level 1](https://toybox.tools.bbc.co.uk/activities/id/activity-dance-mat-typing/exitGameUrl/http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr)  
     
-*   [P2 JTP Dance Mat Typing Level 2](https://toybox.tools.bbc.co.uk/activities/id/activity-dance-mat-typing-level2/exitGameUrl/http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr)  
+*   [P1 JTP Dance Mat Typing Level 2](https://toybox.tools.bbc.co.uk/activities/id/activity-dance-mat-typing-level2/exitGameUrl/http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr)  
     
-*   [P3 JTP Dance Mat Typing Level 3](https://toybox.tools.bbc.co.uk/activities/id/activity-dance-mat-typing-level3/exitGameUrl/http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr)  
+*   [P1 JTP Dance Mat Typing Level 3](https://toybox.tools.bbc.co.uk/activities/id/activity-dance-mat-typing-level3/exitGameUrl/http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr)  
     
-*   [P4 JTP Dance Mat Typing Level 4](https://toybox.tools.bbc.co.uk/activities/id/activity-dance-mat-typing-level4/exitGameUrl/http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr)
+*   [P1 JTP Dance Mat Typing Level 4](https://toybox.tools.bbc.co.uk/activities/id/activity-dance-mat-typing-level4/exitGameUrl/http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr)
 *   [Student Travel Declaration](https://form.gov.sg/6348b384168a250012344bb7)  
     
 

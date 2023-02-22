@@ -5,4 +5,6 @@ description: ""
 ---
 ## You can follow KPS on
 <br>
-# **Facebook**  [@KPS](https://www.facebook.com/KranjiPrimarySchool.Official)
+# **Facebook**  [@KPS_FB](https://www.facebook.com/KranjiPrimarySchool.Official)
+<br>
+# **Instagram** [@KPS_INSTA](https://www.instagram.com/kranji_primary_school/?hl=en)

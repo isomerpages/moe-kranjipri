@@ -4,4 +4,5 @@ permalink: /kps-on-social-media/
 description: ""
 ---
 ## You can follow KPS on
-### Facebook [@KPS](https://www.facebook.com/KranjiPrimarySchool.Official)
+<br>
+# **Facebook**  [@KPS](https://www.facebook.com/KranjiPrimarySchool.Official)

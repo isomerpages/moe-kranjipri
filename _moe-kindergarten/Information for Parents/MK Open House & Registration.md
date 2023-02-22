@@ -8,8 +8,8 @@ third_nav_title: Information for Parents
 ![](/images/MOE%20Kindergarten/Information%20for%20Parents/Information%20for%20Parents/MK%20Open%20House%202023.jpg)
 
 **Learning Environment video**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X-HteLrhrYs" title="Welcome to MK@Kranji" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](/images/MOE%20Kindergarten/Information%20for%20Parents/Information%20for%20Parents/welcome%20to%20MK@kranji.png)
+[Please click this link to watch the video](https://www.youtube.com/watch?v=X-HteLrhrYs)
 
 #### **PARENTS BRIEFING SLIDES**<br>
 Please scan the QR code for 2023 Open House Slides.

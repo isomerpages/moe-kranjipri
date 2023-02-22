@@ -8,7 +8,7 @@ description: ""
 <img style="width:50%" src="/images/News%20and%20Events/Caring%20Award%202023.png">
 Nomination for "Arif Budiman Malay Language Teacher Award 2023" and    "Most Inspiring Tamil Teachers’ Award 2023"
 <br><br>
-[Read More](/files/News%20&%20Events/Caring%20Awards%202023.pdf)
+**[Read More](/files/News%20&%20Events/Caring%20Awards%202023.pdf)
 <br><br>
 <a href="https://drive.google.com/file/d/1mk3H0l7QidR7BshTEeNzmLLeeyjAuIxw/view?usp=share_link">
 <img style="width:60%" align="center" src="/images/MsTayFarewell.png">	

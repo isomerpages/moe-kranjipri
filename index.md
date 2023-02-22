@@ -40,7 +40,7 @@ sections:
         thinking skills and creativity through the integrated areas of science
         and technology.
       button: Read more
-      url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Signature-Programmes/Applied-Learning-Programme-ALP/
+      url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/Applied-Learning-Programme-ALP/
       image: /images/Homepage/ALP.png
       alt: Image alt text
   - infopic:

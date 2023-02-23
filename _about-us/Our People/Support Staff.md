@@ -10,3 +10,8 @@ third_nav_title: Our People
 | -------- | -------- | -------- |
 | Miss Nur Sabrina     | Mr Muhamad Zahin     | Mdm Hartini |
 | Desktop Engineer | Desktop Engineer | Librarian |
+
+| <img style="width:30%; border:1px double black;" src="/images/About%20Us/Our%20People/Support%20Staff/Mdm%20Rajesh.jpg"> | | |
+| -------- | -------- | -------- |
+| Mdm Rajesh     |  | |
+| Science Lab Assistant |  |  |

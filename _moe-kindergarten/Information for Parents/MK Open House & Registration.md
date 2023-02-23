@@ -8,7 +8,7 @@ third_nav_title: Information for Parents
 ![](/images/MOE%20Kindergarten/Information%20for%20Parents/Information%20for%20Parents/MK%20Open%20House%202023.jpg)
 
 **Learning Environment video**
-<a href="https://www.youtube.com/watch?v=X-HteLrhrYs" target="_blank"><img src="/images/MOE%20Kindergarten/Information%20for%20Parents/Information%20for%20Parents/welcome%20to%20MK@kranji.png">Click on the image to watch the video.
+<a href="https://www.youtube.com/watch?v=X-HteLrhrYs" target="_blank"><img style="border:2px double black" src="/images/MOE%20Kindergarten/Information%20for%20Parents/Information%20for%20Parents/welcome%20to%20MK@kranji.png">Click on the image to watch the video.
 
 	
 #### **PARENTS BRIEFING SLIDES**<br>

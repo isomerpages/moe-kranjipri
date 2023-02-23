@@ -6,19 +6,19 @@ third_nav_title: Our People
 ---
 ##### Head Of Department
 
-| <img style="width:50%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S1.jpg"> | <img style="width:40%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S2.jpg"> | <img style="width:50%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S3.jpg"> |
+| <img style="width:50%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S1.jpg"> | <img style="width:50%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S2.jpg"> | <img style="width:50%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S3.jpg"> |
 | -------- | -------- | -------- |
 | <a href="mailto:ng_pai_chen" target="_blank">Mdm Angie Ng</a> <br> School Staff Developer |<a href="mailto:yong_chin@moe.edu.sg" target="_blank"> Mdm Yong Chin </a> <br> HOD Mother Tongue | <a href="mailto:neo_bee_leng@moe.edu.sg" target="_blank">Mdm Neo Bee Leng </a><br> HOD Mathematics <br> |
 |  |  |  |
-| <img style="width:41%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S4.jpg"> | <img style="width:40%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S5.jpg"> | <img style="width:45%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S7.jpg"> |
+| <img style="width:50%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S4.jpg"> | <img style="width:50%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S5.jpg"> | <img style="width:50%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S7.jpg"> |
 |  |  |  |
 | <a href="mailto:lin_weijia@moe.edu.sg" target="_blank"> Mdm Lin Wei Jia </a><br> HOD English <br> | <a href="mailto:azzulin_aripin@moe.edu.sg" target="_blank"> Ms Azzulin Bte Aripin </a><br> HOD Science | <a href="mailto:hajerah_beevi_kutus@moe.edu.sg" target="_blank"> Mdm Hajerah Beevi </a><br> HOD Student Management <br>  |
 | | |
-| <img style="width:44%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S8.jpg"> | <img style="width:55%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S9.jpg"> | <img style="width:49%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S10.jpg"> |
+| <img style="width:44%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S8.jpg"> | <img style="width:50%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S9.jpg"> | <img style="width:50%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S10.jpg"> |
 |  |  |  |
 | <a href="mailto:azzulin_aripin@moe.edu.sg" target="_blank">Mdm Nur Fazalina Bte Hussin </a><br> Year Head P3 & P6 | <a href="mailto:azzulin_aripin@moe.edu.sg" target="_blank"> Mdm Lim Fang Fang </a><br> Year Head P1 & P2  | <a href="mailto:azzulin_aripin@moe.edu.sg" target="_blank">Mrs Joanna Wong</a> <br> HOD PE & CCA 
 |  |  |  |
-| <img style="width:41%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S11.jpg"> | <img style="width:49%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S12.jpg"> | <img style="width:49%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S13.jpg"> |
+| <img style="width:50%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S11.jpg"> | <img style="width:50%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S12.jpg"> | <img style="width:50%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S13.jpg"> |
 | <a href="mailto:rufaidah_ismail@moe.edu.sg"> Mdm Rufaidah Bte Ismail </a><br> LH, Science  | <a href="mailto:lena_chua_siao_yen@moe.edu.sg"> Mdm Lena Chua </a><br> LH,Mathemtics |<a href="mailto:mohamed_fazlee_sabari@moe.edu.sg"> Mr Mohd Fazlee Bin Sabari </a><br> SH, English
 | <img style="width:40%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S14.jpg"> | <img style="width:50%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S15.jpg"> | <img style="width:50%; border:2px double black" src="/images/About%20Us/Our%20People/School%20Exec%20Committee/S16.jpg"> |
 |  |  |  |

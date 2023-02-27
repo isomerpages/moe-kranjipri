@@ -104,3 +104,6 @@ _Credit:&nbsp;https://beta.moe.gov.sg/preschool/moe-kindergarten/mk-virtual-tour
 #### **A Day at MK Kindergarten**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/oaFqK_vLFYk" height="315" width="560"></iframe>
+
+**Learning Environment video**
+<a href="https://www.youtube.com/watch?v=X-HteLrhrYs" target="_blank"><img style="border:2px double black" src="/images/MOE%20Kindergarten/Information%20for%20Parents/Information%20for%20Parents/welcome%20to%20MK@kranji.png">Click on the image to watch the video.

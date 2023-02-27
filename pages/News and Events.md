@@ -20,6 +20,8 @@ Do watch our farewell video.
 <p>We are proud to announce that our Senior Girls Basketball Team has emerged as the Champion at the National School Games West Zone Basketball Competition. <b>Congratulations to our Basketballers!</b></p>
 <br>
 <h5> Applied Learning Programme </h5>
+![](/images/Homepage/ALP.png)
+<img style="width:50%" src="/images//Homepage/ALP.png">
 <img style="width:50%" src="/images/News%20and%20Events/N4.jpg">
 
 <p> Rooted in our belief that “Every Kranjian Matters and Deserves the Best”, the ALP programme is specially designed to develop critical and inventive Kranjians. As part of the learning process, students get to create, innovate, recover from failure, and build critical thinking and problem solving skills. </p>

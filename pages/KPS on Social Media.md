@@ -12,4 +12,4 @@ description: ""
 |<a href="https://www.instagram.com/kranji_primary_school/?hl=en" target="_blank">
 <img style="width:20%" src="/images/IG_icon.jpg"> | | |
 | -------- | -------- | -------- |
-| Click here to view our Instagram page | | |
+| Click on the Instagram logo to view our page. | | |

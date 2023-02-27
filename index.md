@@ -44,8 +44,8 @@ sections:
       alt: Image alt text
   - infopic:
       title: Learning for Life Programme (LLP)
-      description: “Developing Champions in Life through Sports”, encapsulates the DNA
-        of Kranji Primary School.
+      description: Our LLP marries active sports participation with values education
+        to develop Kranjian Champions.
       button: READ MORE
       url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/Learning-for-Life-Programme-LLP/
       alt: Image alt text

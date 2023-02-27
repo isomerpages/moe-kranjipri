@@ -21,7 +21,7 @@ Do watch our farewell video.
 <br>
 <h5> Applied Learning Programme </h5>
 
-<img style="width:50%" src="/images//Homepage/ALP.png">
+<img style="width:50%" src="/images/Homepage/ALP.png">
 
 
 <p> Rooted in our belief that “Every Kranjian Matters and Deserves the Best”, the ALP programme is specially designed to develop critical and inventive Kranjians. As part of the learning process, students get to create, innovate, recover from failure, and build critical thinking and problem solving skills. </p>

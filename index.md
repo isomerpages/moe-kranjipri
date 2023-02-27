@@ -20,7 +20,7 @@ sections:
           url: /Voices-of-our-alumni/
   - infopic:
       title: Every Kranjian Matters and Deserves the Best!
-      description: “We value every student Every student wants to succeed  All can
+      description: “We value every student, Every student wants to succeed,  All can
         learn” This is our commitment to every Kranjian.
       button: READ MORE
       url: /Every-Kranjian-Matters-and-Deserves-the-Best/
@@ -36,17 +36,16 @@ sections:
       alt: Image alt text
   - infopic:
       title: Applied Learning Programme (ALP)
-      description: ALP provides opportunities to hone the learning and application of
-        thinking skills and creativity through the integrated areas of science
-        and technology.
+      description: Our ALP provides opportunity to learn and apply thinking skills and
+        creativity through science, technology, engineering and mathematics.
       button: Read more
       url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/Applied-Learning-Programme-ALP/
       image: /images/Homepage/ALP.png
       alt: Image alt text
   - infopic:
       title: Learning for Life Programme (LLP)
-      description: “Developing Champions in Life through Sports”, encapsulates the DNA
-        of Kranji Primary School.
+      description: Our LLP marries active sports participation with values education
+        to develop Kranjian Champions.
       button: READ MORE
       url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/Learning-for-Life-Programme-LLP/
       alt: Image alt text

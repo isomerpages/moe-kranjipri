@@ -16,4 +16,4 @@ Compassion and the will to serve is at the Heart of a ‘**Gracious Citizen**’
 
 We believe that being a Champion is not about being the best in the field. To be ‘**Champions in Life**’, true champions demonstrate resilience and adaptability in the pursuit of their goals, take ownership of their learning, **communicate and collaborate effectively** with others, lead others and serve the community. Oftentimes, it is not just in the outcomes, but more importantly, what our Kranjians learn during the process. Hence, in KPS, we pride ourselves to be a school that nurtures Champions.
 
-There is a **strong culture of care** in Kranji Primary School. Our staff collegiality is high and colleagues look out for and support one another. This collegial culture among colleagues is in turn translated into the deep care and support for every Kranjian who passes through our gates.
+There is a strong **culture of care** in Kranji Primary School. Our staff collegiality is high and colleagues look out for and support one another. This collegial culture among colleagues is in turn translated into the deep care and support for every Kranjian who passes through our gates.

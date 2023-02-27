@@ -4,7 +4,7 @@ permalink: /Every-Kranjian-Matters-and-Deserves-the-Best/
 description: ""
 ---
 ![](/images/Homepage/Kranjians%20matters_final.png)<br>
-The school philosophy is ‘**Every Kranjian Matters and Deserves the Best**’ where ‘We value every student, Every student wants to succeed  and  All can learn’.
+The school philosophy is ‘**Every Kranjian Matters and Deserves the Best**’ where ‘*We value every student, Every student wants to succeed  and  All can learn’.*
 
 Because we endeavour to deliver the best to our Kranjians, in KPS, no effort is spared to ensure that our curriculum is **forward looking** so that our students can be **future ready** by the time they graduate. 
 

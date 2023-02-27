@@ -36,7 +36,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Applied Learning Programme (ALP)
-      description: The ALP provides opportunity to learn and apply thinking skills and
+      description: Our ALP provides opportunity to learn and apply thinking skills and
         creativity through science, technology, engineering and mathematics.
       button: Read more
       url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/Applied-Learning-Programme-ALP/

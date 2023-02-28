@@ -10,7 +10,7 @@ Nomination for "Arif Budiman Malay Language Teacher Award 2023" and    "Most Ins
 <br><br>
 [Read More](/files/News%20&%20Events/Caring%20Awards%202023.pdf)
 <br><br>
-<iframe width="853" height="480" src="https://www.youtube.com/embed/X-B2gMqSbEA" title="Ms Tay Farewell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="910" height="512" src="https://www.youtube.com/embed/X-B2gMqSbEA" title="Ms Tay Farewell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <p style="text-align:center">Recently, we bid farewell to Ms Tay Sze Leng, our Vice-Principal. We had an event on Wednesday, 25 Jan 2023, to share the wonderful memories we had during her tenure in KPS.
 Do watch our farewell video.

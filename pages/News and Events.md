@@ -22,7 +22,7 @@ Do watch our farewell video.
 <h5> Applied Learning Programme </h5>
 
 <img style="width:50%" src="/images/News%20and%20Events//ALP 2023.png">
-<img style="width:50%" src="/images/News%20and%20Events/Caring%20Award%202023.png">
+
 
 <p> Rooted in our belief that “Every Kranjian Matters and Deserves the Best”, the ALP programme is specially designed to develop critical and inventive Kranjians. As part of the learning process, students get to create, innovate, recover from failure, and build critical thinking and problem solving skills. </p>
 <a href="/our-curriculum/Signature-Programmes/Applied-Learning-Programme-ALP/"> Read More </a>

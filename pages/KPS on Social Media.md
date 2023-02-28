@@ -3,13 +3,12 @@ title: KPS on Social Media
 permalink: /kps-on-social-media/
 description: ""
 ---
-### Do follow us on our social media accounts.
+### Catch our latest happenings on our social media account.
 
-| <a href="https://www.facebook.com/KranjiPrimarySchool.Official" target="_blank"><img style="width:20%;" src="/images/FB_icon.png"> |  |  |
+| <img style="width:20%;" src="/images/FB_icon.png"> |  |  |
 | -------- | -------- | -------- |
-| Click on the Facebook logo to follow us. | | |
+<a href="https://www.facebook.com/KranjiPrimarySchool.Official" target="_blank">Click here to follow us. | | |
 
-|<a href="https://www.instagram.com/kranji_primary_school/?hl=en" target="_blank">
-<img style="width:20%" src="/images/IG_icon.jpg"> | | |
+| <img style="width:20%;" src="/images/IG_icon.jpg">| | |
 | -------- | -------- | -------- |
-| Click on the Instagram logo to view our page. | | |
+| <a href="https://www.instagram.com/kranji_primary_school/?hl=en" target="_blank">Click here to view our page. | |

@@ -10,8 +10,9 @@ Nomination for "Arif Budiman Malay Language Teacher Award 2023" and    "Most Ins
 <br><br>
 [Read More](/files/News%20&%20Events/Caring%20Awards%202023.pdf)
 <br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X-B2gMqSbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<p style="text-align:center">Recently, we bid farewell to Ms Tay Sze Leng, our Vice-Principal. We had an event on Wednesday, 25 Jan 2023, to share the wonderful memories we had during her tenure in KPS.
+<a href="https://youtu.be/X-B2gMqSbEA">
+<img src="/images/MsTayFarewell.png">
+<p style="text-align:center;">Recently, we bid farewell to Ms Tay Sze Leng, our Vice-Principal. We had an event on Wednesday, 25 Jan 2023, to share the wonderful memories we had during her tenure in KPS.<br>
 Do watch our farewell video.
 
 <h5> Basketball West Zone Senior Division Champions</h5>

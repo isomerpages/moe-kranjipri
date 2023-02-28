@@ -26,9 +26,9 @@ KCare: 7am - 7pm
 
 <h6 style="color:purple;">Form</h6>
 <strong>KCare enrolment request form for existing MK@Kranji Students</strong>
-<a href="https://go.gov.sg/mk-kranji-kcare-request"><br>
+<a href="https://go.gov.sg/mk-kranji-kcare-request" target="_blank"><br>
 MK@Kranji Kcare Request</a>
 <br><br>
 <strong>MK@Kranji enrolment waitlist request form</strong>
-<a href="https://go.gov.sg/mk-kranji-waitlist"><br>
+<a href="https://go.gov.sg/mk-kranji-waitlist" target="_blank"><br>
 MK@Kranji Enrolment waitlist

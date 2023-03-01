@@ -5,7 +5,8 @@ description: ""
 ---
 1. [2023 Principal's Letter to Parents - Mar](/files/For%20Parents/Principal's%20Monthly%20Letter/2023-03%20Mar%20Letter%20to%20Parents_final.pdf)
 
-1. [2023 Principal's Letter to Parents - Feb](/files/For%20Parents/Principal's%20Monthly%20Letter/2023-02%20Feb%20Letter%20to%20Parents_final.pdf)
+1. <a
+href="/files/For%20Parents/Principal's%20Monthly%20Letter/2023-02%20Feb%20Letter%20to%20Parents_final.pdf target =  "\_blank">2023 Principal's Letter to Parents - Feb
 
 1. <a
 href="/files/For%20Parents/Principal's%20Monthly%20Letter/2023-01%20Jan%20Letter%20to%20Parents.pdf" target = "\_blank">2023 Principal's Letter to Parents - Jan

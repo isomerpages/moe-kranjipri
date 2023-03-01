@@ -8,7 +8,7 @@ description: ""
 1. [2023 Principal's Letter to Parents - Feb](/files/For%20Parents/Principal's%20Monthly%20Letter/2023-02%20Feb%20Letter%20to%20Parents_final.pdf)
 
 1. <a
-2. href="/files/For%20Parents/Principal's%20Monthly%20Letter/2023-01%20Jan%20Letter%20to%20Parents.pdf" target = "\_blank">2023 Principal's Letter to Parents - Jan
+href="/files/For%20Parents/Principal's%20Monthly%20Letter/2023-01%20Jan%20Letter%20to%20Parents.pdf" target = "\_blank">2023 Principal's Letter to Parents - Jan
 3. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Nov%202022.pdf" target = "\_blank">2022 Principal's Letter to Parents - Nov
 4. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Oct22.pdf" target = "\_blank">2022 Principal's Letter to Parents - Oct
 5. <a href="/files/For%20Parents/Principal's%20Monthly%20Letter/Principals%20Letter%20Sep22.pdf" target = "\_blank">2022 Principal's Letter to Parents - Sept

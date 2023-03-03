@@ -20,8 +20,8 @@ sections:
           url: /Voices-of-our-alumni/
   - infopic:
       title: Every Kranjian Matters and Deserves the Best!
-      description: “We value every student, Every student wants to succeed , All can
-        learn” This is our commitment to every Kranjian.
+      description: “We value every student, Every student wants to succeed, All can
+        learn.” This is our commitment to every Kranjian.
       button: READ MORE
       url: /Every-Kranjian-Matters-and-Deserves-the-Best/
       image: /images/Homepage/KPS_final.jpg

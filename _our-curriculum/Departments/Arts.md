@@ -4,9 +4,6 @@ permalink: /Departments/Arts/
 description: ""
 third_nav_title: Departments
 ---
-
-
-
 ##### **Art Curriculum Framework**
   
 Recognising students as key agents of learning, the objectives of the primary art syllabus are to develop all students as active artists and informed audience with  
@@ -129,9 +126,7 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 </figure>
 <figure>
   
-##### P4 Digital Photography Programme
-
-
+<center><h5>P4 Digital Photography Programme</h5></center>
 
 <figure>
 

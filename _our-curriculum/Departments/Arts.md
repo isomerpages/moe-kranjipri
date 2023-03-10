@@ -130,6 +130,9 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 <figure>
 
+
+	
+	
 <img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
 
 <figcaption> <strong> Capturing Nature </strong> </figcaption>

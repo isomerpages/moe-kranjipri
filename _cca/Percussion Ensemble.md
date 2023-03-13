@@ -45,7 +45,8 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 ##### **CCA Achievements**
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P1.jpg">
+![](/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/CCA%20achievement%20-%20Percussion%20Ensemble.png)
+
 
   
 

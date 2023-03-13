@@ -57,6 +57,18 @@ Selected students in Football will be able to participate in the National School
 ##### **CCA Achievements**
 
 
+
+
+
+
+
+
+| Year | NSG Competition | Others |
+| -------- | -------- | -------- |
+| 2022     | Junior Boys - Tier 2 <br> Senior Boys - West Zone Quarter Finals    | Assumption English School 8-A Side Tournament 2nd      |
+
+
+
 |   Year    |     NSG Competition   |   Others        |    
 |:--------:|:----------------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
 |  2022    | Junior Boys - Tier 2 <br> Senior Boys - West Zone Quarter Finals  | Assumption English School 8-A Side Tournament 2nd |

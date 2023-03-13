@@ -53,7 +53,7 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 | Year | National | Community | School |
 | -------- | -------- | -------- | -------- |
 | 2022     | The Singapore Youth Festival Art Presentation is held biennially     | - Performed for Clean & Green Singapore Carnival @ Causeway Point <br> - Performed in Chingay Celebrations @ Yew Tee    | - Performed for KPS National Day Celebration <br> - Performed for KPS Annual Prize Giving Day <br> - Performed for KPS Arts Appreciation Week <br> - Participated in the Primary 2 CCA Experience <br> - Participated in the China Immersion School Visit     |
-| 2019     | Text     | Text     | Text     |
+| 2019     | Participated in Singapore Youth Festival (Certificate of Distinction)     | Text     | Text     |
 | 2018     | Text     | Text     | Text     |
 
 ![](/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M1.jpg)

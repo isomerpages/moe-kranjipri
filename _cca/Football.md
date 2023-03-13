@@ -69,17 +69,7 @@ Selected students in Football will be able to participate in the National School
 | 2019     | Junior Boys - 1st Round <br> Senior Boys - 1st Round      | Kranji Cup - **Champion** <br> Admiralty Primary and Active SG Cup - 1st Runner-Up
 | 2018     |Junior Boys - 1st Round <br> Senior Boys - 1st Round      | Xingnan Invitation - Group Stages
 | 2017     |Junior Boys - 1st Round <br> Senior Boys - 1st Round      | 
-
-|   Year    |     NSG Competition   |   Others        |    
-|:--------:|:----------------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
-|  2022    | Junior Boys - Tier 2 <br> Senior Boys - West Zone Quarter Finals  | Assumption English School 8-A Side Tournament 2nd |
-|  2019    | Junior Boys - 1st Round <br> Senior Boys - 1st Round | Kranji Cup - **Champion** <br> Admiralty Primary and Active SG Cup - 1st Runner-Up | 
-|  2018    | Junior Boys - 1st Round <br> Senior Boys - 1st Round | Xingnan Invitation - Group Stages |                                                                                                                                           
-|  2017    | Junior Boys - 1st Round <br> Senior Boys - 1st Round | |                                                                                                                                           
-
-
-![](/images/Our%20Curriculum/Departments/CCA/Football/CCA%20achievement-%20soccer.png)  
-
+                                                                                                                                  
 **Photos of our Footballers in action**
 
 <figure>

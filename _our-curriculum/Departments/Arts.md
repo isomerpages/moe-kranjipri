@@ -93,39 +93,12 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 ##### **Level Programmes**
 
-  
-
 <center><h5>Primary 3 Print Making Programme</h5></center>
 
-<figure>
+| <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/Art/A3NEW.jpg"> | <img style="width:70%;height:70%" src="/images/Our%20Curriculum/Departments/Art/A2NEW.jpg"> | <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/Art/A4NEW.jpg"> |
+| -------- | -------- | -------- |
+| Totally engrossed in making sure every part is covered   | The process of print making  | The finished product |
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/Art/A2NEW.jpg">
-
-<figcaption> <strong> The process of print making </strong> </figcaption>
-
-</figure>
-
-<figure>
-	
-<figure>
-
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/Art/A3NEW.jpg">
-
-<figcaption> <strong style="left">  Totally engrossed in making sure every part is covered </strong> </figcaption>
-
-</figure>
-
-<figure>
-	
-<figure>
-
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/Art/A4NEW.jpg">
-
-<figcaption> <strong> The finished product </strong> </figcaption>
-
-</figure>
-<figure>
-  
 <center><h5>P4 Digital Photography Programme</h5></center>
 
 <figure>

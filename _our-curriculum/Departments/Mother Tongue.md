@@ -4,9 +4,6 @@ permalink: /Departments/Mother-Tongue/
 description: ""
 third_nav_title: Departments
 ---
-
-
-
 ##### **Mother Tongue Curriculum Framework**
 
   
@@ -221,7 +218,7 @@ The Mother Tongue Talent Development Programme (TDP) is designed to nurture prom
 
 * Have regular conversation with your child about his/her experience in class.
 
-* Cultivate good **reading habits** (reading together). Reading resources includes books, newspapers, magazines, online          resources, etc.)
+* Cultivate good **reading habits** (reading together). Reading resources includes books, newspapers, magazines, online resources, etc.)
 
 * Encourage and accompany your child to watch suitable TV programmes in MTL.
 

@@ -256,7 +256,6 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 <figure>
 	
-  Annual Art Exhibition
 <img src="/images/Our%20Curriculum/Departments/Art/A17.jpg">
 
 <img src="/images/Our%20Curriculum/Departments/Art/A18.jpg">

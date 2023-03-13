@@ -70,7 +70,6 @@ Members will also have opportunities to take part in competitions such as the Na
 | 2018     | - Took part in Our Schools, Our Stories Photo Contest <br> - Took part in 7th National Young Shutterbugs Competition 2018 <br> - Attended Photography Programme conducted by  C'ignature Enrichment Group     |
 | 2017     | - Took part in National Coding Competition 2017 (Bronze Award) <br> - Took part in Schools Digital Media Awards 2017 (SDMA) Competition <br> - Attended Film Production Programme conducted by Kelvin Sng Productions Pte Ltd     | 
 
-![](/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/I1.jpg)
 
 **Photos of our Digital Media Club students in action**
 

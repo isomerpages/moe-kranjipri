@@ -53,7 +53,7 @@ Contact No.: 6760 4835 
 
 ### 3\. School Dental Clinic
 
-Students who require dental treatment can go the Dental Clinic in school for assistance. The clinic in our school will be open from 1 August to 31 November 2022 and is supported by other buddy dental clinics in primary schools around the area on other days during the school term. 
+Students who require dental treatment can go to the dental clinic in school for assistance. The school dental clinic is operating on a roving model. They will be in KPS for 3 to 4 months a year and is supported by other buddy dental clinics in primary schools around the area on other days during the school term.
 
 **The details of the buddy dental clinics are as follows**:
 

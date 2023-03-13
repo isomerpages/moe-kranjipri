@@ -65,7 +65,7 @@ Members will also have opportunities to take part in competitions such as the Na
 
 | Year | Event Description | 
 | -------- | -------- | 
-| 2022     | Top 20 Best App Idea and project showcase in Sift Explorers Singapore <br> Completed Inclusive App Design Challenge Everyone Can Code Bootcamp in Swift Explorers Singapore <br> Attended     |
+| 2022     | Top 20 Best App Idea and project showcase in Sift Explorers Singapore <br> Completed Inclusive App Design Challenge Everyone Can Code Bootcamp in Swift Explorers Singapore <br> Attended IMDA’s LEARN Game Development Programme (Scratch 3.0) <br> Attended IMDA’s LEARN Mobile App Development Programme  (Thunkable Live) <br> Took part in IMDA’s SERVE Emerging Tech x Values-in-Action Project (Social Robots) <br> Took part in IMDA’s DISCOVER Learning Journey (65Drones)    |
 | 2019     | Text     | 
 | 2018     | Text     |
 | 2017     | Text     | 

@@ -256,7 +256,7 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 <figure>
 	
-<img src="/images/Our%20Curriculum/Departments/Art/A17.jpg">
+<img src="/images/Our%20Curriculum/Departments/Art/A17.jpg"><br>
 
 <img src="/images/Our%20Curriculum/Departments/Art/A18.jpg">
 

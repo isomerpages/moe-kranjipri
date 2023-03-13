@@ -66,7 +66,7 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 <figcaption> <strong> We Love Percussion Ensemble! </strong> </figcaption>
 
 </figure>
-
+<figure>
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P4.png">
 
 <figure>

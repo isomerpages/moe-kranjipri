@@ -56,8 +56,7 @@ Selected students in Football will be able to participate in the National School
 
 ##### **CCA Achievements**
 
-![](/images/Our%20Curriculum/Departments/CCA/Football/F1.jpg)
-  
+![](/images/Our%20Curriculum/Departments/CCA/Football/CCA%20achievement-%20soccer.png)  
 
 **Photos of our Footballers in action**
 

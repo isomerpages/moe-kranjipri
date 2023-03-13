@@ -4,9 +4,6 @@ permalink: /Departments/Information-and-Communication-Technology-ICT/
 description: ""
 third_nav_title: Departments
 ---
-
-
-
 ##### **ICT Curriculum Framework**
 
 In Kranji Primary School, we believe in preparing our students to be future-ready champions in life. Therefore, the ICT department aims to create an ICT enriched environment, providing opportunities for our students to be joyful and responsible digital learners through a range of quality learning experiences with technology. 
@@ -84,7 +81,7 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 
   
 
-The school has three computer laboratories and three mobile carts equipped with laptops optimised for teaching and learning purposes. Students and teachers also have access to the use of iPads, chromebooks, galaxy tabs for mobile learning to take place. A wireless network is in place to further enhance students' learning and teachers are able to conduct lessons anywhere in our school using these devices.
+The school has computer laboratories and mobile carts equipped with laptops optimised for teaching and learning purposes. Students and teachers also have access to the use of iPads, chromebooks, galaxy tabs for mobile learning to take place. A wireless network is in place to further enhance students' learning and teachers are able to conduct lessons anywhere in our school using these devices.
 
 In collaboration with both the instructional and non-instructional programmes, students have opportunities to enhance their learning experience in an ICT-empowered learning environment, helping them to become innovative, confident and  independent learners.
 

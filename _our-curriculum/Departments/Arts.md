@@ -147,11 +147,11 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 </figure>
 
+  <figure>
   
+<center><h5>P4 Learning Journey to National Gallery</h5></center>
 
-**P4 Learning Journey to National Gallery**
 
-<figure>
 
 <img src="/images/Our%20Curriculum/Departments/Art/A6.jpg">
 

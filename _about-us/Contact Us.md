@@ -70,5 +70,4 @@ Students with dental emergencies (e.g. severe pain affecting sleep, facial swell
 
 Name of Company: In-Trend Uniforms<br>
 General Hotline: 6741 0930 / 8448 9939<br>
-Operating Hours: <br>
 Note: The school uniform will also be sold in school via the School Bookshop

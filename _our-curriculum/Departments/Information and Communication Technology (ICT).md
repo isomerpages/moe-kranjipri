@@ -91,7 +91,7 @@ In collaboration with both the instructional and non-instructional programmes, s
 
 ![](/images/Our%20Curriculum/Departments/ICT/ICT/I10.jpeg)
 
-**Please Click [here](/Student-Learning-Space/) for Student Learning Space**
+**Please click [here](/Student-Learning-Space/) for Student Learning Space**
 
 **Please click [here](/Student-iCON/) for Student iCON**
 

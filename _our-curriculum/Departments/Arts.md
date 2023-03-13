@@ -4,9 +4,6 @@ permalink: /Departments/Arts/
 description: ""
 third_nav_title: Departments
 ---
-
-
-
 ##### **Art Curriculum Framework**
   
 Recognising students as key agents of learning, the objectives of the primary art syllabus are to develop all students as active artists and informed audience with  
@@ -96,45 +93,19 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 ##### **Level Programmes**
 
-  
-
 <center><h5>Primary 3 Print Making Programme</h5></center>
 
-<figure>
+| <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/Art/A3NEW.jpg"> | <img style="width:70%;height:70%" src="/images/Our%20Curriculum/Departments/Art/A2NEW.jpg"> | <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/Art/A4NEW.jpg"> |
+| -------- | -------- | -------- |
+| Totally engrossed in making sure every part is covered   | The process of print making  | The finished product |
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/Art/A2NEW.jpg">
-
-<figcaption> <strong> The process of print making </strong> </figcaption>
-
-</figure>
+<center><h5>P4 Digital Photography Programme</h5></center>
 
 <figure>
+
+
 	
-<figure>
-
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/Art/A3NEW.jpg">
-
-<figcaption> <strong style="left">  Totally engrossed in making sure every part is covered </strong> </figcaption>
-
-</figure>
-
-<figure>
 	
-<figure>
-
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/Art/A4NEW.jpg">
-
-<figcaption> <strong> The finished product </strong> </figcaption>
-
-</figure>
-<figure>
-  
-##### P4 Digital Photography Programme
-
-
-
-<figure>
-
 <img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
 
 <figcaption> <strong> Capturing Nature </strong> </figcaption>
@@ -149,11 +120,11 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 </figure>
 
+  <figure>
   
+<center><h5>P4 Learning Journey to National Gallery</h5></center>
 
-**P4 Learning Journey to National Gallery**
 
-<figure>
 
 <img src="/images/Our%20Curriculum/Departments/Art/A6.jpg">
 
@@ -241,21 +212,24 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 </figure>
 
-  
-
-**Assembly Programme**
-
 <figure>
+  
+<center><h5>Assembly Programme</h5></center>
+
+
 
 <img src="/images/Our%20Curriculum/Departments/Art/A16.jpg">
 
 <figcaption> <strong> Doodling Skill </strong> </figcaption>
 
 </figure>
-
+<figure>
   
-#####Annual Art Exhibition
-<img src="/images/Our%20Curriculum/Departments/Art/A17.jpg">
+<center><h5>Annual Art Exhibition</h5></center>
+
+<figure>
+	
+<img src="/images/Our%20Curriculum/Departments/Art/A17.jpg"><br>
 
 <img src="/images/Our%20Curriculum/Departments/Art/A18.jpg">
 

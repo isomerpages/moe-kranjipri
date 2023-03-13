@@ -96,20 +96,18 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 **Photos of Basketballers in action**
 
-
-
 <figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B1.png">
-
+	<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/Basketball%202023.png">
+	</figure>
+<figure>
+<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_2%202023.png">
 <figcaption> <strong> Eyes on the prize! Our student athletes receive their well-deserved recognitions for their hard work all year round. </strong> </figcaption>
 
 </figure>
 
+
 <figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B2.png">
-
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_in_action.jpg">
 <figcaption> <strong> Applying what we learn during training in the competition </strong> </figcaption>
 
 </figure>

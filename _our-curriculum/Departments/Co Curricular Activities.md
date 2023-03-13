@@ -4,9 +4,6 @@ permalink: /Departments/Co-Curricular-Activities/
 description: ""
 third_nav_title: Departments
 ---
-
-
-
 ##### **PURPOSE OF CCA**
   
 The CCA Programme provides students with a platform to discover their interests and talents. Well-organised and implemented, they can fuel in the individual a life-long love for a particular activity, be it a sport or a musical pursuit. This helps the individual to lead a balanced life in adulthood.
@@ -38,7 +35,7 @@ Develop and demonstrate
 
   
 
-All Primary 3 to Primary 6 students are to participate in one CCA which will be held during curriculum hours on every Friday, 7.30 am to 9.00 am
+All Primary 3 to Primary 6 students are to participate in one CCA which will be held during curriculum hours on every Friday, 7.30 am to 8.30 am
 
 Changing CCA during the course of the year is not allowed unless due to valid reasons such as medical conditions. Students are encouraged to stay in their CCA so as to enable knowledge building, skills mastery and acquisition of values. Change of CCA will only be allowed at the end of each year during the CCA Option Exercise period.
 
@@ -48,7 +45,7 @@ Changing CCA during the course of the year is not allowed unless due to valid re
 |       Physical Sports      | Visual & Performing Arts |  Clubs & Societies  |                    Uniformed Group                   |
 |:--------------------------:|:------------------------:|:-------------------:|:----------------------------------------------------:|
 |        [Basketball](/cca/Basketball/)**        |      [Modern Dance](/cca/Modern-Dance/)**      |     [Science Club](/cca/Science-Club/)    |                [ Scouts (boys & girls)](/cca/Scouts/) |
-|    [Football**  (boys only)](/cca/Football/) |        [Art Club](/cca/Arts/)          |  [Infocomm Media Club](/cca/Digital-Media-Club/) |                                                      |
-|                            |   [Percussion Ensemble](/cca/Percussion-Ensemble/)    |                     |                                                      |
+|    [Football**  (boys only)](/cca/Football/) |        [Art Club](/cca/Arts/)          |  [Infocomm Media Club](/cca/Infocomm-Media-Club/) |                                                      |
+|                            |   [Percussion Ensemble](/cca/Percussion-Ensemble/)**   |                     |                                                      |
 
-\*School team training will be conducted after school for selected Primary 3 to  Primary 6 students participating in competitions.
+\**School team training will be conducted after school for selected Primary 3 to  Primary 6 students participating in competitions.

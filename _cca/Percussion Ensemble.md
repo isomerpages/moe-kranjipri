@@ -45,7 +45,8 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 ##### **CCA Achievements**
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P1.jpg">
+![](/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/CCA%20achievement%20-%20Percussion%20Ensemble.png)
+
 
   
 
@@ -66,12 +67,11 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 <figcaption> <strong> We Love Percussion Ensemble! </strong> </figcaption>
 
 </figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P4.png">
-
 <figure>
+<img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P4.png">
+<br>
+<img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P5.png">
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P5.png">
 
 <figcaption> <strong> SYF Arts Presentation 2022 - Rolling Walnuts </strong> </figcaption>
 
@@ -79,7 +79,7 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P6.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P6.jpg">
 
 <figcaption> <strong> Thank you parents for your support! </strong> </figcaption>
 

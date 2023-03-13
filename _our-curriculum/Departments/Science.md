@@ -4,7 +4,6 @@ permalink: /Departments/Science/
 description: ""
 third_nav_title: Departments
 ---
-
 ##### **Science Curriculum Framework**
 
   
@@ -34,7 +33,7 @@ Our key programme, Awe & Wonder in Science, aims to instil a sense of curiosity 
 
   
 
-The Science Department also organises learning journeys to reinforce what is being taught in the classroom. Learning journeys serve to provide authentic learning experiences for the students and further fuels the spirit of Awe & Wonder in Science. For the year 2020, the students will be participating in the following learning journeys.
+The Science Department also organises learning journeys to reinforce what is being taught in the classroom. Learning journeys serve to provide authentic learning experiences for the students and further fuels the spirit of Awe & Wonder in Science. 
 
 ![](/images/Our%20Curriculum/Departments/Science/S4.png)
 
@@ -108,6 +107,5 @@ The After School Programme (ASP) for Science is designed to close the gaps in st
 * Online research (Science websites or quizzes)
 
 * Online interactive simulations or videos
-
 
 ####  **Please click [here](/butterfly-garden/Butterfly-Garden/) to view the Butterfly Garden**

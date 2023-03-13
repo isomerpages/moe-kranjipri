@@ -4,9 +4,6 @@ permalink: /our-curriculum/Departments/Character-and-Citizenship-Education/
 description: ""
 third_nav_title: Departments
 ---
-
-
-
 ##### **Citizen and Character Education**
 
   
@@ -64,9 +61,8 @@ Having inculcated the necessary values and socio-emotional competencies in schoo
   
 
    iii.    Gratitude Day \- Gratitude Day provides an opportunity for our students to show gratitude to the staff (both teaching and non-teaching) for their contributions to the school. Kranjians write 'Thank you' notes and present them to the teaching and non-teaching staff to demonstrate their gratitude to them.  
-
-
-![](/images/Our%20Curriculum/Departments/CCE/C3.jpg)  
+	 
+![](/images/Our%20Curriculum/Departments/CCE/Gratitude%20%20Day.png)
 
    iv.    Recycling @ Kranji - Kranjians reflect on the state of the environment and respond to the community, national and global issues by being responsible citizens as they participate in recycling and upcycling efforts both in and out of the school.
 

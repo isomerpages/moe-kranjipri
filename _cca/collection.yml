@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
-      - Basketball.md
       - Art Club.md
-      - Scouts.md
-      - Modern Dance.md
-      - Infocomm Media Club.md
+      - Basketball.md
       - Football.md
+      - Infocomm Media Club.md
+      - Modern Dance.md
       - Percussion Ensemble.md
       - Science Club.md
+      - Scouts.md

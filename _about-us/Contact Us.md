@@ -53,9 +53,9 @@ Contact No.: 6760 4835 
 
 ### 3\. School Dental Clinic
 
-Students who require dental treatment can go the Dental Clinic in school for assistance. The clinic in our school will be open from 1 August to 31 November 2022 and is supported by other buddy dental clinics in primary schools around the area on other days during the school term. 
+Students who require dental treatment can go to the dental clinic in school for assistance. The school dental clinic is operating on a roving model. They will be in KPS for 3 to 4 months a year and is supported by other buddy dental clinics in primary schools around the area on other days during the school term.
 
-**The details of the buddy dental clinics are as follows**:
+**In the event that students require urgent dental treatment during the periods the roving team is not stationed in KPS, parents can call the following buddy clinics for an appointment:**
 
 *   De La Salle Primary School, Tel: 6765-6407
 *   Unity Primary School, Tel: 6767-7161
@@ -70,5 +70,4 @@ Students with dental emergencies (e.g. severe pain affecting sleep, facial swell
 
 Name of Company: In-Trend Uniforms<br>
 General Hotline: 6741 0930 / 8448 9939<br>
-Operating Hours: <br>
 Note: The school uniform will also be sold in school via the School Bookshop

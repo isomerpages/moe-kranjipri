@@ -45,7 +45,7 @@ Changing CCA during the course of the year is not allowed unless due to valid re
 |       Physical Sports      | Visual & Performing Arts |  Clubs & Societies  |                    Uniformed Group                   |
 |:--------------------------:|:------------------------:|:-------------------:|:----------------------------------------------------:|
 |        [Basketball](/cca/Basketball/)**        |      [Modern Dance](/cca/Modern-Dance/)**      |     [Science Club](/cca/Science-Club/)    |                [ Scouts (boys & girls)](/cca/Scouts/) |
-|    [Football**  (boys only)](/cca/Football/) |        [Art Club](/cca/Arts/)          |  [Infocomm Media Club](/cca/Digital-Media-Club/) |                                                      |
+|    [Football**  (boys only)](/cca/Football/) |        [Art Club](/cca/Arts/)          |  [Infocomm Media Club](/cca/Infocomm-Media-Club/) |                                                      |
 |                            |   [Percussion Ensemble](/cca/Percussion-Ensemble/)**   |                     |                                                      |
 
 \**School team training will be conducted after school for selected Primary 3 to  Primary 6 students participating in competitions.

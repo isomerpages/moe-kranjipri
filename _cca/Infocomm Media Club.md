@@ -61,6 +61,15 @@ Members will also have opportunities to take part in competitions such as the Na
 
 ##### **CCA Achievements**
 
+
+
+| Year | Event Description | 
+| -------- | -------- | 
+| 2022     | Text     |
+| 2019     | Text     | 
+| 2018     | Text     |
+| 2017     | Text     | 
+
 ![](/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/I1.jpg)
 
 **Photos of our Digital Media Club students in action**

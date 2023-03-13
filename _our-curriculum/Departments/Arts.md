@@ -250,7 +250,12 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 <figcaption> <strong> Doodling Skill </strong> </figcaption>
 
 </figure>
+<figure>
+  
+<center><h5>Annual Art Exhibition</h5></center>
 
+<figure>
+	
   Annual Art Exhibition
 <img src="/images/Our%20Curriculum/Departments/Art/A17.jpg">
 

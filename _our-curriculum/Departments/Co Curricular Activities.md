@@ -46,6 +46,6 @@ Changing CCA during the course of the year is not allowed unless due to valid re
 |:--------------------------:|:------------------------:|:-------------------:|:----------------------------------------------------:|
 |        [Basketball](/cca/Basketball/)**        |      [Modern Dance](/cca/Modern-Dance/)**      |     [Science Club](/cca/Science-Club/)    |                [ Scouts (boys & girls)](/cca/Scouts/) |
 |    [Football**  (boys only)](/cca/Football/) |        [Art Club](/cca/Arts/)          |  [Infocomm Media Club](/cca/Digital-Media-Club/) |                                                      |
-|                            |   [Percussion Ensemble](/cca/Percussion-Ensemble/)    |                     |                                                      |
+|                            |   [Percussion Ensemble](/cca/Percussion-Ensemble/)**   |                     |                                                      |
 
-\*School team training will be conducted after school for selected Primary 3 to  Primary 6 students participating in competitions.
+\**School team training will be conducted after school for selected Primary 3 to  Primary 6 students participating in competitions.

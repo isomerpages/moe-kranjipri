@@ -83,7 +83,12 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 ##### **CCA Achievements**
 
-  
+| Year | NSG Competition | National | Others |
+| -------- | -------- | -------- |  -------- |
+| 2022     | Senior Girls - **Champion**   <br>Junior Girls - **Tier 2 Champion**    |     |
+| 2019     | Senior Girls - **Champion** <br>Senior Boys - **Top 21**      | Junior Girls - **Top 37** <br>Senior Girls - **Champion** Junior Boys - **Tier 2 Top 8**
+| 2018     |Junior Boys - 1st Round <br> Senior Boys - 1st Round      | 
+| 2017     |Junior Boys - 1st Round <br> Senior Boys - 1st Round      |   
 
 |   Year   |                                         West Zone                                        |                                 National                                 |                                                                   Others                                                                   |
 |:--------:|:----------------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|

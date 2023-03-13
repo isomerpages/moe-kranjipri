@@ -239,11 +239,11 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 </figure>
 
-  
-
-**Assembly Programme**
-
 <figure>
+  
+<center><h5>Assembly Programme</h5></center>
+
+
 
 <img src="/images/Our%20Curriculum/Departments/Art/A16.jpg">
 

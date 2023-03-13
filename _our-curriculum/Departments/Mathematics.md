@@ -13,14 +13,14 @@ The central focus of the Mathematics Framework is mathematical problem solving, 
 
 #### **Department Pedagogy**
 
-##### We believe every Kranjian can be a joyful and confident problem solver with strong numeracy skills. Our Math lessons aim to:
+We believe every Kranjian can be a joyful and confident problem solver with strong numeracy skills. Our Math lessons aim to:
 
 
-1) Help Kranjians acquire skills and concepts relevant to real-world context, 
+- Help Kranjians acquire skills and concepts relevant to real-world context,
 
-2) Develop thinking, reasoning and communication skills and 
+- Develop thinking, reasoning and communication skills and 
 
-3) Build confidence and foster interest 
+- Build confidence and foster interest 
   
 **Activity-Based Learning**
 

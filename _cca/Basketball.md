@@ -97,7 +97,7 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 **Photos of Basketballers in action**
 
 
-
+![](/images/Our%20Curriculum/Departments/CCA/Basketball/Basketball%202023.png)
 <figure>
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B1.png">

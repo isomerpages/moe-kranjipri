@@ -185,8 +185,8 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 </figure>
 
   
+<center><h5> Primary 6 Digital Manga Programme</h5></center>
 
-##### P6 Digital Manga Programme
 
 <figure>
 

@@ -122,7 +122,7 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 
 <figure>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S7.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/S7.jpg">
 
 <figcaption> <strong> West Area Cub Scout Leadership Course - Sarimbun Camp </strong> </figcaption>
 

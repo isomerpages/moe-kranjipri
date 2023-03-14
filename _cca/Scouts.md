@@ -98,7 +98,7 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 
 <figure>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S4.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/S4.jpg">
 
 <figcaption> <strong> Sing-a-long session with actions </strong> </figcaption>
 

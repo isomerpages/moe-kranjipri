@@ -11,11 +11,20 @@ third_nav_title: Achievements
     <th style="width:70%; border:1px double black; text-align:center; ">Event Name</th>  
     <th style="width:70%; text-align:center; border:1px double black;">Achievement</th>
 <tr>
-	<th colspan="2" style="width:70%; text-align:center;">English
+	<th colspan="2" style="width:70%; text-align:center;">English</th>
 <tr>
 	<th style="text-align:center;">NUS High School Oratorical Challenge<br><br><img style="width:65%; height:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A1.jpg" alt="NUS Oratorical Competition 1.jpg" width="50" height="50"><br><img style="width:65%; height:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A1(1).jpg" alt="NUS Oratorical Competition 2.jpg" width="50" height="50"></th>
 	<th style="text-align:center; vertical-align:middle">2022: Commendation Award</th>
-	
+
+<tr>
+		<th colspan="2" style="width:70%; text-align:center;">Mathematics</th>
+<tr></tr>
+
+<tr>
+	<th style="text-align:center;">Singapore and Asian Schools Math Olympiad<br><br><img style="width:65%; height:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A2.jpg" width="50" height="50"><br>
+	<th style="text-align:justifieda; vertical-align:middle">2022: 3 Gold, 2 Silver, 7 Bronze, 8 Honourable Mentions.<br><br>2020: 4 Silver, 10 Bronze.<br><br>2019: 2 Gold, 5 Silver, 6 Bronze<br><br>2018: 5 Gold, 6 Silver, 9 Bronze
+	</th>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:;}

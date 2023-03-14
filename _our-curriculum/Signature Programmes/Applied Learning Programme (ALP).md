@@ -77,11 +77,11 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 **Highlights of the Innocarnival**
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP6.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP6.jpg">
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP7.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP7.jpg">
 
 <figcaption> <strong> Young makers creating their own light-up cards </strong> </figcaption>
 
@@ -89,7 +89,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP8.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP8.jpg">
 
 <figcaption> <strong> What is Micro:bit? </strong> </figcaption>
 
@@ -97,7 +97,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP9.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP9.jpg">
 
 <figcaption> <strong> Check out our cool Micro:bit watches! </strong> </figcaption>
 
@@ -105,7 +105,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP10.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP10.jpg">
 
 <figcaption> <strong> Exploring how the Ozobot works </strong> </figcaption>
 
@@ -113,7 +113,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP11.jpg">
+<img  src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP11.jpg">
 
 <figcaption> <strong> Setting the path for the Ozobot </strong> </figcaption>
 

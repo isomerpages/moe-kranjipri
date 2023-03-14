@@ -42,6 +42,13 @@ Science Club members can look forward to visiting Science Fairs, such as Singapo
 
 ##### **CCA Achievements**
 
+
+
+| Year | Events | 
+| -------- | -------- | 
+| 2019     | Text     | 
+| 2017     | Text     | 
+
 <img style="width:150%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S5NEW.jpg">
 
   

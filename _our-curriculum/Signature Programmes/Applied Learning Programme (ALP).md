@@ -168,18 +168,18 @@ Science Club CCA provides opportunity for extension for Primary 3 to 6 students,
 
 The Talent Development Programme is designed to develop and challenge students who are talented in Mathematics and Science through the learning of advanced concepts beyond their Primary Science and Mathematics curriculum through hands-on activities. Students are given opportunities to undertake a series of mini-investigative projects designed to sharpen their laboratory skills and grow their capacity for critical and inventive thinking.  Opportunities for exposure through participation in competitions and other external activities provide the platform for students to extend their learning beyond the school.  
 
+
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/Alp%20.png)
 
 
-<figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A14.jpg">
+
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A14.jpg">
 
 <figcaption> <strong>  Activities to develop thinking and reasoning skills in Mathematics </strong> </figcaption>
 
-</figure> 
 
-<figure>
+<br>
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A15.jpg">
 

@@ -3,7 +3,7 @@ title: Home Based Learning
 permalink: /home-based-learning/Home-Based-Learning/
 description: ""
 ---
-In view of the Coronavirus (COVID-19) situation, HBL aims to ensure that learning continues for students during school closure. Students will be completing their online assignments for the respective subjects through the **SLS Learning portal**: [**https://vle.learning.moe.edu.sg/login**]([User Guide (Login Troubleshooting) (moe.edu.sg)](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html))  (with Google Chrome or Apple Safari).   
+In view of the Coronavirus (COVID-19) situation, HBL aims to ensure that learning continues for students during school closure. Students will be completing their online assignments for the respective subjects through the **SLS Learning portal**: [**https://vle.learning.moe.edu.sg/login**]([Student Learning Space (moe.edu.sg)](https://vle.learning.moe.edu.sg/login))  (with Google Chrome or Apple Safari).   
  
 
 ##### **Technical Issues**

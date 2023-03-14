@@ -79,13 +79,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP6.jpg">
 
-<figure>
 
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP7.jpg">
-
-<figcaption> <strong> Young makers creating their own light-up cards </strong> </figcaption>
-
-</figure>
 
 <figure>
 

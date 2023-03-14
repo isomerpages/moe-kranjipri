@@ -114,7 +114,7 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 
 <figure>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S6.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/S6.jpg">
 
 <figcaption> <strong> First Aid - Arm Sling </strong> </figcaption>
 

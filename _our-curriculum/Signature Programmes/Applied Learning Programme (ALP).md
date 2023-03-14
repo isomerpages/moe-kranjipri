@@ -31,17 +31,18 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 	  
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP2.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP2.jpg">
 
 <figcaption> <strong> We are building the tallest ice cream castle! </strong> </figcaption>
 
 </figure>
 
 <figure>
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/jtp-5.jpg">
+	
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP3.jpg">
 
-<figcaption> <strong> Look....my red octopus can stand! </strong> </figcaption>
+
 
 </figure>
 
@@ -49,7 +50,7 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 	
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP4.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP4.jpg">
 
 <figcaption> <strong> Look at our 2D shapes </strong> </figcaption>
 
@@ -57,7 +58,7 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP5.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP5.jpg">
 
 <figcaption> <strong> We built a strong and stable Truss Bridge </strong> </figcaption>
 
@@ -76,19 +77,14 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 **Highlights of the Innocarnival**
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP6.jpg">
-
 <figure>
-
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP7.jpg">
-
-<figcaption> <strong> Young makers creating their own light-up cards </strong> </figcaption>
-
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP6.jpg">
 </figure>
 
+
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP8.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP8.jpg">
 
 <figcaption> <strong> What is Micro:bit? </strong> </figcaption>
 
@@ -96,7 +92,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP9.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP9.jpg">
 
 <figcaption> <strong> Check out our cool Micro:bit watches! </strong> </figcaption>
 
@@ -104,7 +100,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP10.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP10.jpg">
 
 <figcaption> <strong> Exploring how the Ozobot works </strong> </figcaption>
 
@@ -112,7 +108,7 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP11.jpg">
+<img  src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP11.jpg">
 
 <figcaption> <strong> Setting the path for the Ozobot </strong> </figcaption>
 
@@ -127,13 +123,9 @@ Project Work unites the teaching and learning of Science and Mathematics in an i
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A9.jpg) 
 
 
-
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP12.jpg">
-
-
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP13.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/alp-4.jpg">
 
 <figcaption> <strong> Primary 5 Young Environmentalist in action </strong> </figcaption>
 
@@ -141,7 +133,7 @@ Project Work unites the teaching and learning of Science and Mathematics in an i
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A11.jpg">
+<img  src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/alp-3.jpg">
 
 <figcaption> <strong> Primary 5 students with their portable Water Filtration System </strong> </figcaption>
 
@@ -156,7 +148,7 @@ Science Club CCA provides opportunity for extension for Primary 3 to 6 students,
   
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A12.png">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A12_2.jpg">
 
 <figcaption> <strong> Young Scientists testing their prototypes of portable chairs designed for senior citizens </strong> </figcaption>
 
@@ -173,12 +165,7 @@ The Talent Development Programme is designed to develop and challenge students w
 
 
 <br>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A14.jpg">
-
-<figcaption> <strong>  Activities to develop thinking and reasoning skills in Mathematics </strong> </figcaption>
-
-
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_1.jpg">
 
 <br>
 

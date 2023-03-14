@@ -3,15 +3,12 @@ title: Student Well Being Framework
 permalink: /Student-Well-Being-Framework/
 description: ""
 ---
-
-
-
-
 ##### **Student Well-being Framework**
-
   
 
-Guided by our vision and mission, we are committed to developing Kranjians to be Joyful Learners, Gracious Citizens and Champions in Life. By advocating the 6 elements of psychological well-being and happiness (**P**ositive Emotion, **E**ngagement, **R**elationship, **M**eaning, **A**chievement and **H**ealth) adapted from Professor Martin Seligman’s Positive Education framework, as well as Stanford University Professor Carol Dweck’s Growth Mindset Theory, we hope to empower our students to build resilience and learn to motivate themselves toward achievement for success.  
+Guided by our vision and mission, we are committed to developing Kranjians to be Joyful Learners, Gracious Citizens and Champions in Life. By advocating the 6 elements of psychological well-being and happiness 
+(**P**ositive Emotion, **E**ngagement, **R**elationship, 
+**M**eaning, **A**chievement and **H**ealth) adapted from Professor Martin Seligman’s Positive Education framework, as well as Stanford University Professor Carol Dweck’s Growth Mindset Theory, we hope to empower our students to build resilience and learn to motivate themselves toward achievement for success.  
 
 ![](/images/Our%20Curriculum/Student%20Well%20Being%20Framework/F1.jpg)
 

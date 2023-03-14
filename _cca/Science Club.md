@@ -58,7 +58,7 @@ Science Club members can look forward to visiting Science Fairs, such as Singapo
 
 <figure>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S1.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S1.png">
 
 <figcaption> <strong> Project: Simple Toy machines (Making use of recycled materials for their prototypes). </strong> </figcaption>
 
@@ -66,7 +66,7 @@ Science Club members can look forward to visiting Science Fairs, such as Singapo
 
 <figure>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S2.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S2.png">
 
 <figcaption> <strong> Testing out prototypes </strong> </figcaption>
 
@@ -74,7 +74,7 @@ Science Club members can look forward to visiting Science Fairs, such as Singapo
 
 <figure>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S3.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S3.jpg">
 
 <figcaption> <strong> Project: Exploring densities of liquids (Making a Lava Lamp and Density Tower) </strong> </figcaption>
 
@@ -82,7 +82,7 @@ Science Club members can look forward to visiting Science Fairs, such as Singapo
 
 <figure>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S4.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S4.png">
 
 <figcaption> <strong> Project: Egg Drop Challenge </strong> </figcaption>
 

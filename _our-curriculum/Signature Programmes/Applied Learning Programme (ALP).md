@@ -38,10 +38,11 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 </figure>
 
 <figure>
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/jtp-5.jpg">
+	
 
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP3.jpg">
 
-<figcaption> <strong> Look....my red octopus can stand! </strong> </figcaption>
+
 
 </figure>
 

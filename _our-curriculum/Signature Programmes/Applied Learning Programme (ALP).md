@@ -4,9 +4,6 @@ permalink: /Signature-Programmes/Applied-Learning-Programme-ALP/
 description: ""
 third_nav_title: Signature Programmes
 ---
-
-
-
 ##### **Nurturing Joyful Learners through Critical and Inventive Thinking**
 
 
@@ -171,7 +168,8 @@ Science Club CCA provides opportunity for extension for Primary 3 to 6 students,
 
 The Talent Development Programme is designed to develop and challenge students who are talented in Mathematics and Science through the learning of advanced concepts beyond their Primary Science and Mathematics curriculum through hands-on activities. Students are given opportunities to undertake a series of mini-investigative projects designed to sharpen their laboratory skills and grow their capacity for critical and inventive thinking.  Opportunities for exposure through participation in competitions and other external activities provide the platform for students to extend their learning beyond the school.  
 
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A13.jpg)
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/Alp%20.png)
+
 
 <figure>
 

@@ -31,7 +31,7 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 	  
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP2.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP2.jpg">
 
 <figcaption> <strong> We are building the tallest ice cream castle! </strong> </figcaption>
 
@@ -39,7 +39,7 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP3.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP3.jpg">
 
 <figcaption> <strong> Look....my red octopus can stand! </strong> </figcaption>
 
@@ -49,7 +49,7 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 	
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP4.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP4.jpg">
 
 <figcaption> <strong> Look at our 2D shapes </strong> </figcaption>
 

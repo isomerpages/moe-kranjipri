@@ -22,7 +22,7 @@ We follow and equip our students with knowledge of the three cyber wellness prin
 
   
 
-For more information and updates, do visit, **[https://ictconnection.moe.edu.sg/cyber-wellness/for-parents](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)**  
+For more information and updates, do visit, **https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness**  
 
   
 

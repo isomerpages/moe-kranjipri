@@ -149,8 +149,8 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 </figure>
 
   
+<center><h5> Primary 5 Ceramics - Basic Hand Building Programme</h5></center>
 
-##### P5 Ceramics - Basic Hand Building Programme
 
 <figure>
 

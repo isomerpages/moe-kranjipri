@@ -5,8 +5,20 @@ description: ""
 third_nav_title: Achievements
 ---
 ##### **Academic Achievement**
+
+<table style="width:100%;">
+ <tr>
+    <th style="width:70%; border:1px double black; text-align:center; ">Event Name</th>  
+    <th style="width:70%; text-align:center; border:1px double black;">Achievement</th>
+<tr>
+	<th colspan="2" style="width:70%; text-align:center;">English
+<tr>
+	<th style="text-align:center;">NUS High School Oratorical Challenge<br><br><img style="width:65%; height:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A1.jpg" alt="NUS Oratorical Competition 1.jpg" width="50" height="50"><br><img style="width:65%; height:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A1(1).jpg" alt="NUS Oratorical Competition 2.jpg" width="50" height="50"></th>
+	<th style="text-align:center; vertical-align:middle">2022: Commendation Award</th>
+	
+
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg  {border-collapse:collapse;border-spacing:;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

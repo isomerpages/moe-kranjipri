@@ -57,7 +57,7 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 | 2019     | Participated in Singapore Youth Festival (Certificate of Distinction)     | - Performed for Dance Extravaganza @ Bukit Panjang Plaza <br> - Performed for Limbang CCC National Day Celebration     | - Participated in the KPS Racial Harmony Day recess activity <br> - Performed for KPS Arts Appreciation Week <br> - Performed for KPS National Day Celebration <br> - Performed for KPS 21st Anniversary Celebration <br> - Performed for KPS Annual Prize Giving Day     |
 
 
-![](/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M1.jpg)
+
   
 
 **Photos of dance members in action**

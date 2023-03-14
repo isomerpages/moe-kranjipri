@@ -28,6 +28,6 @@ For Password Reset, you may also click on this "[**Password Reset Link**](http:/
 ![](/images/Our%20Curriculum/Departments/ICT/Home%20Based%20Learning/H1.jpg)
 
   
-**SLS log-in troubleshooting guide:**  [Login troubleshooting.html](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html)  
+**SLS log-in troubleshooting guide:**  [Login troubleshooting.html][User Guide (Login Troubleshooting) (moe.edu.sg)](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)  
   
 **Instructions on setting up a password reset email:**  [ANNEX B\_Setting up password reset email in SLS.pdf](/files/Our%20Curriculum/Departments/ICT/Home%20Based%20Learning/ANNEX%20B_Setting%20up%20password%20reset%20email%20in%20SLS.pdf)

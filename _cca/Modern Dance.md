@@ -89,4 +89,3 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 
 <figcaption> <strong> National Day Performance 2022 by Limbang CC </strong> </figcaption>
 
-</figure>

@@ -49,7 +49,7 @@ Science Club members can look forward to visiting Science Fairs, such as Singapo
 | 2019     | - Participated in Makers' Fiesta @ Westwood Primary School br> - Participated in National Flight Simulation Challenge @ Northbrooks Secondary School     | 
 | 2017     | - Submitted projects for Sony Creative Toy Competition     | 
 
-<img style="width:150%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S5NEW.jpg">
+
 
   
   

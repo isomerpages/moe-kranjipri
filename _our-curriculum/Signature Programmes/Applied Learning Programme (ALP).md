@@ -176,13 +176,6 @@ The Talent Development Programme is designed to develop and challenge students w
 <img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_1.jpg">
 
 <br>
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A14.jpg">
-
-<figcaption> <strong>  Activities to develop thinking and reasoning skills in Mathematics </strong> </figcaption>
-
-
-
-<br>
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A15.jpg">
 

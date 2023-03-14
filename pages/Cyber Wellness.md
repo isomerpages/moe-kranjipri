@@ -38,7 +38,7 @@ For more information and updates, do visit, **[https://ictconnection.moe.edu.sg
 
 **CW Roadshow 2019 - Internet Safety is Our Responsibility**
 
-![](/images/Our%20Curriculum/Departments/ICT/Cyber%20Wellness/C4.jpg))
+![](/images/Our%20Curriculum/Departments/ICT/Cyber%20Wellness/C4.jpg)
 
 **The event was so well-received, students had to queue for all 4 game stations.**
 

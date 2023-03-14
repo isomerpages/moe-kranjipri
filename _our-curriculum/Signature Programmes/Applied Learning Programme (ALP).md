@@ -57,7 +57,7 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP5.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP5.jpg">
 
 <figcaption> <strong> We built a strong and stable Truss Bridge </strong> </figcaption>
 

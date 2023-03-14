@@ -99,7 +99,7 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 | -------- | -------- | -------- |
 | Totally engrossed in making sure every part is covered   | The process of print making  | The finished product |
 
-<center><h5>P4 Digital Photography Programme</h5></center>
+<center><h5>Primary 4 Digital Photography Programme</h5></center>
 
 <figure>
 
@@ -122,7 +122,7 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
   <figure>
   
-<center><h5>P4 Learning Journey to National Gallery</h5></center>
+<center><h5>Primary 4 Learning Journey to National Gallery</h5></center>
 
 
 
@@ -149,8 +149,8 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 </figure>
 
   
+<center><h5> Primary 5 Ceramics - Basic Hand Building Programme</h5></center>
 
-##### P5 Ceramics - Basic Hand Building Programme
 
 <figure>
 
@@ -185,8 +185,8 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 </figure>
 
   
+<center><h5> Primary 6 Digital Manga Programme</h5></center>
 
-##### P6 Digital Manga Programme
 
 <figure>
 
@@ -233,7 +233,7 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 <img src="/images/Our%20Curriculum/Departments/Art/A18.jpg">
 
-<figure>
+<br>
 
 <img src="/images/Our%20Curriculum/Departments/Art/A19.jpg">
 

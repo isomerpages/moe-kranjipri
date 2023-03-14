@@ -112,5 +112,3 @@ Kranjian Champions are life-long learners who strive to: 
 Wonder how a day of a P1 Kranjian looks like? Watch the video below to find out more!  
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VxonLbSyESs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
-
-Click on the interactive boxes in the image below to find out more about our school's unique programmes!

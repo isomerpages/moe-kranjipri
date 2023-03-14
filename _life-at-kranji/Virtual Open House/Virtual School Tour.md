@@ -21,7 +21,7 @@ Please click on the image below to start the virtual tour. Do also click on the 
 <a href="/school-facilities/Level-1/">
 
 <img src="/images/About%20Us/School%20Facilities/S1.png">
-
+<br>
 </a>
 
 </div>
@@ -31,7 +31,6 @@ Please click on the image below to start the virtual tour. Do also click on the 
 </div>
 
 </div>
-
 
 #### **2nd Floor**
 
@@ -46,7 +45,7 @@ Please click on the image below to start the virtual tour. Do also click on the 
 <a href="/school-facilities/Level-2/">
 
 <img src="/images/About%20Us/School%20Facilities/S2.png">
-
+<br>
 </a>
 
 </div>
@@ -69,7 +68,7 @@ Please click on the image below to start the virtual tour. Do also click on the 
 <a href="/school-facilities/Level-3/">
 
 <img src="/images/About%20Us/School%20Facilities/S3.png">
-
+<br>
 </a>
 
 </div>
@@ -91,7 +90,7 @@ Please click on the image below to start the virtual tour. Do also click on the 
 <a href="/school-facilities/Level-4/">
 
 <img src="/images/About%20Us/School%20Facilities/S4.png">
-
+<br>
 </a>
 
 </div>
@@ -113,7 +112,7 @@ Please click on the image below to start the virtual tour. Do also click on the 
 <a href="/school-facilities/Level-5/">
 	
 <img src="/images/About%20Us/School%20Facilities/S5.png">
-
+<br>
 </a>
 
 </div>
@@ -135,7 +134,7 @@ Please click on the image below to start the virtual tour. Do also click on the 
 <a href="/school-facilities/Level-6/">
 	
 <img src="/images/About%20Us/School%20Facilities/S6.png">
-
+<br>
 </a>
 
 </div>

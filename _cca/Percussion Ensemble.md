@@ -45,8 +45,11 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 ##### **CCA Achievements**
 
-![](/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/CCA%20achievement%20-%20Percussion%20Ensemble.png)
 
+
+| Year | National | School |
+| -------- | -------- | -------- |
+| 2022     | Participated in Singapore Youth Festival     | - Performed for KPS National Day Celebration <br> - Performed  for KPS 25th Anniversary Celebration     |
 
   
 

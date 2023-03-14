@@ -148,7 +148,7 @@ Science Club CCA provides opportunity for extension for Primary 3 to 6 students,
   
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A12.png">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A12_2.jpg">
 
 <figcaption> <strong> Young Scientists testing their prototypes of portable chairs designed for senior citizens </strong> </figcaption>
 

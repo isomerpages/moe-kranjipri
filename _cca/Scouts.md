@@ -74,7 +74,7 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 
 <figure>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S1NEW.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/S1NEW.jpg">
 
 <figcaption> <strong> Flag bearers during National Day Observance Ceremony </strong> </figcaption>
 
@@ -82,7 +82,7 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 
 <figure>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S2.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/S2.jpg">
 
 <figcaption> <strong> Tent-pitching </strong> </figcaption>
 
@@ -90,7 +90,7 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 
 <figure>
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Scouts/S3.jpg">
+<img  src="/images/Our%20Curriculum/Departments/CCA/Scouts/S3.jpg">
 
 <figcaption> <strong> West Area Cub Scout Field Day - Sarimbun Camp </strong> </figcaption>
 

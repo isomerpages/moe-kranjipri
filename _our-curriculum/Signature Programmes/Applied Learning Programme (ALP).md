@@ -77,8 +77,9 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 **Highlights of the Innocarnival**
 
+<figure>
 <img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP6.jpg">
-
+</figure>
 
 
 <figure>

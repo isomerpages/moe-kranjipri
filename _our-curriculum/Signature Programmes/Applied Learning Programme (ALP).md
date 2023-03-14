@@ -163,13 +163,13 @@ The Talent Development Programme is designed to develop and challenge students w
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/Alp%20.png)
 
-
+<figure>
 <br>
 <img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_1.jpg">
 
-<br>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A15.jpg">
+
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A15.jpg">
 
 <figcaption> <strong> Young Mathematicians explore different methods of problem solving </strong> </figcaption>
 

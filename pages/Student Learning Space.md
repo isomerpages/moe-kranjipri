@@ -10,7 +10,7 @@ description: ""
 
 **SLS Website:**  **[](https://learning.moe.edu.sg/)** [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)  
   
-**User Log In Troubleshooting Guide:** [https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)  
+**User Log In Troubleshooting Guide:** [https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
   
 **SLS Video Introduction:** [https://www.youtube.com/watch?time\_continue=80&v=F0FTP2FveSg](https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg)  
   

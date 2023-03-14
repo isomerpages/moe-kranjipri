@@ -128,13 +128,9 @@ Project Work unites the teaching and learning of Science and Mathematics in an i
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A9.jpg) 
 
 
-
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP12.jpg">
-
-
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP13.jpg">
+<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/alp-4.jpg">
 
 <figcaption> <strong> Primary 5 Young Environmentalist in action </strong> </figcaption>
 
@@ -142,7 +138,7 @@ Project Work unites the teaching and learning of Science and Mathematics in an i
 
 <figure>
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A11.jpg">
+<img  src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/alp-3.jpg">
 
 <figcaption> <strong> Primary 5 students with their portable Water Filtration System </strong> </figcaption>
 

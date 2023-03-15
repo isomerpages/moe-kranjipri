@@ -5,10 +5,7 @@ description: ""
 third_nav_title: Signature Programmes
 ---
 
-
-
-
-![](/images/Our%20Curriculum/Signature%20Programmes/11%20Learning%20Experience/11%20Learning%20Experience/L1.jpg)
+![](/images/Our%20Curriculum/Signature%20Programmes/11%20Learning%20Experience/11%20Learning%20Experience/1-1%20learning%20experience.png)
 1:1 Learning Experience refers to the allocation of one device for every student. This allows students to access learning, both in and out of the classroom.
 
 Each P4 and P5 student is provided with an iPad to support them in learning. The main aim of the 1:1 Learning Experience is to enable our students to gain future-ready competencies. By redesigning how teachers teach and how students learn with technology, we strive to create a positive and impactful teaching and learning environment which encourages our students to:

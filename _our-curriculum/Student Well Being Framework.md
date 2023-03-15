@@ -12,7 +12,9 @@ Guided by our vision and mission, we are committed to developing Kranjians to be
 
 ![](/images/Our%20Curriculum/Student%20Well%20Being%20Framework/F1.jpg)
 
-Values define a student’s character. They shape the beliefs, attitudes and actions of a student. Therefore, it forms the core of our school’s student well-being framework. The yellow hexagon signifies the PERMAH (**P**ositive Emotion, **E**ngagement, **R**elationship, **M**eaning, **A**chievement and **H**ealth) model that promotes Positive Education. These six elements interplay with one another to create a school culture and environment that can help our students succeed and prosper.
+Values define a student’s character. They shape the beliefs, attitudes and actions of a student. Therefore, it forms the core of our school’s student well-being framework. The yellow hexagon signifies the PERMAH
+(**P**ositive Emotion, **E**ngagement, **R**elationship, 
+**M**eaning, **A**chievement and **H**ealth) model that promotes Positive Education. These six elements interplay with one another to create a school culture and environment that can help our students succeed and prosper.
 
 The blue ring of the framework represents the 3 climates that are essential to support a positive school environment – namely Climate of Trust, Climate of Respect and Climate of Care. Students thrive best in an environment that is safe and where positive emotions flow to create a climate of care, in an environment of respect for all. We do this through affirming students for their strengths, talents and efforts.
 

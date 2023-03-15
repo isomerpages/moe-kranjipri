@@ -63,7 +63,7 @@ third_nav_title: Achievements
   </tr>
   <tr>
     <td class="tg-zr06">P5 Raffles Science Olympiad <br>West Zone Junior Science Whiz Challenge (P6)<br>National Thinkers Challenge (P5 - Eco Champions)<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A6.jpg" alt="Science Competition 2022.jpeg" width="233" height="155"></td>
-    <td class="tg-zr06">2022: 3 Merit <br>2022: 21st to 30th scorer, Audience Round Winner, School Tour Winner<br>2022: Commendation Award<br><br><br><br><br><br><br><br></td>
+    <td class="tg-zr06">2022: 3 Merit <br>2022: 21st to 30th scorer, Audience Round Winner, School Tour Winner<br>2022: Commendation Award<br><br><br></td>
   </tr>
   <tr>
 		<td class="tg-9hzb" colspan="2">Mother Tongue Languages - Chinese Language</td>

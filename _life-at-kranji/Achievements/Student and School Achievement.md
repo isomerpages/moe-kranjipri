@@ -40,7 +40,7 @@ third_nav_title: Achievements
 </style>
 <table class="tg">
 <thead>
-<br></td>
+</td>
   </tr>
   <tr>
     <td class="tg-zr06"> Raffles Institution Primary Mathematics World Contest<br><br></td>

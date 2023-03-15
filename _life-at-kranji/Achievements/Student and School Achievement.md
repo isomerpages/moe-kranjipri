@@ -185,7 +185,7 @@ third_nav_title: Achievements
   </tr>
   <tr>
 		<td class="tg-zr06"> Swift Explorer Singapore 2022<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A17.jpg" alt="Digital Media Club Swift Explorer.jpg" width="274" height="187"></td>
-    <td class="tg-zr06">2022: Best 20 teams <br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-zr06">2022: Best 20 teams <br><br><br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-9hzb" colspan="2">Art Club</td>

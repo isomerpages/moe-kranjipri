@@ -90,7 +90,7 @@ third_nav_title: Achievements
   </tr>
   <tr>
     <td class="tg-zr06"> National Malay Language Writing Competition<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A10.jpg" alt="National Malay 2021.jpg" width="223" height="223"></td>
-    <td class="tg-zr06"> 2019: 2 Silver, 2nd place <br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-zr06"> 2019: 2 Silver, 2nd place <br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-9hzb" colspan="2">Mother Tongue Languages - Tamil Language</td>

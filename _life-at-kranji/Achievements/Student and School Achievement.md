@@ -196,7 +196,7 @@ third_nav_title: Achievements
   </tr>
   <tr>
     <td class="tg-zr06"> Stagmont Park Residents’ Committee’s National Day Art Competition<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A18.jpg" alt="FCL memory games 2021.jpeg" width="269" height="269"></td>
-    <td class="tg-zr06"> 2020: 1st , 3rd , 4th  and 5th place<br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-zr06"> 2020: 1st , 3rd , 4th  and 5th place<br><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-9hzb" colspan="2"> Cub Scouts</td>

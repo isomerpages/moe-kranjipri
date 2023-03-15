@@ -152,7 +152,7 @@ third_nav_title: Achievements
   </tr>
   <tr>
     <td class="tg-zr06">National School Games Basketball Championship<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A12.jpg" alt="Bball tier 2.jpg" width="281" height="206"></td>
-    <td class="tg-zr06"> 2019: 1st place (Senior Girls), Tier 2 1st Position (Junior Boys)<br> 2018: 1st place (Senior Girls), 4th place (Junior Girls)<br><br><br><br><br><br><br><br></td>
+    <td class="tg-zr06"> 2019: 1st place (Senior Girls), Tier 2 1st Position (Junior Boys)<br> 2018: 1st place (Senior Girls), 4th place (Junior Girls)<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"> National School Games West Zone Basketball Championship<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A13.jpg" alt="NSG Basketball 2022.PNG" width="275" height="275"><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A14.jpg" alt="West zone bball.jpg" width="275" height="275"></td>

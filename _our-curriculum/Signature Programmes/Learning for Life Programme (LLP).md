@@ -4,9 +4,6 @@ permalink: /Signature-Programmes/Learning-for-Life-Programme-LLP/
 description: ""
 third_nav_title: Signature Programmes
 ---
-
-
-
 ##### **Developing Champions in Life through Sports**
 
   
@@ -114,7 +111,7 @@ Champions Day is a yearly event for our Primary 3 to 6 students to celebrate Chi
 </figure>
 
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L8.png">
+
 
 
 <figure>

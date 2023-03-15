@@ -163,7 +163,7 @@ third_nav_title: Achievements
   </tr>
   <tr>
     <td class="tg-zr06">AES 8-A-Side Football Challenge Cup <br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A15.jpg" alt="AES Challenge 2022.jpg" width="282" height="282"></td>
-    <td class="tg-zr06"> 2022: 2nd  place<br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-zr06"> 2022: 2nd  place<br><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-zr06">National School Games Football Competition     <br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A16.jpg" alt="Soccer.jpeg" width="286" height="167"></td>

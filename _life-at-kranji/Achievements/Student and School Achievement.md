@@ -203,7 +203,7 @@ third_nav_title: Achievements
   </tr>
   <tr>
     <td class="tg-zr06"> Frank Cooper Sands Award – Cub Scouts<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A19.jpg" alt="Cub scout.jpg" width="251" height="251"></td>
-    <td class="tg-zr06"> 2019: Silver <br> 2018: Bronze<br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-zr06"> 2019: Silver <br> 2018: Bronze<br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-zr06">Cub Scout Mind Quiz </td>

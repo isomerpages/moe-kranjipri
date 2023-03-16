@@ -55,7 +55,19 @@ third_nav_title: Achievements
 				<tr>
 					<th style="text-align:left;">5th Text Recital Competition<br>	
 					<th style="text-align:left; vertical-align:middle;">2022: Silver Award</th>
-		
+			<tr>
+					<th style="text-align:left;">Memory Games Challenge<br><br>
+					<img style="width:70%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A7.jpg">
+					<th style="text-align:left; vertical-align:middle;">2022: Champion</th>
+				<tr>
+					<th style="text-align:left;">Memory Games Challenge<br><br>
+					<img style="width:70%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A8.jpg">
+					<th style="text-align:left; vertical-align:middle;">2021: Top 3 teams</th>
+					<tr>
+					<th style="text-align:left;">National Primary School "Picture Book Creation" Competition<br><br>
+					<img style="width:70%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A9.jpg">
+					<th style="text-align:left; vertical-align:middle;">2021: Silver Award</th>
+				
 </table>
 <img src="images/Website%20under.png">
 

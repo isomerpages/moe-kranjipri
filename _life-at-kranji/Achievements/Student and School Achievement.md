@@ -67,7 +67,15 @@ third_nav_title: Achievements
 					<th style="text-align:left;">National Primary School "Picture Book Creation" Competition<br><br>
 					<img style="width:70%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A9.jpg">
 					<th style="text-align:left; vertical-align:middle;">2021: Silver Award</th>
-				
+				<tr>
+	<th colspan="2" style="width:70%; text-align:center;">Mother Tongue Languages - Malay Language </th>
+					<tr>
+					<th style="text-align:left;">Perkasa Warisan Camp for Marsiling – Yew Tee GRC<br><br>
+						<th style="text-align:left; vertical-align:middle;">2019: Top 2 (P4 Teams A & C)</th>
+					<tr>
+					<th style="text-align:left;">National Malay Language Writing Competition<br><br>
+					<img style="width:70%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A10.jpg">
+				<th style="text-align:left; vertical-align:middle;">2019: 2 Silvers, 2nd place</th>
 </table>
 <img src="images/Website%20under.png">
 

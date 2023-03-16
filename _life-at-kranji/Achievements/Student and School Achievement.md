@@ -20,7 +20,7 @@ third_nav_title: Achievements
 <tr></tr>
 
 <tr>
-	<th style="text-align:center;">Singapore and Asian Schools Math Olympiad<br><br><img style="width:65%; height:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A2.jpg" width="50" height="50"><br>
+	<th style="text-align:center;">Singapore and Asian Schools Math Olympiad<br><br><img style="width:50%; height:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A2.jpg" width="50" height="50"><br>
 	<th style="text-align:justified; vertical-align:middle">2022: 3 Gold, 2 Silver, 7 Bronze, 8 Honourable Mentions.<br><br>2020: 4 Silver, 10 Bronze.<br><br>2019: 2 Gold, 5 Silver, 6 Bronze<br><br>2018: 5 Gold, 6 Silver, 9 Bronze
 	</th>
 <tr>	
@@ -38,36 +38,36 @@ third_nav_title: Achievements
 			<th style="text-align:left; vertical-align:middle">National Mathematical Olympiad of Singapore<br>
 			<th style="text-align:justified; vertical-align:middle">2022: 3 Silver, 1 Bronze, 2 Honourable Mention
 	<tr>
-			<th colspan="2" style="width:70%; text-align:center;">Science</th>
+			<th colspan="2" style="width:50%; text-align:center;">Science</th>
 	<tr>
-		<th style="text-align:left;">Singapore Amazing Flying Machine Competiton<br><img style="width:70%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A4.jpg">
+		<th style="text-align:left;">Singapore Amazing Flying Machine Competiton<br><img style="width:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A4.jpg">
 			<th style="text-align:left; vertical-align:middle;">2022: 1 team in finals<br>2nd place, 3 teams in finals.</th>
 	<tr>
-				<th style="text-align:left;">Singapore Primary Science Olympiad Competition<br><img style="width:70%; border:1px double black; "src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A5.jpg"><br>
+				<th style="text-align:left;">Singapore Primary Science Olympiad Competition<br><img style="width:50%; border:1px double black; "src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A5.jpg"><br>
 				<th style="text-align:left; vertical-align:middle;">2022: 1 team in finals<br>2nd place, 3 teams in finals.</th>
 		<tr>
 			<th style="text-align:left;">P5 Raffles Science Olympiad<br>West Zone Junior Science Whiz Challenges (P6)<br>National Thinkers Challenge (P5 - Eco Champions)
-				<img style="width:70%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A6.jpg">
+				<img style="width:50%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A6.jpg">
 				<th style="text-align:left; vertical-align:middle;">2022: 3 Merit<br>2022: 21st to 30th scorer, Audience Round Winner, School Tour Winner. <br> 2022: Commendation Award</th>
 			<tr>
-	<th colspan="2" style="width:70%; text-align:center;">Mother Tongue Languages - Chinese Language </th>
+	<th colspan="2" style="width:50%; text-align:center;">Mother Tongue Languages - Chinese Language </th>
 				<tr>
 					<th style="text-align:left;">5th Text Recital Competition<br>	
 					<th style="text-align:left; vertical-align:middle;">2022: Silver Award</th>
 			<tr>
 					<th style="text-align:left;">Memory Games Challenge<br><br>
-					<img style="width:70%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A7.jpg">
+					<img style="width:50%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A7.jpg">
 					<th style="text-align:left; vertical-align:middle;">2022: Champion</th>
 				<tr>
 					<th style="text-align:left;">Memory Games Challenge<br><br>
-					<img style="width:70%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A8.jpg">
+					<img style="width:50%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A8.jpg">
 					<th style="text-align:left; vertical-align:middle;">2021: Top 3 teams</th>
 					<tr>
 					<th style="text-align:left;">National Primary School "Picture Book Creation" Competition<br><br>
-					<img style="width:70%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A9.jpg">
+					<img style="width:50%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A9.jpg">
 					<th style="text-align:left; vertical-align:middle;">2021: Silver Award</th>
 				<tr>
-	<th colspan="2" style="width:70%; text-align:center;">Mother Tongue Languages - Malay Language </th>
+	<th colspan="2" style="width:50%; text-align:center;">Mother Tongue Languages - Malay Language </th>
 					<tr>
 					<th style="text-align:left;">Perkasa Warisan Camp for Marsiling – Yew Tee GRC<br><br>
 						<th style="text-align:left; vertical-align:middle;">2019: Top 2 (P4 Teams A & C)</th>

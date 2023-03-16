@@ -16,6 +16,9 @@ third_nav_title: Achievements
 	<th style="text-align:center;">NUS High School Oratorical Challenge<br><br><img style="width:65%; height:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A1.jpg" alt="NUS Oratorical Competition 1.jpg" width="50" height="50"><br><img style="width:65%; height:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A1(1).jpg" alt="NUS Oratorical Competition 2.jpg" width="50" height="50"></th>
 	<th style="text-align:center; vertical-align:middle">2022: Commendation Award</th>
 
+
+
+<!---
 <tr>
 		<th colspan="2" style="width:70%; text-align:center;">Mathematics</th>
 <tr></tr>

@@ -48,8 +48,12 @@ third_nav_title: Achievements
 				<th style="text-align:left; vertical-align:middle;">2022: 1 team in finals<br>2nd place, 3 teams in finals.</th>
 		<tr>
 			<th style="text-align:left;">P5 Raffles Science Olympiad<br>West Zone Junior Science Whiz Challenges (P6)<br>National Thinkers Challenge (P5 - Eco Champions)
+				<img style="width:70%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A6.jpg">
 				<th style="text-align:left; vertical-align:middle;">2022: 3 Merit<br>2022: 21st to 30th scorer, Audience Round Winner, School Tour Winner. <br> 2022: Commendation Award</th>
-	
+			<tr>
+	<th colspan="2" style="width:70%; text-align:center;">Mother Tongue Languages - Chinese Language </th>
+				<tr>
+					<th style="text-align:left;">5th Text Recital Competition<br>	
 		
 </table>
 <img src="images/Website%20under.png">

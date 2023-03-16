@@ -31,11 +31,15 @@ third_nav_title: Achievements
 	<tr>
 		<th style="text-align:left;">Annual Mathlympics for Primary Schools</th>
 		<br>
-			<th style="text-align:justified; vertical-align:middle">2022: 2 Distinction, 5 Merits
+			<th style="text-align:justified; vertical-align:middle">2022: 3 Gold
 		<tr>
-			<th style="text-align:justified; vertical-align:middle">2022: 2 Distinction, 5 Merits<br>2019: 3 Distinction, 1 Credit
-			<br>ACS Mathematics<br>National Mathematical Olympiad of Singapore
-			<th style="text-align:justified; vertical-align:middle">
+			<th style="text-align:left; vertical-align:middle">ACS Mathematics<br>
+				<th style="text-align:justified; vertical-align:middle">2018: 1 Silver, 1 Bronze
+	<tr>	
+			<th style="text-align:left; vertical-align:middle">National Mathematical Olympiad of Singapore<br>
+			<th style="text-align:justified; vertical-align:middle">2022: 3 Silver, 1 Bronze, 2 Honourable Mention
+	<tr>
+			<th colspan="2" style="width:70%; text-align:center;">Science</th>
 		
 </table>
 <img src="images/Website%20under.png">

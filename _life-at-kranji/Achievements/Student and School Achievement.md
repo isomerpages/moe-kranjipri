@@ -54,6 +54,7 @@ third_nav_title: Achievements
 	<th colspan="2" style="width:70%; text-align:center;">Mother Tongue Languages - Chinese Language </th>
 				<tr>
 					<th style="text-align:left;">5th Text Recital Competition<br>	
+					<th style="text-align:left; vertical-align:middle;">2022: Silver Award</th>
 		
 </table>
 <img src="images/Website%20under.png">

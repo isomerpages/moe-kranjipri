@@ -40,6 +40,10 @@ third_nav_title: Achievements
 			<th style="text-align:justified; vertical-align:middle">2022: 3 Silver, 1 Bronze, 2 Honourable Mention
 	<tr>
 			<th colspan="2" style="width:70%; text-align:center;">Science</th>
+	<tr>
+		<th style="text-align:left;">Singapore Amazing Flying Machine Competiton<br><img src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A4.jpg">
+			<th style="text-align:left; vertical-align:middle;">2022: 1 team in finals<br>2nd place, 3 teams in finals.
+				
 		
 </table>
 <img src="images/Website%20under.png">

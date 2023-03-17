@@ -8,7 +8,7 @@ third_nav_title: Achievements
 
 <table style="width:100%;">
  <tr>
-    <th style="width:50%; border:1px double black; text-align:center; ">Event Name</th>  
+    <th style="width:50%; border:1px double black; text-align:center;">Event Name</th>  
     <th style="width:50%; text-align:center; border:1px double black;">Achievement</th>
 <tr>
 	<th colspan="2" style="width:50%; text-align:center;">English</th>
@@ -43,7 +43,7 @@ third_nav_title: Achievements
 		<th style="text-align:left;">Singapore Amazing Flying Machine Competiton<br><img style="width:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A4.jpg">
 			<th style="text-align:left; vertical-align:middle;">2022: 1 team in finals<br>2nd place, 3 teams in finals.</th>
 	<tr>
-				<th style="text-align:left;">Singapore Primary Science Olympiad Competition<br><img style="width:50%; border:1px double black; "src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A5.jpg"><br>
+				<th style="text-align:left;">Singapore Primary Science Olympiad Competition<br><img style="width:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A5.jpg"><br>
 				<th style="text-align:left; vertical-align:middle;">2022: 1 team in finals<br>2nd place, 3 teams in finals.</th>
 		<tr>
 			<th style="text-align:left;">P5 Raffles Science Olympiad<br>West Zone Junior Science Whiz Challenges (P6)<br>National Thinkers Challenge (P5 - Eco Champions)

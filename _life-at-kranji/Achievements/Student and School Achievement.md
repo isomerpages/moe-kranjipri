@@ -94,8 +94,7 @@ third_nav_title: Achievements
 							<th style="text-align:left; vertical-align:middle;">2019: 3rd place & Motivational prize</th>
 										<tr>
 						<th style="text-align:left;">Tirukkural Vizha - Oratorical Competition<br><br>
-							<th style="text-align:left; vertical-align:middle;">2019: 2nd place</th>
-											<br><br>
+							<th style="text-align:left; vertical-align:middle;">2019: 2nd place
  <tr>
     <th style="width:50%; border:1px double black; text-align:center; ">Event Name</th>  
     <th style="width:50%; text-align:center; border:1px double black;">Achievement</th>
@@ -203,7 +202,7 @@ third_nav_title: Achievements
   </tr>
   <tr>
     <td class="tg-zr06"> National School Games West Zone Basketball Championship<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A13.jpg" alt="NSG Basketball 2022.PNG" width="275" height="275"><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A14.jpg" alt="West zone bball.jpg" width="275" height="275"></td>
-    <td class="tg-zr06"> 2022: 1st place (Senior Girls), Tier 2 1st Position (Junior Girls),<br>                Tier 1 (Junior Boys)<br><br><br><br><br> 2019: 1st place (Senior Girls) <br> 2018: 1st place (Senior Girls), 1th place (Junior Girls)<br></td>
+    <td class="tg-zr06"> 2022: 1st place (Senior Girls), Tier 2 1st Position (Junior Girls),<br> Tier 1 (Junior Boys)<br><br><br><br><br> 2019: 1st place (Senior Girls) <br> 2018: 1st place (Senior Girls), 1th place (Junior Girls)<br></td>
   </tr>
   <tr>
     <td class="tg-9hzb" colspan="2">Soccer</td>

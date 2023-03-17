@@ -47,7 +47,7 @@ third_nav_title: Achievements
 				<th style="text-align:left; vertical-align:middle;">2022: 1 team in finals<br>2nd place, 3 teams in finals.</th>
 		<tr>
 			<th style="text-align:left;">P5 Raffles Science Olympiad<br>West Zone Junior Science Whiz Challenges (P6)<br>National Thinkers Challenge (P5 - Eco Champions)
-				<img style="width:50%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A6.jpg">
+				<img style="width:50%; border:1px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A6.jpg">
 				<th style="text-align:left; vertical-align:middle;">2022: 3 Merit<br>2022: 21st to 30th scorer, Audience Round Winner, School Tour Winner. <br> 2022: Commendation Award</th>
 			<tr>
 	<th colspan="2" style="width:50%; text-align:center;">Mother Tongue Languages - Chinese Language </th>
@@ -56,15 +56,15 @@ third_nav_title: Achievements
 					<th style="text-align:left; vertical-align:middle;">2022: Silver Award</th>
 			<tr>
 					<th style="text-align:left;">Memory Games Challenge<br><br>
-					<img style="width:50%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A7.jpg">
+					<img style="width:50%; border:1px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A7.jpg">
 					<th style="text-align:left; vertical-align:middle;">2022: Champion</th>
 				<tr>
 					<th style="text-align:left;">Memory Games Challenge<br><br>
-					<img style="width:50%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A8.jpg">
+					<img style="width:50%; border:1px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A8.jpg">
 					<th style="text-align:left; vertical-align:middle;">2021: Top 3 teams</th>
 					<tr>
 					<th style="text-align:left;">National Primary School "Picture Book Creation" Competition<br><br>
-					<img style="width:50%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A9.jpg">
+					<img style="width:50%; border:1px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A9.jpg">
 					<th style="text-align:left; vertical-align:middle;">2021: Silver Award</th>
 				<tr>
 	<th colspan="2" style="width:50%; text-align:center;">Mother Tongue Languages - Malay Language </th>
@@ -73,7 +73,7 @@ third_nav_title: Achievements
 						<th style="text-align:left; vertical-align:middle;">2019: Top 2 (P4 Teams A & C)</th>
 					<tr>
 					<th style="text-align:left;">National Malay Language Writing Competition<br><br>
-					<img style="width:50%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A10.jpg">
+					<img style="width:50%; border:1px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A10.jpg">
 				<th style="text-align:left; vertical-align:middle;">2019: 2 Silvers, 2nd place</th>
 				<tr>
 			<th colspan="2" style="width:50%; text-align:center;">Mother Tongue Languages - Tamil Language </th>

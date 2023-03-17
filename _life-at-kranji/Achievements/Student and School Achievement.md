@@ -65,7 +65,8 @@ third_nav_title: Achievements
 					<tr>
 					<th style="text-align:left;">National Primary School "Picture Book Creation" Competition<br><br>
 					<img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A9.jpg">
-					<th style="text-align:left; vertical-align:middle;">2021: Silver Award</th>
+						<tr>
+					<th style="text-align:left; vertical-align:middle;">2021: Silver Award
 				<tr>
 	<th colspan="2" style="width:50%; text-align:center;">Mother Tongue Languages - Malay Language </th>
 					<tr>
@@ -76,7 +77,7 @@ third_nav_title: Achievements
 					<img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A10.jpg">
 				<th style="text-align:left; vertical-align:middle;">2019: 2 Silvers, 2nd place</th>
 				<tr>
-			<th colspan="2" style="width:50%; text-align:center;">Mother Tongue Languages - Tamil Language </th>
+			<th colspan="2" style="width:50%; text-align:center;">Mother Tongue Languages - Tamil Language
 					<tr>
 						<th style="text-align:left;">Yew Tee CC IEAC – Show & Tell Competition<br><br>
 							<th style="text-align:left; vertical-align:middle;">2019: 3rd place</th>
@@ -100,7 +101,9 @@ third_nav_title: Achievements
     <th style="width:50%; text-align:center; border:1px double black;">Achievement</th>
 	 <tr>
 					<th style="text-align:left;">Singapore Olympic Foundation - Peter Lim Scholarship<br><br><img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A11.jpg">
-						<th style="text-align:left; vertical-align:middle;">2022: Encouragement Award</th>
+						<th style="text-align:left; vertical-align:middle;">2022: Encouragement Award</th><br>
+		 <tr>
+			 <th><h4>CCA Achievement</h4>
 		 <tr>
 	<th colspan="2" style="width:50%; text-align:center;">Basketball </th>
 		 <tr>
@@ -108,12 +111,9 @@ third_nav_title: Achievements
 	<th style="text-align:left; vertical-align:middle;">2019: 1st place (Senior Girls), Tier 2 1st Position (Junior Boys)<br>2018: 1st place (Senior Girls), 4th place (Junior Girls)
 	<tr><th style="text-align:left;">National School Games West Zone Basketball Championship<br><img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A13.jpg"><img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A14.jpg">
 	<th style="text-align:left; vertical-align:middle;">2022: 1st place (Senior Girls),<br> Tier 2 1st position (Junior Girls),<br> Tier 1 (Junior Boys)<br><br>2019: 1st place (Senior Girls)<br>2018: 1st place (Senior Girls), 1st place (Junior Girls)
-		
-	
-	
 </table>
 
-
+<!---
   </tr>
   <tr>
     <td class="tg-zr06">5th Text Recital Competition<br></td>

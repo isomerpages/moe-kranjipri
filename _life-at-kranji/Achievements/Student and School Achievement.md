@@ -8,7 +8,7 @@ third_nav_title: Achievements
 
 <table style="width:100%;">
  <tr>
-    <th style="width:50%; border:5px double black; text-align:center;">Event Name</th>  
+    <th style="width:50%; text-align:center; border:1px double black">Event Name</th>  
     <th style="width:50%; text-align:center; border:1px double black;">Achievement</th>
 <tr>
 	<th colspan="2" style="width:50%; text-align:center;">English</th>
@@ -102,51 +102,17 @@ third_nav_title: Achievements
 	 <tr>
 					<th style="text-align:left;">Singapore Olympic Foundation - Peter Lim Scholarship<br><br><img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A11.jpg">
 						<th style="text-align:left; vertical-align:middle;">2022: Encouragement Award</th>
+		 <tr>
+	<th colspan="2" style="width:50%; text-align:center;">Basketball </th>
+		 <tr>
+<th style="text-align:left;">National School Games Basketball Championship<br><img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A12.jpg">
+	<th style="text-align:left; vertical-align:middle;">2019: 1st place (Senior Girls), Tier 2 1st Position (Junior Boys)<br>2018: 1st place (Senior Girls), 4th place (Junior Girls)
+		
+	
+	
 </table>
 
-<!---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-</td>
-  </tr>
-	
-  <tr>
-    <td class="tg-zr06"> Raffles Institution Primary Mathematics World Contest<br><br></td>
-    <td class="tg-zr06">2022: 2 Distinction, 5 Merit <br>2019: 3 Distinction, 1 Credit</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"> Annual Mathlympics for Primary Schools<br> ACS Mathlympics<br>National Mathematical Olympiad of Singapore</td>
-    <td class="tg-zr06">2022: 3 Gold <br>2018: 1 Silver, 1 Bronze<br>2022: 3 Silver, 1 Bronze, 2 Honourable Mention</td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb" colspan="2">Science   </td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"> Singapore Amazing Flying Machine Competition<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A4.jpg" alt="Singapore Amazing Flying competition 2021.jpg" width="211" height="211"></td>
-    <td class="tg-zr06"> 2022: 1 team in finals <br> 2021: 2nd place, 3 teams in finals <br><br><br><br><br><br><br><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Singapore Primary Science Olympiad Competition<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A5.jpg" alt="Science Olympiad 2022.jpeg" width="242" height="159"></td>
-    <td class="tg-zr06">2022: 2 Gold, 1 Bronze<br><br><br><br><br><br><br> </td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">P5 Raffles Science Olympiad <br>West Zone Junior Science Whiz Challenge (P6)<br>National Thinkers Challenge (P5 - Eco Champions)<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A6.jpg" alt="Science Competition 2022.jpeg" width="233" height="155"></td>
-    <td class="tg-zr06">2022: 3 Merit <br>2022: 21st to 30th scorer, Audience Round Winner, School Tour Winner<br>2022: Commendation Award<br><br><br></td>
-  </tr>
-  <tr>
-		<td class="tg-9hzb" colspan="2">Mother Tongue Languages - Chinese Language</td>
+
   </tr>
   <tr>
     <td class="tg-zr06">5th Text Recital Competition<br></td>

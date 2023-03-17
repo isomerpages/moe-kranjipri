@@ -8,19 +8,19 @@ third_nav_title: Achievements
 
 <table style="width:100%;">
  <tr>
-    <th style="width:50%; border:1px double black; text-align:center;">Event Name</th>  
+    <th style="width:50%; border:5px double black; text-align:center;">Event Name</th>  
     <th style="width:50%; text-align:center; border:1px double black;">Achievement</th>
 <tr>
 	<th colspan="2" style="width:50%; text-align:center;">English</th>
 <tr>
-	<th style="text-align:left;"><p style="font-size:14px">NUS High School Oratorical Challenge<br><br><img style="width:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A1.jpg" alt="NUS Oratorical Competition 1.jpg" width="50" height="50"><br><img style="width:50%; height:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A1(1).jpg" alt="NUS Oratorical Competition 2.jpg" width="50" height="50">
+	<th style="text-align:left;"><p style="font-size:14px">NUS High School Oratorical Challenge<br><br><img style="width:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A1.jpg" alt="NUS Oratorical Competition 1.jpg" width="50" height="50"><br><img style="width:50%; height:50%; border:5px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A1(1).jpg" alt="NUS Oratorical Competition 2.jpg" width="50" height="50">
 	<th style="text-align:left; vertical-align:middle">2022: Commendation Award</th>
 <tr>
 		<th colspan="2" style="width:50%; text-align:center;">Mathematics</th>
 <tr></tr>
 
 <tr>
-	<th style="text-align:center;">Singapore and Asian Schools Math Olympiad<br><br><img style="width:50%; height:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A2.jpg" width="50" height="50"><br>
+	<th style="text-align:center;">Singapore and Asian Schools Math Olympiad<br><br><img style="width:50%; height:50%; border:5px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A2.jpg" width="50" height="50"><br>
 	<th style="text-align:justified; vertical-align:middle">2022: 3 Gold, 2 Silver, 7 Bronze, 8 Honourable Mentions.<br><br>2020: 4 Silver, 10 Bronze.<br><br>2019: 2 Gold, 5 Silver, 6 Bronze<br><br>2018: 5 Gold, 6 Silver, 9 Bronze
 	</th>
 <tr>	
@@ -40,14 +40,14 @@ third_nav_title: Achievements
 	<tr>
 			<th colspan="2" style="width:50%; text-align:center;">Science</th>
 	<tr>
-		<th style="text-align:left;">Singapore Amazing Flying Machine Competiton<br><img style="width:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A4.jpg">
+		<th style="text-align:left;">Singapore Amazing Flying Machine Competiton<br><img style="width:50%; border:5px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A4.jpg">
 			<th style="text-align:left; vertical-align:middle;">2022: 1 team in finals<br>2nd place, 3 teams in finals.</th>
 	<tr>
-				<th style="text-align:left;">Singapore Primary Science Olympiad Competition<br><img style="width:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A5.jpg"><br>
+				<th style="text-align:left;">Singapore Primary Science Olympiad Competition<br><img style="width:50%; border:5px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A5.jpg"><br>
 				<th style="text-align:left; vertical-align:middle;">2022: 1 team in finals<br>2nd place, 3 teams in finals.</th>
 		<tr>
 			<th style="text-align:left;">P5 Raffles Science Olympiad<br>West Zone Junior Science Whiz Challenges (P6)<br>National Thinkers Challenge (P5 - Eco Champions)
-				<img style="width:50%; border:1px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A6.jpg">
+				<img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A6.jpg">
 				<th style="text-align:left; vertical-align:middle;">2022: 3 Merit<br>2022: 21st to 30th scorer, Audience Round Winner, School Tour Winner. <br> 2022: Commendation Award</th>
 			<tr>
 	<th colspan="2" style="width:50%; text-align:center;">Mother Tongue Languages - Chinese Language </th>
@@ -56,15 +56,15 @@ third_nav_title: Achievements
 					<th style="text-align:left; vertical-align:middle;">2022: Silver Award</th>
 			<tr>
 					<th style="text-align:left;">Memory Games Challenge<br><br>
-					<img style="width:50%; border:1px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A7.jpg">
+					<img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A7.jpg">
 					<th style="text-align:left; vertical-align:middle;">2022: Champion</th>
 				<tr>
 					<th style="text-align:left;">Memory Games Challenge<br><br>
-					<img style="width:50%; border:1px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A8.jpg">
+					<img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A8.jpg">
 					<th style="text-align:left; vertical-align:middle;">2021: Top 3 teams</th>
 					<tr>
 					<th style="text-align:left;">National Primary School "Picture Book Creation" Competition<br><br>
-					<img style="width:50%; border:1px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A9.jpg">
+					<img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A9.jpg">
 					<th style="text-align:left; vertical-align:middle;">2021: Silver Award</th>
 				<tr>
 	<th colspan="2" style="width:50%; text-align:center;">Mother Tongue Languages - Malay Language </th>
@@ -73,7 +73,7 @@ third_nav_title: Achievements
 						<th style="text-align:left; vertical-align:middle;">2019: Top 2 (P4 Teams A & C)</th>
 					<tr>
 					<th style="text-align:left;">National Malay Language Writing Competition<br><br>
-					<img style="width:50%; border:1px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A10.jpg">
+					<img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A10.jpg">
 				<th style="text-align:left; vertical-align:middle;">2019: 2 Silvers, 2nd place</th>
 				<tr>
 			<th colspan="2" style="width:50%; text-align:center;">Mother Tongue Languages - Tamil Language </th>
@@ -100,10 +100,10 @@ third_nav_title: Achievements
     <th style="width:50%; border:1px double black; text-align:center; ">Event Name</th>  
     <th style="width:50%; text-align:center; border:1px double black;">Achievement</th>
 	 <tr>
-					<th style="text-align:left;">Singapore Olympic Foundation - Peter Lim Scholarship<br><br><img style="width:50%; border:1px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A11.jpg">
+					<th style="text-align:left;">Singapore Olympic Foundation - Peter Lim Scholarship<br><br><img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A11.jpg">
 						<th style="text-align:left; vertical-align:middle;">2022: Encouragement Award</th>
 </table>
-		
+
 <!---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:;}

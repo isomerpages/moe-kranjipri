@@ -312,7 +312,4 @@ third_nav_title: Achievements
 <tbody>
   <tr>
     <td class="tg-zr06">School Green Awards<br><img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A20.jpg" alt="Kopsia.png"></td>
-    <td class="tg-zr06"> 2019: Kopsia Award<br> 2018: Kopsia Award</td>
-  </tr>
-</tbody>
-</table>
+    <td class="tg-zr06"> 2019: Kopsia Award<br> 2018: Kopsia Award

@@ -100,10 +100,9 @@ third_nav_title: Achievements
     <th style="width:50%; border:1px double black; text-align:center; ">Event Name</th>  
     <th style="width:50%; text-align:center; border:1px double black;">Achievement</th>
 	 <tr>
-					<th style="text-align:left;">Singapore Olympic Foundation - Peter Lim Scholarship<br><br><img style="width:50%;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A11.jpg">
+					<th style="text-align:left;">Singapore Olympic Foundation - Peter Lim Scholarship<br><br><img style="width:50%; border:1px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A11.jpg">
 						<th style="text-align:left; vertical-align:middle;">2022: Encouragement Award</th>
 </table>
-<img src="images/Website%20under.png">
 		
 <!---
 <style type="text/css">

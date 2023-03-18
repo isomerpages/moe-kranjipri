@@ -123,11 +123,23 @@ third_nav_title: Achievements
 		<img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A16.jpg">
 		<br>
 			<th style="text-align:left; vertical-align:middle;">2022: Tier 2 (Junior Boys)
+					<tr>
+	<th colspan="2" style="width:50%; text-align:center;">Dance </th>
 				<tr>
 					<th style="text-align:left;">Singapore Youth Festival (SYF) Arts Presentation - International Dance
 						<br>
 							<th style="text-align:left; vertical-align:middle;">2018: Certificate of Distinction
+					<tr>
+	<th colspan="2" style="width:50%; text-align:center;">Infocomm Media Club </th>
+							<tr>
+					<th style="text-align:left;">IMDA-65Drones Learning Journey <br>
+						<th style="text-align:left; vertical-align:middle;">2022: Best Presentation
 				<tr>
+					<th style="text-align:left;">Swift Explorer Singapore 2022
+						<img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A17.jpg">
+						<br>
+							<th style="text-align:left; vertical-align:middle;">2022: Best 20 teams
+								
 					
 </table>
 

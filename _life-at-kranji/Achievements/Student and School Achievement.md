@@ -151,6 +151,7 @@ third_nav_title: Achievements
 						<img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A18.jpg">
 						<br>
 							<th style="text-align:left; vertical-align:middle;">2020: 1st , 3rd , 4th and 5th place
+								
 </table>
 
 <!---

@@ -139,8 +139,13 @@ third_nav_title: Achievements
 						<img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A17.jpg">
 						<br>
 							<th style="text-align:left; vertical-align:middle;">2022: Best 20 teams
-								
-					
+								<tr>
+	<th colspan="2" style="width:50%; text-align:center;">Art Club</th>
+											<tr>
+					<th style="text-align:left;">Singapore Youth Festival (SYF) Arts Presentation – Visual Arts
+						<br>
+							<th style="text-align:left; vertical-align:middle;">2021: Certificate of Recognition<br>  
+2019: Certificate of Recognition
 </table>
 
 <!---

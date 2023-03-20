@@ -9,7 +9,7 @@ description: ""
 
 #### **Our Principals**
 
-![](/images/About%20Us/School%20History/S4.png)
+![](/images/About%20Us/School%20History/Our%20Principal.png)
 
 #### **Milestones**
 

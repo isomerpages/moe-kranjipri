@@ -2,8 +2,8 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Moe Kindergarten.md
-      - Our Centre Head.md
+      - MOE Kindergarten.md
+      - Centre Head's Message.md
       - Our Staff.md
       - Learning Environment.md
       - Programmes and Activities/Programmes and Activities.md

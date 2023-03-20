@@ -1,8 +1,9 @@
 ---
-title: School Philosophy, School Vision, School Mission, Core Values
-permalink: /about-us/School-Philosophy-School-Vision-School-Mission-Core-Values/
+title: School Philosophy, Vision, Mission, Values
+permalink: /about-us/school-philosophy-vision-mission-values/
 description: ""
 ---
+
 <center>
 
 <h3><b>Our Philosophy</b></h3>

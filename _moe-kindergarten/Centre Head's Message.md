@@ -1,8 +1,9 @@
 ---
-title: Our Centre Head
-permalink: /moe-kindergarten/Our-Centre-Head/
+title: Centre Head's Message
+permalink: /moe-kindergarten/centre-head-message/
 description: ""
 ---
+
 ![](/images/MOE%20Kindergarten/Our%20Centre%20Head/C1.jpg)
   
 

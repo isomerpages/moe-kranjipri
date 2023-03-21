@@ -54,8 +54,8 @@ P1 Math Trail
 
 ![](/images/Our%20Curriculum/Departments/Mathematics/P1%20Math%20trail_2.png)
 
+![](/images/Our%20Curriculum/Departments/Mathematics/P1%20Math%20trail_3.png)
 
-![](/images/Our%20Curriculum/Departments/Mathematics/M5.png)
 
 ![](/images/Our%20Curriculum/Departments/Mathematics/M6.png)
 

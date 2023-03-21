@@ -64,10 +64,10 @@ P1  to P6 Math Games Carnival
 ![](/images/Our%20Curriculum/Departments/Mathematics/Math%20Carnival_3.png)<br>
 ![](/images/Our%20Curriculum/Departments/Mathematics/Math%20Carnival_2.png)
 
-<figure>
+<br>
 	<img src="/images/Our%20Curriculum/Departments/Mathematics/Math Carnival_1.png">
 <figcaption> <strong>Through games, skills such as spatial-visualization, reasoning and critical thinking are enhanced </strong> </figcaption>
-	</figure>
+
 
 ##### **Math Enrichment Programme**
 

@@ -50,7 +50,10 @@ At KPS, we focus on building strong numeracy and problem-solving skills in our s
 
 **Fun-In-Learning @ Kranji**<br>
 P1 Math Trail
-![](/images/Our%20Curriculum/Departments/Mathematics/M4.png)
+![](/images/Our%20Curriculum/Departments/Mathematics/P1%20Math%20Trail.png)
+
+![](/images/Our%20Curriculum/Departments/Mathematics/P1%20Math%20trail_2.png)
+
 
 ![](/images/Our%20Curriculum/Departments/Mathematics/M5.png)
 

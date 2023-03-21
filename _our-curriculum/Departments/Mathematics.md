@@ -55,8 +55,11 @@ P1 Math Trail
 ![](/images/Our%20Curriculum/Departments/Mathematics/P1%20Math%20trail_2.png)
 
 ![](/images/Our%20Curriculum/Departments/Mathematics/P1%20Math%20trail_3.png)
-
-
+<br>
+P2 Math Fun Time
+![](/images/Our%20Curriculum/Departments/Mathematics/P2%20math%20fun%20time_1.png)<br>
+![](/images/Our%20Curriculum/Departments/Mathematics/P2%20math%20fun%20time_2.png)<br>
+![](/images/Our%20Curriculum/Departments/Mathematics/P2%20math%20fun%20time_3.png)
 ![](/images/Our%20Curriculum/Departments/Mathematics/M6.png)
 
 Through games, skills such as spatial-visualization, reasoning and critical thinking are enhanced.  

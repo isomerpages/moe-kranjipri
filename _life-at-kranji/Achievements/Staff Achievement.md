@@ -163,6 +163,3 @@ third_nav_title: Achievements
   <tr>
     <td class="tg-zr06">MOE Service Excellence Award (MSEA) 2020 <br><br>10 Silver     <br><img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A8.png" alt="2020 MOE Service Excellence Award Winners.png" width="510" height="286"><br></td>
     <td class="tg-zr06"> Mrs Joanna Wong (HOD/PE &amp; CCA)<br> Mdm Junaidah Bte Senor<br> Miss Lim Su Bing<br> Mdm Neo Bee Leng (HOD/MA)<br> Mr Roy Tan (Senior School Counsellor)<br> Mdm Deborah Tham<br> Mr Peter Wang<br> Miss Woon Ai Ling (ICT Manager)<br> Mdm Vivienne Yap (SH/ICT)<br> Mdm Yong Chin (HOD/MT) <br><br><br><br><br></td>
-</tr>
-</tbody>
-</table>

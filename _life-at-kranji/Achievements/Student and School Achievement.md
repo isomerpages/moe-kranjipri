@@ -63,9 +63,8 @@ third_nav_title: Achievements
 					<img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A8.jpg">
 					<th style="text-align:left; vertical-align:middle;">2021: Top 3 teams</th>
 					<tr>
-					<th style="text-align:left;">National Primary School "Picture Book Creation" Competition<br><br>
+					<th style="text-align:left;">National Primary School "Picture Book Creation" Competition<br>
 					<img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A9.jpg">
-						<tr>
 					<th style="text-align:left; vertical-align:middle;">2021: Silver Award
 				<tr>
 	<th colspan="2" style="width:50%; text-align:center;">Mother Tongue Languages - Malay Language </th>

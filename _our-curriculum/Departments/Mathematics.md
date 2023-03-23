@@ -48,21 +48,26 @@ At KPS, we focus on building strong numeracy and problem-solving skills in our s
 
   
 
-**Fun-In-Learning @ Kranji**
+**Fun-In-Learning @ Kranji**<br>
+P1 Math Trail
+![](/images/Our%20Curriculum/Departments/Mathematics/P1%20Math%20Trail.png)
 
-![](/images/Our%20Curriculum/Departments/Mathematics/M4.png)
+![](/images/Our%20Curriculum/Departments/Mathematics/P1%20Math%20trail_2.png)
 
-![](/images/Our%20Curriculum/Departments/Mathematics/M5.png)
+![](/images/Our%20Curriculum/Departments/Mathematics/P1%20Math%20trail_3.png)
+<br>
+P2 Math Fun Time
+![](/images/Our%20Curriculum/Departments/Mathematics/P2%20math%20fun%20time_1.png)<br>
+![](/images/Our%20Curriculum/Departments/Mathematics/P2%20math%20fun%20time_2.png)<br>
+![](/images/Our%20Curriculum/Departments/Mathematics/P2%20math%20fun%20time_3.png)<br>
+P1  to P6 Math Games Carnival
+![](/images/Our%20Curriculum/Departments/Mathematics/Math%20Carnival_3.png)<br>
+![](/images/Our%20Curriculum/Departments/Mathematics/Math%20Carnival_2.png)
 
-![](/images/Our%20Curriculum/Departments/Mathematics/M6.png)
+<br>
+	<img src="/images/Our%20Curriculum/Departments/Mathematics/Math Carnival_1.png">
+<figcaption> <strong>Through games, skills such as spatial-visualization, reasoning and critical thinking are enhanced </strong> </figcaption>
 
-Through games, skills such as spatial-visualization, reasoning and critical thinking are enhanced.  
-
-  
-
-![](/images/Our%20Curriculum/Departments/Mathematics/M7.png)
-
-  
 
 ##### **Math Enrichment Programme**
 

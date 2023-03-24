@@ -6,9 +6,9 @@ third_nav_title: Kindergarten Care KCare
 ---
 The KCare Programme provides time and space for children to play, explore and discover through a specially designed environment with carefully chosen resources. In addition to the care routines that are expected in the daily programme, the KCare programme provides children with a variety of play experiences in different areas of interest through:  
 
-(1)   Modular Activities in the 6 areas of Art & Craft, Tinkering, Cookery, Gardening, Sand & Water Play,  as well as Music, Movement &               Dramatisation.
+(1)   Modular Activities in the 6 areas of Art & Craft, Tinkering, Cookery, Gardening, Sand & Water Play,  as well as Music, Movement & Dramatisation.
 
-(2)   Indoor and Outdoor Free Play in the 4 areas of Indoor Construction and Manipulative Free Play, Indoor Dramatic Free Play,                            Outdoor Free Play, and Sand & Water Free Play.
+(2)   Indoor and Outdoor Free Play in the 4 areas of Indoor Construction and Manipulative Free Play, Indoor Dramatic Free Play, Outdoor Free Play, and Sand & Water Free Play.
 
 (3)   Field Trips during school holiday.
 
@@ -65,10 +65,6 @@ Children will get to experience the following 4 types of Free Play.
   
 
 #### **Field trips during school holidays**
-
-  
-
-  
 
 ![](/images/MOE%20Kindergarten/Kindergarten%20Care%20(KCare)/KCare%20Programme/K11.jpg)  
 

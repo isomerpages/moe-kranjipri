@@ -28,8 +28,8 @@ In place of giving workbooks or worksheets as homework, we encourage family-base
   
 Our curriculum comprises 2 flagship programmes, the HI-Light Programme and Starlight Literacy Programme for English and MTL. In addition, each term at MK will conclude in a Weeks of Wonder project. Click on each of these programmes to find out more!  
   
-![](/images/MOE%20Kindergarten/Programmes%20and%20Activities/Programme%20and%20Activities/P2.jpg)  
-  
-![](/images/MOE%20Kindergarten/Programmes%20and%20Activities/Programme%20and%20Activities/P3.jpg)
-  
-![](/images/MOE%20Kindergarten/Programmes%20and%20Activities/Programme%20and%20Activities/P4.jpg)
+<a href="https://www.kranjipri.moe.edu.sg/moe-kindergarten/Programmes-and-Activities/HI-Light-Programme/"><img style="border:3px outset black;" src="/images/MOE%20Kindergarten/Programmes%20and%20Activities/Programme%20and%20Activities/P2.jpg"><br>
+<a href="https://www.kranjipri.moe.edu.sg/moe-kindergarten/Programmes-and-Activities/Starlight-Literacy-Programme-for-EL-and-MTL/">
+<img style="border:3px outset black" src="/images/MOE%20Kindergarten/Programmes%20and%20Activities/Programme%20and%20Activities/P3.jpg">
+<a href="https://www.kranjipri.moe.edu.sg/moe-kindergarten/Programmes-and-Activities/Weeks-of-Wonder-Projects-WoW/"><br>
+<img style="border:3px outset black;" src="/images/MOE%20Kindergarten/Programmes%20and%20Activities/Programme%20and%20Activities/P4.jpg">

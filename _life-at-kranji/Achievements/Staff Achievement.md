@@ -114,9 +114,6 @@ third_nav_title: Achievements
   <tr>
     <td class="tg-zr06">National Day Awards 2021<br> <img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A5.png" alt="National Day Awards 2021.png" width="375" height="487"></td>
     <td class="tg-ktyi"><br><br><br> The Commendation Medal -<br> Mdm Suriana Bte Mohamamed Bakri (ST/ML)<br><br> The Long Service Medal –<br> Mdm Yong Chin (HOD/MT)<br> Mdm Nur Fazalina Bte Hussin (YH/P5 &amp; P6<br><br><br><br><br><br><br><br><br><br><br><br><br></td>
-  </tr>
-</tbody>
-</table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

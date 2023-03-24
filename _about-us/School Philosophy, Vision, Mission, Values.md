@@ -30,4 +30,4 @@ Nurturing Minds, Engaging Hearts, Building Character <br><br>
 <b>I</b>ntegrity  <br>
 Res<b>PE</b>ct<br>
 
-![](/images/About%20Us/School%20Creed,%20Crest%20and%20Song/SchoolValues002.png)
+<img src="/images/About%20Us/School%20Creed,%20Crest%20and%20Song/SchoolValues002.png">

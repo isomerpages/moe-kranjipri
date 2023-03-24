@@ -15,5 +15,5 @@ description: ""
 [Click here to check out our Youtube Channel](https://www.youtube.com/@kranjikps595/videos)
 
 ![](/images/KPS-tiktok.png)
-[We are on TikTok too! Do catch us there!]
+[We are on TikTok to. Do catch us there]
 (https://www.tiktok.com/@kranjiprisch?lang=en)

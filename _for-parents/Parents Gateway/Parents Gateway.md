@@ -11,9 +11,9 @@ Parents Gateway is available as a mobile app on Google App or Apple store. To lo
 <br>
 Download the app from Apple App Store or Google Play Store using the links below:
 
-| <img style="width:140px;height:46px;" src="/images/For%20Parents/Parents%20Gateway/P2.jpg">  | <img style="width:140px;height:46px" src="/images/For%20Parents/Parents%20Gateway/P3.jpg">  |  |
+| <a href="https://apple.co/2s6twbX"><img style="width:140px;height:46px; border:3px outset black;" src="/images/For%20Parents/Parents%20Gateway/P2.jpg">  | <a href="http://bit.ly/2Rqnj8Y"><img style="width:140px; height:46px; border:3px outset black; " src="/images/For%20Parents/Parents%20Gateway/P3.jpg">  |  |
 | -------- | -------- | -------- |
-| <p style="text-align:center;"> Click<a href="https://apple.co/2s6twbX"> here</a> to get the app.    | <p style="text-align:center;">Click <a href="http://bit.ly/2Rqnj8Y"> here to get the app</a>      | |
+|  Click<a href="https://apple.co/2s6twbX"> here</a> to get the app.    | Click <a href="http://bit.ly/2Rqnj8Y"> here</a> to get the app      | |
 
 ##### Watch the video below to get started in using Parents Gateway.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

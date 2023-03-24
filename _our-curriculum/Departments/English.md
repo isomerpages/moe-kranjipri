@@ -4,9 +4,6 @@ permalink: /Departments/English/
 description: ""
 third_nav_title: Departments
 ---
-
-
-
 ##### **English Curriculum Framework**
 
   
@@ -83,10 +80,6 @@ Each classroom is equipped with books appropriate for the reading level of the s
 
 ![](/images/Our%20Curriculum/Departments/English/E14.jpg)
 
-![](/images/Picture13.jpg)
-
-
-  
 
 ##### **Talent Development Programme**
 

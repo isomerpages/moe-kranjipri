@@ -2,9 +2,8 @@ collections:
   for-parents:
     output: true
     order:
-      - Principal's Monthly Letter.md
+      - Sexuality Education.md
       - Book List 2023.md
-      - Parents' Briefing Slides.md
       - Parent Support Group (PSG).md
       - Student Care Centre.md
       - Parents Gateway/Parents Gateway.md

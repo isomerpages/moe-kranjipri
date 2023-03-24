@@ -71,6 +71,3 @@ Children will get to experience the following 4 types of Free Play.
 | <img style="width:70%" src="/images/MOE%20Kindergarten/Kindergarten%20Care%20(KCare)/KCare%20Programme/K11.jpg"> |<img style="width:70%" src="/images/MOE%20Kindergarten/Kindergarten%20Care%20(KCare)/KCare%20Programme/K12.jpg"> |  |
 | -------- | -------- | -------- |
 |      |      |      |
-
-
-

@@ -4,7 +4,6 @@ permalink: /moe-kindergarten/Our-Staff/
 description: ""
 ---
 ##### MOE Kindergarten Staff
-
 | | <img style="width:140px; height:236; border:2px double black" src="/images/MOE%20Kindergarten/Our%20Staff/Stacie_2.jpeg">| |
 | -------- | -------- | -------- |
 | | Ms Stacie Ng Wan Yi <br> Centre Head<br><a href="mailto:stacie_ng_wan_yi@moe.edu.sg" target="_blank">stacie_ng_wan_yi@moe.edu.sg</a> | | 

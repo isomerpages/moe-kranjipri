@@ -22,8 +22,6 @@ Classrooms typically have up to 20 children, divided into smaller groups for spe
 
 In place of giving workbooks or worksheets as homework, we encourage family-based learning activities that you and your child can engage in together. This will help you bond with your child and share the joy of their growth and learning.   
 
-**Credit: https://beta.moe.gov.sg/preschool/moe-kindergarten/curriculum/**  
-
 **Programmes and Activities**  
   
 Our curriculum comprises 2 flagship programmes, the HI-Light Programme and Starlight Literacy Programme for English and MTL. In addition, each term at MK will conclude in a Weeks of Wonder project. Click on each of these programmes to find out more!  

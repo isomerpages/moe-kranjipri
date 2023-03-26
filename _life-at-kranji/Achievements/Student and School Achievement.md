@@ -161,7 +161,8 @@ third_nav_title: Achievements
 							<th style="text-align:left;">Cub Scouts Mind Quiz <br>
 												<th style="text-align:left; vertical-align:middle;">2021: 5th place </th>
 												 <tr>
-									 <h5>School Achievement</h5><br>
+													 <th>
+														 <h5>School Achievement</h5></th>
 									<tr>
 										<th colspan="2" style="width:100%; text-align:center;">Environment </th>
 										<tr>

@@ -13,3 +13,7 @@ description: ""
 
 ![](/images/Youtube_page.png)
 [Click here to check out our Youtube Channel](https://www.youtube.com/@kranjikps595/videos)
+
+![](/images/KPS-tiktok.png)
+[We are on TikTok to. Do catch us there]
+(https://www.tiktok.com/@kranjiprisch?lang=en)

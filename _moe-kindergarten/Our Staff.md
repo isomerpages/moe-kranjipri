@@ -6,7 +6,7 @@ description: ""
 ##### MOE Kindergarten Staff
 | <img style="width:140px; height:236; border:2px double black" src="/images/MOE%20Kindergarten/Our%20Staff/Stacie_2.jpeg">| <img style="border:2px double black; width:140px; height:190px;" src="/images/MOE%20Kindergarten/Our%20Staff/S3.jpg">|<img style="border:2px double black; width:140px; height:190px;" src="/images/MOE%20Kindergarten/Our%20Staff/S6.jpg"> |
 | -------- | -------- | -------- |
-|Ms Stacie Ng Wan Yi <br> Centre Head<br><a href="mailto:stacie_ng_wan_yi@moe.edu.sg">stacie_ng_wan_yi@moe.edu.sg | Ms Beuliah D/O Jestas Miranda <br> Deputy Centre Head <br><a href="mailto:beuliah_jestas_miranda@moe.edu.sg"> beuliah_jestas_miranda@moe.edu.sg</a> | Mdm Zhang Rui <br> Snr Teacher Chinese Langauge <br><a href="mailto:zhang_rui_a@moe.edu.sg" >zhang_rui_a@moe.edu.sg </a>
+|Ms Stacie Ng Wan Yi <br> Centre Head<br><a href="mailto:stacie_ng_wan_yi@moe.edu.sg">stacie_ng_wan_yi@moe.edu.sg | Ms Beuliah D/O Jestas Miranda <br> Deputy Centre Head <br><a href="mailto:beuliah_jestas_miranda@moe.edu.sg"> beuliah_jestas_miranda@moe.edu.sg | Mdm Zhang Rui <br> Snr Teacher Chinese Language <br><a href="mailto:zhang_rui_a@moe.edu.sg" >zhang_rui_a@moe.edu.sg
 |  |  |  |
 | <img style="border:2px double black; width:140px; height:190px;" src="/images/MOE%20Kindergarten/Our%20Staff/S4.jpg"> |  <img style="border:2px double black; width:140px; height:190px;" src="/images/MOE%20Kindergarten/Our%20Staff/S5.jpg">|<img style="border:2px double black; width:140px; height:190px;" src="/images/MOE%20Kindergarten/Our%20Staff/S7.jpg"> |
 |  |  |  |
@@ -14,7 +14,7 @@ description: ""
 |  |  |  |
 |<img style="border:2px double black; width:140px; height:190px" src="/images/MOE%20Kindergarten/Our%20Staff/S8.jpg"> | <img style="border:2px double black; width:140px; height:190px;" src="/images/MOE%20Kindergarten/Our%20Staff/S9.jpg"> | <img style="border:2px double black; width:140px; height:190px;" src="/images/MOE%20Kindergarten/Our%20Staff/S10.jpg">|
 |  |  |  |
-| Mdm Norhazean Binte Rayhan <br> English Language Teacher <a href="mailto:norhazean_rayhan@moe.edu.sg" target="_blank">norhazean_rayhan@moe.edu.sg</a>|Ms Kanchana D/O Syed Ibrahim <br> English Language Teacher <br><a href="mailto:kanchana_syed_ibrahim@moe.edu.sg" target="_blank">kanchana_syed_ibrahim@moe.edu.sg</a> | Ms Long Zhi Qi, Gilda <br> English Language Teacher <br><a href="mailto:long_zhi_qi_gilda@moe.edu.sg"> long_zhi_qi@moe.edu.sg | 
+| Mdm Norhazean Binte Rayhan <br> English Language Teacher <a href="mailto:norhazean_rayhan@moe.edu.sg" target="_blank">norhazean_rayhan@moe.edu.sg</a>|Ms Kanchana D/O Syed Ibrahim <br> English Language Teacher <br><a href="mailto:kanchana_syed_ibrahim@moe.edu.sg" target="_blank">kanchana_syed_ibrahim@moe.edu.sg</a> | Ms Long Zhi Qi, Gilda <br> English Language Teacher <br><a href="mailto:long_zhi_qi_gilda@moe.edu.sg"></a> long_zhi_qi@moe.edu.sg | 
 |  |  |  |
 | <img style="border:2px double black;  width:140px; height:190px;" src="/images/MOE%20Kindergarten/Our%20Staff/S11.jpg"> | <img style="border:2px double black; width:140px; height:190px;" src="/images/MOE%20Kindergarten/Our%20Staff/S12.jpg"> | <img style="border:2px double black; width:140px; height:190px;" src="/images/MOE%20Kindergarten/Our%20Staff/S13.jpg">|
 |  |  |  |

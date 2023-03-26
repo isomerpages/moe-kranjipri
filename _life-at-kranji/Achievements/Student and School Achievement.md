@@ -161,9 +161,9 @@ third_nav_title: Achievements
 							<th style="text-align:left;">Cub Scouts Mind Quiz <br>
 												<th style="text-align:left; vertical-align:middle;">2021: 5th place </th>
 												 <tr>
-			 <th><h5>School Achievement</h5>
+									 <h5>School Achievement</h5><br>
 									<tr>
-    <th colspan="2" style="width:100%; text-align:center;">Environment </th>
+										<th colspan="2" style="width:100%; text-align:center;">Environment </th>
 										<tr>
 											<th style="text-align:left;">School Green Awards
 						<img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A20.jpg">

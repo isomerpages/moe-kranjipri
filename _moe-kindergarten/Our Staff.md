@@ -10,7 +10,7 @@ description: ""
 |  |  |  |
 |  | <img style="border:2px double black; width:140px; height:190px;" src="/images/MOE%20Kindergarten/Our%20Staff/S3.jpg"> |  |
 |  |  |  |
-|   |  Ms Beuliah D/O Jestas Miranda <br> Deputy Centre Head <br><a href="mailto:beuliah_jestas_miranda@moe.edu.sg" target="_blank"> beuliah_jestas_miranda@moe.edu.sg</a>| |
+| |  Ms Beuliah D/O Jestas Miranda <br> Deputy Centre Head <br><a href="mailto:beuliah_jestas_miranda@moe.edu.sg" target="_blank"> beuliah_jestas_miranda@moe.edu.sg</a>| |
 | | |
 | <img style="border:2px double black; width:140px; height:190px;" src="/images/MOE%20Kindergarten/Our%20Staff/S6.jpg"> | <img style="border:2px double black; width:140px; height:190px;" src="/images/MOE%20Kindergarten/Our%20Staff/S4.jpg"> | <img style="border:2px double black; width:140px; height:190px;" src="/images/MOE%20Kindergarten/Our%20Staff/S5.jpg"> |
 |  |  |  |

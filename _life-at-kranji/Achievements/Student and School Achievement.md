@@ -102,7 +102,7 @@ third_nav_title: Achievements
 					<th style="text-align:left;">Singapore Olympic Foundation - Peter Lim Scholarship<br><br><img style="width:50%; border:5px double black" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A11.jpg">
 						<th style="text-align:left; vertical-align:middle;">2022: Encouragement Award</th><br>
 		 <tr>
-			 <th><h4>CCA Achievement</h4>
+			 <th colspan="2" style="text-align:center;"><h4>CCA Achievement</h4>
 		 <tr>
 	<th colspan="2" style="width:50%; text-align:center;">Basketball </th>
 		 <tr>
@@ -161,7 +161,7 @@ third_nav_title: Achievements
 							<th style="text-align:left;">Cub Scouts Mind Quiz <br>
 												<th style="text-align:left; vertical-align:middle;">2021: 5th place </th>
 												 <tr>
-													 <th>
+													 <th colspan="2" style="text-align:center">
 														 <h5>School Achievement</h5></th>
 									<tr>
 										<th colspan="2" style="width:100%; text-align:center;">Environment </th>

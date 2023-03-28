@@ -93,9 +93,11 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
 ##### **Level Programmes**
 
-<center><h5>Primary 3 Print Making Programme</h5></center>
+<table style="width:100%;">
+ <tr>
+    <th colspan="2" style="width:50%; text-align:center; border:1px double black">Primary  3 Print Making Programme</th>  
 
-| <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/Art/A3NEW.jpg"> | <img style="width:70%;height:70%" src="/images/Our%20Curriculum/Departments/Art/A2NEW.jpg"> | <img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/Art/A4NEW.jpg"> |
+| <img style="width:50%; border:2px solid black;" src="/images/Our%20Curriculum/Departments/Art/A3NEW.jpg"> | <img style="width:50%; border:2px solid black" src="/images/Our%20Curriculum/Departments/Art/A2NEW.jpg"> | <img style="width:50%;height:50%; border:2px solid black" src="/images/Our%20Curriculum/Departments/Art/A4NEW.jpg"> |
 | -------- | -------- | -------- |
 | Totally engrossed in making sure every part is covered   | The process of print making  | The finished product |
 

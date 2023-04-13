@@ -1,6 +1,6 @@
 logo: /images/website logo.png
 links:
-  - title: "About Us "
+  - title: About Us
     url: /about-us/Principals-Message/
     sublinks:
       - title: Principal's Message
@@ -22,9 +22,9 @@ links:
   - title: Our Curriculum
     collection: our-curriculum
   - title: Life @ Kranji
-    url: /life-at-kranji/Virtual-Open-House/Virtual-Open-House/
+    url: /life-at-kranji/Virtual-Open-House
     sublinks:
-      - title: "Virtual Open House  "
+      - title: Virtual Open House
         url: /life-at-kranji/Virtual-Open-House/Virtual-Open-House/
       - title: Achievements
         url: /life-at-kranji/Achievements/Student-and-School-Achievement/
@@ -41,7 +41,7 @@ links:
         url: /for-parents/Student-Care-Centre/
       - title: Parents Gateway
         url: /for-parents/Parents-Gateway/Parents-Gateway/
-  - title: "MOE Kindergarten "
+  - title: MOE Kindergarten
     url: /moe-kindergarten/moe-kindergarten/
     sublinks:
       - title: MOE Kindergarten
@@ -64,7 +64,7 @@ links:
         url: /moe-kindergarten/Information-for-Parents/Information-for-Parents/
       - title: Contact Us
         url: /moe-kindergarten/Contact-Us/
-  - title: "Resources "
+  - title: Resources
     url: /resources/For-Students-Teachers-and-Parents/
     sublinks:
       - title: For Student, Teacher & Parent

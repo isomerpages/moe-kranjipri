@@ -55,4 +55,12 @@ sections:
       description: You can follow KPS on Facebook and Instagram
       button: Click Here
       url: /kps-on-social-media/
+  - infopic:
+      title: KPS OPEN HOUSE 2023
+      description: Infopic description
+      button: READ MORE
+      url: /life-at-kranji/Virtual-Open-House/Virtual-Open-House/
+      image: /images/Life @ Kranji/Virtual Open House/Virtual Open House/open house
+        for p1 registration 2023.png
+      alt: Image alt text
 ---

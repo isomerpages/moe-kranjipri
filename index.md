@@ -23,8 +23,7 @@ sections:
       description: Registration for Open House
       button: READ MORE
       url: https://form.gov.sg/6433b89891f2a6001176c773
-      image: /images/Life @ Kranji/Virtual Open House/Virtual Open House/kps open
-        house 2023.png
+      image: /images/Life @ Kranji/Virtual Open House/Virtual Open House/V1.png
       alt: Image alt text
   - infopic:
       title: Every Kranjian Matters and Deserves the Best!

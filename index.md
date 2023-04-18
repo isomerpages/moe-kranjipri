@@ -20,7 +20,7 @@ sections:
           url: /Voices-of-our-alumni/
   - infopic:
       title: KPS OPEN HOUSE 2023
-      description: Registration T
+      description: Registration for Open House
       button: READ MORE
       url: https://form.gov.sg/6433b89891f2a6001176c773
       image: /images/Life @ Kranji/Virtual Open House/Virtual Open House/open house

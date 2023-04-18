@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Virtual Open House/.keep
-      - Virtual Open House/Virtual Open House.md
       - Virtual Open House/About Us.md
       - Virtual Open House/Virtual School Tour.md
       - Virtual Open House/The Kranji Experience.md

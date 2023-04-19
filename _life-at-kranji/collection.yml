@@ -2,7 +2,6 @@ collections:
   life-at-kranji:
     output: true
     order:
-      - Virtual Open House/Virtual Open House.md
       - Virtual Open House/.keep
       - Virtual Open House/About Us.md
       - Virtual Open House/Virtual School Tour.md

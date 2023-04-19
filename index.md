@@ -21,8 +21,8 @@ sections:
   - infopic:
       title: KPS OPEN HOUSE 2023
       description: Registration for Open House
-      button: CLICK HERE
-      url: /life-at-kranji/Virtual-Open-House/Virtual-Open-House/
+      button: READ MORE
+      url: /life-at-kranji/virtual-open-house/
       image: /images/Life @ Kranji/Virtual Open House/Virtual Open House/open house
         for p1 registration 2023.png
       alt: Image alt text

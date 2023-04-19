@@ -19,6 +19,14 @@ sections:
           description: ""
           url: /Voices-of-our-alumni/
   - infopic:
+      title: KPS OPEN HOUSE 2023
+      description: Registration for Open House
+      button: CLICK HERE
+      url: /life-at-kranji/Virtual-Open-House/Virtual-Open-House/
+      image: /images/Life @ Kranji/Virtual Open House/Virtual Open House/open house
+        for p1 registration 2023.png
+      alt: Image alt text
+  - infopic:
       title: Every Kranjian Matters and Deserves the Best!
       description: “We value every student, Every student wants to succeed, All can
         learn.” This is our commitment to every Kranjian.

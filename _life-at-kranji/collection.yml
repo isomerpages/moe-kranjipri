@@ -2,7 +2,7 @@ collections:
   life-at-kranji:
     output: true
     order:
-      - Get to know KPS/Kranji Primary in VR.md
+      - Get to know KPS/Home.md
       - Get to know KPS/.keep
       - Get to know KPS/About Us.md
       - Get to know KPS/Virtual School Tour.md

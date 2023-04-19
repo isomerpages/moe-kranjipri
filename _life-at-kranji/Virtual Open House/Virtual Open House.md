@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Virtual Open House
 ---
 <a href="https://form.gov.sg/6433b89891f2a6001176c773">
-	<img src="images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/open%20house%20for%20p1%20registration%202023.png">
+<img src="images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/open%20house%20for%20p1%20registration%202023.png">
 
 
 

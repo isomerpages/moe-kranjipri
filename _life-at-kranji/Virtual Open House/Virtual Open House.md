@@ -4,12 +4,11 @@ permalink: /life-at-kranji/Virtual-Open-House/Virtual-Open-House/
 description: ""
 third_nav_title: Virtual Open House
 ---
-
 <a href="https://form.gov.sg/6433b89891f2a6001176c773">
 	<img src="images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/open%20house%20for%20p1%20registration%202023.png">
 
 
-</a>
+
 
 <img style="width:30%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/About%20us/P%20BUtton.png">
 
@@ -17,11 +16,11 @@ third_nav_title: Virtual Open House
 
 
 
-<div>
+</a><div><a href="https://form.gov.sg/6433b89891f2a6001176c773">
 
-<div style="float: left">
+</a><div style="float: left"><a href="https://form.gov.sg/6433b89891f2a6001176c773">
 
-<a href="/life-at-kranji/Virtual-Open-House/About-Us/">
+</a><a href="/life-at-kranji/Virtual-Open-House/About-Us/">
 
 	
 <img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/Virtual%20Open%20House/V2.png">

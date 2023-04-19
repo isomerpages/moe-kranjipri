@@ -22,7 +22,7 @@ sections:
       title: KPS OPEN HOUSE 2023
       description: Registration for Open House
       button: CLICK HERE
-      url: https://form.gov.sg/6433b89891f2a6001176c773
+      url: /life-at-kranji/Virtual-Open-House/Virtual-Open-House/
       image: /images/Life @ Kranji/Virtual Open House/Virtual Open House/open house
         for p1 registration 2023.png
       alt: Image alt text

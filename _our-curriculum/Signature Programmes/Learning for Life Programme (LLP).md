@@ -66,7 +66,7 @@ Our CCA and Sports leaders are given opportunities to serve our Kranji community
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/llp_10.png">
 
-<figcaption> <strong> Step and swing, aim and toss! </strong> </figcaption>
+<figcaption> <strong> Crawling as fast as I can to get to the next station!  </strong> </figcaption>
 
 </figure>
 

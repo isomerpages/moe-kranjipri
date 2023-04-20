@@ -53,7 +53,6 @@ This sporting event provides our Primary 1 and 2 students with the opportunity t
 
 Our CCA and Sports leaders are given opportunities to serve our Kranji community of students and parents by assisting in different games and activities. They provide guidance and encouragement to our lower primary students, helping parents through parent-child races and serve as cheerleaders for their lower primary friends.  
  
- 
 
 <figure>
 
@@ -63,7 +62,15 @@ Our CCA and Sports leaders are given opportunities to serve our Kranji community
 
 </figure>
 
+<figure>
 
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/llp_10.png">
+
+<figcaption> <strong> Step and swing, aim and toss! </strong> </figcaption>
+
+</figure>
+
+ 
 <figure>
 
 

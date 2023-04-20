@@ -8,18 +8,18 @@ third_nav_title: Signature Programmes
 
   
 
-The school’s Learning for Life Programme (LLP) “Developing Champions in Life through Sports”, encapsulates the DNA of Kranji Primary School where active sports participation is encouraged and grown through the years, complemented by a strong character education programme in the development of Kranjian Champions. 
+The school’s Learning for Life Programme (LLP) “Developing Champions in Life through Sports”, encapsulates the DNA of Kranji Primary School where active sports participation is encouraged and grown through the years, complemented by a strong character education programme in the development of Kranjian Champions.&nbsp;
 
   
 
-Kranjian Champions are life-long learners who strive to: 
+Kranjian Champions are life-long learners who strive to:&nbsp;
 
   
 
 *   Demonstrate resilience and adaptability in the pursuit of their goals
 *   Take ownership of their learning
-*   Communicate and collaborate effectively with others 
-*   Lead others and serve the community 
+*   Communicate and collaborate effectively with others&nbsp;
+*   Lead others and serve the community&nbsp;
 
   
 
@@ -31,21 +31,21 @@ Our LLP adopts a whole-school approach in the development of Kranjian Champions.
 
   
 
-Sports Experience is the foundational thrust of our Learning for Life Programme (LLP). Through Physical Education and Character & Citizenship Education lessons, core knowledge, skills and values is imparted to every student. This thrust seeks to provide all Kranjians with a rich variety of sporting experiences to reinforce their aptitudes and attitudes in becoming a Champion in Life.
+Sports Experience is the foundational thrust of our Learning for Life Programme (LLP). Through Physical Education and Character &amp; Citizenship Education lessons, core knowledge, skills and values is imparted to every student. This thrust seeks to provide all Kranjians with a rich variety of sporting experiences to reinforce their aptitudes and attitudes in becoming a Champion in Life.
 
-Competitive sporting experiences are effective platforms to nurture positive traits such as resilience and sportsmanship. We design and provide opportunities for all Kranjians to participate in at least one competition, through platforms like ‘Budding Champions Day’ and ‘Champions Day’.  In addition, our camps are designed for a progressive experience from a 2D1N camp in school for Primary 4 students to a 3D2N camp at an external campsite for Primary 5 students to further augment our efforts to develop character and 21CC in our students.  This also primes our children for their overseas immersion trips for selected Primary 5 students to Suzhou/Shanghai in China, and a cohort trip for Primary 6 students to Malacca in Malaysia.
+Competitive sporting experiences are effective platforms to nurture positive traits such as resilience and sportsmanship. We design and provide opportunities for all Kranjians to participate in at least one competition, through platforms like ‘Budding Champions Day’ and ‘Champions Day’.&nbsp; In addition, our camps are designed for a progressive experience from a 2D1N camp in school for Primary 4 students to a 3D2N camp at an external campsite for Primary 5 students to further augment our efforts to develop character and 21CC in our students.&nbsp; This also primes our children for their overseas immersion trips for selected Primary 5 students to Suzhou/Shanghai in China, and a cohort trip for Primary 6 students to Malacca in Malaysia.
 
-Recreational sporting experiences through ‘Play Cool Sports’ and participation in Physical Sports Co-Curricular Activities (CCA) at recreational level is available to all students. We hope to broaden their experiences and interests by providing recreational sports training and game plays in a non-competitive and fun environment.  In doing so, we strive to promote an active and healthy lifestyle and develop a lifelong passion for sports in our students. 
+Recreational sporting experiences through ‘Play Cool Sports’ and participation in Physical Sports Co-Curricular Activities (CCA) at recreational level is available to all students. We hope to broaden their experiences and interests by providing recreational sports training and game plays in a non-competitive and fun environment.&nbsp; In doing so, we strive to promote an active and healthy lifestyle and develop a lifelong passion for sports in our students.&nbsp;
 
 **Sports Excellence**
 
-This thrust caters to the needs of high performing students in Physical Sports CCA by providing them with opportunities to further their talents and strengthen their character. There is application of training in higher competition as they develop sport-specific strength and fitness conditioning. School team players receive opportunities to participate in friendly matches, fiestas and National School Games competitions. The school emphasises the importance of ‘giving one’s personal best’ and showing good sportsmanship in the process. 
+This thrust caters to the needs of high performing students in Physical Sports CCA by providing them with opportunities to further their talents and strengthen their character. There is application of training in higher competition as they develop sport-specific strength and fitness conditioning. School team players receive opportunities to participate in friendly matches, fiestas and National School Games competitions. The school emphasises the importance of ‘giving one’s personal best’ and showing good sportsmanship in the process.&nbsp;
 
-The school team players develop their mental strength through regular reflections such as post match reviews. They are also equipped with the knowledge and skills to manage their role as student athletes and to transfer these skills to life pursuits such as academic excellence. 
+The school team players develop their mental strength through regular reflections such as post match reviews. They are also equipped with the knowledge and skills to manage their role as student athletes and to transfer these skills to life pursuits such as academic excellence.&nbsp;
 
 Many of our school team players have used their talents in sports to apply successfully for Direct School Admission (DSA) to a whole range of secondary schools.  
 
-In addition to participating in sports, our student athletes also contribute back to our community through our curated Values-in-Action programmes. The CCA outreach programmes to MOE Kindergarten@Kranji and other kindergartens around our neighbourhood allow our students to share their knowledge and skills with the younger children through fun and engaging activities. 
+In addition to participating in sports, our student athletes also contribute back to our community through our curated Values-in-Action programmes. The CCA outreach programmes to MOE Kindergarten@Kranji and other kindergartens around our neighbourhood allow our students to share their knowledge and skills with the younger children through fun and engaging activities.&nbsp;
 
 **Budding Champions Day**
 
@@ -66,6 +66,8 @@ Our CCA and Sports leaders are given opportunities to serve our Kranji community
 
 <figure>
 
+
+	
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L3.jpg">
 
 <figcaption> <strong> Crawling as fast as I can to get to the next station! </strong> </figcaption>
@@ -92,7 +94,7 @@ Our CCA and Sports leaders are given opportunities to serve our Kranji community
 **Champions Day**  
   
 
-Champions Day is a yearly event for our Primary 3 to 6 students to celebrate Children’s Day and take part in modified games like Captain’s Ball, Football, Floorball and Tchoukball. They get to demonstrate their fundamental & specialised skills and movement concepts learnt in Physical Education lessons.  Students are also challenged to form and work in teams with  peers from other classes to compete in a wide variety of sports and games, and are required to give their personal best to win as many points as possible for the team they are representing. This collaboration across classes allows for greater bonding experiences within the cohort and promotes cohort and school identity. 
+Champions Day is a yearly event for our Primary 3 to 6 students to celebrate Children’s Day and take part in modified games like Captain’s Ball, Football, Floorball and Tchoukball. They get to demonstrate their fundamental &amp; specialised skills and movement concepts learnt in Physical Education lessons.&nbsp; Students are also challenged to form and work in teams with&nbsp; peers from other classes to compete in a wide variety of sports and games, and are required to give their personal best to win as many points as possible for the team they are representing. This collaboration across classes allows for greater bonding experiences within the cohort and promotes cohort and school identity.&nbsp;
 
 <figure>
 
@@ -133,7 +135,7 @@ Champions Day is a yearly event for our Primary 3 to 6 students to celebrate Chi
 
   
 
-Our outdoor adventure camps are a key aspect of our Learning for Life Programme (LLP). The camps are a highlight for our students in their schooling experience, as they get to forge meaningful friendships with their peers, build resilience and adaptability through the outdoor experience, and develop leadership qualities as they learn to communicate and collaborate with others. As the students reside together at the campsite, far away from home, they learn to be independent, and to be sensitive to the needs of their peers. The camps are designed for a progressive experience - from a 2D1N camp in school for Primary 4 students to a 3D2N camp at an external campsite for Primary 5 students. A range of activities including outdoor cooking, team bonding games and challenges, campfire, as well as exposure to high and/or low elements ropes course is part of the experience. 
+Our outdoor adventure camps are a key aspect of our Learning for Life Programme (LLP). The camps are a highlight for our students in their schooling experience, as they get to forge meaningful friendships with their peers, build resilience and adaptability through the outdoor experience, and develop leadership qualities as they learn to communicate and collaborate with others. As the students reside together at the campsite, far away from home, they learn to be independent, and to be sensitive to the needs of their peers. The camps are designed for a progressive experience - from a 2D1N camp in school for Primary 4 students to a 3D2N camp at an external campsite for Primary 5 students. A range of activities including outdoor cooking, team bonding games and challenges, campfire, as well as exposure to high and/or low elements ropes course is part of the experience.&nbsp;
 
   
 <figure>
@@ -180,7 +182,7 @@ Play Cool Sports in offered to all Primary 3 to 6 students to expose them to spo
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L15new.png">
 
-<figcaption> <strong> Rollerblading is fun but having to balance and move is not easy!   I can barely see my opponent but I definitely look forward to this fencing experience. Lunge and parry away! </strong> </figcaption>
+<figcaption> <strong> Rollerblading is fun but having to balance and move is not easy!&nbsp; &nbsp;I can barely see my opponent but I definitely look forward to this fencing experience. Lunge and parry away! </strong> </figcaption>
 
 </figure>
 <figure>
@@ -229,7 +231,7 @@ Play Cool Sports in offered to all Primary 3 to 6 students to expose them to spo
 **Sports CCA**  
   
 
-In Kranji, two physical sports Co-Curricular Activities (CCAs), namely Football and Basketball, are offered to interested Primary 3 to Primary 6 students. Physical sports CCAs provide our students with a balanced range of opportunities to develop a healthier and stronger body through participation in sports, while also developing team spirit, fair play and sportsmanship in our students. For individuals who exhibit talent and a deep passion for Football and Basketball, they will join our school team and participate in targeted development programmes to further develop them in these particular sports areas. 
+In Kranji, two physical sports Co-Curricular Activities (CCAs), namely Football and Basketball, are offered to interested Primary 3 to Primary 6 students. Physical sports CCAs provide our students with a balanced range of opportunities to develop a healthier and stronger body through participation in sports, while also developing team spirit, fair play and sportsmanship in our students. For individuals who exhibit talent and a deep passion for Football and Basketball, they will join our school team and participate in targeted development programmes to further develop them in these particular sports areas.&nbsp;
 
   
 

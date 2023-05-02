@@ -89,4 +89,4 @@ description: ""
     
 *   [School Library Search Engine](https://schoolibrary.moe.edu.sg/kranjipri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)  
     
-*   [WE Stories 2022](https://online.fliphtml5.com/obrr/qkde/#p=1)
+*   [WE STories 2023](https://online.fliphtml5.com/obrr/qkde/#p=1)

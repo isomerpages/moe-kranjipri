@@ -20,7 +20,7 @@ description: ""
     
 *   [School Library Search Engine](https://schoolibrary.moe.edu.sg/kranjipri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)  
     
-*   [WE Stories 2022](https://online.fliphtml5.com/obrr/qkde/#p=1)  
+*   [WE STories 2023](https://online.fliphtml5.com/obrr/qkde/#p=1)  
     
 *   [P1 JTP Dance Mat Typing Level 1](https://toybox.tools.bbc.co.uk/activities/id/activity-dance-mat-typing/exitGameUrl/http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr)  
     

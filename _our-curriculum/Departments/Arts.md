@@ -11,7 +11,7 @@ Recognising students as key agents of learning, the objectives of the primary ar
 
 *   visual inquiry skills to discover and explore their surroundings;
 *   curiosity, imagination and enjoyment in art making and art discussion;
-*   confidence in working individually and in groups to focus ideas and create artwork; and 
+*   confidence in working individually and in groups to focus ideas and create artwork; and&nbsp;
 *   awareness of and respect for histories and cultures of key artworks and artist in Singapore and the world.
 
   
@@ -24,14 +24,14 @@ The objectives of the syllabus are achieved through the Primary Art Syllabus Fra
 Primary Art Syllabus Framework
 	  
 </figure>
-The syllabus framework presented in the form of a colour wheel illustrates the dynamic relationships amongst the various key features of the art syllabus as an integrated concept for the learning of art to be holistic and enduring. It serves as a compass to navigate the desired direction for cohesive and effective teaching and learning of art. 
+The syllabus framework presented in the form of a colour wheel illustrates the dynamic relationships amongst the various key features of the art syllabus as an integrated concept for the learning of art to be holistic and enduring. It serves as a compass to navigate the desired direction for cohesive and effective teaching and learning of art.&nbsp;
 
   
 
-*   The three _**Big Ideas**_ at the heart of the syllabus framework form the enduring understandings that provide focus for the teaching and learning of art.
-*   The big ideas frame the three Learning Domains of **see**, **express** and **appreciate** present learning opportunities for students to develop the Key Competencies of **observe-inquire**, **create-innovate**, and **connect-respond**.
-*   Students learn to see, express and appreciate through the four key components of the Learning Content - **context**, **artistic processes**, **media** and **visual qualities**.
-*   In the process, students acquire knowledge, skills and values that equip them to be **active artists** and **informed audiences**.
+*   The three&nbsp;_**Big Ideas**_&nbsp;at the heart of the syllabus framework form the enduring understandings that provide focus for the teaching and learning of art.
+*   The big ideas frame the three Learning Domains of&nbsp;**see**,&nbsp;**express**&nbsp;and&nbsp;**appreciate**&nbsp;present learning opportunities for students to develop the Key Competencies of&nbsp;**observe-inquire**,&nbsp;**create-innovate**, and&nbsp;**connect-respond**.
+*   Students learn to see, express and appreciate through the four key components of the Learning Content -&nbsp;**context**,&nbsp;**artistic processes**,&nbsp;**media**&nbsp;and&nbsp;**visual qualities**.
+*   In the process, students acquire knowledge, skills and values that equip them to be&nbsp;**active artists**&nbsp;and&nbsp;**informed audiences**.
 
   
 
@@ -39,11 +39,11 @@ The syllabus framework presented in the form of a colour wheel illustrates the d
 
   
 
-The Art Programme in Kranji Primary School is a key component in nurturing the whole child which includes the acquisition of  21st century competencies. Through Art, we hope to develop Kranjians who are confident and concerned citizens, taking ownership for their learning and contributing actively to society. This ties in closely with our school values.  
+The Art Programme in Kranji Primary School is a key component in nurturing the whole child which includes the acquisition of&nbsp; 21st&nbsp;century competencies. Through Art, we hope to develop Kranjians who are confident and concerned citizens, taking ownership for their learning and contributing actively to society. This ties in closely with our school values.  
 
   
 
-All art lessons are taught by trained art teachers who have gone through regular upgrading in art pedagogy and teaching strategies in order to deliver quality visual arts education to our students. 
+All art lessons are taught by trained art teachers who have gone through regular upgrading in art pedagogy and teaching strategies in order to deliver quality visual arts education to our students.&nbsp;
 
   
 
@@ -71,7 +71,7 @@ Supporting the above is a conducive art learning environment and positive classr
 
 _**4E Approach**_
 
-The 4E Approach guides the art department in the delivery of the art curriculum:  
+The 4E Approach guides the art department in the delivery of the art curriculum:&nbsp;&nbsp;
 
   
 
@@ -79,7 +79,7 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
   
 
-2. Exploration: Exploration of different art genres, including Printmaking, Digital Photography, Basic Ceramic Handbuilding and Digital Manga. The inclusion of digital media is also in line with MOE Art Unit's curriculum shift towards New Media. Professional Artist are tapped on to impart their professional knowledge in different art genres and to complement the expertise of the art teachers.
+2. Exploration: Exploration of different art genres, including Printmaking, Digital Photography, Basic Ceramic&nbsp;Handbuilding and Digital Manga. The inclusion of digital media is also in line with MOE Art Unit's curriculum shift towards New Media. Professional Artist are tapped on to impart their professional knowledge in different art genres and to complement the expertise of the art teachers.
 
   
 
@@ -87,166 +87,15 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 
   
 
-4. Expression: Opportunities for students to showcase their talents at various platforms such as our Annual Art Exhibition and Doodle Wall in the canteen.
+4. Expression: Opportunities for students to showcase their talents at various platforms such as our Annual Art Exhibition and&nbsp;Doodle Wall in the canteen.
 
   
 
 ##### **Level Programmes**
 
-<table style="width:100%;">
- <tr>
-    <th colspan="2" style="width:50%; text-align:center; border:1px double black">Primary  3 Print Making Programme</th>  
-
-| <img style="width:50%; border:2px solid black;" src="/images/Our%20Curriculum/Departments/Art/A3NEW.jpg"> | <img style="width:50%; border:2px solid black" src="/images/Our%20Curriculum/Departments/Art/A2NEW.jpg"> | <img style="width:50%;height:50%; border:2px solid black" src="/images/Our%20Curriculum/Departments/Art/A4NEW.jpg"> |
-| -------- | -------- | -------- |
-| Totally engrossed in making sure every part is covered   | The process of print making  | The finished product |
-
-<center><h5>Primary 4 Digital Photography Programme</h5></center>
-
-<figure>
-
-
-	
-	
-<img src="/images/Our%20Curriculum/Departments/Art/A4.jpg">
-
-<figcaption> <strong> Capturing Nature </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Art/A5.jpg">
-
-<figcaption> <strong> Creating a subject </strong> </figcaption>
-
-</figure>
-
-  <figure>
-  
-<center><h5>Primary 4 Learning Journey to National Gallery</h5></center>
-
-
-
-<img src="/images/Our%20Curriculum/Departments/Art/A6.jpg">
-
-<figcaption> <strong> Getting excited over interactive digital art </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Art/A7.jpg">
-
-<figcaption> <strong> Interactive art at the National Gallery </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Art/A8.jpg">
-
-<figcaption> <strong> All ears in appreciating art at the National Gallery </strong> </figcaption>
-
-</figure>
-
-  
-<center><h5> Primary 5 Ceramics - Basic Hand Building Programme</h5></center>
-
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Art/A9.jpg">
-
-<figcaption> <strong> Before glazing </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Art/A10.jpg">
-
-<figcaption> <strong> Students glazing their work </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Art/A11.jpg">
-
-<figcaption> <strong> Happy faces </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Art/A12.jpg">
-
-<figcaption> <strong> Work in progress </strong> </figcaption>
-
-</figure>
-
-  
-<center><h5> Primary 6 Digital Manga Programme</h5></center>
-
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Art/A13.jpg">
-
-<figcaption> <strong> Completed work #1 </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Art/A14.jpg">
-
-<figcaption> <strong> Completed work #2 </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Art/A15.jpg">
-
-<figcaption> <strong> Completed work #3 </strong> </figcaption>
-
-</figure>
-
-<figure>
-  
-<center><h5>Assembly Programme</h5></center>
-
-
-
-<img src="/images/Our%20Curriculum/Departments/Art/A16.jpg">
-
-<figcaption> <strong> Doodling Skill </strong> </figcaption>
-
-</figure>
-<figure>
-  
-<center><h5>Annual Art Exhibition</h5></center>
-
-<figure>
-	
-<img src="/images/Our%20Curriculum/Departments/Art/A17.jpg"><br>
-
-<img src="/images/Our%20Curriculum/Departments/Art/A18.jpg">
-
-<br>
-
-<img src="/images/Our%20Curriculum/Departments/Art/A19.jpg">
-
-<figcaption> <strong> Showing off the works of our talented students </strong> </figcaption>
-
-</figure>
-
-  
-
-##### KPS Virtual Art Gallery
-
-  
-
-Our very own KPS Virtual Art Gallery is officially launched. Click on this [link](https://sites.google.com/view/kpsartgallery2021/) to enter and explore how our Kranjians expressed their thoughts in their creations.
+![](/images/Our%20Curriculum/Departments/Art/printmakingp3_1.png)
+![](/images/Our%20Curriculum/Departments/Art/digiphoto_2.png)
+![](/images/Our%20Curriculum/Departments/Art/p4ljngs_3.png)
+![](/images/Our%20Curriculum/Departments/Art/p5ceramicprog.png)
+![](/images/Our%20Curriculum/Departments/Art/p6mangadrawing_6.png)
+![](/images/Our%20Curriculum/Departments/Art/gallery.png)

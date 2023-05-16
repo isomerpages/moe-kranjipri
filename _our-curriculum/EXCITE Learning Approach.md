@@ -10,16 +10,14 @@ Guided by our school vision of Joyful Learners, Gracious Citizens and Champions 
 <br>
 <iframe width="800" height="315" src="https://www.youtube.com/embed/Of6zHY_nSAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-
-
-
-![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/Q2.png)
-![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/Q3.jpg)
-![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/Q4.png)
-![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/Q5.jpg)
-![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/Q6.png)
-![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/Q7.jpg)
-![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/Q8.png)
-![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/Q9.jpg)
-![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/Q10.png)
-![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/Q11.jpg)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/experiential1%20.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/jtpndice2.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/champchef_kstudio3.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/sciencewonder_4.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/characterfocused_5.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/via_cca_6.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/inquirybased_7.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/pw_kmakers8.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/1to1_10.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/positive_11.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/camp_coolsports_12.png)

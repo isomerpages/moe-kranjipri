@@ -4,7 +4,7 @@ permalink: /Departments/Arts/
 description: ""
 third_nav_title: Departments
 ---
-![](/images/Our%20Curriculum/Departments/Art/p6mangadrawing_6.png)##### **Art Curriculum Framework**
+##### **Art Curriculum Framework**
   
 Recognising students as key agents of learning, the objectives of the primary art syllabus are to develop all students as active artists and informed audience with  
   
@@ -98,3 +98,4 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 ![](/images/Our%20Curriculum/Departments/Art/p4ljngs_3.png)
 ![](/images/Our%20Curriculum/Departments/Art/p5ceramicprog.png)
 ![](/images/Our%20Curriculum/Departments/Art/p6mangadrawing_6.png)
+![](/images/Our%20Curriculum/Departments/Art/gallery.png)

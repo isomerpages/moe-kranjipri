@@ -94,3 +94,4 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 ##### **Level Programmes**
 
 ![](/images/Our%20Curriculum/Departments/Art/printmakingp3_1.png)
+![](/images/Our%20Curriculum/Departments/Art/digiphoto_2.png)

@@ -54,6 +54,8 @@ At KPS, we focus on building strong numeracy and problem-solving skills in our s
 <br>
 
 ![](/images/Our%20Curriculum/Departments/Mathematics/p2_funtime.png)
+<br>
+![](/images/Our%20Curriculum/Departments/Mathematics/p4_projectwork.png)
 
 P1  to P6 Math Games Carnival
 ![](/images/Our%20Curriculum/Departments/Mathematics/Math%20Carnival_3.png)<br>

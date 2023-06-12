@@ -6,7 +6,7 @@ third_nav_title: Departments
 ---
 ##### **ICT Curriculum Framework**
 
-In Kranji Primary School, we believe in preparing our students to be future-ready champions in life. Therefore, the ICT department aims to create an ICT enriched environment, providing opportunities for our students to be joyful and responsible digital learners through a range of quality learning experiences with technology. 
+In Kranji Primary School, we believe in preparing our students to be future-ready champions in life. Therefore, the ICT department aims to create an ICT enriched environment, providing opportunities for our students to be joyful and responsible digital learners through a range of quality learning experiences with technology.&nbsp;
 
 Our school’s ICT literacy programme is built on MOE’s standards of new media literacy and includes the skills, knowledge, attitudes and values (SKAV) that students should apply and demonstrate when harnessing ICT for learning and interacting. The new ICT baseline standards are: curating digital content; connecting and communicating digitally; and creating digital multimodal products.
 
@@ -34,11 +34,11 @@ In designing learning with technology, teachers consider the following student-c
 *   What skills and processes will students perform?
 *   How will students build on their current understanding?
 
-**Facilitate Demonstration of Learning**
+**Facilitate&nbsp;Demonstration of&nbsp;Learning**
 
 *   How will students demonstrate their understanding and new learning?
 
-**Monitor and Provide Feedback**
+**Monitor and&nbsp;Provide Feedback**
 
 *   How can students’ learning be advanced?
 
@@ -48,11 +48,11 @@ In designing learning with technology, teachers consider the following student-c
 
   
 
-Our ICT programmes across P1 to P6 aims to equip every student with the fundamental ICT skills and literacy to be a future-ready individual. Through the introduction of computational thinking and the infusion of new media literacies into different disciplines, the programme sets out to achieve the following objectives, where students are able to:
+Our ICT programmes across P1 to P6 aims to equip every student with the fundamental ICT skills and literacy to be a future-ready individual. Through the introduction of computational thinking and the&nbsp;infusion of new media literacies into different disciplines, the programme sets out to achieve the following objectives, where students are able to:
 
 1\. Acquire and apply technical skills to create digital content
 
-2\. Demonstrate 21st CC through self-directed and collaborative learning
+2\. Demonstrate 21st&nbsp;CC through self-directed and collaborative learning
 
 3\. Develop computational thinking and problem-solving skills
 
@@ -83,13 +83,9 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 
 The school has computer laboratories and mobile carts equipped with laptops optimised for teaching and learning purposes. Students and teachers also have access to the use of iPads, chromebooks, galaxy tabs for mobile learning to take place. A wireless network is in place to further enhance students' learning and teachers are able to conduct lessons anywhere in our school using these devices.
 
-In collaboration with both the instructional and non-instructional programmes, students have opportunities to enhance their learning experience in an ICT-empowered learning environment, helping them to become innovative, confident and  independent learners.
+In collaboration with both the instructional and non-instructional programmes, students have opportunities to enhance their learning experience in an ICT-empowered learning environment,&nbsp;helping them to become innovative, confident and&nbsp; independent learners.
 
-  
-
-![](/images/Our%20Curriculum/Departments/ICT/ICT/I9.jpeg)
-
-![](/images/Our%20Curriculum/Departments/ICT/ICT/I10.jpeg)
+![](/images/Our%20Curriculum/Departments/ICT/ICT/facilities.png)
 
 **Please click [here](/Student-Learning-Space/) for Student Learning Space**
 

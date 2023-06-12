@@ -86,6 +86,7 @@ The school has computer laboratories and mobile carts equipped with laptops opti
 In collaboration with both the instructional and non-instructional programmes, students have opportunities to enhance their learning experience in an ICT-empowered learning environment,&nbsp;helping them to become innovative, confident and&nbsp; independent learners.
 
 ![](/images/Our%20Curriculum/Departments/ICT/ICT/facilities.png)
+![](/images/Our%20Curriculum/Departments/ICT/ICT/facilities2.png)
 
 **Please click [here](/Student-Learning-Space/) for Student Learning Space**
 

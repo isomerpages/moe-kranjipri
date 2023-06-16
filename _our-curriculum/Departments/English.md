@@ -74,12 +74,7 @@ As Dr Seuss would say “The more that you read, the more you will know, the mor
 
 Each classroom is equipped with books appropriate for the reading level of the students and are rotated every semester, so as to provide reading opportunities for all. In addition, weekly library visits are weaved into the EL curriculum. During the library visits, students are introduced to different genres of books, storytelling and engaged in other extensive reading activities.
 
-![](/images/Our%20Curriculum/Departments/English/E12.jpg)
-
-![](/images/Our%20Curriculum/Departments/English/E13.jpg)
-
-![](/images/Our%20Curriculum/Departments/English/E14.jpg)
-
+![](/images/Our%20Curriculum/Departments/English/reading_prog.png)
 
 ##### **Talent Development Programme**
 

@@ -151,16 +151,8 @@ Learning Journeys aims to provide a platform for pupils to extend their learning
 
 </figure>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M14.jpg">
-
-<figcaption> <strong> TL:&nbsp;Pupils had a close-up of cows, calves and goats and could not contain the excitement! </strong> </figcaption>
-
-</figure>&nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-
-  
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/tamillang_lj.png)
+<center></center>
 
 3.&nbsp;&nbsp;&nbsp;**Reading Programme**
 

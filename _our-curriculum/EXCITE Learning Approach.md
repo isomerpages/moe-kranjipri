@@ -18,6 +18,7 @@ Guided by our school vision of Joyful Learners, Gracious Citizens and Champions 
 ![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/via_cca_6.png)
 ![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/inquirybased_7.png)
 ![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/pw_kmakers8.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/techmediate_9.png)
 ![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/1to1_10.png)
 ![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/positive_11.png)
 ![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/camp_coolsports_12.png)

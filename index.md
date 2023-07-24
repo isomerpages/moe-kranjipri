@@ -19,6 +19,11 @@ sections:
           description: ""
           url: /Voices-of-our-alumni/
   - infopic:
+      title: Caring Teacher Award 2023
+      description: Nominate your teachers for the Caring Teacher Award 2023!
+      alt: Image alt text
+      image: /images/Homepage/caring teacher 2023.png
+  - infopic:
       title: KPS OPEN HOUSE 2023
       description: Registration for Open House
       button: READ MORE
@@ -35,7 +40,7 @@ sections:
       image: /images/Homepage/KPS_final.jpg
       alt: Image alt text
   - infopic:
-      title: " 1:1 Learning Experience"
+      title: 1:1 Learning Experience
       description: An iPad is provided for every P4 to P6 Kranjian while they are in
         school everyday, to tap on the affordances of technology for learning.
       button: Read More

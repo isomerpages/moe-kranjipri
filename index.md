@@ -35,7 +35,7 @@ sections:
       image: /images/Homepage/KPS_final.jpg
       alt: Image alt text
   - infopic:
-      title: " 1:1 Learning Experience"
+      title: 1:1 Learning Experience
       description: An iPad is provided for every P4 to P6 Kranjian while they are in
         school everyday, to tap on the affordances of technology for learning.
       button: Read More
@@ -63,4 +63,8 @@ sections:
       description: You can follow KPS on Facebook and Instagram
       button: Click Here
       url: /kps-on-social-media/
+  - infopic:
+      title: Caring Teacher Award 2023
+      description: "Nominate your teachers for the Caring Teacher Award 2023!  "
+      alt: Image alt text
 ---

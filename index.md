@@ -19,6 +19,11 @@ sections:
           description: ""
           url: /Voices-of-our-alumni/
   - infopic:
+      title: Caring Teacher Award 2023
+      description: Nominate your teachers for the Caring Teacher Award 2023!
+      alt: Image alt text
+      image: /images/Homepage/caring teacher 2023.png
+  - infopic:
       title: KPS OPEN HOUSE 2023
       description: Registration for Open House
       button: READ MORE
@@ -63,8 +68,4 @@ sections:
       description: You can follow KPS on Facebook and Instagram
       button: Click Here
       url: /kps-on-social-media/
-  - infopic:
-      title: Caring Teacher Award 2023
-      description: "Nominate your teachers for the Caring Teacher Award 2023!  "
-      alt: Image alt text
 ---

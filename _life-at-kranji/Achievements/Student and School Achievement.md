@@ -17,9 +17,9 @@ third_nav_title: Achievements
 | | National Mathematical Olympiad of Singapore | 2022: 3 Silver, 1 Bronze, 2 Honourable Mention |
 |Science| Singapore Amazing Flying Machine Competition | 2022: 1 team in final <br>2nd place, 3 teams in finals |
 | | Singapore Primary Science Olympiad| 2022: 1 team in final <br>2nd place, 3 teams in finals |
-| | P5 Raffles Science Olympiad West Zone Junior Science Whiz Challenges (P6)<br>National Thinkers Challenge (P5-Eco Champions) | 2022:3 Merits<br><br>2022:21st to 30th scorer, Audience Round Winner, School Tour Winner.<br><br>2022: Commendation Award |
-|Mother Tongue Language - Chinese Language | 5th Text Recital Competition | 2022: Silver Award |
-| | Memory Games Challenge | 2022: Champion |
-| | Memory Games Challenge | 2021: Top 3 teams |
+| | P5 Raffles Science Olympiad West Zone Junior Science Whiz Challenges (P6)<br>National Thinkers Challenge (P5-Eco Champions) | 2023:1 Merit<br><br>2022:3 Merits<br><br>2022:21st to 30th scorer, Audience Round Winner, School Tour Winner.<br><br>2022: Commendation Award |
+|Mother Tongue Language - Chinese Language | Text Recital Competition |2023: Bronze Award<br><br> 2022: Silver Award |
+| | Chinese Escape Room Competition | 2023: Excellence Award |
+| | Memory Games Challenge | 2022: Champion<br>2021: Top 3 teams |
 | | National Primary School "Picture Book Creation" Competition | 2021: Silver Award |
 |Mother Tongue Language - Malay Language | Perkasa Warisan Camp | 2019: Top 2 (P4 Teams A &amp; C) |

@@ -15,9 +15,9 @@ third_nav_title: Achievements
 | | Annual Mathlympics for Primary School | 2022: 3 Gold |
 | | ACS Mathematics | 2018: 1 Silver, 1 Bronze |
 | | National Mathematical Olympiad of Singapore | 2022: 3 Silver, 1 Bronze, 2 Honourable Mention |
-|Science | Singapore Amazing Flying Machine Competition | 2022: 1 team in final <br>2nd place, 3 teams in finals |
+|Science| Singapore Amazing Flying Machine Competition | 2022: 1 team in final <br>2nd place, 3 teams in finals |
 | | Singapore Primary Science Olympiad| 2022: 1 team in final <br>2nd place, 3 teams in finals |
-| | P5 Raffles Science Olympiad West Zone Junior Science Whiz Challenges (P6)<br>National Thinkers Challenge (P5-Eco Champions) | 2022:3 Merits<br>2022:21st to 30th scorer, Audience Round Winner, School Tour Winner.<br>2022: Commendation Award |
+| | P5 Raffles Science Olympiad West Zone Junior Science Whiz Challenges (P6)<br>National Thinkers Challenge (P5-Eco Champions) | 2022:3 Merits<br><br>2022:21st to 30th scorer, Audience Round Winner, School Tour Winner.<br><br>2022: Commendation Award |
 |Mother Tongue Language - Chinese Language | 5th Text Recital Competition | 2022: Silver Award |
 | | Memory Games Challenge | 2022: Champion |
 | | Memory Games Challenge | 2021: Top 3 teams |

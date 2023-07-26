@@ -24,7 +24,9 @@ third_nav_title: Achievements
 
 <tr>
 	<th style="text-align:center;">Singapore and Asian Schools Math Olympiad<br><br><img style="width:50%; height:50%; border:5px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A2.jpg" width="50" height="50"><br>
-	</th><th style="text-align:justified; vertical-align:middle">2022: 3 Gold, 2 Silver, 7 Bronze, 8 Honourable Mentions.<br><br>2020: 4 Silver, 10 Bronze.<br><br>2019: 2 Gold, 5 Silver, 6 Bronze<br><br>2018: 5 Gold, 6 Silver, 9 Bronze
+		</th></tr><tr>
+			<th style="text-align:center;">Raffle Institution Primary Mathematics World Contest</th>
+	<th style="text-align:justified; vertical-align:middle">2022: 3 Gold, 2 Silver, 7 Bronze, 8 Honourable Mentions.<br><br>2020: 4 Silver, 10 Bronze.<br><br>2019: 2 Gold, 5 Silver, 6 Bronze<br><br>2018: 5 Gold, 6 Silver, 9 Bronze
 	</th>
 </tr><tr>	
 	<th style="text-align:left;">Raffles Institution Primary Mathematics World Contest</th>

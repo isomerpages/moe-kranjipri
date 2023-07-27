@@ -22,4 +22,11 @@ third_nav_title: Achievements
 | | Chinese Escape Room Competition | 2023: Excellence Award |
 | | Memory Games Challenge | 2022: Champion<br>2021: Top 3 teams |
 | | National Primary School "Picture Book Creation" Competition | 2021: Silver Award |
-|Mother Tongue Language - Malay Language | Perkasa Warisan Camp | 2019: Top 2 (P4 Teams A &amp; C) |
+|Mother Tongue Language - Malay Language | Perkasa Warisan Camp - Yew Tee GRC | 2019: Top 2 (P4 Teams A &amp; C) |
+| | National Malay Language Writing Competition | 2019: 2 Silvers, 2nd place |
+| Mother Tongue Language - Tamil Language | Yew Tee CC IEAC- Show &amp; Tell Competition | 2019: 3rd place |
+| | Tampines CC IEAC- Singing Competition | 2019: 1st place
+| | Yew Tee CC IEAC - Fancy Dress Competition | 2019: 3rd place |
+| | Tirukkural Vizha - Recital Competition | 2019: 2nd place |
+| | Tirukkural Vizha - Story Telling Competition | 2019: 3rd place &amp; Motivational prize |
+| | Tirukkural Vizha - Oratorical Competition | 2019: 2nd place |

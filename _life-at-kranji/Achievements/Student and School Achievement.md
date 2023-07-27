@@ -30,3 +30,12 @@ third_nav_title: Achievements
 | | Tirukkural Vizha - Recital Competition | 2019: 2nd place |
 | | Tirukkural Vizha - Story Telling Competition | 2019: 3rd place &amp; Motivational prize |
 | | Tirukkural Vizha - Oratorical Competition | 2019: 2nd place |
+### CCA Achievement
+
+
+| CCA | Event Name | Achievement |
+| -------- | -------- | -------- |
+|      | Singapore Olympic Foundation - Peter Lim Scholarship     | 2022: Encouragement Award |
+|      | Istana Heritage Gallery Challenge | 2023: 1st Prize|
+| Basketball | National School Games Basketball Championship | 2023: 3rd place (Senior Girls)<br><br>Tier 2 1st Position (Junior boys)<br><br>Tier 2 1st Position (Junior girls)<br><br>2019: 1st place (Senior Girls)<br><br>Tier 2 1st Position (Junior Boys)<br><br>2018: 1st place (Senior Girls), 4th place (Junior Girls)  |
+|      | National School Games West Zone Basketball Championship     | 2022: 1st place (Senior Girls), <br>Tier 2 1st position (Junior Girls)<br>Tier 1 (Junior Boys)<br><br>2019: 1st place (Senior Girls)<br><br>2018: 1st place (Senior Girls),1st place (Junior Girls) |

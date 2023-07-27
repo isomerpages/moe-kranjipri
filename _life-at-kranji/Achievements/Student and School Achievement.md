@@ -30,9 +30,8 @@ third_nav_title: Achievements
 | | Tirukkural Vizha - Recital Competition | 2019: 2nd place |
 | | Tirukkural Vizha - Story Telling Competition | 2019: 3rd place &amp; Motivational prize |
 | | Tirukkural Vizha - Oratorical Competition | 2019: 2nd place |
-### CCA Achievement
+<br><h3><center>CCA Achievement</center></h3><br>
 | CCA | Event Name | Achievement |
-| -------- | -------- | -------- |
 |      | Singapore Olympic Foundation - Peter Lim Scholarship     | 2022: Encouragement Award |
 |      | Istana Heritage Gallery Challenge | 2023: 1st Prize|
 | Basketball | National School Games Basketball Championship <br><br><img style="width:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A12.jpg" width="50" height="50"> | 2023: 3rd place (Senior Girls)<br><br>Tier 2 1st Position (Junior boys)<br><br>Tier 2 1st Position (Junior girls)<br><br>2019: 1st place (Senior Girls)<br><br>Tier 2 1st Position (Junior Boys)<br><br>2018: 1st place (Senior Girls), 4th place (Junior Girls)  |

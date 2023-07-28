@@ -40,3 +40,5 @@ third_nav_title: Achievements
 |Dance | Singapore Youth Festival (SYF) Arts Presentation - International Dance | 2018: Certificate of Distinction |
 |Infocomm Media Club | Swift Explorers Singapore | 2023: Best 20 Teams |
 | | National Digital Explorer 2023 | 2023: 1 Bronze Award |
+|Art Club |Singapore Youth Festival (SYF) Arts Presentation - Visual Arts | 2023: Certificate of Recognition<br>2021: Certificate of Recognition<br>2019: Certificate of Recognition |
+| | Stagmont Park Resident's Commitee's National Day Art Competition | 2020: 1st, 3rd, 4th and 5th Place |

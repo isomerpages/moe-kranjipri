@@ -30,3 +30,15 @@ third_nav_title: Achievements
 | | Tirukkural Vizha - Recital Competition | 2019: 2nd place |
 | | Tirukkural Vizha - Story Telling Competition | 2019: 3rd place &amp; Motivational prize |
 | | Tirukkural Vizha - Oratorical Competition | 2019: 2nd place |
+| CCA | Event Name | Achievement |
+|      | Singapore Olympic Foundation - Peter Lim Scholarship     | 2022: Encouragement Award |
+|      | Istana Heritage Gallery Challenge | 2023: 1st Prize|
+| Basketball | National School Games Basketball Championship <br><br><img style="width:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A12.jpg" width="50" height="50"> | 2023: 3rd place (Senior Girls)<br><br>Tier 2 1st Position (Junior boys)<br><br>Tier 2 1st Position (Junior girls)<br><br>2019: 1st place (Senior Girls)<br><br>Tier 2 1st Position (Junior Boys)<br><br>2018: 1st place (Senior Girls), 4th place (Junior Girls)  |
+|      | National School Games West Zone Basketball Championship<br><br><img style="width:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A13.jpg" alt="NUS Oratorical Competition 1.jpg" width="50" height="50"><br><img style="width:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A14.jpg" alt="NUS Oratorical Competition 1.jpg" width="50" height="50">    | 2023: 3rd place (Senior Girls),<br> Tier 2 1st Position (Junior Boys), Tier 2 1st Position (Junior Girls)<br><br> 2022: 1st place (Senior Girls), <br>Tier 2 1st position (Junior Girls)<br>Tier 1 (Junior Boys)<br><br>2019: 1st place (Senior Girls)<br><br>2018: 1st place (Senior Girls),1st place (Junior Girls) |
+|Football| AES 8-A-Side Football Challenge Club <br><img style="width:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A15.jpg" alt="NUS Oratorical Competition 1.jpg" width="50" height="50">| 2022: 2nd place |
+|| National School Games Football Competition <br><br> <img style="width:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/A16.jpg" alt="NUS Oratorical Competition 1.jpg" width="50" height="50"> | 2022: Tier 2 (Junior Boys) |
+|Dance | Singapore Youth Festival (SYF) Arts Presentation - International Dance | 2018: Certificate of Distinction |
+|Infocomm Media Club | Swift Explorers Singapore | 2023: Best 20 Teams |
+| | National Digital Explorer 2023 | 2023: 1 Bronze Award |
+|Art Club |Singapore Youth Festival (SYF) Arts Presentation - Visual Arts | 2023: Certificate of Recognition<br>2021: Certificate of Recognition<br>2019: Certificate of Recognition |
+| | Stagmont Park Resident's Commitee's National Day Art Competition | 2020: 1st, 3rd, 4th and 5th Place |

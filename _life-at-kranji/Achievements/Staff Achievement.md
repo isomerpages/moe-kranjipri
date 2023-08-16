@@ -4,8 +4,6 @@ permalink: /life-at-kranji/Achievements/Staff-Achievement/
 description: ""
 third_nav_title: Achievements
 ---
-
-
 |National Day Awards 2023|  |  |
 | -------- | -------- | -------- |
 | Commendation Medal     | Miss Azzulin Bte Aripin |      |

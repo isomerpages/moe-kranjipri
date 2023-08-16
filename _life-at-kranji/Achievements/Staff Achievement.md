@@ -4,7 +4,13 @@ permalink: /life-at-kranji/Achievements/Staff-Achievement/
 description: ""
 third_nav_title: Achievements
 ---
-##### **(2020 to 2022)**
+
+
+|National Day Awards 2023|  |  |
+| -------- | -------- | -------- |
+| Commendation Medal     | Miss Azzulin Bte Aripin |      |
+| Long Service Medal | Mdm Goh Meei Yunn<br>Mdm Joanne Chia Lee Eng<br>Mdm Mariah Binte Rahmat<br>Mr Richard s/o Arokiasamy |  |
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -36,7 +42,7 @@ third_nav_title: Achievements
     <td class="tg-zr06" colspan="3">National Day Awards 2022<br><img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A2.jpg" alt="National Day Awards 2022.jpg" width="473" height="473"></td>
     <td class="tg-zr06" colspan="2"> The Commendation Medal –<br> Mdm Hajerah Beevi D/O Kutus (HOD/SM)<br> Dr Chang Suo Hui (LT/MA)<br><br> The Long Service Medal –<br> Mdm Hajerah Beevi D/O Kutus (HOD/SM)<br><span style="color:#222"> Mr Tan Tien Leng  (Senior School Counsellor)<br>Mdm Lee Seet Fong (Admin Manager)</span></td>
   </tr>
-	 <td class="tg-zr06"> 10 Years of faithful service to Singapore Scout Association</td>
+	 <tr><td class="tg-zr06"> 10 Years of faithful service to Singapore Scout Association</td>
     <td class="tg-zr06" colspan="3"> Long Service Award - Mrs Hesheam Hashim</td>
 	</tr>
   <tr>
@@ -54,7 +60,7 @@ third_nav_title: Achievements
   <tr>
 	 <td class="tg-zr06">Teacher Work Attachment Plus</td>
     <td class="tg-zr06" colspan="3"> Certificate of Participation - <br>Mdm Wong Wai Leng<br>Mdm Deborah Tham</td>
-</tbody>
+</tr></tbody>
 </table>
 
 <style type="text/css">
@@ -126,7 +132,7 @@ third_nav_title: Achievements
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+</tr></tbody></table><table class="tg">
 <thead>
   <tr>
     <th class="tg-8hqj" colspan="2">2020</th>
@@ -160,3 +166,4 @@ third_nav_title: Achievements
   <tr>
     <td class="tg-zr06">MOE Service Excellence Award (MSEA) 2020 <br><br>10 Silver     <br><img style="width:70%;height:50%" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A8.png" alt="2020 MOE Service Excellence Award Winners.png" width="510" height="286"><br></td>
     <td class="tg-zr06"> Mrs Joanna Wong (HOD/PE &amp; CCA)<br> Mdm Junaidah Bte Senor<br> Miss Lim Su Bing<br> Mdm Neo Bee Leng (HOD/MA)<br> Mr Roy Tan (Senior School Counsellor)<br> Mdm Deborah Tham<br> Mr Peter Wang<br> Miss Woon Ai Ling (ICT Manager)<br> Mdm Vivienne Yap (SH/ICT)<br> Mdm Yong Chin (HOD/MT) <br><br><br><br><br></td>
+</tr></tbody></table>

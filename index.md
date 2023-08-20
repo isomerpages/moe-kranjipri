@@ -19,19 +19,6 @@ sections:
           description: ""
           url: /Voices-of-our-alumni/
   - infopic:
-      title: KPS OPEN HOUSE 2023
-      description: Registration for Open House
-      button: READ MORE
-      url: /life-at-kranji/virtual-open-house/
-      image: /images/Life @ Kranji/Virtual Open House/Virtual Open House/open house
-        for p1 registration 2023.png
-      alt: Image alt text
-  - infopic:
-      title: Caring Teacher Award 2023
-      description: Nominate your teachers for the Caring Teacher Award 2023!
-      alt: Image alt text
-      image: /images/Homepage/caring teacher 2023.png
-  - infopic:
       title: Every Kranjian Matters and Deserves the Best!
       description: “We value every student, Every student wants to succeed, All can
         learn.” This is our commitment to every Kranjian.
@@ -65,7 +52,7 @@ sections:
       image: /images/Homepage/LLP_2023.png
   - infobar:
       title: KPS Social Media
-      description: You can follow KPS on Facebook and Instagram
+      description: You can follow KPS on Facebook, Instagram, Youtube and TikTok
       button: Click Here
       url: /kps-on-social-media/
 ---

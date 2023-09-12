@@ -75,6 +75,7 @@ description: ""
 *   [Request for Relief](https://docs.google.com/forms/d/e/1FAIpQLScaBt_7W7QVaVlUb9UZcpsy0ub0rm0Olk7ooZmrjxLy1RJYTw/viewform)
 *   [Google Teacher Center](https://edu.google.com/for-educators/overview/?modal_active=none)
 *   [Apple Teacher Learning Center](https://education.apple.com/#/home/resources)
+*   [All Ears Form Builder](https://forms.moe.edu.sg)
 
 #### **For Parents**
 

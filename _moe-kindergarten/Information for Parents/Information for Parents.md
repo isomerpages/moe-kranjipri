@@ -22,7 +22,7 @@ K1, K2, KCare
 	
 **Purchasing of MK Uniforms**
 
-You can purchase the MK uniform from either [Beau Voix Uniform](https://beauvoix.com/preschool/) or [Jeep Sing Fashion](https://jeepsinguniform.com/collections/moe-kindergarten-uniforms) at the following prices:
+You can purchase the MK uniform from either [Beau Voix Uniform](https://www.beauvoix.com.sg) or [Jeep Sing Fashion](https://jeepsinguniform.com/collections/moe-kindergarten-uniforms) at the following prices:
 
 **Beau Voix Uniform**
 

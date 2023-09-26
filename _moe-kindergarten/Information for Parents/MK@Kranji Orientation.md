@@ -13,4 +13,4 @@ Registration:<br>
 Register your attendance via the QR code below or the URL
 https://go.gov.sg/2024orientation<br>
 (Limited to 3 pax including your incoming MK child)<br>
-![](/images/MOE%20Kindergarten/Information%20for%20Parents/qrcode.png)
+<img height="200" width="100" src="images/MOE%20Kindergarten/Information%20for%20Parents/qrcode2.jpeg">

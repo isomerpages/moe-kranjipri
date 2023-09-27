@@ -43,5 +43,5 @@ third_nav_title: Achievements
 | | National Digital Explorer 2023 | 2023: 1 Bronze Award |
 |Art Club |Singapore Youth Festival (SYF) Arts Presentation - Visual Arts | 2023: Certificate of Recognition<br>2021: Certificate of Recognition<br>2019: Certificate of Recognition |
 | | Stagmont Park Resident's Commitee's National Day Art Competition | 2020: 1st, 3rd, 4th and 5th Place |
-Environment
-|      | School Green Awards <br><img style="width:50%; height:50%; border:5px double black;" src="images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/schgreen-%20yellow%20award.png" width="50" height="50">|2022: Yellow Flame Award |
+| Environment | | |
+|      | School Green Awards <br><img style="width:50%; border:1px double black;" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/schgreen-%20yellow%20award.png" width="50" height="50"> |2022: Yellow Flame Award |

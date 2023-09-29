@@ -17,7 +17,7 @@ All can learn<br><br>
 <h3><b style="font-family:verdana">Our Vision</b></h3>
 
 Joyful Learners, Gracious Citizens, Champions in Life <br><br>
-<br>![](/images/About%20Us/School%20Philosophy,%20School%20Vis/vision.jpeg)
+<br><img style="width:100%;height:100%; border:2px solid black;" src="/images/About%20Us/School%20Philosophy,%20School%20Vis/vision.jpeg">
   
 <h3><b style="font-family:verdana">Our Mission</b></h3>
 Nurturing Minds, Engaging Hearts, Building Character <br>

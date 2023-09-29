@@ -8,8 +8,8 @@ description: ""
 <h3><b style="font-family:verdana;">Our Philosophy</b></h3>
 	
 <b>“Every Kranjian Matters and Deserves the Best!”</b><br><br>
-We value every student <br><br>
-Every student wants to succeed<br><br>
+We value every Kranjian <br><br>
+Every Kranjian wants to succeed<br><br>
 All can learn<br><br>
 
 <img style="width:50%;height:50%; border:2px solid black;" src="/images/About%20Us/School%20Philosophy,%20School%20Vis/S1.png">
@@ -17,7 +17,7 @@ All can learn<br><br>
 <h3><b style="font-family:verdana">Our Vision</b></h3>
 
 Joyful Learners, Gracious Citizens, Champions in Life <br><br>
-<img style="width:50%;height:50%; border:2px solid black" src="/images/About%20Us/School%20Philosophy,%20School%20Vis/S2.png"> <br>
+<br><img style="width:100%;height:100%; border:2px solid black;" src="/images/About%20Us/School%20Philosophy,%20School%20Vis/vision.jpeg">
   
 <h3><b style="font-family:verdana">Our Mission</b></h3>
 Nurturing Minds, Engaging Hearts, Building Character <br>
@@ -29,4 +29,4 @@ Nurturing Minds, Engaging Hearts, Building Character <br>
 <b>I</b>ntegrity  <br>
 Res<b>PE</b>ct<br>
 <br>
-<img src="/images/About%20Us/School%20Creed,%20Crest%20and%20Song/SchoolValues002.png">
+<img src="/images/About%20Us/School%20Creed,%20Crest%20and%20Song/SchoolValues002.png"></center>

@@ -34,6 +34,6 @@ third_nav_title: Our People
 					</span></td></tr><tr>
 				<td colspan="2" class="tg-vgmr"><img style="width:56%; border:1px double black" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/S12.jpg"><span style="font-weight:bold">Mr Tan Chin Seng <br>OSO
 		 </span></td><td colspan="2" class="tg-vgmr"><img style="width:54%; border:1px double black" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/lee_2021.jpg"><span style="font-weight:bold">Mr Lee Thian Soh<br>OSO
-		</span></td><td colspan="2" class="tg-vgmr"><img style="width:50%; border:1px double black" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/ai%20leng_2021.jpg"><span style="font-weight:bold">Mdm Tan Ai Leng<br>OSO
+		</span></td><td colspan="2" class="tg-vgmr"><img style="width:50%; border:1px double black" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/ai%20leng_2021.jpg"><span style="font-weight:bold">Mdm Tan Li Leng<br>OSO
 			</span></td></tr><tr>
 				<td colspan="2" class="tg-vgmr"><img style="width:56%; border:1px double black" src="/images/About%20Us/Our%20People/Executive%20and%20Admin%20Staff/S15.jpg"><span style="font-weight:bold">Mr Lim Poh Lee <br>OSO</span></td></tr></thead></table>

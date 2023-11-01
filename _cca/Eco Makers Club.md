@@ -34,7 +34,7 @@ Students will be able to:
 ##### **Introduction**
 
   
-The Science Club provides students with an interest in Science with opportunities to put on different hats and let creativity and innovation flow as they explore scientific concepts and apply them to solving challenges as an extension to the school’s Applied Learning Programme (ALP). During the weekly Science Club sessions, members work together to solve everyday problems. Students make use of the Design Thinking process and Maker-centred approach to help them draft, design and test-run their artefacts as possible solutions to the everyday problems posed to them over a three- to four-week timeframe.&nbsp;
+The Science Club provides students with an interest in Science with opportunities to put on different hats and let creativity and innovation flow as they explore scientific concepts and apply them to solving challenges as an extension to the school’s Applied Learning Programme (ALP). During the weekly sessions, members work together to solve real-world environmental issues. Students make use of the Design Thinking process and Maker-centred approach to help them draft, design and test-run their artefacts as possible solutions to the everyday problems posed to them over a three- to four-week timeframe.&nbsp;
 
 Science Club members can look forward to visiting Science Fairs, such as Singapore Youth Science Fair, and also taking part in the Science fairs to showcase their products.&nbsp;
 

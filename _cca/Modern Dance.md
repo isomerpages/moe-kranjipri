@@ -25,7 +25,7 @@ Students will be able to:
 
 | Day | Time | Remarks |
 | --- | --- | --- |
-| Tuesday | 2.15pm to 3.45pm | **ShowStopperz (SYF Team)** <br>Students will be give a schedule for the after school CCA sessions.  |
+| Tuesday | 2.15pm to 3.45pm | ShowStopperz (SYF Team) |
 
   
 

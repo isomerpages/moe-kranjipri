@@ -28,9 +28,9 @@ Students will be able to:
 
 |    Day    |        Time        |                                                    Remarks                                                   |
 |:---------:|:------------------:|:------------------------------------------------------------------------------------------------------------:|
-| Tuesday   | 3.30pm to 5.00pm   | **Talent Development Programme (SYF team)** <br>Students will be given a schedule for the after school CCA sessions. |
+| Tuesday   | 2.15pm to 3.45pm   | **Talent Development Programme (SYF team)** <br>Students will be given a schedule for the after school CCA sessions. |
 
-**Teacher IC & Email address**
+**Teacher IC &amp; Email address**
 
 |        Teacher IC        |       Email address (ICON)      |
 |:------------------------:|:-------------------------------:|
@@ -41,7 +41,7 @@ Students will be able to:
 ##### **Introduction**
   
 
-The Percussion Ensemble aims to enhance students’ musical learning experience by introducing them to various percussion instruments, both tuned and untuned. Students will play basic percussive rhythms and create music in an ensemble.  Through regular practices, students will have the opportunity to improve their musical skills while benefitting from performing in a ensemble.  To provide the Percussion Ensemble students with exposure and showcase their talents, students perform at School Assembly, Year-End Prize Giving Ceremony and participate in the biennial Singapore Youth Festival (SYF) Arts Presentation.
+The Percussion Ensemble aims to enhance students’ musical learning experience by introducing them to various percussion instruments, both tuned and untuned. Students will play basic percussive rhythms and create music in an ensemble.&nbsp; Through regular practices, students will have the opportunity to improve their musical skills while benefitting from performing in a ensemble.&nbsp; To provide the Percussion Ensemble students with exposure and showcase their talents, students perform at School Assembly, Year-End Prize Giving Ceremony and participate in the biennial Singapore Youth Festival (SYF) Arts Presentation.
 
 ##### **CCA Achievements**
 

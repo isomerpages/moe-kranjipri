@@ -58,9 +58,9 @@ Eco Makers Club members can look forward to visiting Science Fairs, such as Sing
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S1.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco makers-1.png">
 
-<figcaption> <strong> Project: Simple Toy machines (Making use of recycled materials for their prototypes). </strong> </figcaption>
+<figcaption> <strong> Using recycled materials to make a mini-portable oven that works using Solar energy </strong> </figcaption>
 
 </figure>
 

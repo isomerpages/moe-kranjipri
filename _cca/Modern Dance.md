@@ -52,6 +52,7 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 
 | Year | National | Community | School |
 | -------- | -------- | -------- | -------- |
+| 2023     | Singapore Youth Festival Art Presentation     | Performed for Limbang CCC National Day Celebration     | - Performed for KPS Arts Appreciation <br> - Performed for KPS 25th Anniversary     |
 | 2022     | Singapore Youth Festival Art Presentation     | Performed for Limbang CCC National Day Celebration     | - Performed for KPS Arts Appreciation <br> - Performed for KPS 25th Anniversary     |
 | 2019     | The Singapore Youth Festival Art Presentation is held biennially     | - Performed for Clean &amp; Green Singapore Carnival @ Causeway Point <br> - Performed in Chingay Celebrations @ Yew Tee    | - Performed for KPS National Day Celebration <br> - Performed for KPS Annual Prize Giving Day <br> - Performed for KPS Arts Appreciation Week <br> - Participated in the Primary 2 CCA Experience <br> - Participated in the China Immersion School Visit     |
 | 2019     | Participated in Singapore Youth Festival (Certificate of Distinction)     | - Performed for Dance Extravaganza @ Bukit Panjang Plaza <br> - Performed for Limbang CCC National Day Celebration     | - Participated in the KPS Racial Harmony Day recess activity <br> - Performed for KPS Arts Appreciation Week <br> - Performed for KPS National Day Celebration <br> - Performed for KPS 21st Anniversary Celebration <br> - Performed for KPS Annual Prize Giving Day     |

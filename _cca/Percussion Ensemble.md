@@ -48,8 +48,8 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 
 
-| Year | National | School |
-| -------- | -------- | -------- |
+| Year | National | Community | School | 
+| -------- | -------- | -------- | -------- |
 | 2022     | Participated in Singapore Youth Festival     | - Performed for KPS National Day Celebration <br> - Performed  for KPS 25th Anniversary Celebration     |
 
   

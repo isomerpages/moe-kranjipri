@@ -76,7 +76,7 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 <img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion-2_limbang ndp 2023.jpg">
 
 
-<figcaption> <strong> SYF Arts Presentation 2022 - Rolling Walnuts </strong> </figcaption>
+<figcaption> <strong> Limbang National Day Performance 2022 </strong> </figcaption>
 
 </figure>
 

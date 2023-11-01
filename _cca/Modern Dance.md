@@ -66,9 +66,9 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M2.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/dance-1.png">
 
-<figcaption> <strong> Weekly training with our instructor, Mr Danny Lee </strong> </figcaption>
+<figcaption> <strong> Let's end the training with a pose! </strong> </figcaption>
 
 
 

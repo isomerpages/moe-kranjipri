@@ -44,8 +44,8 @@ Changing CCA during the course of the year is not allowed unless due to valid re
 
 |       Physical Sports      | Visual & Performing Arts |  Clubs & Societies  |                    Uniformed Group                   |
 |:--------------------------:|:------------------------:|:-------------------:|:----------------------------------------------------:|
-|        [Basketball](/cca/Basketball/)**        |      [Modern Dance](/cca/Modern-Dance/)**      |     [Science Club](/cca/Science-Club/)    |                [ Scouts (boys & girls)](/cca/Scouts/) |
-|    [Football**  (boys only)](/cca/Football/) |        [Art Club](/cca/Arts/)          |  [Infocomm Media Club](/cca/Infocomm-Media-Club/) |                                                      |
-|                            |   [Percussion Ensemble](/cca/Percussion-Ensemble/)**   |                     |                                                      |
+|        [Basketball](/cca/Basketball/)*        |      [Modern Dance](/cca/Modern-Dance/)*      |     [Eco Makers Club](/cca/Science-Club/)    |                [ Scouts (boys & girls)](/cca/Scouts/) |
+|    [Football*  (boys only)](/cca/Football/) |        [Percussion Ensemble*](/cca/Percussion-Ensemble/)          |  [Infocomm Media Club](/cca/Infocomm-Media-Club/) |                                                      |
+|                            |   [Art Club](/cca/Arts/)   |                     |                                                      |
 
-\**School team training will be conducted after school for selected Primary 3 to  Primary 6 students participating in competitions.
+\**After school training sessions will be conducted for Primary 3 to Primary 6 students participating in the National School Games competitions (NSG) and Singapore Youth Festival Arts Presentation (SYF).*

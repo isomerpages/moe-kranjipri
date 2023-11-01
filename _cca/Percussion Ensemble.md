@@ -97,10 +97,3 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 </figure>
 
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P8.jpg">
-
-<figcaption> <strong> Ready, get set ,ROLL! </strong> </figcaption>
-
-</figure>

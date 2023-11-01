@@ -96,4 +96,3 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 <figcaption> <strong> Celebrating 25th Anniversary of our school </strong> </figcaption>
 
 </figure>
-

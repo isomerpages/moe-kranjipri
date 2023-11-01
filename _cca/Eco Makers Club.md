@@ -66,9 +66,9 @@ Eco Makers Club members can look forward to visiting Science Fairs, such as Sing
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S2.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco makers-2.png">
 
-<figcaption> <strong> Testing out prototypes </strong> </figcaption>
+<figcaption> <strong> Trying out different methods to prevent the spread of oil pollution in water bodies </strong> </figcaption>
 
 </figure>
 

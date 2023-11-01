@@ -80,6 +80,6 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 ![](/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/dance-3.jpg)
 <figcaption> <strong> Staying focused to learn the dance moves under the guidance of Instructor Danny. </strong> </figcaption></figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M6.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/dance-4.png">
 
 <figcaption> <strong> National Day Performance 2022 by Limbang CC </strong> </figcaption>

@@ -8,10 +8,10 @@ description: ""
 Students will be able to:  
   
 
-*   Develop an interest in Science through fun, exciting and inquiry-based hands-on activities
+
 *   Extend their knowledge about the World of Science to everydat experiences
 *   Generate new knowledge and apply current knowledge to solve authentic problems
-
+*   Tinker and propose creative methods to raise awareness for sustainability efforts.
   
 
 **Schedule**

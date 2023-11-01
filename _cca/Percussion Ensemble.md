@@ -26,9 +26,10 @@ Students will be able to:
  
 **After school schedule (for Talent Development students)**
 
-|    Day    |        Time        |                                                    Remarks                                                   |
-|:---------:|:------------------:|:------------------------------------------------------------------------------------------------------------:|
-| Tuesday   | 2.15pm to 3.45pm   | SYF team
+| Day | Time | Remarks |
+| --- | --- | --- |
+| Tuesday | 2.15pm to 3.45pm | SYF Team |
+
 
 **Teacher IC &amp; Email address**
 

@@ -51,7 +51,7 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 | Year | National | Community | School | 
 | -------- | -------- | -------- | -------- |
 | 2023     | The Singapore Youth Festival Art     | Performed for Limbang National Day Celebration     | - Performed for KPS Annual Prize Giving Day <br> - Participated in the Primary 2 CCA Experience   |
-| 2022     | Participated in Singapore Youth Festival     |      | - Performed for KPS National Day Celebration <br> - Performed  for KPS 25th Anniversary Celebration |
+| 2022     | Performed for Singapore Youth Festival Art Presentation       |      | - Performed for KPS National Day Celebration <br> - Performed  for KPS 25th Anniversary Celebration |
   
 
 **Photos of Percussion Ensemble in action**

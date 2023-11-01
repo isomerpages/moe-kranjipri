@@ -68,7 +68,7 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P3.png">
 
-<figcaption> <strong> We Love Percussion Ensemble! </strong> </figcaption>
+<figcaption> <strong> Singapore Youth Festival 2022 </strong> </figcaption>
 
 </figure>
 <figure>

@@ -84,7 +84,6 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 <img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion-tika.jpg">
 
-<figcaption> <strong> Thank you parents for your support! </strong> </figcaption>
+<figcaption> <strong> Tika ,Tika, Titi, Ta! </strong> </figcaption>
 
 </figure>
-

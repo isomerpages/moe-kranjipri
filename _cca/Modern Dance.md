@@ -25,18 +25,18 @@ Students will be able to:
 
 | Day | Time | Remarks |
 | --- | --- | --- |
-| Tuesday | 3.30pm to 5.00pm | **ShowStopperz (SYF Team)** <br>Students will be give a schedule for the after school CCA sessions.  |
+| Tuesday | 2.15pm to 3.45pm | ShowStopperz (SYF Team) |
 
   
 
-**Teacher IC & Email address**
+**Teacher IC &amp; Email address**
 
   
 
 | Teacher IC | Email address (ICON) |
 | --- | --- |
 | Mdm Nordiana Mohd Rashid | nordiana_rashid@moe.edu.sg |
-| Mdm Liu Dan | liu_dan@moe.edu.sg |
+| Mdm Shirlene Tan | shirlene_tan@moe.edu.sg |
 
   
 
@@ -52,9 +52,10 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 
 | Year | National | Community | School |
 | -------- | -------- | -------- | -------- |
-| 2022     | Singapore Youth Festival Art Presentation     | Performed for Limbang CCC National Day Celebration     | - Performed for KPS Arts Appreciation <br> - Performed for KPS 25th Anniversary     |
-| 2019     | The Singapore Youth Festival Art Presentation is held biennially     | - Performed for Clean & Green Singapore Carnival @ Causeway Point <br> - Performed in Chingay Celebrations @ Yew Tee    | - Performed for KPS National Day Celebration <br> - Performed for KPS Annual Prize Giving Day <br> - Performed for KPS Arts Appreciation Week <br> - Participated in the Primary 2 CCA Experience <br> - Participated in the China Immersion School Visit     |
-| 2019     | Participated in Singapore Youth Festival (Certificate of Distinction)     | - Performed for Dance Extravaganza @ Bukit Panjang Plaza <br> - Performed for Limbang CCC National Day Celebration     | - Participated in the KPS Racial Harmony Day recess activity <br> - Performed for KPS Arts Appreciation Week <br> - Performed for KPS National Day Celebration <br> - Performed for KPS 21st Anniversary Celebration <br> - Performed for KPS Annual Prize Giving Day     |
+| 2023     |      | Performed for Limbang CCC National Day Celebration @ Kranji Sec    | - Performed for KPS Prize Giving Day <br> - Participated in Primary 2 CCA Experience Day      |
+| 2022     | Participated in Singapore Youth Festival Arts Presentation      | Performed for Limbang CCC National Day Celebration     | - Performed for KPS 25th Anniversary <br> - Participated in Primary 2 CCA Experience Day     |
+| 2019     | The Singapore Youth Festival Art Presentation is held biennially     | - Performed for Clean &amp; Green Singapore Carnival @ Causeway Point <br> - Performed in Chingay Celebrations @ Yew Tee    | - Performed for KPS National Day Celebration <br> - Performed for KPS Annual Prize Giving Day <br> - Performed for KPS Arts Appreciation Week <br> - Participated in the Primary 2 CCA Experience <br> - Participated in the China Immersion School Visit     |
+| 2018     | Participated in Singapore Youth Festival (Certificate of Distinction)     | - Performed for Dance Extravaganza @ Bukit Panjang Plaza <br> - Performed for Limbang CCC National Day Celebration     | - Participated in the KPS Racial Harmony Day recess activity <br> - Performed for KPS Arts Appreciation Week <br> - Performed for KPS National Day Celebration <br> - Performed for KPS 21st Anniversary Celebration <br> - Performed for KPS Annual Prize Giving Day     |
 
 
 
@@ -65,26 +66,27 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M2.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/dance-1.png">
 
-<figcaption> <strong> Weekly training with our instructor, Mr Danny Lee </strong> </figcaption>
+<figcaption> <strong> Let's end the training with a pose! </strong> </figcaption>
 
+<br>
+<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/dance-2.png">
 
-
-![](/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M3.jpg)
-
-
-
-<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M4.jpg">
-
-<figcaption> <strong> SYF Arts Presentation 2022 </strong> </figcaption>
+<figcaption> <strong> Grooving to the music! </strong> </figcaption>
 
 
 
-![](/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M5.jpg)
+![](/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/dance-3.jpg)
+<figcaption> <strong> Staying focused to learn the dance moves under the guidance of Instructor Danny. </strong> </figcaption></figure>
 
-
-
-<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M6.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/dance-4.png">
 
 <figcaption> <strong> National Day Performance 2022 by Limbang CC </strong> </figcaption>
+
+
+<br>
+
+<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/dance-5.png">
+
+<figcaption> <strong> ShowStopperz participating in the Singapore Youth Festival Arts Presentation 2022 </strong> </figcaption>

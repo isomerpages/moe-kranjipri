@@ -8,10 +8,10 @@ description: ""
 Students will be able to:  
   
 
-*   Develop an interest in Science through fun, exciting and inquiry-based hands-on activities
+
 *   Extend their knowledge about the World of Science to everydat experiences
 *   Generate new knowledge and apply current knowledge to solve authentic problems
-
+*   Tinker and propose creative methods to raise awareness for sustainability efforts.
   
 
 **Schedule**
@@ -34,9 +34,9 @@ Students will be able to:
 ##### **Introduction**
 
   
-The Science Club provides students with an interest in Science with opportunities to put on different hats and let creativity and innovation flow as they explore scientific concepts and apply them to solving challenges as an extension to the school’s Applied Learning Programme (ALP). During the weekly Science Club sessions, members work together to solve everyday problems. Students make use of the Design Thinking process and Maker-centred approach to help them draft, design and test-run their artefacts as possible solutions to the everyday problems posed to them over a three- to four-week timeframe.&nbsp;
+The Science Club provides students with an interest in Science with opportunities to put on different hats and let creativity and innovation flow as they explore scientific concepts and apply them to solving challenges as an extension to the school’s Applied Learning Programme (ALP). During the weekly sessions, members work together to solve real-world environmental issues. Students make use of the Design Thinking process and Maker-centred approach to help them draft, design and test-run their artefacts as possible solutions to the everyday problems posed to them over a three- to four-week timeframe.&nbsp;
 
-Science Club members can look forward to visiting Science Fairs, such as Singapore Youth Science Fair, and also taking part in the Science fairs to showcase their products.&nbsp;
+Eco Makers Club members can look forward to visiting Science Fairs, such as Singapore Youth Science Fair, and also taking part in the Science fairs to showcase their products.&nbsp;
 
   
 
@@ -58,32 +58,32 @@ Science Club members can look forward to visiting Science Fairs, such as Singapo
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S1.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco makers-1.png">
 
-<figcaption> <strong> Project: Simple Toy machines (Making use of recycled materials for their prototypes). </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S2.png">
-
-<figcaption> <strong> Testing out prototypes </strong> </figcaption>
+<figcaption> <strong> Using recycled materials to make a mini-portable oven that works using Solar energy </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S3.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco makers-2.png">
 
-<figcaption> <strong> Project: Exploring densities of liquids (Making a Lava Lamp and Density Tower) </strong> </figcaption>
+<figcaption> <strong> Trying out different methods to prevent the spread of oil pollution in water bodies </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S4.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco makers-3.png">
 
-<figcaption> <strong> Project: Egg Drop Challenge </strong> </figcaption>
+<figcaption> <strong> Practising for mini-busking activity during CCA </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco makers-4.png">
+
+<figcaption> <strong> Proposing solutions tackle problems in different scenarios </strong> </figcaption>
 
 </figure>

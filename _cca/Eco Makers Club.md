@@ -74,7 +74,7 @@ Eco Makers Club members can look forward to visiting Science Fairs, such as Sing
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/S3.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco makers-3.jpg">
 
 <figcaption> <strong> Project: Exploring densities of liquids (Making a Lava Lamp and Density Tower) </strong> </figcaption>
 

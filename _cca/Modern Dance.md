@@ -36,7 +36,7 @@ Students will be able to:
 | Teacher IC | Email address (ICON) |
 | --- | --- |
 | Mdm Nordiana Mohd Rashid | nordiana_rashid@moe.edu.sg |
-| Mdm Liu Dan | liu_dan@moe.edu.sg |
+| Mdm Shirlene Tan | shirlene_tan@moe.edu.sg |
 
   
 

@@ -48,4 +48,4 @@ Changing CCA during the course of the year is not allowed unless due to valid re
 |    [Football*  (boys only)](/cca/Football/) |        [Percussion Ensemble*](/cca/Percussion-Ensemble/)          |  [Infocomm Media Club](/cca/Infocomm-Media-Club/) |                                                      |
 |                            |   [Art Club](/cca/Arts/)   |                     |                                                      |
 
-\*After school training sessions will be conducted for Primary 3 to Primary 6 students participating in the National School Games competitions (NSG) and Singapore Youth Festival Arts Presentation (SYF).
+\**After school training sessions will be conducted for Primary 3 to Primary 6 students participating in the National School Games competitions (NSG) and Singapore Youth Festival Arts Presentation (SYF).*

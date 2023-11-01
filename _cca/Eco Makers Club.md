@@ -1,6 +1,6 @@
 ---
-title: Science Club
-permalink: /cca/Science-Club/
+title: Eco Makers Club
+permalink: /cca/eco-makers-club/
 description: ""
 ---
 ##### **Objectives**
@@ -23,7 +23,7 @@ Students will be able to:
 | Friday | 7.30am to 8.30am | Within curriculum hours |
 
   
-**Teacher IC & Email address**  
+**Teacher IC &amp; Email address**  
   
 |          Teacher IC          |  Email address (ICON)  |
 |:----------------------------:|:----------------------:|
@@ -34,9 +34,9 @@ Students will be able to:
 ##### **Introduction**
 
   
-The Science Club provides students with an interest in Science with opportunities to put on different hats and let creativity and innovation flow as they explore scientific concepts and apply them to solving challenges as an extension to the school’s Applied Learning Programme (ALP). During the weekly Science Club sessions, members work together to solve everyday problems. Students make use of the Design Thinking process and Maker-centred approach to help them draft, design and test-run their artefacts as possible solutions to the everyday problems posed to them over a three- to four-week timeframe. 
+The Science Club provides students with an interest in Science with opportunities to put on different hats and let creativity and innovation flow as they explore scientific concepts and apply them to solving challenges as an extension to the school’s Applied Learning Programme (ALP). During the weekly Science Club sessions, members work together to solve everyday problems. Students make use of the Design Thinking process and Maker-centred approach to help them draft, design and test-run their artefacts as possible solutions to the everyday problems posed to them over a three- to four-week timeframe.&nbsp;
 
-Science Club members can look forward to visiting Science Fairs, such as Singapore Youth Science Fair, and also taking part in the Science fairs to showcase their products. 
+Science Club members can look forward to visiting Science Fairs, such as Singapore Youth Science Fair, and also taking part in the Science fairs to showcase their products.&nbsp;
 
   
 
@@ -46,7 +46,7 @@ Science Club members can look forward to visiting Science Fairs, such as Singapo
 
 | Year | Events | 
 | -------- | -------- | 
-| 2019     | - Participated in Makers' Fiesta @ Westwood Primary School br> - Participated in National Flight Simulation Challenge @ Northbrooks Secondary School     | 
+| 2019     | - Participated in Makers' Fiesta @ Westwood Primary School br&gt; - Participated in National Flight Simulation Challenge @ Northbrooks Secondary School     | 
 | 2017     | - Submitted projects for Sony Creative Toy Competition     | 
 
 

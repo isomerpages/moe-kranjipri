@@ -71,14 +71,9 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 <figcaption> <strong> Let's end the training with a pose! </strong> </figcaption>
 
 
+<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/dance-2.png">
 
-![](/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M3.jpg)
-
-
-
-<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/M4.jpg">
-
-<figcaption> <strong> SYF Arts Presentation 2022 </strong> </figcaption>
+<figcaption> <strong> Grooving to the music! </strong> </figcaption>
 
 
 

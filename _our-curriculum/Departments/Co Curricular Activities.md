@@ -44,7 +44,7 @@ Changing CCA during the course of the year is not allowed unless due to valid re
 
 |       Physical Sports      | Visual & Performing Arts |  Clubs & Societies  |                    Uniformed Group                   |
 |:--------------------------:|:------------------------:|:-------------------:|:----------------------------------------------------:|
-|        [Basketball](/cca/Basketball/)*        |      [Modern Dance](/cca/Modern-Dance/)*      |     [Eco Makers Club](/cca/Science-Club/)    |                [ Scouts (boys & girls)](/cca/Scouts/) |
+|        [Basketball](/cca/Basketball/)*        |      [Modern Dance](/cca/Modern-Dance/)*      |     [Eco Makers Club](/cca/eco-makers-Club/)    |                [ Scouts (boys & girls)](/cca/Scouts/) |
 |    [Football*  (boys only)](/cca/Football/) |        [Percussion Ensemble*](/cca/Percussion-Ensemble/)          |  [Infocomm Media Club](/cca/Infocomm-Media-Club/) |                                                      |
 |                            |   [Art Club](/cca/Arts/)   |                     |                                                      |
 

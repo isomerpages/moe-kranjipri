@@ -82,16 +82,9 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P6.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion-tika.jpg">
 
 <figcaption> <strong> Thank you parents for your support! </strong> </figcaption>
 
 </figure>
 
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P7.png">
-
-<figcaption> <strong> Celebrating 25th Anniversary of our school </strong> </figcaption>
-
-</figure>

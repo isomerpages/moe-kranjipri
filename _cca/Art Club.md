@@ -68,15 +68,14 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-1.jpg">
 
-<figcaption> <strong> Art Club seniors expressing their version of Garden City on our very own Doodle wall. </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A2.jpg">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-2.jpg">
 
-<figcaption> <strong> A group photo in front of our hard work! (2019 SYF) </strong> </figcaption>
+<figcaption> <strong> Weaving Paper! </strong> </figcaption>
 
 </figure>
 
@@ -85,7 +84,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/Art/Recognition.jpg">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/Art/art_2024-3.jpg">
 	<figcaption> <strong> Certificate of Recognition "Technology in our Lives" by the P2 students </strong> </figcaption>
 
 </figure>

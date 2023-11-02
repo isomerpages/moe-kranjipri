@@ -76,9 +76,9 @@ Members will also have opportunities to take part in competitions such as the Na
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/I2.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_2024-1.jpg">
 
-<figcaption> <strong> Students celebrating their success as they emerged champion in the IMDA's DISCOVER 65Drones Learning Journey after beating other members. They won a drone. </strong> </figcaption>
+<figcaption> <strong> Students presenting their projects in the IMDAs LEARN Immersive New Media Junior Programme with Apple and Digital Maker with Microsoft Programme. </strong> </figcaption>
 
 </figure>
 

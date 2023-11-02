@@ -10,7 +10,7 @@ Students will be able to:
 
 *   Acquire knowledge and skills in art making and art appreciation
 *   Be exposed to various Art mediums
-*   Create art with like-minded peers in an aesthetically conducive environment 
+*   Create art with like-minded peers in an aesthetically conducive environment&nbsp;
 
 **Schedule**
 
@@ -20,13 +20,13 @@ Students will be able to:
 | Friday | 7.30am to 8.30am | Within curriculum hours |
 
 
-**Teacher IC & Email address**
+**Teacher IC &amp; Email address**
 
 
 | Teacher IC | Email address (ICON) |
 | --- | --- |
-| Miss Fan Yiou | fan_yiou@moe.edu.sg |
 | Mrs Gwen Tan | gwen_tan@moe.edu.sg |
+| Mdm Valerie Liaw | liaw_bee_ling@moe.edu.sg |
 
   
 
@@ -35,7 +35,7 @@ Students will be able to:
 
   
 
-The Art Club focuses on letting the students demonstrate their creativity and skills by exploring different genres, mediums and materials. They then translate their ideas and thoughts into actual artworks. Our external instructors lend their expertise to expose students to various art processes as an extension to their weekly art CCA sessions. Some activities that we carry out during Art Club CCA are: 
+The Art Club focuses on letting the students demonstrate their creativity and skills by exploring different genres, mediums and materials. They then translate their ideas and thoughts into actual artworks. Our external instructors lend their expertise to expose students to various art processes as an extension to their weekly art CCA sessions. Some activities that we carry out during Art Club CCA are:&nbsp;
 
 *   Pottery
 *   Acrylic painting
@@ -53,7 +53,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
                                                                                                                        
 |     |                                                                                |                                                                                                             
 |:--------:|:-----------------------------------------------------------|
-|  2021    | Attained Certificate of Recognition at the Singapore Youth Festival (SYF) Arts Exhibition with mixed media collage, "Technology in Our Lives" by P2 students.  |     
+|  2023    | Attained Certificate of Recognition at the Singapore Youth Festival (SYF) Arts Exhibition with mixed media collage, "M.O.O.D.S" by our P5 &amp; P6 students.  |     
 |  2019    | Attained Certificate of Recognition at the Singapore Youth Festival (SYF) Arts Exhibition with mixed media collage, "Embrace Differences. Celebrate" by our P5 and 6 students. Selected to conduct Artists' Talk and fringe activities at the Singapore Museum in conjunction with SYF 2019 | 
 |  2017    | Attained Certificate of Recognition at the Singapore Youth Festival Arts Exhibition with sculpture, "My Magic Playground" by our P5 and 6 students | 
 
@@ -66,27 +66,16 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A1.jpg">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-1.jpg">
 
-<figcaption> <strong> Art Club seniors expressing their version of Garden City on our very own Doodle wall. </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A2.jpg">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-2.jpg">
 
-<figcaption> <strong> A group photo in front of our hard work! (2019 SYF) </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-
-
-
-<img style="width:59%;height:50%" 		src="/images/Our%20Curriculum/Departments/Art/Recognition.jpg">
-	<figcaption> <strong> Certificate of Recognition "Technology in our Lives" by the P2 students </strong> </figcaption>
+<figcaption> <strong> Weaving Paper! </strong> </figcaption>
 
 </figure>
 
@@ -94,63 +83,56 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 
 
-<img style="width:59%;height:50%" 	src="/images/Our%20Curriculum/Departments/Art/hard%20at%20work.jpg">	
-<figcaption> <strong> Hard at work </strong> </figcaption>
+
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-3.jpg">
+	
 
 </figure>
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A5.png">
 
-<figcaption> <strong> With teachers' guidance </strong> </figcaption>
 
-</figure>
-
-<figure>
-
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A6.jpg">
-
-<figcaption> <strong> Art is best enjoyed with friends </strong> </figcaption>
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-4.jpg">
+	
+<figcaption> <strong> Admiring each other's ceramic creation  </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A7.jpg">
-
-<figcaption> <strong> Joy and satisfaction from doing the things we love </strong> </figcaption>
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-5.jpg">
 
 </figure>
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A8.png">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-6.jpg">
 
-<figcaption> <strong> With our very own kiln, we dabble with Ceramics too! </strong> </figcaption>
 
-</figure>
-
-<figure>
-
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A9.jpg">
-
-<figcaption> <strong> Art Club students getting creative with a ceramic tile. Our ceramic lessons are all conducted by experienced instructors. </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A10.jpg">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-7.jpg">
 
-<figcaption> <strong> Displaying Art Club Works at KPS Art Exhibition </strong> </figcaption>
+
 
 </figure>
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A11.jpg">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-8.png">
 
-<figcaption> <strong> Ceramic Art Works </strong> </figcaption>
+<figcaption> <strong> 2023 SYF P5 &amp; P6 </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-9.jpg">
+
+
 
 </figure>

@@ -31,26 +31,26 @@ Students will be able to:
 
 | Day | Time | Remarks |
 | --- | --- | --- |
-| Tuesday | 3.30pm to 5.30pm | Junior Boys & Senior Boys |
-|  Thursday | 3.30pm to 5.30pm | Junior Boys & Senior Boys  |
+| Tuesday | 3.30pm to 5.30pm | Junior Boys &amp; Senior Boys |
+| &nbsp;Thursday | 3.30pm to 5.30pm | Junior Boys &amp; Senior Boys&nbsp; |
 
   
 
-**Teacher IC & Email address**
+**Teacher IC &amp; Email address**
 
 
 | Teacher IC | Email address (ICON) |
 | --- | --- |
-| Miss Cheng Liyin | cheng_liyin@moe.edu.sg |
-| Mr Jansen Lee | lee_chang_sheng_jansen@moe.edu.sg  
+| Mr Jansen Lee | lee_chang_sheng_jansen@moe.edu.sg |
+| Miss Cheng Liyin | cheng_liyin@moe.edu.sg  
  |
 
 ##### **Introduction**
   
 
-Each session of Football CCA is planned to develop members not only to acquire the basic skills in Football, but also to equip them with critical and creative thinking skills both on and off the football pitch.  Members of the football team are also exposed to  21st-century competencies such as teamwork, problem-solving skills, and the opportunity to practise the school values of respect, responsibility, resilience, integrity and care. In the design of the programme for students, the readiness and profile of students are taken into consideration and a differentiated approach is adopted. For example, we have developed a specific training programme for Primary 3 students who have limited exposure to the game while the students in other levels are exposed to more advanced skills and game play. 
+Each session of Football CCA is planned to develop members not only to acquire the basic skills in Football, but also to equip them with critical and creative thinking skills both on and off the football pitch.&nbsp; Members of the football team are also exposed to &nbsp;21st-century competencies such as teamwork, problem-solving skills, and the opportunity to practise the school values of respect, responsibility, resilience, integrity and care. In the design of the programme for students, the readiness and profile of students are taken into consideration and a differentiated approach is adopted. For example, we have developed a specific training programme for Primary 3 students who have limited exposure to the game while the students in other levels are exposed to more advanced skills and game play.&nbsp;
 
-Selected students in Football will be able to participate in the National School Games and other inter-school friendly tournaments as part of their development in the Football CCA. Through these competitions, Kranji footballers have also been talent scouted to play for football clubs like Warriors Football Club and ActiveSG Football Academy. 
+Selected students in Football will be able to participate in the National School Games and other inter-school friendly tournaments as part of their development in the Football CCA. Through these competitions, Kranji footballers have also been talent scouted to play for football clubs like Warriors Football Club and ActiveSG Football Academy.&nbsp;
 
   
 
@@ -65,6 +65,7 @@ Selected students in Football will be able to participate in the National School
 
 | Year | NSG Competition | Others |
 | -------- | -------- | -------- |
+| 2023     | Junior Boys - Tier 2 <br> Senior Boys - 1st Round    |      |
 | 2022     | Junior Boys - Tier 2 <br> Senior Boys - West Zone Quarter Finals    | Assumption English School 8-A Side Tournament 2nd      |
 | 2019     | Junior Boys - 1st Round <br> Senior Boys - 1st Round      | Kranji Cup - **Champion** <br> Admiralty Primary and Active SG Cup - 1st Runner-Up
 | 2018     |Junior Boys - 1st Round <br> Senior Boys - 1st Round      | Xingnan Invitation - Group Stages
@@ -74,9 +75,9 @@ Selected students in Football will be able to participate in the National School
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F2.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/football_2024-1.jpg">
 
-<figcaption> <strong> Senior Boys Austin in action during the AES 8-a-side Tournament </strong> </figcaption>
+<figcaption> <strong> Friendlies. </strong> </figcaption>
 
 </figure>
 
@@ -84,24 +85,22 @@ Selected students in Football will be able to participate in the National School
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F3.jpg">
 
-<figcaption> <strong> Junior Boy Rayyan setting himself up for a shot during the NSG Tournament </strong> </figcaption>
-
-</figure>
-
-**Junior and Senior Boys in NSG 2022**
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F4.jpg">
-
-<figcaption> <strong> Senior Boys before a NSG match </strong> </figcaption>
+<figcaption> <strong> NSG 2022 Juniors Competition </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F5.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/football_2024-2.jpg">
 
-<figcaption> <strong> Junior Boys listening intently on how to improve during the second half </strong> </figcaption>
+<figcaption> <strong> Work hard, dream big! </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/football_2024-3.jpg">
+
+<figcaption> <strong> NSG 2023 Football Junior Division Team </strong> </figcaption>
 
 </figure>

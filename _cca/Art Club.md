@@ -66,7 +66,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A1.jpg">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-1.jpg">
 
 <figcaption> <strong> Art Club seniors expressing their version of Garden City on our very own Doodle wall. </strong> </figcaption>
 

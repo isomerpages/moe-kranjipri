@@ -10,7 +10,7 @@ Students will be able to:
 
 *   Acquire knowledge and skills in art making and art appreciation
 *   Be exposed to various Art mediums
-*   Create art with like-minded peers in an aesthetically conducive environment 
+*   Create art with like-minded peers in an aesthetically conducive environment&nbsp;
 
 **Schedule**
 
@@ -20,12 +20,12 @@ Students will be able to:
 | Friday | 7.30am to 8.30am | Within curriculum hours |
 
 
-**Teacher IC & Email address**
+**Teacher IC &amp; Email address**
 
 
 | Teacher IC | Email address (ICON) |
 | --- | --- |
-| Miss Fan Yiou | fan_yiou@moe.edu.sg |
+| Mrs Gwen Tan | gwen_tan@moe.edu.sg |
 | Mrs Gwen Tan | gwen_tan@moe.edu.sg |
 
   
@@ -35,7 +35,7 @@ Students will be able to:
 
   
 
-The Art Club focuses on letting the students demonstrate their creativity and skills by exploring different genres, mediums and materials. They then translate their ideas and thoughts into actual artworks. Our external instructors lend their expertise to expose students to various art processes as an extension to their weekly art CCA sessions. Some activities that we carry out during Art Club CCA are: 
+The Art Club focuses on letting the students demonstrate their creativity and skills by exploring different genres, mediums and materials. They then translate their ideas and thoughts into actual artworks. Our external instructors lend their expertise to expose students to various art processes as an extension to their weekly art CCA sessions. Some activities that we carry out during Art Club CCA are:&nbsp;
 
 *   Pottery
 *   Acrylic painting
@@ -85,7 +85,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 
 
-<img style="width:59%;height:50%" 		src="/images/Our%20Curriculum/Departments/Art/Recognition.jpg">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/Art/Recognition.jpg">
 	<figcaption> <strong> Certificate of Recognition "Technology in our Lives" by the P2 students </strong> </figcaption>
 
 </figure>
@@ -94,7 +94,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 
 
-<img style="width:59%;height:50%" 	src="/images/Our%20Curriculum/Departments/Art/hard%20at%20work.jpg">	
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/Art/hard%20at%20work.jpg">	
 <figcaption> <strong> Hard at work </strong> </figcaption>
 
 </figure>

@@ -140,9 +140,9 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-9.jpg">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-8.png">
 
-<figcaption> <strong> Displaying Art Club Works at KPS Art Exhibition </strong> </figcaption>
+<figcaption> <strong> 2023 SYF P5 &amp; P6 </strong> </figcaption>
 
 </figure>
 

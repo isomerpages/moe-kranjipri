@@ -31,26 +31,26 @@ Students will be able to:
 
 | Day | Time | Remarks |
 | --- | --- | --- |
-| Tuesday | 3.30pm to 5.30pm | Junior Boys & Senior Boys |
-|  Thursday | 3.30pm to 5.30pm | Junior Boys & Senior Boys  |
+| Tuesday | 3.30pm to 5.30pm | Junior Boys &amp; Senior Boys |
+| &nbsp;Thursday | 3.30pm to 5.30pm | Junior Boys &amp; Senior Boys&nbsp; |
 
   
 
-**Teacher IC & Email address**
+**Teacher IC &amp; Email address**
 
 
 | Teacher IC | Email address (ICON) |
 | --- | --- |
-| Miss Cheng Liyin | cheng_liyin@moe.edu.sg |
-| Mr Jansen Lee | lee_chang_sheng_jansen@moe.edu.sg  
+| Mr Jansen Lee | lee_chang_sheng_jansen@moe.edu.sg |
+| Miss Cheng Liyin | cheng_liyin@moe.edu.sg  
  |
 
 ##### **Introduction**
   
 
-Each session of Football CCA is planned to develop members not only to acquire the basic skills in Football, but also to equip them with critical and creative thinking skills both on and off the football pitch.  Members of the football team are also exposed to  21st-century competencies such as teamwork, problem-solving skills, and the opportunity to practise the school values of respect, responsibility, resilience, integrity and care. In the design of the programme for students, the readiness and profile of students are taken into consideration and a differentiated approach is adopted. For example, we have developed a specific training programme for Primary 3 students who have limited exposure to the game while the students in other levels are exposed to more advanced skills and game play. 
+Each session of Football CCA is planned to develop members not only to acquire the basic skills in Football, but also to equip them with critical and creative thinking skills both on and off the football pitch.&nbsp; Members of the football team are also exposed to &nbsp;21st-century competencies such as teamwork, problem-solving skills, and the opportunity to practise the school values of respect, responsibility, resilience, integrity and care. In the design of the programme for students, the readiness and profile of students are taken into consideration and a differentiated approach is adopted. For example, we have developed a specific training programme for Primary 3 students who have limited exposure to the game while the students in other levels are exposed to more advanced skills and game play.&nbsp;
 
-Selected students in Football will be able to participate in the National School Games and other inter-school friendly tournaments as part of their development in the Football CCA. Through these competitions, Kranji footballers have also been talent scouted to play for football clubs like Warriors Football Club and ActiveSG Football Academy. 
+Selected students in Football will be able to participate in the National School Games and other inter-school friendly tournaments as part of their development in the Football CCA. Through these competitions, Kranji footballers have also been talent scouted to play for football clubs like Warriors Football Club and ActiveSG Football Academy.&nbsp;
 
   
 

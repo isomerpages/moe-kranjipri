@@ -93,14 +93,14 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/Art/hard%20at%20work.jpg">	
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/Art/art_2024-4.jpg">	
 <figcaption> <strong> Hard at work </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A5.png">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-5.jpg">
 
 <figcaption> <strong> With teachers' guidance </strong> </figcaption>
 
@@ -108,9 +108,9 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A6.jpg">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-6.jpg">
 
-<figcaption> <strong> Art is best enjoyed with friends </strong> </figcaption>
+
 
 </figure>
 

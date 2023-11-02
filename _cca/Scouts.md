@@ -43,7 +43,7 @@ Scouts sessions take the form of an opening ceremony, activities for progress ba
 
   
 
-Scouts are able to earn badges and awards upon completion&nbsp;of an accomplishment or the learning of a&nbsp;new skill. Sometimes the reward is a pin, patch or trophy. Awards patches&nbsp;are prominently displayed on the Scout uniform, which they wear with pride. Scouts is a great place for boys and girls to learn essential life and leadership skills, which has both a positive impact on their social and educational development.
+Scouts can earn badges and awards upon completion&nbsp;of an accomplishment or the learning of a&nbsp;new skill. Sometimes the reward is a pin, patch or trophy. Awards patches&nbsp;are prominently displayed on the Scout uniform, which they wear with pride. Scouts is a great place for boys and girls to learn essential life and leadership skills, which has both a positive impact on their social and educational development.
 
   
 

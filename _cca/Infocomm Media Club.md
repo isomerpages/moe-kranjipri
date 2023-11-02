@@ -72,7 +72,7 @@ Members will also have opportunities to take part in competitions such as the Na
 | 2017     | - Took part in National Coding Competition 2017 (Bronze Award) <br> - Took part in Schools Digital Media Awards 2017 (SDMA) Competition <br> - Attended Film Production Programme conducted by Kelvin Sng Productions Pte Ltd     | 
 
 
-**Photos of our Digital Media Club students in action**
+**Photos of our Infocomm Media Club students in action**
 
 <figure>
 

@@ -76,7 +76,7 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/S1NEW.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/scout_2024-1.jpg">
 
 <figcaption> <strong> Flag bearers during National Day Observance Ceremony </strong> </figcaption>
 
@@ -84,9 +84,9 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/S2.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/scout_2024-2.jpg">
 
-<figcaption> <strong> Tent-pitching </strong> </figcaption>
+<figcaption> <strong> 2 Days 1 Night Cub Scouts Leadership Course. </strong> </figcaption>
 
 </figure>
 

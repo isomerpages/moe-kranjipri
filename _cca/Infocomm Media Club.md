@@ -24,7 +24,7 @@ Students will be able to:
 
   
 
-**Teacher IC & Email address**
+**Teacher IC &amp; Email address**
 
   
 
@@ -35,23 +35,23 @@ Students will be able to:
 
 ##### **Introduction**
 
-Digital Media Club works with Infocomm Media Development Authority (IMDA) to offer members opportunities to pursue their interest, deepen their learning in emerging technologies and gain industry exposure. Members will indulge in activities under the **DISCOVER,** **LEARN, SERVE** and **EXCEL** pillars.
+Infocomm Media Club works with Infocomm Media Development Authority (IMDA) to offer members opportunities to pursue their interest, deepen their learning in emerging technologies and gain industry exposure. Members will indulge in activities under the&nbsp;**DISCOVER,**&nbsp;**LEARN, SERVE**&nbsp;and&nbsp;**EXCEL**&nbsp;pillars.
 
   
 
-**DISCOVER:** Members enjoy exclusive tech an media learning journeys, curated authentic learning experiences with hands-on activities.
+**DISCOVER:**&nbsp;Members enjoy exclusive tech an media learning journeys, curated authentic learning experiences with hands-on activities.
 
   
 
-**LEARN:** Members get trained in emerging technologies in comprehensive courses, accelerators and bootcamps.
+**LEARN:**&nbsp;Members get trained in emerging technologies in comprehensive courses, accelerators and bootcamps.
 
   
 
-**SERVE:** Members are empowered to enrich lives through meaningful Values-in-Action projects.
+**SERVE:**&nbsp;Members are empowered to enrich lives through meaningful Values-in-Action projects.
 
   
 
-**EXCEL:** Members get to compete on a national stage.
+**EXCEL:**&nbsp;Members get to compete on a national stage.
 
   
 

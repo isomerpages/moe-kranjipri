@@ -35,9 +35,9 @@ Students will be able to:
 |          | 4pm to 6pm | Junior Boys and Girls (P5) |
 | Thursday | 2pm to 4pm | Junior Boys and Girls (P4) |
 |       | 4pm to 6pm | Junior Boys and Girls (P5) |
-| Friday   | 2pm to 5pm | Senior Boys and Girls (P6) |
+| Friday   | 2pm to 4pm | Junior Boys and Girls (P6) |
 |          | 2pm to 4pm | Junior Boys and Girls (P4) |
-|          | 4pm to 6pm | Junior Boys and Girls (P5) |
+|          | 4pm to 6pm | Senior Boys and Girls (P5) |
 
   
 

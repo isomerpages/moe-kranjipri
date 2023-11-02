@@ -31,9 +31,8 @@ Students will be able to:
 
 | Day      | Time       | Remarks                    |
 |----------|------------|----------------------------|
-| Tuesday  | 2pm to 6pm | Senior Boys and Girls (P6) |
-|          | 2pm to 4pm | Junior Boys and Girls (P4) |
-|          | 4pm to 6pm | Junior Boys and Girls (P5) |
+| Tuesday  | 2pm to 4pm | Junior Boys and Girls (P4) |
+|          | 2pm to 4pm | Junior Boys and Girls (P5) |
 | Thursday | 2pm to 6pm | Senior Boys and Girls (P6) |
 |       | 2pm to 6pm | Junior Boys and Girls (P4) |
 |          | 4pm to 6pm | Junior Boys and Girls (P5) |
@@ -43,7 +42,7 @@ Students will be able to:
 
   
 
-**Teacher IC & Email address**
+**Teacher IC &amp; Email address**
 
 | Teacher IC | Email address (ICON) |
 | --- | --- |
@@ -55,7 +54,7 @@ Students will be able to:
 ##### **Introduction**
   
 
-Development of students is differentiated based on their readiness. After a quick warm up, they are guided through routines like dribbling, lay-ups and ball control. Students with more advanced basketball skills will practise attacking and defensive drills. They will also take part in basketball games to put into practice what they have learnt. School team players work with the coaches on more specific drills such as attack or defence moves and set plays. 
+Development of students is differentiated based on their readiness. After a quick warm up, they are guided through routines like dribbling, lay-ups and ball control. Students with more advanced basketball skills will practise attacking and defensive drills. They will also take part in basketball games to put into practice what they have learnt. School team players work with the coaches on more specific drills such as attack or defence moves and set plays.&nbsp;
 
   
 
@@ -63,7 +62,7 @@ As part of the development, school team players will be able to participate in t
 
   
 
-Kranji Basketball has also supported many players to gain entry into secondary schools through Direct School Admission (DSA).  The following are some of the schools that our alumni players have attained entry to through DSA:  
+Kranji Basketball has also supported many players to gain entry into secondary schools through Direct School Admission (DSA).&nbsp; The following are some of the schools that our alumni players have attained entry to through DSA:  
 
   
 

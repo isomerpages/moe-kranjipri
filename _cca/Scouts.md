@@ -92,17 +92,17 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/S3.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/scout_2024-3.jpg">
 
-<figcaption> <strong> West Area Cub Scout Field Day - Sarimbun Camp </strong> </figcaption>
+<figcaption> <strong> Scouts Reading Programme with MK students </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/S4.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/scout_2024-4.jpg">
 
-<figcaption> <strong> Sing-a-long session with actions </strong> </figcaption>
+<figcaption> <strong> Opening Ceremony In the West Area Cub Scout Field Day </strong> </figcaption>
 
 </figure>
 

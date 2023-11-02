@@ -93,8 +93,8 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/Art/art_2024-4.jpg">	
-<figcaption> <strong> Hard at work </strong> </figcaption>
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/Art/art_2024-4.png">	
+<figcaption> <strong> Admiring each other's ceramic creation  </strong> </figcaption>
 
 </figure>
 
@@ -102,9 +102,15 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-5.jpg">
 
-<figcaption> <strong> With teachers' guidance </strong> </figcaption>
+
 
 </figure>
+
+
+
+
+
+
 
 <figure>
 
@@ -118,23 +124,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-7.jpg">
 
-<figcaption> <strong> Joy and satisfaction from doing the things we love </strong> </figcaption>
 
-</figure>
-
-<figure>
-
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-8.jpg">
-
-<figcaption> <strong> With our very own kiln, we dabble with Ceramics too! </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-9.jpg">
-
-<figcaption> <strong> Art Club students getting creative with a ceramic tile. Our ceramic lessons are all conducted by experienced instructors. </strong> </figcaption>
 
 </figure>
 

@@ -84,7 +84,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/Art/art_2024-3.jpg">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/Art/art_2024-3.png">
 	
 
 </figure>

@@ -85,7 +85,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 
 <img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/Art/art_2024-3.jpg">
-	<figcaption> <strong> Certificate of Recognition "Technology in our Lives" by the P2 students </strong> </figcaption>
+	
 
 </figure>
 

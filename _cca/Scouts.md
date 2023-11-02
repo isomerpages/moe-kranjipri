@@ -106,26 +106,7 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 
 </figure>
 
-<figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/S5.jpg">
 
-<figcaption> <strong> Knots Tying Skill </strong> </figcaption>
 
-</figure>
 
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/S6.jpg">
-
-<figcaption> <strong> First Aid - Arm Sling </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/S7.jpg">
-
-<figcaption> <strong> West Area Cub Scout Leadership Course - Sarimbun Camp </strong> </figcaption>
-
-</figure>

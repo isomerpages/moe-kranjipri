@@ -116,7 +116,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A7.jpg">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-7.jpg">
 
 <figcaption> <strong> Joy and satisfaction from doing the things we love </strong> </figcaption>
 
@@ -124,7 +124,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A8.png">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-8.jpg">
 
 <figcaption> <strong> With our very own kiln, we dabble with Ceramics too! </strong> </figcaption>
 
@@ -132,7 +132,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A9.jpg">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-9.jpg">
 
 <figcaption> <strong> Art Club students getting creative with a ceramic tile. Our ceramic lessons are all conducted by experienced instructors. </strong> </figcaption>
 
@@ -140,7 +140,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A10.jpg">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-9.jpg">
 
 <figcaption> <strong> Displaying Art Club Works at KPS Art Exhibition </strong> </figcaption>
 
@@ -148,8 +148,8 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/A11.jpg">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-9.jpg">
 
-<figcaption> <strong> Ceramic Art Works </strong> </figcaption>
+
 
 </figure>

@@ -75,9 +75,9 @@ Selected students in Football will be able to participate in the National School
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F2.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/football_2024-1.jpg">
 
-<figcaption> <strong> Senior Boys Austin in action during the AES 8-a-side Tournament </strong> </figcaption>
+<figcaption> <strong> Friendlies. </strong> </figcaption>
 
 </figure>
 
@@ -85,24 +85,22 @@ Selected students in Football will be able to participate in the National School
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F3.jpg">
 
-<figcaption> <strong> Junior Boy Rayyan setting himself up for a shot during the NSG Tournament </strong> </figcaption>
-
-</figure>
-
-**Junior and Senior Boys in NSG 2022**
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F4.jpg">
-
-<figcaption> <strong> Senior Boys before a NSG match </strong> </figcaption>
+<figcaption> <strong> NSG 2022 Juniors Competition </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F5.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/football_2024-2.jpg">
 
-<figcaption> <strong> Junior Boys listening intently on how to improve during the second half </strong> </figcaption>
+<figcaption> <strong> Work hard, dream big! </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/football_2024-3.jpg">
+
+<figcaption> <strong> NSG 2023 Football Junior Division Team </strong> </figcaption>
 
 </figure>

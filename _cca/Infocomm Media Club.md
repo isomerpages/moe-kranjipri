@@ -93,17 +93,17 @@ Members will also have opportunities to take part in competitions such as the Na
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/I4.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_2024-3.jpg">
 
-<figcaption> <strong> Students learning and presenting in the IMDA's SERVE Emerging Tech x Values-in-Action Project (Social Robots) </strong> </figcaption>
+<figcaption> <strong> Students at the Swift Explorers Singapore 2023 Celebration Swift Explorers Singapore Graduation Ceremony Showcase. </strong> </figcaption>
 
 </figure>
 
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/I5.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_2024-4.jpg">
 
-<figcaption> <strong> Students showcasing their project at the Swift Explorers Singapore Graduation Ceremony Showcase and students who completed the Inclusive App Design Challenge Everyone Can Code Bootcamp in Swift Explorers Singapore </strong> </figcaption>
+<figcaption> <strong> Students at the National Digital Explorers 2023 National Round. </strong> </figcaption>
 
 </figure>

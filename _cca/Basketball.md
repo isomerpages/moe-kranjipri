@@ -96,49 +96,41 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 <figure>
 	<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_2024-1.jpg">
-<figcaption> <strong> Eyes on the prize! Our student athletes receive their well-deserved recognitions for their hard work all year round. </strong> </figcaption>
+<figcaption> <strong> Watch us as we buskets! </strong> </figcaption>
 	</figure>
 <figure>
 <img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_2024-2.jpg">
-<figcaption> <strong> Eyes on the prize! Our student athletes receive their well-deserved recognitions for their hard work all year round. </strong> </figcaption>
+<figcaption> <strong> No one can stop me, I will protect the ball. </strong> </figcaption>
 
 </figure>
 
 
 <figure>
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_in_action.jpg">
-<figcaption> <strong> Applying what we learn during training in the competition </strong> </figcaption>
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_2024-3.jpg">
+<figcaption> <strong> Skyhigh for the busket! </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B3.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_2024-4.jpg">
 
-<figcaption> <strong> Soar for the sky! Watch me score this bucket! </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B4.jpg">
-
-<figcaption> <strong> Somebody has to win, so why not me? </strong> </figcaption>
+<figcaption> <strong> National School Games Senior Division Girls </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B5.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_2024-6.jpg">
 
-<figcaption> <strong> Not going down without a fight </strong> </figcaption>
+<figcaption> <strong> Eyes on the prize, we can do it together as a team! </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/B6.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_2024-7.jpg">
 
-<figcaption> <strong> You miss 100% of the shots that you don't take... I'm definitely taking this one! </strong> </figcaption>
+<figcaption> <strong> Let's go Kranjians! We can do it! </strong> </figcaption>
 
 </figure>

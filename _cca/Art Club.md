@@ -84,7 +84,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/Art/art_2024-3.png">
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-3.jpg">
 	
 
 </figure>
@@ -93,7 +93,8 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/Art/art_2024-4.png">	
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-4.jpg">
+	
 <figcaption> <strong> Admiring each other's ceramic creation  </strong> </figcaption>
 
 </figure>

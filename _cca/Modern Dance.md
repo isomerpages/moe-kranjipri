@@ -79,7 +79,15 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 <figcaption> <strong>  Grooving to the music!  </strong> </figcaption>
 
 </figure>
-	
+
+<figure>
+
+<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/dance-3.jpg">
+
+<figcaption> <strong>  Staying focused to learn the dance moves under the guidance of Instructor Danny  </strong> </figcaption>
+
+</figure>
+
 <br>
 <img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/dance-2.png">
 

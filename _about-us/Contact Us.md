@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /about-us/Contact-Us/
 description: ""
+variant: markdown
 ---
 **School Information**
 
@@ -10,19 +11,19 @@ description: ""
 **Address**: 11 Choa Chu Kang Street 54, S689189<br>
 **Tel**: 67634812<br>
 **Fax**: 67634568<br>
-**E-mail**: [kranji\_ps@moe.edu.sg](mailto:kranji_ps@moe.edu.sg)
+**E-mail**:&nbsp;[kranji\_ps@moe.edu.sg](mailto:kranji_ps@moe.edu.sg)
 
   
 
-**Nearest MRT Station**: Yew Tee MRT 
+**Nearest MRT Station**: Yew Tee MRT&nbsp;
 
   
 
-**Facebook**:  [https://www.facebook.com/KranjiPrimarySchool.Official/](https://www.facebook.com/KranjiPrimarySchool.Official/)
+**Facebook**:&nbsp;&nbsp;[https://www.facebook.com/KranjiPrimarySchool.Official/](https://www.facebook.com/KranjiPrimarySchool.Official/)
 
   
 
-For general enquires, do send us an email [here](mailto:kranji_ps@moe.edu.sg).  
+For general enquires, do send us an email&nbsp;[here](mailto:kranji_ps@moe.edu.sg).  
 
  ![](/images/About%20Us/Contact%20Us/G1.png)
 
@@ -37,17 +38,17 @@ For general enquires, do send us an email [here](mailto:kranji_ps@moe.edu.sg).
 Name of Company: Ricky Book Centre<br>
 Liaison Person: Miss Lisa<br>
 Contact No.: 6363 9159 / 8875 9499<br>
-Operating Hours: 
+Operating Hours:&nbsp;
 
 *   Mondays to Fridays: 9am – 3pm (during school term but closed on Saturdays, Sundays and Public Holidays)
 
   
 
-### 2\. School Bus Transport 
+### 2\. School Bus Transport&nbsp;
 
 Name of Company: Chang Chen Pte Ltd<br>
 Liaison Person: Mr Grif Lim<br>
-Contact No.: 6760 4835 
+Contact No.: 6760 4835&nbsp;
 
   
 
@@ -68,6 +69,6 @@ Students with dental emergencies (e.g. severe pain affecting sleep, facial swell
 
 ### 4\. School Uniform
 
-Name of Company: In-Trend Uniforms<br>
-General Hotline: 6741 0930 / 8448 9939<br>
-Note: The school uniform will also be sold in school via the School Bookshop
+Name of Company: Asencio Pte Ltd<br>
+Office Hotline (Weekdays 9am - 6pm only): 6764 3102<br>
+Website: https://asencio.com.sg<br>

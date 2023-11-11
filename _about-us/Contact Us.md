@@ -70,5 +70,5 @@ Students with dental emergencies (e.g. severe pain affecting sleep, facial swell
 ### 4\. School Uniform
 
 Name of Company: Asencio Pte Ltd<br>
-General Hotline: 6741 0930 / 8448 9939<br>
-Note: The school uniform will also be sold in school via the School Bookshop
+Office Hotline (Weekdays 9am - 6pm only): 6764 3102<br>
+Website: https://asencio.com.sg<br>

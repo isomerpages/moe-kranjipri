@@ -2,12 +2,13 @@
 title: Book List 2023
 permalink: /for-parents/Book-List-2023/
 description: ""
+variant: markdown
 ---
 Dear Parents / Guardians:
 
-The Book List for Year 2023 is as below:
+The Book List for Year 2024 is as below:
 
-| 2023 Level |  Book List | 
+| 2024 Level |  Book List | 
 | ----- | ------------------ | 
 | P1   | [P1 Booklist 2023](/files/For%20Parents/Kranji%20Primary%20School%20-%20%20Booklist%20AY2023%20caa%20061122%20-%20P1.pdf)                    | 
 |P2    |            [P2 Booklist 2023](/files/For%20Parents/Kranji%20Primary%20School%20-%20%20Booklist%20AY2023%20caa%20061122%20-%20P2.pdf)                |

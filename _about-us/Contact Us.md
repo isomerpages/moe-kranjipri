@@ -72,3 +72,5 @@ Students with dental emergencies (e.g. severe pain affecting sleep, facial swell
 Name of Company: Asencio Pte Ltd<br>
 Office Hotline (Weekdays 9am - 6pm only): 6764 3102<br>
 Website: https://asencio.com.sg<br>
+An online ordering guide is also available [here](/files/School_Uniform_Ordering_Guide.pdf)
+<br>

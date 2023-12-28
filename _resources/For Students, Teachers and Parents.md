@@ -2,6 +2,7 @@
 title: For Students, Teachers and Parents
 permalink: /resources/For-Students-Teachers-and-Parents/
 description: ""
+variant: markdown
 ---
 #### **For Students**
 
@@ -72,7 +73,7 @@ description: ""
     
 *   [Student Learning Space (Tutorial Site for Learning)](https://docs.learning.moe.edu.sg/sls/index.html)  
     
-*   [Request for Relief](https://docs.google.com/forms/d/e/1FAIpQLScaBt_7W7QVaVlUb9UZcpsy0ub0rm0Olk7ooZmrjxLy1RJYTw/viewform)
+*   [Request for Relief](https://forms.gle/LKkBuC4tGihix1Qv9)
 *   [Google Teacher Center](https://edu.google.com/for-educators/overview/?modal_active=none)
 *   [Apple Teacher Learning Center](https://education.apple.com/#/home/resources)
 *   [All Ears Form Builder](https://forms.moe.edu.sg)

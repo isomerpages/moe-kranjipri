@@ -3,8 +3,11 @@ title: Support Staff
 permalink: /about-us/Our-People/Support/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
-## School Support Staff
+
+
+![](/images/About%20Us/Our%20People/Support%20Staff/School_Support_Staff.png)## School Support Staff
 
 |<img style="width:140px; height:180px; border:2px double black" src="/images/About%20Us/Our%20People/Support%20Staff/sabrina_2023.png"> | <img style="border:2px double black; width:146px; height:180px" src="/images/About%20Us/Our%20People/Support%20Staff/Zahin3.jpg">|<img style="border:2px double black;  width:145px; height:180px;" src="/images/About%20Us/Our%20People/Support%20Staff/Hartini_2021.jpg"> |
 | -------- | -------- | -------- |

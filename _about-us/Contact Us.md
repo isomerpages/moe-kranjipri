@@ -33,16 +33,13 @@ For general enquires, do send us an email&nbsp;[here](mailto:kranji_ps@moe.edu.s
 
   
 
-### 1\. School Bookshop
+### 1\. School Bookshop and Uniform
 
-Name of Company: Ricky Book Centre<br>
-Liaison Person: Miss Lisa<br>
-Contact No.: 6363 9159 / 8875 9499<br>
-Operating Hours:&nbsp;
-
-*   Mondays to Fridays: 9am – 3pm (during school term but closed on Saturdays, Sundays and Public Holidays)
-
-  
+Name of Company: Asencio Pte Ltd<br>
+Office Hotline (Weekdays 9am - 6pm only): 6764 3102<br>
+Website: https://asencio.com.sg<br>
+An online ordering guide is also available [here](/files/School_Uniform_Ordering_Guide.pdf)
+<br>
 
 ### 2\. School Bus Transport&nbsp;
 
@@ -64,13 +61,3 @@ Students who require dental treatment can go to the dental clinic in school for 
 *   MDC14, Tel: 9061-5729
 
 Students with dental emergencies (e.g. severe pain affecting sleep, facial swelling due to dental infection, dental injury) when the dental clinic is not in operation may call for an appointment to be seen at the School Dental Centre in HPB. The contact details are DID: 6435-3782 (Mondays to Fridays, 8 am to 5 pm) or email: HPB\_Dental\_Counter@hpb.gov.sg.
-
-  
-
-### 4\. School Uniform
-
-Name of Company: Asencio Pte Ltd<br>
-Office Hotline (Weekdays 9am - 6pm only): 6764 3102<br>
-Website: https://asencio.com.sg<br>
-An online ordering guide is also available [here](/files/School_Uniform_Ordering_Guide.pdf)
-<br>

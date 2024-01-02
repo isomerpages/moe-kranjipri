@@ -3,8 +3,11 @@ title: Allied Educators
 permalink: /about-us/Our-People/Allied-Educators/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
-##### Special Education Needs (SEN) Officer
+
+
+![](/images/About%20Us/Our%20People/Allied%20Educators/Special_Education_Needs__SEN__Officer.png)##### Special Education Needs (SEN) Officer
 
 | |<img style="width:146px; height:190px;border:2px double black" src="/images/About%20Us/Our%20People/Allied%20Educators/S1.jpg">| |
 | -------- | -------- | -------- |

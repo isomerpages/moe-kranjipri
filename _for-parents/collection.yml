@@ -1,0 +1,11 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Sexuality Education.md
+      - Book List 2024.md
+      - Parent Support Group (PSG).md
+      - Student Care Centre.md
+      - Parents Gateway/Parents Gateway.md
+      - Parents Gateway/Travel Declaration Guide.md
+      - Parents Gateway/.keep

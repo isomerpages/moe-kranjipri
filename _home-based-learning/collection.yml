@@ -1,0 +1,15 @@
+collections:
+  home-based-learning:
+    output: true
+    order:
+      - Home Based Learning.md
+      - Home Based Learning Plan.md
+      - Contact Information of Teachers & Log in time to SLS.md
+      - Technical Issue Support.md
+      - Student Learning Space.md
+      - SLS and Zoom Guide.md
+      - Resources for Parents.md
+      - Resources for Students.md
+      - Google Classroom.md
+      - Use of CamScanner.md
+      - Telegram Guide.md

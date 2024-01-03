@@ -1,0 +1,12 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Art Club.md
+      - Basketball.md
+      - Football.md
+      - Infocomm Media Club.md
+      - Modern Dance.md
+      - Percussion Ensemble.md
+      - Eco Makers Club.md
+      - Scouts.md

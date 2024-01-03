@@ -1,0 +1,24 @@
+---
+title: EXCITE Learning Approach
+permalink: /EXCITE-Learning-Approach/
+description: ""
+---
+### **EXCITE**
+##### **Our Learning Approach at KPS**
+<img src="/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE_2May_amended.png" style="width:30%; float:left; margin:60px; border:2px solid black;"><br>
+Guided by our school vision of Joyful Learners, Gracious Citizens and Champions in Life, the EXCITE approach outlines how learning is designed, curated and enacted in Kranji Primary School (KPS). <br>Find out more in our video below.
+<br>
+<iframe width="800" height="315" src="https://www.youtube.com/embed/Of6zHY_nSAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/experiential1%20.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/jtpndice2.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/champchef_kstudio3.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/sciencewonder_4.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/characterfocused_5.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/via_cca_6.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/inquirybased_7.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/pw_kmakers8.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/techmediate_9.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/1to1_10.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/positiveeducation1.png)
+![](/images/Our%20Curriculum/EXCITE%20Learning%20Approach/EXCITE%20Learning%20Approach/positiveeducation2.png)

@@ -1,0 +1,77 @@
+logo: /images/website logo.png
+links:
+  - title: About Us
+    url: /about-us/Principals-Message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/Principals-Message/
+      - title: School Philosophy and More
+        url: /about-us/school-philosophy-vision-mission-values/
+      - title: School Creed, Crest and Song
+        url: /about-us/School-Creed-Crest-and-Song/
+      - title: School History
+        url: /about-us/School-History/
+      - title: School Facilities
+        url: /about-us/School-Facilities/
+      - title: Our People
+        url: /about-us/Our-People/School-Leaders/
+      - title: Contact Us
+        url: /about-us/Contact-Us/
+      - title: Social Media Guidelines @ KPS
+        url: /about-us/Social-Media-Guidelines-at-Kranji-Primary-School/
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Life @ Kranji
+    url: /life-at-kranji/virtual-open-house/
+    sublinks:
+      - title: Virtual Open House
+        url: /life-at-kranji/virtual-open-house/
+      - title: Achievements
+        url: /life-at-kranji/Achievements/Student-and-School-Achievement/
+  - title: For Parents
+    url: /for-parents/sexuality-education/
+    sublinks:
+      - title: Sexuality Education
+        url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/Sexuality-Education/
+      - title: Book List 2024
+        url: /for-parents/book-list-2024/
+      - title: Parent Support Group (PSG)
+        url: /for-parents/Parent-Support-Group-PSG/
+      - title: Student Care Centre
+        url: /for-parents/Student-Care-Centre/
+      - title: Parents Gateway
+        url: /for-parents/Parents-Gateway/Parents-Gateway/
+  - title: MOE Kindergarten
+    url: /moe-kindergarten/moe-kindergarten/
+    sublinks:
+      - title: MOE Kindergarten
+        url: /moe-kindergarten/moe-kindergarten/
+      - title: Centre Head's Message
+        url: /moe-kindergarten/centre-head-message/
+      - title: Our Staff
+        url: /moe-kindergarten/Our-Staff/
+      - title: Learning Environment
+        url: /moe-kindergarten/Learning-Environment/
+      - title: Programmes and Activities
+        url: /moe-kindergarten/Programmes-and-Activities/Programmes-and-Activities/
+      - title: Kindergarten Care (KCare)
+        url: /moe-kindergarten/Kindergarten-Care-KCare/Kindergarten-Care-KCare/
+      - title: K2-P1 Transition Programme
+        url: /moe-kindergarten/K2-P1-Transition-Programme/
+      - title: Our Partners
+        url: /moe-kindergarten/Our-Partners/
+      - title: Information for Parents
+        url: /moe-kindergarten/Information-for-Parents/Information-for-Parents/
+      - title: Contact Us
+        url: /moe-kindergarten/Contact-Us/
+  - title: Resources
+    url: /resources/For-Students-Teachers-and-Parents/
+    sublinks:
+      - title: For Student, Teacher & Parent
+        url: /resources/For-Students-Teachers-and-Parents/
+      - title: Student ICON
+        url: /resources/Student-ICON/
+      - title: Student Learning Space (SLS)
+        url: /resources/Student-Learning-Space-SLS/
+      - title: Student Password Reset Help
+        url: /resources/Student-Password-Reset-Help/

@@ -73,7 +73,7 @@ variant: markdown
     
 *   [Student Learning Space (Tutorial Site for Learning)](https://docs.learning.moe.edu.sg/sls/index.html)  
     
-*   [Request for Relief](https://forms.gle/LKkBuC4tGihix1Qv9)
+*   [Request for Relief](https://forms.gle/biyGGha8LYVGDvTD7)
 *   [Google Teacher Center](https://edu.google.com/for-educators/overview/?modal_active=none)
 *   [Apple Teacher Learning Center](https://education.apple.com/#/home/resources)
 *   [All Ears Form Builder](https://forms.moe.edu.sg)

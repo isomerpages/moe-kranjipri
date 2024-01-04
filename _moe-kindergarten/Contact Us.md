@@ -2,38 +2,6 @@
 title: Contact Us
 permalink: /moe-kindergarten/Contact-Us/
 description: ""
+variant: tiptap
 ---
-**Address**  
-  
-MOE Kindergarten@Kranji  
-Kranji Primary School  
-11 Choa Chu Kang Street 54  
-Singapore 689189  
-  
-**Contact**  
-&nbsp;  
-**MK Office**
-Tel: 6760 0367  
-Email:&nbsp;[mk\_kranji@moe.edu.sg](mailto:mk_kranji@moe.edu.sg)  
-  
-**Kranji Primary School**  
-Tel: 6763 4812  
-Email:&nbsp;**[kranji\_ps@moe.edu.sg](mailto:kranji_ps@moe.edu.sg)**  
-  
-**Operating Hours**  
-MK: 8am - 5pm  
-KCare: 7am - 7pm
-
-<h6 style="color:purple;">Form</h6>
-<strong>MK@Kranji Orientation</strong>
-<a href="https://go.gov.sg/2024orientation" target="_blank"><br>
-MK@Kranji Orientation Attendance registration</a>
-<br><br>
-<strong>KCare enrolment request form for existing&nbsp;MK@Kranji Students</strong>
-<a href="https://go.gov.sg/mk-kranji-kcare-request" target="_blank"><br>
-MK@Kranji Kcare Request</a>
-<br><br>
-<strong>MK@Kranji enrolment waitlist request form</strong>
-<a href="https://go.gov.sg/mk-kranji-waitlist" target="_blank"><br>
-MK@Kranji Enrolment waitlist</a>
-<br><br>
+<p><strong>Address</strong></p><p>MOE Kindergarten@Kranji<br>Kranji Primary School<br>11 Choa Chu Kang Street 54<br>Singapore 689189</p><p><strong>Contact</strong><br>&nbsp;<br><strong>MK Office</strong> Tel: 6760 0367<br>Email:&nbsp;<a href="mailto:mk_kranji@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_kranji@moe.edu.sg</a></p><p><strong>Kranji Primary School</strong><br>Tel: 6763 4812<br>Email:&nbsp;<strong><a href="mailto:kranji_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kranji_ps@moe.edu.sg</a></strong></p><p><strong>Operating Hours</strong><br>MK: 8am - 5pm<br>KCare: 7am - 7pm</p><h6>Form</h6><p><strong>MK@Kranji Orientation</strong> <a href="https://go.gov.sg/2024orientation" rel="noopener noreferrer nofollow" target="_blank"><br>MK@Kranji Orientation Attendance registration</a> <br><strong>MK@Kranji enrolment waitlist request form</strong> <a href="https://go.gov.sg/mk-kranji-waitlist" rel="noopener noreferrer nofollow" target="_blank"><br>MK@Kranji Enrolment waitlist</a> </p><p><strong>MK@Kranji Authorisation Pass Request Form</strong><a href="https://go.gov.sg/mk-kranji-authorization-pass" rel="noopener noreferrer nofollow" target="_blank"><br></a><a href="" rel="noopener noreferrer nofollow" target="_blank">MK@Kranji Authorisation Pass</a> </p><p><strong>KCare enrolment request form for existing&nbsp;MK@Kranji Students</strong> <a href="https://go.gov.sg/mk-kranji-kcare-request" rel="noopener noreferrer nofollow" target="_blank"><br>MK@Kranji Kcare Request</a> <br></p>

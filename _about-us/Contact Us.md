@@ -41,7 +41,7 @@ Operating Hours: 9am to 3pm <br>
 <br>
 For enquiry, you may contact their office hotline at 6764 3102 (Weekdays 9am - 6pm only).
 <br>
-For online ordering of school uniform, please visit their website: https://asencio.com.sg
+For online ordering of school uniform, please visit their website [here]. (https://asencio.com.sg)
 The online ordering guide is also available here.
 <br>
 

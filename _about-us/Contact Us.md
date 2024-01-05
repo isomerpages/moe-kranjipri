@@ -35,10 +35,14 @@ For general enquires, do send us an email&nbsp;[here](mailto:kranji_ps@moe.edu.s
 
 ### 1\. School Bookshop and Uniform
 
-Name of Company: Asencio Pte Ltd<br>
-Office Hotline (Weekdays 9am - 6pm only): 6764 3102<br>
-Website: https://asencio.com.sg<br>
-An online ordering guide is also available [here](/files/School_Uniform_Ordering_Guide.pdf)
+Asencio Pte Ltd <br>
+Operating Hours: 9am to 3pm <br>
+(Parents are allowed to come in to the bookshop from 10.30am to 12.00pm and after 2.00pm.)<br>
+<br>
+For enquiry, you may contact their office hotline at 6764 3102 (Weekdays 9am - 6pm only).
+<br>
+For online ordering of school uniform, please visit their website: https://asencio.com.sg
+The online ordering guide is also available here.
 <br>
 
 ### 2\. School Bus Transport&nbsp;

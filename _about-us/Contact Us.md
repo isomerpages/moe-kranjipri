@@ -64,4 +64,4 @@ Students who require dental treatment can go to the dental clinic in school for 
 *   Yew Tee Primary School, Tel: 6769-6746
 *   MDC14, Tel: 9061-5729
 
-Students with dental emergencies (e.g. severe pain affecting sleep, facial swelling due to dental infection, dental injury) when the dental clinic is not in operation may call for an appointment to be seen at the School Dental Centre in HPB. The contact details are DID: 6435-3782 (Mondays to Fridays, 8 am to 5 pm) or email: HPB\_Dental\_Counter@hpb.gov.sg.
+Students with dental emergencies (e.g. severe pain affecting sleep, facial swelling due to dental infection, dental injury) when the dental clinic is not in operation may call for an appointment to be seen at the School Dental Centre in HPB. The contact details are DID: 6435-3782 (Mondays to Fridays, 8 am to 5 pm) or email: HPB_Dental_Counter@hpb.gov.sg.

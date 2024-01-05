@@ -35,10 +35,14 @@ For general enquires, do send us an email&nbsp;[here](mailto:kranji_ps@moe.edu.s
 
 ### 1\. School Bookshop and Uniform
 
-Name of Company: Asencio Pte Ltd<br>
-Office Hotline (Weekdays 9am - 6pm only): 6764 3102<br>
-Website: https://asencio.com.sg<br>
-An online ordering guide is also available [here](/files/School_Uniform_Ordering_Guide.pdf)
+Asencio Pte Ltd <br>
+Operating Hours: 9am to 3pm <br>
+(Parents are allowed to come in to the bookshop from 10.30am to 12.00pm and after 2.00pm.)<br>
+<br>
+For enquiry, you may contact their office hotline at 6764 3102 (Weekdays 9am - 6pm only).
+<br>
+For online ordering of school uniform, please visit their website [here]. (https://asencio.com.sg)
+The online ordering guide is also available here.
 <br>
 
 ### 2\. School Bus Transport&nbsp;
@@ -60,4 +64,4 @@ Students who require dental treatment can go to the dental clinic in school for 
 *   Yew Tee Primary School, Tel: 6769-6746
 *   MDC14, Tel: 9061-5729
 
-Students with dental emergencies (e.g. severe pain affecting sleep, facial swelling due to dental infection, dental injury) when the dental clinic is not in operation may call for an appointment to be seen at the School Dental Centre in HPB. The contact details are DID: 6435-3782 (Mondays to Fridays, 8 am to 5 pm) or email: HPB\_Dental\_Counter@hpb.gov.sg.
+Students with dental emergencies (e.g. severe pain affecting sleep, facial swelling due to dental infection, dental injury) when the dental clinic is not in operation may call for an appointment to be seen at the School Dental Centre in HPB. The contact details are DID: 6435-3782 (Mondays to Fridays, 8 am to 5 pm) or email: HPB_Dental_Counter@hpb.gov.sg.

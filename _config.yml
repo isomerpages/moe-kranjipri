@@ -1,5 +1,5 @@
 title: Kranji Primary School
-url: https://www.open.gov.sg
+url: https://kranjipri.moe.edu.sg
 favicon: /images/Homepage/Homepage.jpg
 colors:
   primary-color: "#05326a"
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""

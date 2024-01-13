@@ -29,7 +29,7 @@ sections:
 
             Click on Read More below to learn of our requirements and application procedures.
           link_text: Read More
-          link_url: /
+          link_url: https://www.kranjipri.moe.edu.sg/News-and-Events/
   - infopic:
       title: Every Kranjian Matters and Deserves the Best!
       description: “We value every student, Every student wants to succeed, All can

@@ -18,6 +18,18 @@ sections:
         - title: Voices of Our Alumni
           description: ""
           url: /Voices-of-our-alumni/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: School Canteen Advertisement
+          date: 13 January 2024
+          announcement: >-
+            Looking for Malay Food Stall holder for our school.
+
+            Click on Read More below to learn of our requirements and application procedures.
+          link_text: Read More
+          link_url: /
   - infopic:
       title: Every Kranjian Matters and Deserves the Best!
       description: “We value every student, Every student wants to succeed, All can

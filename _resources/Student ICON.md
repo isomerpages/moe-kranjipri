@@ -10,4 +10,4 @@ Please click [here](https://workspace.google.com/dashboard) to access STUDENT 
 
 ![](/images/Resources/Student%20ICON/S2.jpg)
 
-![](/images/Resources/Student%20ICON/FAQ.png)
+![](/images/Resources/Student%20ICON/FAQ_v2.png)

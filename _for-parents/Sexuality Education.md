@@ -94,8 +94,8 @@ Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <u>here.</u> The completed opt-out form
-is to be submitted by 14/02/2024.</p>
+of the year and is also downloadable <a href="/files/For Parents/Parent_Opt_out_form_SEd_2024__PG.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> .
+The completed opt-out form is to be submitted by 14/02/2024.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at &nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">kranji_ps@moe.edu.sg</a>&nbsp; or </strong>6763
 4812 for discussion or to seek clarification about the school’s Sexuality
 Education programme.</p>

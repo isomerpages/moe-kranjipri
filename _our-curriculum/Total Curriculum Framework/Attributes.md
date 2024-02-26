@@ -50,9 +50,6 @@ important skills they need to achieve their goals. The school has also
 introduced the 7 Habits of Highly Effective People (Leader in Me) concepts
 to the students. The aim is to build self-leadership in students so that
 they take ownership of their learning.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Skill_v2.png">
-</div>
 <p><u>Executive Functioning Skills</u>
 </p>
 <p>For our Lower Primary students, Executive Functioning Skills (EFS) have
@@ -70,6 +67,9 @@ with their peers and teachers.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Executive_Functioning_Skills.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Skill_v2.png">
 </div>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; Attitudes</strong>
 </p>

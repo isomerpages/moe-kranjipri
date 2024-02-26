@@ -45,4 +45,10 @@ third_nav_title: Total Curriculum Framework
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/EXCITE Learning Approach/EXCITE Learning Approach/1to1_10.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/EXCITE Learning Approach/EXCITE Learning Approach/positive_11.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/EXCITE Learning Approach/EXCITE Learning Approach/camp_coolsports_12.png">
+</div>
 <p></p>

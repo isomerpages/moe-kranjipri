@@ -6,7 +6,8 @@ description: ""
 third_nav_title: Total Curriculum Framework
 ---
 <h4>Environment</h4>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caring and Enabling Environment</p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caring and Enabling Environment</strong>
+</p>
 <p>As humans, we have basic psychological needs to connect with others, feel
 emotionally and physically safe, have a sense of belonging, exercise autonomy,
 and experience competence. These fundamental needs shape our motivation
@@ -16,7 +17,6 @@ positive relationships among staff and students where there is mutual respect,
 care, and support for one another. When these needs are met, students feel
 more connected to their school and are motivated to own their learning
 and school community together.</p>
-<p>&nbsp;</p>
 <p>A caring and enabling school environment, is one that is characterised
 by caring and responsible leadership, a pervasive growth mindset, emotional
 and physical safety, and a focus on learning and development of students,
@@ -24,7 +24,6 @@ teachers and all other members of the school community. In such a rich
 learning environment, our students can cultivate dispositions of character
 and citizenship, and social-emotional well-being, as well as feel empowered
 to become their best selves.</p>
-<p>&nbsp;</p>
 <p>Positive interpersonal relationships between teachers and students and
 students and students, contribute significantly to the students’ learning
 process. In positive Teacher-Student Relationships (TSR), students perceive

@@ -59,24 +59,28 @@ in the school.</p>
 <p>Knowledge of the subjects includes the concepts, facts, theories and skills,
 as well as how they are connected to present the disciplinarity of the
 subject, as set out in the syllabus for each subject.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Social-emotional competencies enable us to examine and understand our
 own thoughts and emotions, develop a sense of responsibility and concern
 for others, and act for the good of self, others, and the society. When
 we apply these competencies, we live out our values and grow our character.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The competencies related
-to developing <strong>self-awareness </strong>allow us to understand our
-emotions, thoughts, values, personal goals, and mind-sets, which enable
-us to construct an understanding of who we are.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The competencies related
-to <strong>social awareness </strong>enable us to develop cognitive and
-emotional empathy, understand the perspectives of people with different
-backgrounds or cultures, and to become more sensitive to the social environment
-and the needs of others.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The competencies for <strong>self-management </strong>enable
-us to self-regulate our emotions, thoughts and behaviours, to achieve personal
-well-being, to demonstrate pro-social behaviours, and to choose to be our
-best selves.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The competencies related to developing <strong>self-awareness </strong>allow
+us to understand our emotions, thoughts, values, personal goals, and mind-sets,
+which enable us to construct an understanding of who we are.</p>
+</li>
+<li>
+<p>The competencies related to <strong>social awareness </strong>enable us
+to develop cognitive and emotional empathy, understand the perspectives
+of people with different backgrounds or cultures, and to become more sensitive
+to the social environment and the needs of others.</p>
+</li>
+<li>
+<p>The competencies for <strong>self-management </strong>enable us to self-regulate
+our emotions, thoughts and behaviours, to achieve personal well-being,
+to demonstrate pro-social behaviours, and to choose to be our best selves.</p>
+</li>
+</ul>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The competencies for <strong>relationship management </strong>enable
 us to build and maintain positive relationships with others in accordance
 to social norms and culture. We also develop empathy through practising

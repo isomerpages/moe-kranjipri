@@ -2,9 +2,9 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Total Curriculum Framework/Outcomes.md
-      - Total Curriculum Framework/Introduction.md
       - Total Curriculum Framework/.keep
+      - Total Curriculum Framework/Introduction.md
+      - Total Curriculum Framework/Outcomes.md
       - EXCITE Learning Approach.md
       - Departments/.keep
       - Departments/English.md

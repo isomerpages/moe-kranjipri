@@ -54,4 +54,41 @@ in the school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Attitudes.png">
 </div>
-<p></p>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp; Knowledge</strong>
+</p>
+<p>Knowledge of the subjects includes the concepts, facts, theories and skills,
+as well as how they are connected to present the disciplinarity of the
+subject, as set out in the syllabus for each subject.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Social-emotional competencies enable us to examine and understand our
+own thoughts and emotions, develop a sense of responsibility and concern
+for others, and act for the good of self, others, and the society. When
+we apply these competencies, we live out our values and grow our character.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The competencies related
+to developing <strong>self-awareness </strong>allow us to understand our
+emotions, thoughts, values, personal goals, and mind-sets, which enable
+us to construct an understanding of who we are.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The competencies related
+to <strong>social awareness </strong>enable us to develop cognitive and
+emotional empathy, understand the perspectives of people with different
+backgrounds or cultures, and to become more sensitive to the social environment
+and the needs of others.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The competencies for <strong>self-management </strong>enable
+us to self-regulate our emotions, thoughts and behaviours, to achieve personal
+well-being, to demonstrate pro-social behaviours, and to choose to be our
+best selves.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The competencies for <strong>relationship management </strong>enable
+us to build and maintain positive relationships with others in accordance
+to social norms and culture. We also develop empathy through practising
+perspective-taking, and understanding the impact and consequences of our
+actions on others.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Responsible decision-making </strong>enables
+us to apply moral reasoning and sound values-based judgements in the choices
+we make.</p>
+<p>&nbsp;</p>
+<p>These competencies can be taught, demonstrated, and applied through explicit
+instruction, planned authentic learning experiences, as well as teachable
+moments. For sustainable lifelong character development, these competencies
+must be taught, learnt, and applied within the broader context of values
+learning so that students understand the purpose and meaningfulness of
+acquiring these competencies.</p>

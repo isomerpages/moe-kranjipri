@@ -92,7 +92,6 @@ actions on others.</p>
 reasoning and sound values-based judgements in the choices we make.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>These competencies can be taught, demonstrated, and applied through explicit
 instruction, planned authentic learning experiences, as well as teachable
 moments. For sustainable lifelong character development, these competencies

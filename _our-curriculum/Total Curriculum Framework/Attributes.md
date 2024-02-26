@@ -29,6 +29,9 @@ The school has also introduced the 7 Habits of Highly Effective People
 (Leader in Me) concepts to the students as an extension of Executive Functioning
 Skills. The aim is to build self-leadership in students so that they take
 ownership of themselves and their learning.</p>
+<p>The above are conducted and taught to all KPS students and they are designed
+to build the values, knowledge, skills and attitudes required of a future-ready
+learner.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Attributes.png">
 </div>

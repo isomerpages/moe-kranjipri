@@ -43,3 +43,33 @@ support to one another (peer helping) and promote positive mindsets, prosocial
 behaviours and well-being (peer influencing). Taken together, these efforts
 contribute to the building of a caring and supportive peer culture, by
 students for students.</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student-centricity</strong>
+</p>
+<p>We place students at the heart of all our efforts, catering to their academic
+needs, their developmental needs and their social-emotional well-being,
+as we develop their Knowledge, Skills, Attitudes and Values.&nbsp;</p>
+<p>&nbsp;</p>
+<p>In the area of academic development, we have extensive programmes to cater
+to children with different academic abilities and needs.&nbsp; For the
+masses, our curriculum provides a good grounding in the various subject
+disciplines and each child’s attainment of learning outcomes at every level
+is closely monitored.&nbsp; Teachers deploy a range of strategies in differentiated
+instruction, assessment and educational technology to excite and engage
+students in the classroom.&nbsp; Beyond the formal curriculum, the school
+provides exposure and enrichment in the informal curriculum through department-based
+signature programmes that are conducted both in and out of curriculum time.&nbsp;
+Our talent development programmes across the various domains cater to students
+who are talented.&nbsp; Platforms for development include enrichment programmes
+like Olympiad training and opportunities to represent the school in competitions.&nbsp;
+For our students who require greater support, the school has a full team
+of dedicated personnel who are well trained to provide the necessary support,
+as well as dedicated programmes like Learning Support Programmes (English,
+Math and Mother Tongue) to help these children close their learning gaps
+and/or manage their learning needs.</p>
+<p>&nbsp;</p>
+<p>In the non-academic area, the school is committed to nurture our students’
+character growth and help to socialise them into morally upright individuals,
+and responsible and active citizens. The essence of student-centricity
+is to seek to understand students’ needs and interests when designing learning
+experiences, focusing on student engagement and voice. In this way, we
+empower them to derive personal meaning from their learning experiences.</p>

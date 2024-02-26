@@ -16,8 +16,8 @@ Learners, Gracious Citizens and Champions in Life.&nbsp; This is further
 elaborated through our Student Outcomes, which are anchored on MOE’s 21st
 Century Competencies (21CC).&nbsp; In order to deliver these outcomes,
 the four core attributes of Values, Skills, Knowledge and Attitudes are
-defined, as well as the accompanying key initiatives to develop these attributes.
-&nbsp;The EXCITE Learning Approach outlines how learning is designed, curated
+defined, as well as the accompanying key initiatives to develop these attributes.</p>
+<p>The EXCITE Learning Approach outlines how learning is designed, curated
 and enacted in the school daily.&nbsp; &nbsp;This is supported by an environment
 that is caring and enabling, promotes student ownership &amp; agency, and
 values student centricity.</p>

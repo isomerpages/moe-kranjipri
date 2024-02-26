@@ -48,7 +48,6 @@ students for students.</p>
 <p>We place students at the heart of all our efforts, catering to their academic
 needs, their developmental needs and their social-emotional well-being,
 as we develop their Knowledge, Skills, Attitudes and Values.&nbsp;</p>
-<p>&nbsp;</p>
 <p>In the area of academic development, we have extensive programmes to cater
 to children with different academic abilities and needs.&nbsp; For the
 masses, our curriculum provides a good grounding in the various subject
@@ -66,7 +65,6 @@ of dedicated personnel who are well trained to provide the necessary support,
 as well as dedicated programmes like Learning Support Programmes (English,
 Math and Mother Tongue) to help these children close their learning gaps
 and/or manage their learning needs.</p>
-<p>&nbsp;</p>
 <p>In the non-academic area, the school is committed to nurture our students’
 character growth and help to socialise them into morally upright individuals,
 and responsible and active citizens. The essence of student-centricity

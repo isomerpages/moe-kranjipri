@@ -14,9 +14,9 @@ school’s collective efforts to nurture future-ready learners.&nbsp; At
 the heart of the Framework is the vision of the school to nurture Joyful
 Learners, Gracious Citizens and Champions in Life.&nbsp; This is further
 elaborated through our Student Outcomes, which takes guidance from MOE’s
-Framework for 21st Century Competencies (21CC) and Student Outcomes which
-are anchored on MOE’s 21st Century Competencies (21CC).&nbsp; In order
-to deliver these outcomes, the four core attributes of Values, Skills,
+Framework for 21st Century Competencies (21CC) and Student Outcomes (
+<a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/21st-century-competencies).</a>In
+order to deliver these outcomes, the four core attributes of Values, Skills,
 Knowledge and Attitudes are defined, as well as the accompanying key initiatives
 to develop these attributes.</p>
 <p>The EXCITE Learning Approach outlines how learning is designed, curated

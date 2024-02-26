@@ -20,6 +20,15 @@ for success.</p>
 awareness, self management, social awareness, relationship management and
 responsible decision making are taught to the students as part of the CCE(FTGP)
 curriculum.</p>
+<p>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Growth Mindset is adopted to instil in
+students the mindset that it is okay to make mistakes and the importance
+of reflecting and growing.</p>
+<p>4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through Executive Functioning, the school
+aims to equip in students important skills they need to achieve their goals.
+The school has also introduced the 7 Habits of Highly Effective People
+(Leader in Me) concepts to the students as an extension of Executive Functioning
+Skills. The aim is to build self-leadership in students so that they take
+ownership of themselves and their learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Attributes.png">
 </div>

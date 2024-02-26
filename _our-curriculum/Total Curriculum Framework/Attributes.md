@@ -11,6 +11,15 @@ emphasis needs to be given to a broad spectrum of attributes.&nbsp; The
 CHAMPS Leadership Programme integrates the various efforts of the school
 to build skills and competencies in our students to first become leaders
 of self, before they proceed to lead others.&nbsp;</p>
+<p>There are 4 key components in the CHAMPS Leadership Programme:</p>
+<p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A strong anchor on the school values
+of <strong><u>Re</u></strong>sponsibility, <strong><u>Re</u></strong>silience, <strong><u>C</u></strong>ompassion, <strong><u>I</u></strong>ntegrity
+and Res<strong><u>PE</u></strong>ct provide our Kranjians with the recipe
+for success.</p>
+<p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The socio-emotional competencies of self
+awareness, self management, social awareness, relationship management and
+responsible decision making are taught to the students as part of the CCE(FTGP)
+curriculum.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Attributes.png">
 </div>
@@ -102,3 +111,4 @@ moments. For sustainable lifelong character development, these competencies
 must be taught, learnt, and applied within the broader context of values
 learning so that students understand the purpose and meaningfulness of
 acquiring these competencies.</p>
+<p></p>

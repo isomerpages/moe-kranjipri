@@ -21,4 +21,28 @@ third_nav_title: Total Curriculum Framework
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/EXCITE Learning Approach/EXCITE Learning Approach/jtpndice2.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/EXCITE Learning Approach/EXCITE Learning Approach/champchef_kstudio3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/EXCITE Learning Approach/EXCITE Learning Approach/sciencewonder_4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/EXCITE Learning Approach/EXCITE Learning Approach/characterfocused_5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/EXCITE Learning Approach/EXCITE Learning Approach/via_cca_6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/EXCITE Learning Approach/EXCITE Learning Approach/inquirybased_7.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/EXCITE Learning Approach/EXCITE Learning Approach/pw_kmakers8.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/EXCITE Learning Approach/EXCITE Learning Approach/techmediate_9.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/EXCITE Learning Approach/EXCITE Learning Approach/1to1_10.png">
+</div>
 <p></p>

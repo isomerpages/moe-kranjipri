@@ -21,9 +21,11 @@ Res<strong>PE</strong>ct</p>
 <li>
 <p><strong>Skills</strong>
 </p>
-<p></p>
 </li>
 </ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Skills.png">
+</div>
 <p><u>Executive Functioning Skills</u>
 </p>
 <p>For our Lower Primary students, Executive Functioning Skills (EFS) have

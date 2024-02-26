@@ -45,6 +45,11 @@ Res<strong>PE</strong>ct</p>
 </div>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skills</strong>
 </p>
+<p>Through Executive Functioning Skills, the school aims to equip in students
+important skills they need to achieve their goals. The school has also
+introduced the 7 Habits of Highly Effective People (Leader in Me) concepts
+to the students. The aim is to build self-leadership in students so that
+they take ownership of their learning.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Skill_v2.png">
 </div>

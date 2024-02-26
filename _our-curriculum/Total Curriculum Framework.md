@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Total Curriculum Framework</strong></h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Curriculum_Framework_2024.png">
 </div>
@@ -20,4 +19,4 @@ defined, as well as the accompanying key initiatives to develop these attributes
 <p>The EXCITE Learning Approach outlines how learning is designed, curated
 and enacted in the school daily.&nbsp; &nbsp;This is supported by an environment
 that is caring and enabling, promotes student ownership &amp; agency, and
-values student centricity.</p>
+values student centricity</p>

@@ -71,3 +71,22 @@ and responsible and active citizens. The essence of student-centricity
 is to seek to understand students’ needs and interests when designing learning
 experiences, focusing on student engagement and voice. In this way, we
 empower them to derive personal meaning from their learning experiences.</p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Ownership &amp; Agency</strong>
+</p>
+<p>To establish an effective learning environment, it is critical to take
+into account student voices, and co-design learning approaches and activities
+that cater to their needs and interests. Creating space for students to
+be heard and encouraged to play an active role in what and how they learn,
+provides opportunities for them to develop agency or self-directedness,
+responsibility, and ownership of their learning. Student involvement in
+self-assessment, and leading their own learning directions, as well as
+participation in the planning and implementation of some aspects of their
+learning, e.g. My Passion Project, Values in Action (VIA) activities, Co-curricular
+activities (CCAs), peer-support initiatives and other relevant aspects,
+will create opportunities for them to become self-directed learners, develop
+leadership competencies, as well as a sense of belonging to their school
+community and the motivation to make a positive difference.</p>
+<p>Metacognitive strategies are used to help students make their thinking
+visible, apply their learning and guide them in high quality reflection
+to facilitate deep learning and internalisation. Deep learning manifests
+in the motivation to act and make a positive difference.</p>

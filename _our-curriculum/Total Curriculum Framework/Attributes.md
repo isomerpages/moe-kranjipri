@@ -40,3 +40,8 @@ that are deemed to be more accessible for Lower Primary students.&nbsp;
 Bite-sized packages for Primary 1 and 2 have been created, with emphasis
 on allowing our students to experience EFS through hands-on activities
 with their peers and teachers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Executive_Functioning_Skills.png">
+</div>
+<p></p>

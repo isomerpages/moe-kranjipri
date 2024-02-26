@@ -11,7 +11,9 @@ third_nav_title: Total Curriculum Framework
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/EXCITE.png">
 </div>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Of6zHY_nSAs"></iframe>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/EXCITE Learning Approach/EXCITE Learning Approach/experiential1 .png">
 </div>

@@ -9,7 +9,7 @@ third_nav_title: Total Curriculum Framework
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Attributes.png">
 </div>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Values – Recipe to Success</strong>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Values – Recipe to Success</strong>
 </p>
 <p><strong>Re</strong>sponsibility, <strong>Re</strong>silience, <strong>C</strong>ompassion, <strong>I</strong>ntegrity,
 Res<strong>PE</strong>ct</p>
@@ -17,15 +17,8 @@ Res<strong>PE</strong>ct</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/School Creed, Crest and Song/SchoolValues002.png">
 </div>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Skills</strong>
+<p><strong>2.Values – Recipe to Success</strong>
 </p>
-</li>
-</ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Skills.png">
-</div>
 <p><u>Executive Functioning Skills</u>
 </p>
 <p>For our Lower Primary students, Executive Functioning Skills (EFS) have
@@ -44,4 +37,13 @@ with their peers and teachers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Executive_Functioning_Skills.png">
 </div>
-<p></p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; Attitudes</strong>
+</p>
+<p>In KPS, we hope to actively cultivate and encourage our students to have
+a Growth Mindset. We want our students to relish challenges, embrace their
+mistakes as part of their learning process, value the importance of effort,
+respond carefully to feedback and take inspiration from others. This is
+in line with our school values of Resilience and Responsibility. These
+learning objectives are articulated through the 6 key messages below and
+are consistently reinforced to our students throughout their six years
+in the school.</p>

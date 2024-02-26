@@ -17,12 +17,8 @@ Res<strong>PE</strong>ct</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/School Creed, Crest and Song/SchoolValues002.png">
 </div>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Skills</strong>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skills</strong>
 </p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Skill_v2.png">
 </div>

@@ -6,8 +6,7 @@ description: ""
 third_nav_title: Total Curriculum Framework
 ---
 <h3><strong>EXCITE</strong></h3>
-<p>##### <strong>Our Learning Approach at KPS</strong>
-</p>
+<h3><strong>Our Learning Approach at KPS</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/EXCITE.png">

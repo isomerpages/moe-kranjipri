@@ -80,15 +80,18 @@ to the social environment and the needs of others.</p>
 our emotions, thoughts and behaviours, to achieve personal well-being,
 to demonstrate pro-social behaviours, and to choose to be our best selves.</p>
 </li>
-</ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The competencies for <strong>relationship management </strong>enable
-us to build and maintain positive relationships with others in accordance
+<li>
+<p>The competencies for <strong>relationship management </strong>enable us
+to build and maintain positive relationships with others in accordance
 to social norms and culture. We also develop empathy through practising
 perspective-taking, and understanding the impact and consequences of our
 actions on others.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Responsible decision-making </strong>enables
-us to apply moral reasoning and sound values-based judgements in the choices
-we make.</p>
+</li>
+<li>
+<p><strong>Responsible decision-making </strong>enables us to apply moral
+reasoning and sound values-based judgements in the choices we make.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>These competencies can be taught, demonstrated, and applied through explicit
 instruction, planned authentic learning experiences, as well as teachable

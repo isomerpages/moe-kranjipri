@@ -7,6 +7,9 @@ third_nav_title: Total Curriculum Framework
 ---
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Curriculum_Framework_2024.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Curriculum_Framework_2024.png">
 </div>
 <p>The KPS Total Curriculum Framework (2023) provides a coherent overview

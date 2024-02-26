@@ -33,7 +33,6 @@ their learning motivation. When teachers build positive relationships with
 their students, our students feel a sense of security which allows them
 to engage more actively in interactions within the school environment,
 shaping their character, and social-emotional well-being and development.</p>
-<p>&nbsp;</p>
 <p>Supportive peer relationships form a critical part of the network of positive
 relationships in school. Peers are a significant source of support for
 most students as they are more likely to turn to their friends rather than

@@ -9,7 +9,8 @@ third_nav_title: Total Curriculum Framework
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Attributes.png">
 </div>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Values – Recipe to Success</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Values – Recipe to Success</strong>
+</p>
 <p><strong>Re</strong>sponsibility, <strong>Re</strong>silience, <strong>C</strong>ompassion, <strong>I</strong>ntegrity,
 Res<strong>PE</strong>ct</p>
 <p></p>
@@ -18,7 +19,8 @@ Res<strong>PE</strong>ct</p>
 </div>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>Skills</p>
+<p><strong>Skills</strong>
+</p>
 <p></p>
 </li>
 </ol>

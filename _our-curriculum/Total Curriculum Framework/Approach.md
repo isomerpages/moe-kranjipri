@@ -6,6 +6,30 @@ description: ""
 third_nav_title: Total Curriculum Framework
 ---
 <h3><strong>EXCITE</strong></h3>
+<p>The EXCITE Learning approach outlines how learning is designed, curated
+and enacted in the school.</p>
+<p>EXperiential</p>
+<p>Anchored by the knowledge of how children learn best, learning is designed
+to be <strong>Experiential </strong>so as to bring about authentic and purposeful
+learning.&nbsp; This facilitates meaningful interactions between the learning
+content, the learner and the teacher.</p>
+<p>Character Focused</p>
+<p><strong>Character Focused </strong>development has always been a prominent
+and valued part of the school experience at KPS. School values are leveraged
+upon to help students build character and sow the seeds in developing Kranjians
+as leaders.</p>
+<p>Inquiry Based</p>
+<p>In driving the school’s efforts to grow Future Ready Learners, opportunities
+are provided for exploration, creativity and cognitive development through <strong>Inquiry Based </strong>learning
+to build greater student agency.</p>
+<p>Technology Mediated</p>
+<p>In supporting our students to navigate the future, <strong>Technology Mediated</strong> learning
+drives active and deep learning while providing our students with the opportunity
+to learn about the ethical and competent use of technology.</p>
+<p>Positive Education Driven</p>
+<p>Recognising the importance of creating a positive environment for learning
+and growth, the school embraces a <strong>Positive Education</strong> approach
+to raise student motivation and engagement.</p>
 <h3><strong>Our Learning Approach at KPS</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">

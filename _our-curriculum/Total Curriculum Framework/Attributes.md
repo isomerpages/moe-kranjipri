@@ -16,4 +16,10 @@ Res<strong>PE</strong>ct</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/School Creed, Crest and Song/SchoolValues002.png">
 </div>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Skills</p>
+<p></p>
+</li>
+</ol>
 <p></p>

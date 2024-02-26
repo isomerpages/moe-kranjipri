@@ -19,7 +19,7 @@ Res<strong>PE</strong>ct</p>
 </div>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong> Skills</strong>
+<p><strong>Skills</strong>
 </p>
 </li>
 </ol>
@@ -51,3 +51,7 @@ in line with our school values of Resilience and Responsibility. These
 learning objectives are articulated through the 6 key messages below and
 are consistently reinforced to our students throughout their six years
 in the school.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Attitudes.png">
+</div>
+<p></p>

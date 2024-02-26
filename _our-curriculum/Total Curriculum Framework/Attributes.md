@@ -17,8 +17,12 @@ Res<strong>PE</strong>ct</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/School Creed, Crest and Song/SchoolValues002.png">
 </div>
-<p><strong>2.Values – Recipe to Success</strong>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong> Skills</strong>
 </p>
+</li>
+</ol>
 <p><u>Executive Functioning Skills</u>
 </p>
 <p>For our Lower Primary students, Executive Functioning Skills (EFS) have

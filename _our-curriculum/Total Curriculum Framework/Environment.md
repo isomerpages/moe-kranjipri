@@ -78,7 +78,6 @@ and responsible and active citizens. The essence of student-centricity
 is to seek to understand students’ needs and interests when designing learning
 experiences, focusing on student engagement and voice. In this way, we
 empower them to derive personal meaning from their learning experiences.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Environment_2.png">
 </div>
@@ -107,15 +106,5 @@ to facilitate deep learning and internalisation. Deep learning manifests
 in the motivation to act and make a positive difference.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Environment_1.png">
-</div>
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Environment_4.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Environment_5.png">
 </div>
 <p></p>

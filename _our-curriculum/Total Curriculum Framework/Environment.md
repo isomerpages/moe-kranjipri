@@ -90,3 +90,7 @@ community and the motivation to make a positive difference.</p>
 visible, apply their learning and guide them in high quality reflection
 to facilitate deep learning and internalisation. Deep learning manifests
 in the motivation to act and make a positive difference.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Environment_1.png">
+</div>
+<p></p>

@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Total Curriculum Framework
 ---
 <h4>Outcomes</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/outcomes_final.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Outcomes_v2.png">
 </div>

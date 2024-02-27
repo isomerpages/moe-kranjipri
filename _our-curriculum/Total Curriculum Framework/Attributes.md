@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Total Curriculum Framework
 ---
 <h4>Attributes</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Attributes.png">
+</div>
 <p>In order to achieve our Student Outcomes, the school believes that equal
 emphasis needs to be given to a broad spectrum of attributes.&nbsp; The
 CHAMPS Leadership Programme integrates the various efforts of the school

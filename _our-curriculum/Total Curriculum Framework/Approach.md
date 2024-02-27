@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Total Curriculum Framework
 ---
-<h3><strong>EXCITE</strong></h3>
+<h3><strong>EXCITE Learning Approach</strong></h3>
 <p>The EXCITE Learning approach outlines how learning is designed, curated
 and enacted in the school.</p>
 <p></p>

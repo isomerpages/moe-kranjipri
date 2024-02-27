@@ -41,6 +41,9 @@ learner.</p>
 Res<strong>PE</strong>ct</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/RRIP.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/School Creed, Crest and Song/SchoolValues002.png">
 </div>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skills</strong>

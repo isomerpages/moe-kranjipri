@@ -66,9 +66,6 @@ with their peers and teachers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Skills_final.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Executive_Functioning_Skills.png">
-</div>
 <p><u>7 Habits for Highly Effective People</u>
 </p>
 <p>The school adopts the 7 Habits for Highly Effective People (<a href="https://www.franklincovey.com/the-7-habits" rel="noopener noreferrer nofollow" target="_blank">https://www.franklincovey.com/the-7-habits</a>)

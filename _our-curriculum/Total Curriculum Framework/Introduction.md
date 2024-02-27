@@ -10,12 +10,12 @@ third_nav_title: Total Curriculum Framework
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Framework.png">
 </div>
 <p>The KPS Total Curriculum Framework provides a coherent overview of the
-school’s collective efforts to nurture future-ready learners.&nbsp; At
-the heart of the Framework is the vision of the school to nurture Joyful
-Learners, Gracious Citizens and Champions in Life.&nbsp; This is further
-elaborated through our Student Outcomes, which takes guidance from MOE’s
-Framework for 21st Century Competencies (21CC) and Student Outcomes (
-<a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/21st-century-competencies).</a>In
+school’s collective efforts to nurture future-ready learners.</p>
+<p>At the heart of the Framework is the vision of the school to nurture Joyful
+Learners, Gracious Citizens and Champions in Life.</p>
+<p>This is further elaborated through our Student Outcomes, which takes guidance
+from MOE’s Framework for 21st Century Competencies (21CC) and Student Outcomes
+( <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/21st-century-competencies).</a>In
 order to deliver these outcomes, the four core attributes of Values, Skills,
 Knowledge and Attitudes are defined, as well as the accompanying key initiatives
 to develop these attributes.</p>

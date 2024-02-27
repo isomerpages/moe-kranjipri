@@ -15,9 +15,7 @@ school’s collective efforts to nurture future-ready learners.</p>
 Learners, Gracious Citizens and Champions in Life.</p>
 <p>This is further elaborated through our Student Outcomes, which takes guidance
 from MOE’s Framework for 21st Century Competencies (21CC) and Student Outcomes
-(<a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/21st-century-competencies</a>)
-<a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer nofollow" target="_blank">.</a>
-</p>
+(<a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/21st-century-competencies</a>).</p>
 <p>In order to deliver these outcomes, the four core attributes of Values,
 Skills, Knowledge and Attitudes are defined, as well as the accompanying
 key initiatives to develop these attributes.</p>

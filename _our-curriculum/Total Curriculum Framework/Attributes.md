@@ -82,6 +82,9 @@ effective as a learner.&nbsp; This has also been extended to cater to student
 leaders through extended leadership training in 7 Habits, with a focus
 on application.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/7_Good_Habits.png">
+</div>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; Attitudes</strong>
 </p>
 <p>In KPS, we hope to actively cultivate and encourage our students to have

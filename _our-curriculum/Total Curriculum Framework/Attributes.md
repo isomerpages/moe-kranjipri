@@ -45,9 +45,6 @@ Res<strong>PE</strong>ct</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/RRIP_final_v2.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/RRIP_final.png">
-</div>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skills</strong>
 </p>
 <p>Through Executive Functioning Skills, the school aims to equip in students

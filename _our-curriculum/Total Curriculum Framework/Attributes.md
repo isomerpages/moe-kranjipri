@@ -67,7 +67,6 @@ that are deemed to be more accessible for Lower Primary students.&nbsp;
 Bite-sized packages for Primary 1 and 2 have been created, with emphasis
 on allowing our students to experience EFS through hands-on activities
 with their peers and teachers.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Skills_final_v3.png">
 </div>
@@ -142,4 +141,4 @@ instruction, planned authentic learning experiences, as well as teachable
 moments. For sustainable lifelong character development, these competencies
 must be taught, learnt, and applied within the broader context of values
 learning so that students understand the purpose and meaningfulness of
-acquiring these competencies.</p>
+acquiring these competencies</p>

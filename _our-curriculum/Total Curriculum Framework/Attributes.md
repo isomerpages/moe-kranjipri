@@ -16,9 +16,6 @@ of self, before they proceed to lead others.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/attributes_1_final.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/attributes_1_final.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/attributes_1.png">
 </div>
 <div class="isomer-image-wrapper">
@@ -73,6 +70,9 @@ that are deemed to be more accessible for Lower Primary students.&nbsp;
 Bite-sized packages for Primary 1 and 2 have been created, with emphasis
 on allowing our students to experience EFS through hands-on activities
 with their peers and teachers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Skills_final_v2.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Skills_final.png">
 </div>

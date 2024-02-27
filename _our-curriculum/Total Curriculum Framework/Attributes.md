@@ -39,7 +39,6 @@ learner.</p>
 </p>
 <p><strong>Re</strong>sponsibility, <strong>Re</strong>silience, <strong>C</strong>ompassion, <strong>I</strong>ntegrity,
 Res<strong>PE</strong>ct</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/RRIP_final.png">
 </div>
@@ -142,4 +141,3 @@ moments. For sustainable lifelong character development, these competencies
 must be taught, learnt, and applied within the broader context of values
 learning so that students understand the purpose and meaningfulness of
 acquiring these competencies.</p>
-<p></p>

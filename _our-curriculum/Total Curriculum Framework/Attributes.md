@@ -16,9 +16,6 @@ of self, before they proceed to lead others.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/attributes_1_final.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/attributes_1.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/attributes_2.jpg">
 </div>
 <p>There are 4 key components in the CHAMPS Leadership Programme:</p>

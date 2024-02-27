@@ -81,6 +81,7 @@ to motivate them to make positive steps to improve in order to be more
 effective as a learner.&nbsp; This has also been extended to cater to student
 leaders through extended leadership training in 7 Habits, with a focus
 on application.</p>
+<p></p>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; Attitudes</strong>
 </p>
 <p>In KPS, we hope to actively cultivate and encourage our students to have

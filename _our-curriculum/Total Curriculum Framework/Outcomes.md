@@ -9,9 +9,6 @@ third_nav_title: Total Curriculum Framework
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/outcomes_final.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Outcomes_v2.png">
-</div>
 <p>In Kranji Primary School, we anchor our Student Outcomes on our School
 Vision – Joyful Learners, Gracious Citizens, Champions in Life.&nbsp; We
 have further elaborated on our Student Outcomes through Learning Dispositions

@@ -57,10 +57,10 @@ they take ownership of their learning.&nbsp;</p>
 </p>
 <p>For our Lower Primary students, Executive Functioning Skills (EFS) have
 been identified as pre-requisite skills necessary in every child in order
-for learning and engagement to take place.&nbsp; Executive functioning
-skills also equip students with strategies that help them to manage their
-personal behaviour as well as interact in an appropriate manner with teachers
-and peers. Four EFS clusters have been selected that are deemed most relevant
+for learning and engagement to take place.&nbsp;Executive functioning skills
+also equip students with strategies that help them to manage their personal
+behaviour as well as interact in an appropriate manner with teachers and
+peers. Four EFS clusters have been selected that are deemed most relevant
 to our lower primary students – Memory, Organisation, Emotion and Thinking.
 These are natural upstream articulations of the 7 Habits that are deemed
 to be more accessible for Lower Primary students.&nbsp;Bite-sized packages

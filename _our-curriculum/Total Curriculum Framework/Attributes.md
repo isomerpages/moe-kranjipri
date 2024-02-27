@@ -62,11 +62,11 @@ skills also equip students with strategies that help them to manage their
 personal behaviour as well as interact in an appropriate manner with teachers
 and peers. &nbsp;Four EFS clusters have been selected that are deemed most
 relevant to our lower primary students – Memory, Organisation, Emotion
-and Thinking.&nbsp; These are natural upstream articulations of the 7 Habits
-that are deemed to be more accessible for Lower Primary students.&nbsp;
-Bite-sized packages for Primary 1 and 2 have been created, with emphasis
-on allowing our students to experience EFS through hands-on activities
-with their peers and teachers.</p>
+and Thinking. These are natural upstream articulations of the 7 Habits
+that are deemed to be more accessible for Lower Primary students.&nbsp;Bite-sized
+packages for Primary 1 and 2 have been created, with emphasis on allowing
+our students to experience EFS through hands-on activities with their peers
+and teachers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Skills_final_v3.png">
 </div>

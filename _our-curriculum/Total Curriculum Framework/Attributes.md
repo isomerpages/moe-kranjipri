@@ -11,6 +11,13 @@ emphasis needs to be given to a broad spectrum of attributes.&nbsp; The
 CHAMPS Leadership Programme integrates the various efforts of the school
 to build skills and competencies in our students to first become leaders
 of self, before they proceed to lead others.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/attributes_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/attributes_2.jpg">
+</div>
 <p>There are 4 key components in the CHAMPS Leadership Programme:</p>
 <p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A strong anchor on the school values
 of <strong><u>Re</u></strong>sponsibility, <strong><u>Re</u></strong>silience, <strong><u>C</u></strong>ompassion, <strong><u>I</u></strong>ntegrity

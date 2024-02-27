@@ -7,10 +7,10 @@ third_nav_title: Total Curriculum Framework
 ---
 <h4>Attributes</h4>
 <p>In order to achieve our Student Outcomes, the school believes that equal
-emphasis needs to be given to a broad spectrum of attributes.&nbsp; The
-CHAMPS Leadership Programme integrates the various efforts of the school
-to build skills and competencies in our students to first become leaders
-of self, before they proceed to lead others.&nbsp;</p>
+emphasis needs to be given to a broad spectrum of attributes. The CHAMPS
+Leadership Programme integrates the various efforts of the school to build
+skills and competencies in our students to first become leaders of self,
+before they proceed to lead others.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/attributes_1_final.png">

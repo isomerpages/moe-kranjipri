@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Total Curriculum Framework
 ---
-<h4></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Framework.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Curriculum_Framework_2024_final.png">
 </div>
 <p>The KPS Total Curriculum Framework provides a coherent overview of the
 school’s collective efforts to nurture future-ready learners.</p>

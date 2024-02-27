@@ -43,6 +43,13 @@ support to one another (peer helping) and promote positive mindsets, prosocial
 behaviours and well-being (peer influencing). Taken together, these efforts
 contribute to the building of a caring and supportive peer culture, by
 students for students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Environment_4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Environment_5.png">
+</div>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student-centricity</strong>
 </p>
 <p>We place students at the heart of all our efforts, catering to their academic
@@ -71,6 +78,14 @@ and responsible and active citizens. The essence of student-centricity
 is to seek to understand students’ needs and interests when designing learning
 experiences, focusing on student engagement and voice. In this way, we
 empower them to derive personal meaning from their learning experiences.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Environment_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Environment_3.png">
+</div>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Ownership &amp; Agency</strong>
 </p>
 <p>To establish an effective learning environment, it is critical to take
@@ -94,13 +109,7 @@ in the motivation to act and make a positive difference.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Environment_1.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Environment_2.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Environment_3.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Environment_4.png">

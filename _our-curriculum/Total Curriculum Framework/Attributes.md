@@ -69,9 +69,6 @@ with their peers and teachers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Executive_Functioning_Skills.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/Skill_v2.png">
-</div>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; Attitudes</strong>
 </p>
 <p>In KPS, we hope to actively cultivate and encourage our students to have

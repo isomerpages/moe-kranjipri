@@ -76,8 +76,8 @@ and teachers.</p>
 for the explicit teaching of leadership skills to our students.&nbsp; The
 key essence of the 7 Habits has been distilled into bite-sized learning
 packages tailored to lower/middle/upper primary levels, and taught by Form
-Teachers <strong>as part of the CHAMPS Leadership Programme</strong> .&nbsp;
-The 7 Habits provide students with applicable tools that they could practise
+Teachers <strong>as part of the CHAMPS Leadership Programme</strong> .&nbsp;The
+7 Habits provide students with applicable tools that they could practise
 in their daily lives, and serve to motivate them to make positive steps
 to improve in order to be more effective as a learner.&nbsp; This has also
 been extended to cater to student leaders through extended leadership training

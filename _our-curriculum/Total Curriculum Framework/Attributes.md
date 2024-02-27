@@ -75,7 +75,7 @@ with their peers and teachers.</p>
 <p>The school adopts the 7 Habits for Highly Effective People (<a href="https://www.franklincovey.com/the-7-habits" rel="noopener noreferrer nofollow" target="_blank">https://www.franklincovey.com/the-7-habits</a>)
 for the explicit teaching of leadership skills to our students.&nbsp; The
 key essence of the 7 Habits has been distilled into bite-sized learning
-packages tailored to lower/middle/upper primary levels,and taught by Form
+packages tailored to lower/middle/upper primary levels, and taught by Form
 Teachers <strong>as part of the CHAMPS Leadership Programme</strong> .&nbsp;
 The 7 Habits provide students with applicable tools that they could practise
 in their daily lives, and serve to motivate them to make positive steps

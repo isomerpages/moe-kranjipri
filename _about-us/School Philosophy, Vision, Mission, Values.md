@@ -2,6 +2,7 @@
 title: School Philosophy, Vision, Mission, Values
 permalink: /about-us/school-philosophy-vision-mission-values/
 description: ""
+variant: markdown
 ---
 <center>
 
@@ -29,4 +30,4 @@ Nurturing Minds, Engaging Hearts, Building Character <br>
 <b>I</b>ntegrity  <br>
 Res<b>PE</b>ct<br>
 <br>
-<img src="/images/About%20Us/School%20Creed,%20Crest%20and%20Song/SchoolValues002.png"></center>
+<img src="/images/About%20Us/School%20Creed,%20Crest%20and%20Song/schoolvalues003.png"></center>

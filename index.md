@@ -14,7 +14,7 @@ sections:
           url: /News-and-Events/
         - title: EXCITE Learning Approach
           description: ""
-          url: https://staging.d2akfpcn0n1ap5.amplifyapp.com/EXCITE-Learning-Approach/
+          url: /our-curriculum/total-curriculum-framework/approach/
         - title: Voices of Our Alumni
           description: ""
           url: /Voices-of-our-alumni/

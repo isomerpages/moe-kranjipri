@@ -134,4 +134,4 @@ actions on others.</p>
 reasoning and sound values-based judgements in the choices we make.</p>
 </li>
 </ul>
-<p>understand the purpose and meaningfulness of acquiring these competencies</p>
+<p></p>

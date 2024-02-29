@@ -74,12 +74,12 @@ to experience EFS through hands-on activities with their peers and teachers.</p>
 for the explicit teaching of leadership skills to our students.&nbsp; The
 key essence of the 7 Habits has been distilled into bite-sized learning
 packages tailored to lower/middle/upper primary levels, and taught by Form
-Teachers <strong>as part of the CHAMPS Leadership Programme</strong> .&nbsp;The
-7 Habits provide students with applicable tools that they could practise
-in their daily lives, and serve to motivate them to make positive steps
-to improve in order to be more effective as a learner.&nbsp;This has also
-been extended to cater to student leaders through extended leadership training
-in 7 Habits, with a focus on application.</p>
+Teachers as part of the CHAMPS Leadership Programme .&nbsp;The 7 Habits
+provide students with applicable tools that they could practise in their
+daily lives, and serve to motivate them to make positive steps to improve
+in order to be more effective as a learner.&nbsp;This has also been extended
+to cater to student leaders through extended leadership training in 7 Habits,
+with a focus on application.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/7_Good_Habits.png">
 </div>

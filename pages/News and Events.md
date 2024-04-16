@@ -27,10 +27,10 @@ variant: tiptap
 <p>Malay Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 March 2024</p>
+<p>31 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mixed Rice and Side Dishes</p>
+<p>Mixed Rice and Side Dishes / Western Food</p>
 </td>
 </tr>
 </tbody>

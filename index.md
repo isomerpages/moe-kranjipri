@@ -12,9 +12,9 @@ sections:
         - title: News & Events
           description: ""
           url: /News-and-Events/
-        - title: EXCITE Learning Approach
+        - title: Our Curriculum
           description: ""
-          url: /our-curriculum/total-curriculum-framework/approach/
+          url: https://www.kranjipri.moe.edu.sg/our-curriculum/total-curriculum-framework/introduction/
         - title: Voices of Our Alumni
           description: ""
           url: /Voices-of-our-alumni/

@@ -18,16 +18,23 @@ sections:
         - title: Voices of Our Alumni
           description: ""
           url: /Voices-of-our-alumni/
+  - infopic:
+      title: Our School is Relocating to Tengah in 2028!
+      subtitle: EXCITING NEWS!
+      id: infopic
+      description: We are thrilled to announce that in 2028, our school will be
+        relocating to a brand new campus in the vibrant and rapidly growing
+        Tengah Estate!
+      image: /images/Tengah.png
+      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
         - title: School Canteen Advertisement
           date: 13 January 2024
-          announcement: >-
-            Looking for Malay Food Stall holder for our school.
-
-            Click on Read More below to learn of our requirements and application procedures.
+          announcement: Looking for Malay Food Stall holder for our school. Click on Read
+            More below to learn of our requirements and application procedures.
           link_text: Read More
           link_url: https://www.kranjipri.moe.edu.sg/News-and-Events/
   - infopic:

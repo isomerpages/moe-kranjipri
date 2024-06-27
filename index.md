@@ -27,6 +27,8 @@ sections:
         Tengah Estate!
       image: /images/Tengah.png
       alt: Image alt text
+      button: READ MORE
+      url: https://www.kranjipri.moe.edu.sg/News-and-Events/
   - announcements:
       title: Announcements
       id: announcements

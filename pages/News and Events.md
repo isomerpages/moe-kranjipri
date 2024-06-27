@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Read our latest news</strong></h3>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.png">

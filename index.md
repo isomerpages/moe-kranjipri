@@ -29,16 +29,6 @@ sections:
       alt: Image alt text
       button: READ MORE
       url: https://www.kranjipri.moe.edu.sg/News-and-Events/
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: School Canteen Advertisement
-          date: 13 January 2024
-          announcement: Looking for Malay Food Stall holder for our school. Click on Read
-            More below to learn of our requirements and application procedures.
-          link_text: Read More
-          link_url: https://www.kranjipri.moe.edu.sg/News-and-Events/
   - infopic:
       title: Every Kranjian Matters and Deserves the Best!
       description: “We value every student, Every student wants to succeed, All can

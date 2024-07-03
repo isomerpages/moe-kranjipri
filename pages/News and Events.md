@@ -6,6 +6,10 @@ variant: tiptap
 ---
 <h3><strong>Read our latest news</strong></h3>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Tengah.png">
+</div>
 <p>This move marks a significant milestone in our school's journey and promises
 an enhanced educational experience for all. Our new location will feature
 state-of-the-art facilities, innovative learning environments, and expansive
@@ -22,6 +26,8 @@ preparing our students for future challenges and opportunities.</p>
 with regular reports on our plans for the new school. Join us in our journey
 to our new home, where the Kranjian spirit will continue to thrive and
 grow.&nbsp; We can’t wait to see you at Tengah!</p>
+<p><a href="https://www.moe.gov.sg/news/press-releases/20240116-meeting-shifting-demand-for-school-and-preschool-places-across-singapore" rel="noopener noreferrer nofollow" target="_blank">MOE Press Release</a>
+</p>
 <h3></h3>
 <hr>
 <h5>Basketball West Zone Senior Division Champions</h5>

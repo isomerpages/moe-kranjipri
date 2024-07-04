@@ -203,8 +203,9 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 3</strong></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -216,6 +217,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Form Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Co-Form Teacher</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Co-Form Teacher</p>
@@ -234,6 +238,9 @@ variant: tiptap
 <p>Mdm Radhiah Bte Jais
 <br>radhiah_jais@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -247,6 +254,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Richard S/O Arokiasamy
 <br>richard_arokiasamy@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -262,6 +272,9 @@ variant: tiptap
 <p>Mdm Yak Hui Hwa (Seetoh)
 <br>yak_hui_hwa@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -275,6 +288,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Tay Li Ping
 <br>tay_li_ping@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Yan Hao, Jeremy</p>
+<p>loh_yan_hao_jeremy@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

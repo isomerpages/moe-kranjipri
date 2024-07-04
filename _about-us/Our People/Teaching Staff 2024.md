@@ -568,7 +568,8 @@ variant: tiptap
 <br>yeo_chin_pin_stephanie@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Goh Chow Thye
+<br>goh_chow_thye@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

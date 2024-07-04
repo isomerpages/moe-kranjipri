@@ -9,7 +9,13 @@ variant: tiptap
 <iframe height="480" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWp0S1jsK3BE-OXvwOAUd_44LqfQZ8DVU8gCJoAhUwdqZ5yyJKF4Gh4CipF6I20wjIPzo8GiFQSkgF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Primary 1</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -99,7 +105,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 2</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -191,7 +203,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 3</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -263,7 +280,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 4</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -335,7 +357,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 5</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -393,7 +420,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 6</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -451,7 +483,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>FLEXI-ADJUNCT TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -469,8 +507,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ho Qian Wen
-<br>ho_qian_wen@moe.edu.sg</p>
+<p>Mr Mohamd Sahar Ismail
+<br>mohamd_sahar_ismail_a@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Siyin

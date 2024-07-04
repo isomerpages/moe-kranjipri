@@ -349,7 +349,7 @@ variant: tiptap
 <br>Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Fazlee Bin Sabari
+<p>Mr Mohd Fazlee Bin Sabari
 <br>mohamad_fazlee_sabari@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">

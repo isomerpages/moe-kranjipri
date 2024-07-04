@@ -290,8 +290,8 @@ variant: tiptap
 <br>tay_li_ping@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Yan Hao, Jeremy</p>
-<p>loh_yan_hao_jeremy@moe.edu.sg</p>
+<p>Mr Loh Yan Hao, Jeremy
+<br>loh_yan_hao_jeremy@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

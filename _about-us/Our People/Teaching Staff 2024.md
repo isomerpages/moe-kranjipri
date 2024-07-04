@@ -349,8 +349,8 @@ variant: tiptap
 <br>Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Cheng Cheng Candice (Mrs Yip)
-<br>chua_cheng_cheng_candice@moe.edu.sg</p>
+<p>Mr Mohamad Fazlee Bin Sabari
+<br>mohamad_fazlee_sabari@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Chang Si Ying

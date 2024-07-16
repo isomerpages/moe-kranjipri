@@ -4,7 +4,36 @@ permalink: /moe-kindergarten/moe-kindergarten/
 description: ""
 variant: tiptap
 ---
-<p></p><a class="isomer-image-wrapper" href="https://www.kranjipri.moe.edu.sg/News-and-Events/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_16_at_3_22_03_PM.png"></a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Our School is Relocating to Tengah in 2028!</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>We are thrilled to announce that in 2028, our school will be relocating
+to a brand new campus in the vibrant and rapidly growing Tengah Estate!</p>
+<p></p>
+<p></p>
+<p><a href="https://www.kranjipri.moe.edu.sg/News-and-Events/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Tengah.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PgvZx-XBx1A"></iframe>
 </div>

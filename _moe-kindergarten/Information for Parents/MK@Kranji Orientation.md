@@ -3,5 +3,5 @@ title: MK@Kranji Orientation
 permalink: /moe-kindergarten/information-for-parents/permalink/
 description: ""
 third_nav_title: Information for Parents
+variant: markdown
 ---
-![](/images/MOE%20Kindergarten/Information%20for%20Parents/Information%20for%20Parents/poster2.png)

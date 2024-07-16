@@ -20,7 +20,6 @@ variant: tiptap
 <p>We are thrilled to announce that in 2028, our school will be relocating
 to a brand new campus in the vibrant and rapidly growing Tengah Estate!</p>
 <p></p>
-<p></p>
 <p><a href="https://www.kranjipri.moe.edu.sg/News-and-Events/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
 </td>

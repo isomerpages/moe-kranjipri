@@ -65,7 +65,7 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 
 </figure>
 
-
+**Please [click here](/Junior-Tinkering-Programme/) for Junior Tinkering Programme**
 
 
 ##### **K Maker Programme**
@@ -176,4 +176,3 @@ The Talent Development Programme is designed to develop and challenge students w
 
 </figure>
 
-**Please click [here](/Junior-Tinkering-Programme/) for Junior Tinkering Programme**

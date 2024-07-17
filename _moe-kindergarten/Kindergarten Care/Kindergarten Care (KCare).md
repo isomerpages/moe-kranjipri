@@ -2,7 +2,7 @@
 title: Kindergarten Care (KCare)
 permalink: /moe-kindergarten/Kindergarten-Care-KCare/Kindergarten-Care-KCare/
 description: ""
-third_nav_title: Kindergarten Care KCare
+third_nav_title: Kindergarten Care
 ---
 ![](/images/MOE%20Kindergarten/Kindergarten%20Care%20(KCare)/K1.jpg)
 

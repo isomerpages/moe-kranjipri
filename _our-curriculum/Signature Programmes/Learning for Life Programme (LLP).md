@@ -3,6 +3,7 @@ title: Learning for Life Programme (LLP)
 permalink: /Signature-Programmes/Learning-for-Life-Programme-LLP/
 description: ""
 third_nav_title: Signature Programmes
+variant: markdown
 ---
 ##### **Developing Champions in Life through Sports**
 
@@ -252,7 +253,7 @@ In Kranji, two physical sports Co-Curricular Activities (CCAs), namely Football 
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L24.jpg">
 
-<figcaption> <strong> National Champions in 2019/2018/2017 National School Games Basketball Senior Girls Division </strong> </figcaption>
+<figcaption> <strong> National School Games Basketball Senior Girls Division </strong> </figcaption>
 
 </figure>
 

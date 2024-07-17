@@ -6,7 +6,10 @@ variant: tiptap
 ---
 <h3><strong>Read our latest news</strong></h3>
 <hr>
-<p></p>
+<p>EXCITING NEWS!</p>
+<h1><strong>Our School is Relocating to Tengah in 2028!</strong></h1>
+<p>We are thrilled to announce that in 2028, our school will be relocating
+to a brand new campus in the vibrant and rapidly growing Tengah Estate!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Tengah.png">
 </div>

@@ -31,7 +31,9 @@ to our new home, where the Kranjian spirit will continue to thrive and
 grow.&nbsp; We can’t wait to see you at Tengah!</p>
 <p><a href="https://www.moe.gov.sg/news/press-releases/20240116-meeting-shifting-demand-for-school-and-preschool-places-across-singapore" rel="noopener noreferrer nofollow" target="_blank">MOE Press Release</a>
 </p>
-<h3></h3>
+<hr>
+<h3>Caring Teacher Award 2024</h3>
+<p></p>
 <hr>
 <h5>Basketball West Zone Senior Division Champions</h5>
 <div class="isomer-image-wrapper">

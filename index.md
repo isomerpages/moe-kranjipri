@@ -30,6 +30,14 @@ sections:
       button: READ MORE
       url: https://www.kranjipri.moe.edu.sg/News-and-Events/
   - infopic:
+      title: Caring Teacher Award 2024
+      id: infopic
+      description: Nominate your teachers who have made a positive difference to your life.
+      button: READ MORE
+      url: https://www.kranjipri.moe.edu.sg/News-and-Events/
+      image: /images/News and Events/CTA_2024.png
+      alt: Image alt text
+  - infopic:
       title: Every Kranjian Matters and Deserves the Best!
       description: “We value every student, Every student wants to succeed, All can
         learn.” This is our commitment to every Kranjian.

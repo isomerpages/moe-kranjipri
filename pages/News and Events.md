@@ -35,7 +35,7 @@ grow.&nbsp; We can’t wait to see you at Tengah!</p>
 <h3>Caring Teacher Award 2024</h3>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvcuQkahwEA1gXSKQvIT78Yh4yau8eQDNqrYzNqVD4k5UP_IpVOi62q0iadSKnxEpMNlQ1CabqPv1E/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvcuQkahwEA1gXSKQvIT78Yh4yau8eQDNqrYzNqVD4k5UP_IpVOi62q0iadSKnxEpMNlQ1CabqPv1E/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <hr>
 <h5>Basketball West Zone Senior Division Champions</h5>

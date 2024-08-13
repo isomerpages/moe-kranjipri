@@ -56,9 +56,9 @@ Contact No.: 6760 4835&nbsp;
 
 The school dental clinic will be closed from 7 August 2024 to August/September 2025. Students who require dental treatment may contact the buddy clinics at nearby schools for dental appointment. 
 
-•⁠  ⁠De La Salle Primary School, Tel: 9114-5692
-•⁠  ⁠Unity Primary School, Tel: 9115-8304
-•⁠  ⁠Yew Tee Primary School, Tel: 9115-9835
-•⁠  ⁠Mobile Dental Clinic, Tel: 9186-4597
+* De La Salle Primary School, Tel: 91145692
+* ⁠Unity Primary School, Tel: 9115-8304
+* Yew Tee Primary School, Tel: 9115-9835
+* Mobile Dental Clinic, Tel: 9186-4597
 
 Students with dental emergencies (e.g. dental trauma, facial/gum swellings or toothaches, may contact the School Dental Centre via email [here](Contact_YPS@hpb.gov.sg).

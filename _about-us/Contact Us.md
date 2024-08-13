@@ -61,4 +61,4 @@ The school dental clinic will be closed from 7 August 2024 to August/September 2
 •⁠  ⁠Yew Tee Primary School, Tel: 9115-9835
 •⁠  ⁠Mobile Dental Clinic, Tel: 9186-4597
 
-Students with dental emergencies (e.g. dental trauma, facial/gum swellings or toothaches, may contact the School Dental Centre via email [here](Contact_YPS@hpb.gov.sg). 
+Students with dental emergencies (e.g. dental trauma, facial/gum swellings or toothaches, may contact the School Dental Centre via email [here](Contact_YPS@hpb.gov.sg).

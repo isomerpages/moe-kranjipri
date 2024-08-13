@@ -54,13 +54,11 @@ Contact No.: 6760 4835&nbsp;
 
 ### 3\. School Dental Clinic
 
-Students who require dental treatment can go to the dental clinic in school for assistance. The school dental clinic is operating on a roving model. They will be in KPS for 3 to 4 months a year and is supported by other buddy dental clinics in primary schools around the area on other days during the school term.
+The school dental clinic will be closed from 7 August 2024 to August/September 2025. Students who require dental treatment may contact the buddy clinics at nearby schools for dental appointment. 
 
-**In the event that students require urgent dental treatment during the periods the roving team is not stationed in KPS, parents can call the following buddy clinics for an appointment:**
+* De La Salle Primary School, Tel: 91145692
+* ⁠Unity Primary School, Tel: 9115-8304
+* Yew Tee Primary School, Tel: 9115-9835
+* Mobile Dental Clinic, Tel: 9186-4597
 
-*   De La Salle Primary School, Tel: 6765-6407
-*   Unity Primary School, Tel: 6767-7161
-*   Yew Tee Primary School, Tel: 6769-6746
-*   MDC14, Tel: 9061-5729
-
-Students with dental emergencies (e.g. severe pain affecting sleep, facial swelling due to dental infection, dental injury) when the dental clinic is not in operation may call for an appointment to be seen at the School Dental Centre in HPB. The contact details are DID: 6435-3782 (Mondays to Fridays, 8 am to 5 pm) or email: HPB_Dental_Counter@hpb.gov.sg.
+Students with dental emergencies (e.g. dental trauma, facial/gum swellings or toothaches, may contact the School Dental Centre via email [here](Contact_YPS@hpb.gov.sg).

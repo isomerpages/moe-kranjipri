@@ -42,6 +42,3 @@ It can be propagated by seed or stem cuttings.
 
 **Ethnobotanical Uses**&nbsp;:  
 None
-
-  
-

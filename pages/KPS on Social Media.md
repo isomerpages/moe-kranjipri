@@ -17,4 +17,3 @@ variant: markdown
 
 ![](/images/KPS-tiktok.png)
 We are on TikTok too! [Do catch us there!](https://www.tiktok.com/@kranjiprisch?lang=en)
-

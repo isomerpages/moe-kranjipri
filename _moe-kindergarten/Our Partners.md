@@ -2,13 +2,13 @@
 title: Our Partners
 permalink: /moe-kindergarten/Our-Partners/
 description: ""
+variant: markdown
 ---
-
 ![](/images/MOE%20Kindergarten/Our%20Partners/P1.png)  
 
-**1.** **Parent Support Group**
+**1.**&nbsp;**Parent Support Group**
 
-We aim to establish a strong home-school partnership with our parents as we believe that parents play a very important role in their children’s development. Through various activities, we seek parents’ involvement by contributing their time, knowledge and expertise to enhance children’s learning experiences.  
+We aim to establish a strong home-school partnership with our parents as we believe that parents play a very important role in their children’s development. Through various activities, we seek parents’ involvement by contributing their time, knowledge and expertise to enhance children’s learning experiences.&nbsp;&nbsp;
 
 
 
@@ -52,17 +52,15 @@ We aim to establish a strong home-school partnership with our parents as we beli
 <figcaption> <strong> Parents worked with teachers to host a Children’s Day celebration. </strong> </figcaption>
 
 </figure>
- 
+&nbsp;
 
-**2.** **Kranji Primary School**
+**2.**&nbsp;**Kranji Primary School**
 
-We collaborate with the primary school to give our children an early exposure to understanding a bigger school system. 
+We collaborate with the primary school to give our children an early exposure to understanding a bigger school system.&nbsp;
 
 ![](/images/MOE%20Kindergarten/Our%20Partners/P7.png)  
 
-Click [here](https://kranjipri-moe-edu-sg-admin.cwp.sg/moe-kindergarten/our-partners/k2-immersion-programme-at-kps) or on the image to view the e-newsletter on this unique K2
 
-Immersion Programme at KPS.
 
   
 
@@ -82,7 +80,7 @@ Immersion Programme at KPS.
 
 <img src="/images/MOE%20Kindergarten/Our%20Partners/P9.jpg">
 
-<figcaption> <strong> Budding Champions Day: Through this sports event, our kindergarten students came together with the lower primary students to experience relay sports and learnt important school values of resilience and compassion. </strong> </figcaption>
+<figcaption> <strong> Budding Champions Day:&nbsp;Through this sports event, our kindergarten students came together with the lower primary students to experience relay sports and learnt important school values of resilience and compassion. </strong> </figcaption>
 
 </figure>
 
@@ -90,13 +88,13 @@ Immersion Programme at KPS.
 
 <img src="/images/MOE%20Kindergarten/Our%20Partners/P10.jpg">
 
-<figcaption> <strong> The primary school and kindergarten come together to celebrate major festivals throughout the year. Mid-Autumn Festival was one of them. </strong> </figcaption>
+<figcaption> <strong> The primary school and kindergarten come together to celebrate major festivals throughout the year.&nbsp;Mid-Autumn Festival was one of them. </strong> </figcaption>
 
-</figure>   
+</figure>&nbsp; &nbsp;
 
   
 
-**3. The Community**
+**3.&nbsp;The Community**
 
 Collaboration with the community can also enhance the learning experience for our children.
 
@@ -120,7 +118,7 @@ Collaboration with the community can also enhance the learning experience for ou
 
 <img src="/images/MOE%20Kindergarten/Our%20Partners/P13.jpg">
 
-<figcaption> <strong>  The Health Promotion Board hosted a mini carnival to guide children on cultivating good habits to keep healthy. </strong> </figcaption>
+<figcaption> <strong> &nbsp;The Health Promotion Board hosted a mini carnival to guide children on cultivating good habits to keep healthy. </strong> </figcaption>
 
 </figure>
 
@@ -128,7 +126,7 @@ Collaboration with the community can also enhance the learning experience for ou
 
 <img src="/images/MOE%20Kindergarten/Our%20Partners/P14.jpg">
 
-<figcaption> <strong> Start Small Dream Big Project: Through "Start Small Dream Big", we hope to encourage young children to use their own resources and creativity to give back to society, and in the process, instil the spirit of giving and good values such as care for others, humility, kindness and compassion. 
+<figcaption> <strong> Start Small Dream Big Project: Through "Start Small Dream Big", we hope to encourage young children to use their own resources and creativity to give back to society, and in the process, instil the spirit of giving and good values such as care for others, humility, kindness and compassion.&nbsp;
 
  </strong> </figcaption>
 

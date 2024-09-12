@@ -2,8 +2,8 @@
 title: Plant 6 Murraya koenigii
 permalink: /butterfly-garden/Plant-6-Murraya-koenigii/
 description: ""
+variant: markdown
 ---
-
 #### **Curry Leaf Tree**
 
 
@@ -18,7 +18,7 @@ description: ""
 | **Preferred Climate Zone** : |     India to Indochina                                                                                                                                                          |
   
   
-   
+&nbsp;  
 **Description :**  
   
 <img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B6.png">
@@ -34,16 +34,14 @@ description: ""
 
   
 
-**Habitat** :  
+**Habitat**&nbsp;:  
 Found in moist forests, evergreen and deciduous forests.
 
-**Cultivation** :  
+**Cultivation**&nbsp;:  
 Plant can be propagated by seed. Sow seeds immediately after harvesting (seeds are viable up to 3 weeks).
 
-**Ethnobotanical Uses** :  
-Edible Plant Parts (Edible Leaves) Food (Herb & Spice: The leaves are used to flavour and enhance aroma in Indian curries.) Medicinal (The essential oil found in the leaves and seeds have antibacterial and anti-fungal activity.)
+**Ethnobotanical Uses**&nbsp;:  
+Edible Plant Parts (Edible Leaves) Food (Herb &amp; Spice: The leaves are used to flavour and enhance aroma in Indian curries.) Medicinal (The essential oil found in the leaves and seeds have antibacterial and anti-fungal activity.)
 
   
 
-**Source :  
-[https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=2238](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=2238)**

@@ -2,8 +2,8 @@
 title: Plant 11 Echinocactus grusonii
 permalink: /butterfly-garden/Plant-11-Echinocactus-grusonii/
 description: ""
+variant: markdown
 ---
-
 #### **Golden Barrel Cactus**
 
 
@@ -17,7 +17,7 @@ description: ""
 |    **Maximum Height** :    |     1 m                |
   
   
-   
+&nbsp;  
 **Description :**  
   
 <img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B11.png">
@@ -32,16 +32,13 @@ description: ""
 
   
 
-**Habitat** :  
+**Habitat**&nbsp;:  
 This species is critically endangered due to habitat loss and over collection. However, it is commonly grown in the nursery trade.
 
-**Cultivation** :  
+**Cultivation**&nbsp;:  
 It will grow well indoors on a bright windowsill, but it must be grown in full sun to flower and develop golden-coloured spines.
 
-**Ethnobotanical Uses** :  
+**Ethnobotanical Uses**&nbsp;:  
 Some desert travellers use this species as a compass.
 
   
-
-**Source :  
-[https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=1981](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=1981)**

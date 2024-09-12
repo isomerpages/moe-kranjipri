@@ -2,8 +2,8 @@
 title: Plant 3 Calliandra emarginata
 permalink: /butterfly-garden/Plant-3-Calliandra-emarginata/
 description: ""
+variant: markdown
 ---
-
 #### **Red Powderpuff Plant**
 
 
@@ -19,7 +19,7 @@ description: ""
   
   
   
-**Description :**   
+**Description :**&nbsp;  
 
 
 <img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B3.png">
@@ -33,13 +33,10 @@ description: ""
 
   
 
-**Cultivation** :  
+**Cultivation**&nbsp;:  
 Provide well-watered, well-drained soils. Takes full sun to partial shade. Plant assumes sprawling and lower-growing form under full sun, but is more upright with more open crown under shade. Somewhat slow-growing, but withstands transplanting. If grown as bonsai, wire up younger branches to train them into desired shapes; plant may be temporarily potted in larger containers to encourage thickening of trunk and branches. Propagate by seeds (easier) or stem cuttings. Occasionally affected by white flies and scale insects.
 
-**Ethnobotanical Uses** :  
+**Ethnobotanical Uses**&nbsp;:  
 Medicinal (Flowers are crushed and mixed with water to treat inflammation of the eye and ulcers of the skin. The leaf extract is prescribed for internal complaints.), dried
 
   
-
-**Source :  
-[https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=2771](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=2771)**

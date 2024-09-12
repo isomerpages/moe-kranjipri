@@ -2,8 +2,8 @@
 title: Plant 15 Euphorbia milii
 permalink: /butterfly-garden/Plant-15-Euphorbia-milii/
 description: ""
+variant: markdown
 ---
-	
 #### **Crown of Thorns**
 
 
@@ -17,7 +17,7 @@ description: ""
 |      **Plant shape** :     |     Dwarf              |
   
   
-   
+&nbsp;  
 **Description :**  
   
 <img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B15.png">
@@ -34,13 +34,8 @@ description: ""
 
   
 
-**Cultivation** :  
+**Cultivation**&nbsp;:  
 Prefers well-drained soil that can be watered regularly and is moderately salt tolerant. Though very drought tolerant, regular watering will keep it from defoliating and encourages blooming. Prone to botrytis or powdery mildew when water collect on the leaves and flowers. Propagated by tip cuttings, whereby bleeding is stopped and allowed to dry and callus over a few days before inserting into propagation media. Rooting occurs in a few weeks.
 
-**Ethnobotanical Uses** :  
+**Ethnobotanical Uses**&nbsp;:  
 None
-
-  
-
-**Source :  
-[https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=2005](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=2005)**

@@ -2,8 +2,8 @@
 title: Plant 21 Citrus microcarpa
 permalink: /butterfly-garden/Plant-21-Citrus-microcarpa/
 description: ""
+variant: markdown
 ---
-
 #### **Calamansi**
 
 
@@ -18,12 +18,12 @@ description: ""
 | **Preferred Climate Zone** : |     Tropical                                                                                                                                                                                                                                                                                      |
   
   
-   
+&nbsp;  
 **Description :**  
   
 <img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B20.png">
 
-**Plant Morphology :** 
+**Plant Morphology :**&nbsp;
 
 **Growth Form**: Medium-sized shrub, sometimes a small tree, able to grow up to 3 - 4 m tall.
 
@@ -37,10 +37,5 @@ description: ""
 
   
 
-**Ethnobotanical Uses** :  
-Food (Fruit & Vegetable: Can be eaten fresh or made into juice or marmalade.; Herb & Spice: Used as a seasoning in meat and seafood dishes. ) Medicinal (Juice made from the fruits can be used to relieve coughs and colds)
-
-  
-
-**Source :  
-[https;//floarafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3351](http://https%3B//floarafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3351)**
+**Ethnobotanical Uses**&nbsp;:  
+Food (Fruit &amp; Vegetable: Can be eaten fresh or made into juice or marmalade.; Herb &amp; Spice: Used as a seasoning in meat and seafood dishes. ) Medicinal (Juice made from the fruits can be used to relieve coughs and colds)

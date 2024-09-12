@@ -2,6 +2,7 @@
 title: Plant 2 Ixora Sunkist
 permalink: /butterfly-garden/Plant-2-Ixora-Sunkist/
 description: ""
+variant: markdown
 ---
 #### **Jungle Flame**
 
@@ -30,13 +31,11 @@ description: ""
 
 **Flowers**: Red, 4 petals, growing in clusters. They are scentless but a source of nectar for insects. Freely produced throughout the year.
 
-**Cultivation** :  
-Hybrid relatively slower-growing than other types of _Ixora_. Prefers acidic soils (pH 5.1 - 6.0) supplemented with iron. Propagate by softwood and semi-hardwood stem cuttings -- use rooting powder to hasten rooting.
+**Cultivation**&nbsp;:  
+Hybrid relatively slower-growing than other types of&nbsp;_Ixora_. Prefers acidic soils (pH 5.1 - 6.0) supplemented with iron. Propagate by softwood and semi-hardwood stem cuttings -- use rooting powder to hasten rooting.
 
-**Ethnobotanical Uses** :  
+**Ethnobotanical Uses**&nbsp;:  
 None
 
   
 
-**Source :**  
-**[https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=1705](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=1705)**

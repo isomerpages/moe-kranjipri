@@ -2,8 +2,8 @@
 title: Plant 20 Wrightia religiosa
 permalink: /butterfly-garden/Plant-20-Wrightia-religiosa/
 description: ""
+variant: markdown
 ---
-
 #### **Water Jasmine**
 
 
@@ -13,11 +13,11 @@ description: ""
 |                           |                         |
 |---------------------------|-------------------------|
 |     **Plant Growth Form**     |     Shrub               |
-|    **Native distribution** :  |     Thailand & Malaysia |
+|    **Native distribution** :  |     Thailand &amp; Malaysia |
 | **Preferred Climate Zone** :  |     Tropical            |
   
   
-   
+&nbsp;  
 **Description :**  
   
 <img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B19.png">
@@ -30,10 +30,7 @@ description: ""
 
   
 
-**Ethnobotanical Uses** :  
+**Ethnobotanical Uses**&nbsp;:  
 Cultural / Religious (In Thailand, Buddhist monks often plant this species near their temples.)
 
   
-
-**Source :  
-[https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2556](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2556)**

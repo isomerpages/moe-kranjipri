@@ -39,6 +39,3 @@ This attractive shrub flowers throughout the year. Once a year hard pruning is r
 
 **Ethnobotanical Uses**&nbsp;:  
 Edible Plant Parts (Edible Fruits) Medicinal (The Indonesians pound the roots and give it to children afflicted with convulsions. The bark is used to treat diarrhoea. The flowers are claimed to be effective against intestinal worms and cure sores. The leaves are believed to have purgative properties and used to induce abortion and for fever. The west Indians pound the flowers and leaves into a decoction to treat fever. The seeds are used to cure breathing difficulty and chest pain.)
-
-  
-

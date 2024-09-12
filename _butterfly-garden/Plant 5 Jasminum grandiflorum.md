@@ -40,6 +40,3 @@ Plant prefers to grow in direct sun with adequate soil moisture and should be pl
 
 **Ethnobotanical Uses**&nbsp;:  
 Food (Herb &amp; Spice: In China and Indonesia, jasmine flowers are popular to flavour tea. Jasmine absolute (essential oil) and concrete (waxy solid containing essential oil) are used as additives in food and tobacco. Medicinal (Jasmine oil or essence functions as a muscle relaxant. The infusion of flowers treats coughs and can be applied externally for skin diseases.) Cultural / Religious (Fragrant flowers have been used for personal adornment, in religious ceremonies, strewn at feasts and added to baths. Essential oil extracted from the flowers is used in the perfumery industry.
-
-  
-

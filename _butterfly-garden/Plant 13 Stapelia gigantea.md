@@ -2,6 +2,7 @@
 title: Plant 13 Stapelia gigantea
 permalink: /butterfly-garden/Plant-13-Stapelia-gigantea/
 description: ""
+variant: markdown
 ---
 #### **Carrion flower**
 
@@ -16,7 +17,7 @@ description: ""
 |    **Maximum Height** :    |     0.2 m to 0.3 m                      |
   
   
-   
+&nbsp;  
 **Description :**  
   
 <img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B13.png">
@@ -33,16 +34,14 @@ description: ""
 
   
 
-**Habitat** :  
+**Habitat**&nbsp;:  
 Dry forests and open bushland or savannah areas, establishing under light shade of trees or on flat ground with broken grass cover.
 
-**Cultivation** :  
+**Cultivation**&nbsp;:  
 Takes full sun to light shade. Prefers well-drained, loose loamy to sandy-rocky soils. Water plant only when soil is thoroughly dry. Stems tend to rot in waterlogged and moist conditions, can be saved if rotten parts are cut off, and healthy sections allowed to callus for 2-3 weeks before planting. Propagate by seeds or stem cuttings (let callus form before planting in well-drained media).
 
-**Ethnobotanical Uses** :  
+**Ethnobotanical Uses**&nbsp;:  
 None
 
   
 
-**Source :  
-[https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=3461](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=3461)**

@@ -2,6 +2,7 @@
 title: Plant 9 Melastoma malabathcirum
 permalink: /butterfly-garden/Plant-9-Melastoma-malabathcirum/
 description: ""
+variant: markdown
 ---
 #### **Singapore Rhododendron**
 
@@ -16,7 +17,7 @@ description: ""
 |    **Maximum Height** :    |     1 m to 5 m                                                                                                      |
   
   
-   
+&nbsp;  
 **Description :**  
   
 <img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B9.png">
@@ -31,23 +32,20 @@ description: ""
 
   
 
-**Habitat** :  
+**Habitat**&nbsp;:  
 It grows in open sites, in the lowlands and on mountains up to 3,000 m altitude.
 
-**Cultivation** :  
+**Cultivation**&nbsp;:  
 It can be propagated by seed or stem cutting.
 
-**Associated Fauna** :  
+**Associated Fauna**&nbsp;:  
 Fruits eaten by birds, squirrels and monkeys in the wild.
 
-**Ethnobotanical Uses** :  
-Edible Plant Parts (Edible Fruits; Edible Leaves; Edible Seeds) Food (Fruit &  Vegetable: Young leaves eaten raw or cooked, taste sour. Pulp around seeds also eaten in Indonesia.) 
+**Ethnobotanical Uses**&nbsp;:  
+Edible Plant Parts (Edible Fruits; Edible Leaves; Edible Seeds) Food (Fruit &amp;&nbsp; Vegetable: Young leaves eaten raw or cooked, taste sour. Pulp around seeds also eaten in Indonesia.)&nbsp;
 
-Edible Plant Parts (Edible Fruits; Edible Leaves; Edible Seeds), Medicinal (The bark is utilised for treating dysentery and toothache. A decoction of the leaves is used to treat diarrhoea, dysentery, indigestion, leucorrhoea, stomach-ache, piles, thrush, and weeping sores from insect stings. The leaves can be applied to cuts, painful arthritic joints, swellings and wounds too. The leaves are also made into a wash for ulcers and to prevent scarring from smallpox. The powdered leaves and roots may be applied on haemorrhoids and wounds. The roots may be used as a mouth wash for toothache.) 
+Edible Plant Parts (Edible Fruits; Edible Leaves; Edible Seeds), Medicinal (The bark is utilised for treating dysentery and toothache. A decoction of the leaves is used to treat diarrhoea, dysentery, indigestion, leucorrhoea, stomach-ache, piles, thrush, and weeping sores from insect stings. The leaves can be applied to cuts, painful arthritic joints, swellings and wounds too. The leaves are also made into a wash for ulcers and to prevent scarring from smallpox. The powdered leaves and roots may be applied on haemorrhoids and wounds. The roots may be used as a mouth wash for toothache.)&nbsp;
 
 \[Others\]: Leaves fed to silkworms in certain areas. Seeds used to produce a black dye, while the roots a pink dye.
 
   
-
-**Source :  
-[https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=2221](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=2221)**

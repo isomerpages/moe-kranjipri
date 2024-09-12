@@ -2,8 +2,8 @@
 title: Plant 23 Tristellateia australasiae
 permalink: /butterfly-garden/Plant-23-Tristellateia-australasiae/
 description: ""
+variant: markdown
 ---
-
 #### **Maiden's Jealousy**
 
 **Tristellateia australasiae**  
@@ -11,12 +11,12 @@ description: ""
 
 |                        |                                                                                         |
 |------------------------|-----------------------------------------------------------------------------------------|
-|   **Plant Growth Form**   |     Climber, Vine & Liana                                                               |
+|   **Plant Growth Form**   |     Climber, Vine &amp; Liana                                                               |
 |  **Native distribution** : |     Taiwan, Southeast Asia (including Singapore) to Australia, and the western Pacific. |
 |    **Maximum Height** :    |     10 m                                                                                |
   
   
-   
+&nbsp;  
 **Description :**  
   
 <img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B22.png">
@@ -33,25 +33,23 @@ description: ""
 
   
 
-**Habitat** :  
+**Habitat**&nbsp;:  
 It grows along creeks and estuaries, in beach forest, landward edge of mangrove forests, and tidal swamps.
 
   
 
-**Associated Fauna** :  
+**Associated Fauna**&nbsp;:  
 Its flowers are frequently visited by bees, butterflies, as well as sunbirds. It is also the food plant for the caterpillars of the butterfly, the brown awl (Badamia exclamationis).
 
   
 
-**Cultivation** :  
+**Cultivation**&nbsp;:  
 It can be propagated by seed or stem cuttings.
 
   
 
-**Ethnobotanical Uses** :  
+**Ethnobotanical Uses**&nbsp;:  
 None
 
   
 
-**Source :  
-[https;//floarafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1525](http://https%3B//floarafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1525)**

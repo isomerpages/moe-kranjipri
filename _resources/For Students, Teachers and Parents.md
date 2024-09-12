@@ -60,9 +60,6 @@ variant: markdown
     
 *   [SC Mobile Students Attendance Taking](https://scmobile.moe.edu.sg/login)  
     
-*   [School Cockpit (SC+)](https://idp.mims.moe.gov.sg/nidp/saml2/sso?SAMLRequest=fZFLb4JAFIX%2FCrl7XgPxMRGMrTE1sSlR7KK7EQccCzN07kD684ugiXbhcu6c7z7Omc1%2Fq9JquUahZAS%2B44HFZaaOQhYR7NOVPYF5PENWlaSmi8ac5Jb%2FNByN1YES6fATQaMlVQwFUskqjtRkdLd431DieLTWyqhMlWAtELk23ahXJbGpuN5x3YqM77ebCE7G1EhdF7OTUmWmsu9aGKdS3ClU62DhXma5iAqsZbeAkMz0S984caydSlR4j8iu2HNkAFdKZ7w%2FIwKjGw7WehkB84uDYOdJwA95zoKc%2BLnvnadB6HtjJsJOhAlDFC2PIGclXjDEhq8lGiZNBMQjxPYmNpmm3oj6IQ3GzoiEX2Al19tfhBw8fWbUYRAhfUvTxE4%2BdilYn7dsOgFck6D9dH0fwfPG7OY7xP%2FcffRr5t73j6%2FPx%2BDjPw%3D%3D&RelayState=https%3A%2F%2Fschoolcockpit.moe.gov.sg%2FCP%2Fscapp%2Fsecurity&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=e2cq26ogq3HaMRMRa1TkblVdT9ynvH5RcrzXu275ZyJbakU2koyn8jLniOaNDxa5K3H4xuTflyMgci0Z4WtKLtL4QRwEfSmNtOj6thyoizufLcnE%2B6yqZTBOCFdspIUPPFNTTvNtj1AY68BLWtwsxqWT7wQXKqfdES41au%2FGh2Nf8u9Fm9%2F61GBIxw3i76R817uweZV7QvSE1QYNz05zjJSm1HJ24ZS%2BHs7JsviqIU1WIwRPJcahq2MxsqCEYx%2B%2FE0PQIHIJ0a5yu6haSJ%2B%2BaDkf%2BeXzZm%2BAzXqtSaZe3jbNmxjK5nL943K%2F5QzVhNBjVexF7XN4e%2FCvEmiduKZpN6Yk3AsHR1N5lxJJhSDjeNPngDfSDZdOs1M%2BLoWqEKMZYdoikBtREZohF%2BhsVYG897bJdSKsuQ%2B930%2Bp945etMu4VoxEfzHuxNUzsguD6l2m%2F4FuuzWPyngmQQ8QazNc7V8MSi26bsGXJLe715fiLO5B5H251oql1%2B755%2BbvBfksjyGcc4KwQwi17x1lkqCt0CoaXMgB7%2Ba%2BThjJXeYftFCCIM4E%2F1jxXduCMmuOPc2HUnEh26ZFVCf3gCXRxKILQZcbID%2FqYuv5MhhsDRmwMDxPERmU9J%2BJnyt%2Fj4M6HqPHjjiZLfdwoAJvE3UftDzCy5OANprfzqEKPpt5TFvwJyw%3D)  
-    
-    
 *   [Staff Travel Declaration](https://form.gov.sg/6347d978eae00c0012c06449)  
     
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)  

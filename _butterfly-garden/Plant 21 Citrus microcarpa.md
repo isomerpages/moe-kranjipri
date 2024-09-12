@@ -39,6 +39,3 @@ variant: markdown
 
 **Ethnobotanical Uses**&nbsp;:  
 Food (Fruit &amp; Vegetable: Can be eaten fresh or made into juice or marmalade.; Herb &amp; Spice: Used as a seasoning in meat and seafood dishes. ) Medicinal (Juice made from the fruits can be used to relieve coughs and colds)
-
-  
-

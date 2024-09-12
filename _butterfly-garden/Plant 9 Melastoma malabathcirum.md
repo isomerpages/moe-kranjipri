@@ -47,5 +47,3 @@ Edible Plant Parts (Edible Fruits; Edible Leaves; Edible Seeds) Food (Fruit &amp
 Edible Plant Parts (Edible Fruits; Edible Leaves; Edible Seeds), Medicinal (The bark is utilised for treating dysentery and toothache. A decoction of the leaves is used to treat diarrhoea, dysentery, indigestion, leucorrhoea, stomach-ache, piles, thrush, and weeping sores from insect stings. The leaves can be applied to cuts, painful arthritic joints, swellings and wounds too. The leaves are also made into a wash for ulcers and to prevent scarring from smallpox. The powdered leaves and roots may be applied on haemorrhoids and wounds. The roots may be used as a mouth wash for toothache.)&nbsp;
 
 \[Others\]: Leaves fed to silkworms in certain areas. Seeds used to produce a black dye, while the roots a pink dye.
-
-  

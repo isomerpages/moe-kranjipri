@@ -2,8 +2,8 @@
 title: Plant 17 Buddleja asiatica
 permalink: /butterfly-garden/Plant-17-Buddleja-asiatica/
 description: ""
+variant: markdown
 ---
-
 #### **White Butterfly Bush**
 
 
@@ -17,7 +17,7 @@ description: ""
 |    **Maximum Height** :    |     0.4 m to 1 m                                                                                                                             |
   
   
-   
+&nbsp;  
 **Description :**  
   
 <img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B16.jpg">
@@ -32,13 +32,11 @@ description: ""
 
   
 
-**Cultivation** :  
+**Cultivation**&nbsp;:  
 Plant require full sun to semi-shade. Moderate water is needed. Propagates by stem-cutting of air-layering.
 
-**Ethnobotanical Uses** :  
-Medicinal (Sap of plant is applied to treat skin diseases.), Timber & Products (Trunk used as firewood or to make walking sticks.), Agriculture / Forestry (Leaves are used as fodder for domesticated animals.)
+**Ethnobotanical Uses**&nbsp;:  
+Medicinal (Sap of plant is applied to treat skin diseases.), Timber &amp; Products (Trunk used as firewood or to make walking sticks.), Agriculture / Forestry (Leaves are used as fodder for domesticated animals.)
 
   
 
-**Source :  
-[https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=5988](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=5988)**

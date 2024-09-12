@@ -2,8 +2,8 @@
 title: Plant 14 Crassula ovata
 permalink: /butterfly-garden/Plant-14-Crassula-ovata/
 description: ""
+variant: markdown
 ---
-
 #### **Jade Plant**
 
 
@@ -17,7 +17,7 @@ description: ""
 |    **Maximum Height** :    |     1 m to 3.3 m             |
   
   
-   
+&nbsp;  
 **Description :**  
   
 <img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B14.png">
@@ -34,13 +34,11 @@ description: ""
 
   
 
-**Habitat** :  
+**Habitat**&nbsp;:  
 Located in rocky outcrops.
 
-**Cultivation** :  
+**Cultivation**&nbsp;:  
 Although it grows well in full sun or semi-shade, it flowers best under full sun. It requires well-drained loamy soil. In warmer climates, this species requires air conditioning to survive.
 
   
 
-**Source :  
-[https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=2169](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=2169)**

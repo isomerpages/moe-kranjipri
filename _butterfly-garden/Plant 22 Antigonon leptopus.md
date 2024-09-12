@@ -2,8 +2,8 @@
 title: Plant 22 Antigonon leptopus
 permalink: /butterfly-garden/Plant-22-Antigonon-leptopus/
 description: ""
+variant: markdown
 ---
-
 #### **Coral Vine**
 
 
@@ -12,17 +12,17 @@ description: ""
 
 |                        |                           |
 |------------------------|---------------------------|
-|    **Plant Growth Form**   |     Climber, Vine & Liana |
+|    **Plant Growth Form**   |     Climber, Vine &amp; Liana |
 |  **Native distribution** : |     Mexico                |
 |    **Maximum Height** :    |     9 m to 12 m           |
   
   
-   
+&nbsp;  
 **Description :**  
   
 <img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B21.png">
 
-**Plant Morphology :** 
+**Plant Morphology :**&nbsp;
 
 **Growth Form**: Herbaceous slender-stemmed vine, climbs with tendrils arising from ends of inflorescence. Heat and drought-tolerant when established. Fast-growing and quickly covers walls, trellis and arbors with lush foliage. In Singapore, plant may have a tendency to produce flowers only towards top of growth.
 
@@ -36,15 +36,13 @@ description: ""
 
   
 
-**Habitat** :  
+**Habitat**&nbsp;:  
 Found in thickets, rainforest margins, coastal areas, roadsides, disturbed sites and gardens.
 
   
 
-**Cultivation** :  
+**Cultivation**&nbsp;:  
 Can easily grow on well-drained soils in full sun. Tolerates drought when established but appreciates moisture during growing season.
 
   
 
-**Source :  
-[https;//floarafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1312](http://https%3B//floarafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1312)**

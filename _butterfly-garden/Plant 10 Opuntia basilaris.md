@@ -27,5 +27,3 @@ variant: markdown
 
 **Ethnobotanical Uses**&nbsp;:  
 None
-
-  

@@ -2,8 +2,8 @@
 title: Plant 8 Juniperus horizontalis
 permalink: /butterfly-garden/Plant-8-Juniperus-horizontalis/
 description: ""
+variant: markdown
 ---
-
 #### **Creeping Juniper**
 
 
@@ -17,7 +17,7 @@ description: ""
 | **Natural Habitat** :  |     Gravely slopes and rocky seaside |
   
   
-   
+&nbsp;  
 **Description :**  
   
 <img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B8.jpg">
@@ -32,13 +32,11 @@ description: ""
 
   
 
-**Cultivation** :  
+**Cultivation**&nbsp;:  
 A good groundcover, this plant has blue-gray foliage in summer that shades blue-purple in the winter. It grows about 1m tall and spreads to 1.5m wide. It is a male clone, but several clones may be in the trade under the name “Bar Harbour”. This cultivar originated from Mt. Desert Island, Maine. It is a proven groundcover that is tolerant of salt spray and fast growing.
 
-**Ethnobotanical Uses** :  
+**Ethnobotanical Uses**&nbsp;:  
 None
 
   
 
-**Source :  
-[http://hort.uconn.edu/detail.php?pid=229](http://hort.uconn.edu/detail.php?pid=229)**

@@ -39,5 +39,3 @@ Prefers well-drained soil that can be watered regularly and is moderately salt t
 
 **Ethnobotanical Uses**&nbsp;:  
 None
-
-  

@@ -2,8 +2,8 @@
 title: Plant 4 Stachytarpheta indica
 permalink: /butterfly-garden/Plant-4-Stachytarpheta-indica/
 description: ""
+variant: markdown
 ---
-
 #### **India Snakeweed**
 
 
@@ -17,7 +17,7 @@ description: ""
 | **Preferred Climate Zone** |     Africa        |
   
   
-   
+&nbsp;  
 **Description :**  
   
 <img style="width:50%;height:50%" src="/images/Butterfly%20Garden/B4.png">
@@ -33,18 +33,16 @@ description: ""
 
   
 
-**Habitat** :  
+**Habitat**&nbsp;:  
 Found in tropical environments with a distinct dry season. Occurs along seashores and roadsides, as well as in disturbed areas, coconut plantations and mango groves. In Africa and Southeast Asia, this species is considered a weed in rice fields and pastures.
 
   
 
-**Cultivation** :  
+**Cultivation**&nbsp;:  
 Plant in well-drained, fertile soil enriched with compost. To prevent excessive establishment of new seedlings, remove spent flowers before they set seed.
 
-**Ethnobotanical Uses** :  
-Food (Herb & Spice) Medicinal : In Nigeria, Snakeweed is traditionally used to treat diabetes and fever. In West Africa, the juice from the plant is used to treat cataract and sores on children’s ears. In Brazil, fresh leaf is crushed and applied on ulcers.
+**Ethnobotanical Uses**&nbsp;:  
+Food (Herb &amp; Spice) Medicinal : In Nigeria, Snakeweed is traditionally used to treat diabetes and fever. In West Africa, the juice from the plant is used to treat cataract and sores on children’s ears. In Brazil, fresh leaf is crushed and applied on ulcers.
 
   
 
-**Source :  
-[https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=2475](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=2475)**

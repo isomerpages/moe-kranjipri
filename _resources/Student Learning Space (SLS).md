@@ -43,11 +43,13 @@ Students have been informed of their MIMS username and password. Username and pa
 
 **Q2:&nbsp;I have forgotten my password on the day of e-learning. What should I do?**
 
-**2 Ways**&nbsp;to reset password:
+**3 Ways**&nbsp;to reset password:
 
-1\. Go to [Student Password Reset Form](http://go.gov.sg/passwordresetform)
+1\. You may contact your child's Form Teacher to request for a reset password.
 
-2.&nbsp;call the school to speak to the SLS administrator at 67634812
+2\. Go to [Student Password Reset Form](http://go.gov.sg/passwordresetform)
+
+2.&nbsp;Call the school to speak to the SLS administrator at 67634812
 
 
 

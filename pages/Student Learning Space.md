@@ -9,13 +9,14 @@ variant: markdown
 ![](/images/SLS_main_page_login.png)
 
 **SLS Website:**  **[](https://learning.moe.edu.sg/)** [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)  
+
+**SLS Video Introduction:** [https://www.youtube.com/watch?time\_continue=80&v=F0FTP2FveSg](https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg)  
  
 #### **How to Log in?**
 
 ###### 1. From the main login page, click "LOGIN WITH MIMS", you will be directed to MIMS Portal page.
 ![](/images/MIMS_Login_page.png)
-  
-**SLS Video Introduction:** [https://www.youtube.com/watch?time\_continue=80&v=F0FTP2FveSg](https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg)  
+ 
  
 **SLS Instructions & Guide:** [SLS Students Instructions & FAQs.pdf](/files/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/SLS%20Students%20Instructions%20&%20FAQs.pdf)
 

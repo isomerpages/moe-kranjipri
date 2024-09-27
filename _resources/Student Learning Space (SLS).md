@@ -19,6 +19,7 @@ Teachers will also use the SLS to complement classroom teaching and learning thr
 ![](/images/SLS_main_page_login.png)
 
 Click on **"LOGIN WITH MIMS"**. You will be directed to MIMS Portal main page.
+
 ![](/images/MIMS_Login_page.png)
 
 

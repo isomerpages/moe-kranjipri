@@ -27,7 +27,7 @@ Enter your username (Student ICON email address) and password.
 #### **Student's Username &amp; Password**&nbsp;
 
 
-Students have been informed of their MIMS username and password. Username and password printed in card form and attached to their student handbook.
+Students have been informed of their MIMS username and password. Username and password are printed in card form and attached to their student handbook.
   
 
 #### **Frequently Asked Questions (FAQs)**

@@ -27,15 +27,12 @@ Enter your username (Student ICON email address) and password.
 #### **Student's Username &amp; Password**&nbsp;
 
 
-Students have been informed of their MIMS username and password.&nbsp;**P1 to P3**&nbsp;students have their usernames and password printed in card form and attached to their student handbook , while P4 to P6 students have their username and password recorded in their handbook in the account information page.&nbsp;  
+Students have been informed of their MIMS username and password.&nbsp;**P1 to P3**&nbsp;students have their username and password printed in card form and attached to their student handbook , while P4 to P6 students have their username and password recorded in their handbook in the account information page.&nbsp;  
   
 The username of SLS is made up of students' name and Birth Certificate (BC) number.&nbsp; For example, if your name is&nbsp;**June C**han Mei Li,&nbsp; &nbsp;and your BC number is T123**4567A**, then your SLS username is:&nbsp;**JUNEC4567A**  
 
 #### **Frequently Asked Questions (FAQs)**
 
-  
-<img style="width:100%;height:50%" src="/images/Resources/Student%20Learning%20Space%20(SLS)/S2.jpg">
-  
 
 **Q1: I have forgotten my username. What should I do?**&nbsp;  
 

@@ -13,6 +13,7 @@ variant: markdown
 #### **How to Log in?**
 
 ###### 1. From the main login page, click "LOGIN WITH MIMS"
+![](/images/MIMS_Login_page.png)
   
 **SLS Video Introduction:** [https://www.youtube.com/watch?time\_continue=80&v=F0FTP2FveSg](https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg)  
  

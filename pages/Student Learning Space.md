@@ -16,7 +16,9 @@ variant: markdown
 
 ###### 1. From the main login page, click **"LOGIN WITH MIMS"**, you will be directed to MIMS Portal page.
 ![](/images/MIMS_Login_page.png)
- 
+
+2. Enter your MIMS username (your Student ICON email address) and password.
+3. Click Sign In.
  
 **SLS Instructions & Guide:** [SLS Students Instructions & FAQs.pdf](/files/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/SLS%20Students%20Instructions%20&%20FAQs.pdf)
 

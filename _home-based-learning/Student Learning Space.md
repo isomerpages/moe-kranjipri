@@ -29,7 +29,7 @@ Teachers will also use the SLS to complement classroom teaching and learning thr
 ##### **Student's Username & Password**
 
 
-Students have been informed of their MIMS username and password. **P1 to P2** students have their usernames and password printed in card form and attached to their student handbook , while P3 to P6 students have their username and password recorded in their handbook in the account information page.   
+Students have been informed of their MIMS username and password. Username and password are printed in card form and attached to their student handbook.
   
 
 ##### **Frequently Asked Questions (FAQs)**

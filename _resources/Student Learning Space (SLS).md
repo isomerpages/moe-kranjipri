@@ -55,7 +55,7 @@ Students have been informed of their MIMS username and password. Username and pa
 
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password.&nbsp;
 
-&nbsp;**(i) On normal school days, please**: Go to&nbsp; our <a href="http://go.gov.sg/passwordresetform" target="\_blank">password reset page</a>&nbsp;
+&nbsp;**(i) On normal school days, please**: Go to&nbsp; our <a href="http://go.gov.sg/passwordresetform" target="\_blank">Student Password Reset Form</a>&nbsp;
 
 **(ii) During home-based/ e-learning period, please:**
 
@@ -67,16 +67,8 @@ Operating Hours:&nbsp;
 
 Mondays ― Fridays: 8:00 am ― 4:00 pm  
 
-2\. Alternatively, please call the&nbsp;**SLS Helpdesk**&nbsp;to unlock your account.&nbsp;
 
-You will need to answer the&nbsp;security questions&nbsp;to verify that you are&nbsp;the legitimate account holder.&nbsp;
 
-Tel: (65) 6702 6513&nbsp;
 
-Operating Hours:
-
-Mondays ― Fridays: 9:00 am ― 9:00 pm&nbsp; ;
-
-Saturdays: 9:00 am ― 3:00 pm&nbsp;
 
 \*Closed on Sundays &amp; Public Holidays

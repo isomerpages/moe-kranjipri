@@ -72,18 +72,6 @@ Operating Hours: 
 
 Mondays ― Fridays: 8:00 am ― 4:00 pm  
 
-2\. Alternatively, please call the **SLS Helpdesk** to unlock your account. 
 
-You will need to answer the security questions to verify that you are the legitimate account holder. 
-
-Tel: (65) 6702 6513 
-
-Operating Hours:
-
-Mondays ― Fridays: 4:00 pm ― 9:00 pm (School Days)
-
-                                               9:00 am ― 9:00 pm (School Holidays)
-
-Saturdays: 9:00 am ― 3:00 pm 
 
 \*Closed on Sundays & Public Holidays

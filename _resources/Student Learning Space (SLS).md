@@ -9,10 +9,7 @@ variant: markdown
 
   
 **SLS Website:**&nbsp;<a href="https://vle.learning.moe.edu.sg/login" target="\_blank">https://vle.learning.moe.edu.sg/login
-  
-**User Log In Troubleshooting Guide:**&nbsp;  
-	</a><a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#" target="\_blank">https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#
-  
+
 **SLS Video Introduction:** 		
 </a><a href="https://www.youtube.com/watch?time_continue=80&amp;v=F0FTP2FveSg" target="\_blank">https://www.youtube.com/watch?time_continue=80&amp;v=F0FTP2FveSg
   

@@ -7,7 +7,12 @@ variant: markdown
 #### **Student Learning Space (SLS)**
 ![](/images/SLS_main_page_login.png)
 
+##### **How to Login?**
+
 SLS Website: [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
+
+Click on **"LOGIN WITH MIMS"**. You will be directed to MIMS Portal main page.
+![](/images/MIMS_Login_page.png)
 
 At Kranji Primary School, we believe in helping every child find joy in learning and equip our students with the skill to leverage on technology to become future-ready champions in life.
 

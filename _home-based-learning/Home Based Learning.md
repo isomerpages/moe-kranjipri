@@ -2,6 +2,7 @@
 title: Home Based Learning
 permalink: /home-based-learning/Home-Based-Learning/
 description: ""
+variant: markdown
 ---
 In view of the Coronavirus (COVID-19) situation, HBL aims to ensure that learning continues for students during school closure. Students will be completing their online assignments for the respective subjects through the **SLS Learning portal**: [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg) (with Google Chrome or Apple Safari).   
  
@@ -21,11 +22,10 @@ For technical issues pertaining to the use of the portals such as resetting pass
 
   
 
-For Password Reset, you may also click on this "[**Password Reset Link**](http://go.gov.sg/passwordresetform)"
+For Password Reset, you may also click on this [Student Password Reset Form](https://form.gov.sg/5cdcfea6cac839001734c5a9)
 
   
 
-![](/images/Our%20Curriculum/Departments/ICT/Home%20Based%20Learning/H1.jpg)
 
   
 **SLS log-in troubleshooting guide:**  [SLS Login Troubleshooting](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)

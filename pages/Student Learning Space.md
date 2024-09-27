@@ -2,18 +2,24 @@
 title: Student Learning Space
 permalink: /Student-Learning-Space/
 description: ""
+variant: markdown
 ---
 #### **Student Learning Space (SLS)**
 
-
-![](/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/S1.png)
+![](/images/SLS_main_page_login.png)
 
 **SLS Website:**  **[](https://learning.moe.edu.sg/)** [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)  
-  
-**User Log In Troubleshooting Guide:** [https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
-  
+
 **SLS Video Introduction:** [https://www.youtube.com/watch?time\_continue=80&v=F0FTP2FveSg](https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg)  
-  
+ 
+#### **How to Log in?**
+
+###### 1. From the main login page, click **"LOGIN WITH MIMS"**, you will be directed to MIMS Portal page.
+![](/images/MIMS_Login_page.png)
+
+2. Enter your MIMS username (your Student ICON email address) and password.
+3. Click Sign In.
+ 
 **SLS Instructions & Guide:** [SLS Students Instructions & FAQs.pdf](/files/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/SLS%20Students%20Instructions%20&%20FAQs.pdf)
 
 **[](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)**  
@@ -31,13 +37,12 @@ Teachers will also use the SLS to complement classroom teaching and learning thr
 ##### **Student's Username & Password**
 
 
-Students have been informed of their SLS username and password. **P1 to P2** students have their usernames and password printed in card form and attached to their student handbook , while P3 to P6 students have their username and password recorded in their handbook in the account information page.   
+Students have been informed of their MIMS username and password. **P1 to P2** students have their username and password printed in card form and attached to their student handbook , while P3 to P6 students have their username and password recorded in their handbook in the account information page.   
   
 The username of SLS is made up of students' name and Birth Certificate (BC) number.  For example, if your name is **June C**han Mei Li,   and your BC number is T123**4567A**, then your SLS username is: **JUNEC4567A**
 
 ##### **Frequently Asked Questions (FAQs)**
 
-![](/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/S2.jpg)
 
 **Q1: I have forgotten my username. What should I do?**   
 
@@ -56,7 +61,6 @@ The username of SLS is made up of students' name and Birth Certificate (BC) numb
 
 3. call the school to speak to the SLS administrator at 67634812
 
-4\. call the SLS Helpdesk at 67026513 
 
   
 
@@ -74,20 +78,4 @@ Tel: (65) 67634812
 
 Operating Hours: 
 
-Mondays ― Fridays: 8:00 am ― 4:00 pm  
-
-2\. Alternatively, please call the **SLS Helpdesk** to unlock your account. 
-
-You will need to answer the security questions to verify that you are the legitimate account holder. 
-
-Tel: (65) 6702 6513 
-
-Operating Hours:
-
-Mondays ― Fridays: 4:00 pm ― 9:00 pm (School Days)
-
-                                               9:00 am ― 9:00 pm (School Holidays)
-
-Saturdays: 9:00 am ― 3:00 pm 
-
-\*Closed on Sundays & Public Holidays
+Mondays ― Fridays: 8:00 am ― 4:00 pm

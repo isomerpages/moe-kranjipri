@@ -13,6 +13,8 @@ As part of Ministry of Education’s (MOE) commitment to nurture future-ready le
 
 Teachers will also use the SLS to complement classroom teaching and learning through designing meaningful lessons for students to explore and work collaboratively as well as facilitate students to learn at their own pace.&nbsp; &nbsp;The Singapore SLS is collectively shaped by teachers and students. Taking into consideration their ideas and feedback on the resources and tools, the system is developed iteratively to stay dynamic and responsive.  
 
+**Student Learning Space (SLS) Introduction**: [https://www.youtube.com/watch?v=F0FTP2FveSg](https://www.youtube.com/watch?v=F0FTP2FveSg)
+
 ##### **How to Login?**
 
 ###### **SLS Website**: [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)

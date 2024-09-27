@@ -2,11 +2,12 @@
 title: Student Learning Space
 permalink: /home-based-learning/Student-Learning-Space/
 description: ""
+variant: markdown
 ---
 #### **Student Learning Space (SLS)**
 
+![](/images/SLS_main_page_login.png)
 
-![](/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/S1.png)
 
 **SLS Website:**  **[](https://learning.moe.edu.sg/)** [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)  
   

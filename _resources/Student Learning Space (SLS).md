@@ -49,7 +49,7 @@ Students have been informed of their MIMS username and password. Username and pa
 
 2\. Go to [Student Password Reset Form](http://go.gov.sg/passwordresetform)
 
-3.&nbsp;Call the school helpline to speak to the SLS administrator at 67634812
+3.&nbsp;Call the **school helpline** to speak to the SLS administrator at 67634812
 
 
 

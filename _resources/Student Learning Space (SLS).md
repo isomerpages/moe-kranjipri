@@ -17,7 +17,8 @@ Teachers will also use the SLS to complement classroom teaching and learning thr
 
 ##### **How to Login?**
 
-###### **SLS Website**: [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
+**SLS Website**: [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
+
 ![](/images/SLS_main_page_login.png)
 
 Click on **"LOGIN WITH MIMS"**. You will be directed to MIMS Portal main page.

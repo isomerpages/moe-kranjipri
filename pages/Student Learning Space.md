@@ -14,7 +14,7 @@ variant: markdown
  
 #### **How to Log in?**
 
-###### 1. From the main login page, click "LOGIN WITH MIMS", you will be directed to MIMS Portal page.
+###### 1. From the main login page, click **"LOGIN WITH MIMS"**, you will be directed to MIMS Portal page.
 ![](/images/MIMS_Login_page.png)
  
  

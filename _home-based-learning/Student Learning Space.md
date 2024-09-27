@@ -37,7 +37,7 @@ Students have been informed of their MIMS username and password. Username and p
 
 **Q1: I have forgotten my username. What should I do?**   
 
-*   Check that you have recorded your SLS username in your handbook
+*   Check that you have recorded your MIMS username in your handbook
 *   Format of your user name is the first 5 characters of your name, and the last 5 characters of your BC number (Please check with your form/ subject teacher if you are not sure. )
 
   

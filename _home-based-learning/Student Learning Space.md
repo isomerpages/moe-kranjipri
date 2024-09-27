@@ -60,7 +60,7 @@ Students have been informed of their MIMS username and password. Username and p
 
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password. 
 
- **(i) On normal school days, please**: Go to  our **[password reset page](http://go.gov.sg/passwordresetform)**  to inform the school SLS administrator about your locked account. 
+ **(i) On normal school days, please**: Go to  our **[Student Password Reset Form](http://go.gov.sg/passwordresetform)**  to inform the school SLS administrator about your locked account. 
 
 **(ii) During home-based/ e-learning period, please:**
 

@@ -43,7 +43,7 @@ Students have been informed of their MIMS username and password. Username and pa
 
 **2 Ways**&nbsp;to reset password:
 
-1\. Go to [Student Password Reset Form](https://form.gov.sg/5cdcfea6cac839001734c5a9)
+1\. Go to [Student Password Reset Form](http://go.gov.sg/passwordresetform)
 
 2.&nbsp;call the school to speak to the SLS administrator at 67634812
 

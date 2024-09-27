@@ -12,9 +12,11 @@ At Kranji Primary School, we believe in helping every child find joy in learning
 As part of Ministry of Education’s (MOE) commitment to nurture future-ready learners, an online learning platform known as the Singapore Student Learning Space (SLS) has been developed and rolled out in 2018 by MOE. The SLS is an online platform with tools and curriculum-aligned resources for all students to&nbsp;learn anytime, anywhere, collaboratively and at their own pace. With the SLS, students can take&nbsp;greater ownership of their learning and pick up skills and habits that prepare them for lifelong learning.&nbsp; &nbsp; &nbsp; &nbsp;
 
 Teachers will also use the SLS to complement classroom teaching and learning through designing meaningful lessons for students to explore and work collaboratively as well as facilitate students to learn at their own pace.&nbsp; &nbsp;The Singapore SLS is collectively shaped by teachers and students. Taking into consideration their ideas and feedback on the resources and tools, the system is developed iteratively to stay dynamic and responsive.  
+
 ##### **How to Login?**
 
-SLS Website: [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
+###### **SLS Website**: [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
+![](/images/SLS_main_page_login.png)
 
 Click on **"LOGIN WITH MIMS"**. You will be directed to MIMS Portal main page.
 ![](/images/MIMS_Login_page.png)

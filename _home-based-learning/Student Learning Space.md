@@ -2,22 +2,20 @@
 title: Student Learning Space
 permalink: /home-based-learning/Student-Learning-Space/
 description: ""
+variant: markdown
 ---
 #### **Student Learning Space (SLS)**
 
+![](/images/SLS_main_page_login.png)
 
-![](/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/S1.png)
 
 **SLS Website:**  **[](https://learning.moe.edu.sg/)** [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)  
-  
-**User Log In Troubleshooting Guide:** [SLS Login Troubleshooting](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
-  
-**SLS Video Introduction:** [https://www.youtube.com/watch?time\_continue=80&v=F0FTP2FveSg](https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg)  
-  
-**SLS Instructions & Guide:** [SLS Students Instructions & FAQs.pdf](/files/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/SLS%20Students%20Instructions%20&%20FAQs.pdf)
 
-**[](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)**  
-**Guide on how to access and navigate home-based learning assignments in SLS:**  [2021 SLS Navigation Guide.pptx.pdf](/files/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/2021%20SLS%20Navigation%20Guide.pdf)  
+  
+**Student Learning Space (SLS) Introduction:** [https://www.youtube.com/watch?time\_continue=80&v=F0FTP2FveSg](https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg)  
+  
+
+
 
 At Kranji Primary School, we believe in helping every child find joy in learning and equip our students with the skill to leverage on technology to become future-ready champions in life.
 
@@ -31,32 +29,30 @@ Teachers will also use the SLS to complement classroom teaching and learning thr
 ##### **Student's Username & Password**
 
 
-Students have been informed of their SLS username and password. **P1 to P2** students have their usernames and password printed in card form and attached to their student handbook , while P3 to P6 students have their username and password recorded in their handbook in the account information page.   
+Students have been informed of their MIMS username and password. Username and password are printed in card form and attached to their student handbook.
   
-The username of SLS is made up of students' name and Birth Certificate (BC) number.  For example, if your name is **June C**han Mei Li,   and your BC number is T123**4567A**, then your SLS username is: **JUNEC4567A**
 
 ##### **Frequently Asked Questions (FAQs)**
 
-![](/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/S2.jpg)
 
 **Q1: I have forgotten my username. What should I do?**   
 
-*   Check that you have recorded your SLS username in your handbook
-*   Format of your user name is the first 5 characters of your name, and the last 5 characters of your BC number (Please check with your form/ subject teacher if you are not sure. )
+*   Check that you have recorded your MIMS username in your handbook
+
 
   
 
 **Q2: I have forgotten my password on the day of e-learning. What should I do?**
 
-**4 Ways** to reset password:
+**3 Ways** to reset password:
 
-1\. password reset using password reset link in SLS
+1\. You may contact your child's Form Teacher to request for a reset password.
 
-2\. password reset using security questions in SLS
+2\. Go to [Student Password Reset Form](https://form.gov.sg/5cdcfea6cac839001734c5a9)
 
-3. call the school to speak to the SLS administrator at 67634812
+3. Call the **school helpline** to speak to the SLS administrator at 67634812
 
-4\. call the SLS Helpdesk at 67026513 
+
 
   
 
@@ -64,7 +60,7 @@ The username of SLS is made up of students' name and Birth Certificate (BC) numb
 
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password. 
 
- **(i) On normal school days, please**: Go to  our **[password reset page](http://go.gov.sg/passwordresetform)**  to inform the school SLS administrator about your locked account. 
+ **(i) On normal school days, please**: Go to  our **[Student Password Reset Form](http://go.gov.sg/passwordresetform)**  to inform the school SLS administrator about your locked account. 
 
 **(ii) During home-based/ e-learning period, please:**
 
@@ -76,18 +72,6 @@ Operating Hours: 
 
 Mondays ― Fridays: 8:00 am ― 4:00 pm  
 
-2\. Alternatively, please call the **SLS Helpdesk** to unlock your account. 
 
-You will need to answer the security questions to verify that you are the legitimate account holder. 
-
-Tel: (65) 6702 6513 
-
-Operating Hours:
-
-Mondays ― Fridays: 4:00 pm ― 9:00 pm (School Days)
-
-                                               9:00 am ― 9:00 pm (School Holidays)
-
-Saturdays: 9:00 am ― 3:00 pm 
 
 \*Closed on Sundays & Public Holidays

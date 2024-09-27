@@ -43,7 +43,6 @@ The username of SLS is made up of students' name and Birth Certificate (BC) numb
 
 ##### **Frequently Asked Questions (FAQs)**
 
-![](/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/S2.jpg)
 
 **Q1: I have forgotten my username. What should I do?**   
 

@@ -15,7 +15,7 @@ variant: markdown
 **Student Learning Space (SLS) Introduction:** [https://www.youtube.com/watch?time\_continue=80&v=F0FTP2FveSg](https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg)  
   
 
-**Guide on how to access and navigate home-based learning assignments in SLS:**  [2021 SLS Navigation Guide.pptx.pdf](/files/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/2021%20SLS%20Navigation%20Guide.pdf)  
+
 
 At Kranji Primary School, we believe in helping every child find joy in learning and equip our students with the skill to leverage on technology to become future-ready champions in life.
 

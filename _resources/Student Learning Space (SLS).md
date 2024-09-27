@@ -7,20 +7,7 @@ variant: markdown
 #### **Student Learning Space (SLS)**
 ![](/images/SLS_main_page_login.png)
 
-  
-**SLS Website:**&nbsp;<a href="https://vle.learning.moe.edu.sg/login" target="\_blank">https://vle.learning.moe.edu.sg/login
-
-**SLS Video Introduction:** 		
-</a><a href="https://www.youtube.com/watch?time_continue=80&amp;v=F0FTP2FveSg" target="\_blank">https://www.youtube.com/watch?time_continue=80&amp;v=F0FTP2FveSg
-  
-**SLS Instructions &amp; Guide:**&nbsp;	
-</a><a href="/files/Resources/SLS/SLS%20Students%20Instructions%20&amp;%20FAQs.pdf" target="\_blank">SLS Students Instructions &amp; FAQs.pdf
- 
-**Guide on how to access home-based learning assignments in SLS:**
-	
-</a><a href="/files/Resources/SLS/Accessing%20Home-Based%20Learning%20(HBL)%20Assignments%20for%20P1-P6.pdf" target="\_blank">Accessing Home-Based Learning (HBL) Assignments for P1-P6.pdf</a>
-	
-	
+SLS Website: [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
 
 At Kranji Primary School, we believe in helping every child find joy in learning and equip our students with the skill to leverage on technology to become future-ready champions in life.
 

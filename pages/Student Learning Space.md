@@ -61,7 +61,6 @@ The username of SLS is made up of students' name and Birth Certificate (BC) numb
 
 3. call the school to speak to the SLS administrator at 67634812
 
-4\. call the SLS Helpdesk at 67026513 
 
   
 
@@ -79,4 +78,4 @@ Tel: (65) 67634812
 
 Operating Hours: 
 
-Mondays ― Fridays: 8:00 am ― 4:00 pm  
+Mondays ― Fridays: 8:00 am ― 4:00 pm

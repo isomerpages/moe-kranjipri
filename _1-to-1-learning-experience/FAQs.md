@@ -96,7 +96,7 @@ We will not require parents to provide an iPad for your child immediately in the
 
 **13\. What kind of iPad should I purchase for my child if I would like to help him/her get started?**
 
-We strongly recommend the iPad Wi-Fi 32GB (7th Generation), as the minimum device specifications required. These may be purchased from the Apple Store or a variety of Apple resellers. However, do note the device specifications as follows:
+We strongly recommend the iPad Wi-Fi 64GB (9th Generation), as the minimum device specifications required. These may be purchased from the Apple Store or a variety of Apple resellers. However, do note the device specifications as follows:
 
 *   Able to run iPad iOS 13
 *   Minimum 9.7” screen

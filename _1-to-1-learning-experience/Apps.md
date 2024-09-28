@@ -4,7 +4,7 @@ permalink: /1-1-learning-experience/Apps/
 description: ""
 variant: markdown
 ---
-Frequently used apps / software:  
+### **Frequently used apps / software:**  
 
   
 

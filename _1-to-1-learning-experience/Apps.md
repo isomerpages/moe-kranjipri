@@ -12,7 +12,7 @@ variant: markdown
 
 ![](/images/SLS_main_page_login.png)
 
-Click on this [link](https://vle.learning.moe.edu.sg/login) to access SLS
+Click on this [link](https://vle.learning.moe.edu.sg/login) to access Student Learning Space (SLS)
 
   
 

@@ -20,8 +20,7 @@ variant: tiptap
 <p><strong>Operating Hours</strong>
 <br>MK: 8am - 5pm
 <br>KCare: 7am - 7pm</p>
-<p><strong>Form</strong>
-</p>
+<h4>Form</h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/mk-kranji-waitlist" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">MK@Kranji enrolment waitlist request form</div><div class="isomer-card-link">MK@Kranji Enrolment Waitlist</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/640e61d7571b1800123a722f" class="isomer-card">

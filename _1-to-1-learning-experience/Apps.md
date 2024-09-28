@@ -16,7 +16,7 @@ Click on this [link](https://vle.learning.moe.edu.sg/login) to access SLS
 
   
 
-Find out more about SLS in our dedicated [SLS page](https://kranjipri.moe.edu.sg/our-curriculum/departments/information-and-communication-technology-ict/student-learning-space). 
+Find out more about SLS in our dedicated [Student Learning Space (SLS) page](https://www.kranjipri.moe.edu.sg/Student-Learning-Space/)
 
   
 

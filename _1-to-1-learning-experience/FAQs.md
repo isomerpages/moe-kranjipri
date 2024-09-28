@@ -115,9 +115,9 @@ There is a chance that older iPads may have limited functions and may not suppor
 
   
 
-**15\. Why 32 GB?**
+**15\. Why 64 GB?**
 
-The recommended size for an iPad in an educational environment is at least 32GB or more. Items stored in the iPad include apps, photos, videos and other media. Students who bring their own iPad are required to backup their personal media files on a regular basis to ensure that their iPad has sufficient storage space to store lesson materials.
+The recommended size for an iPad in an educational environment is at least 64GB or more. Items stored in the iPad include apps, photos, videos and other media. Students who bring their own iPad are required to backup their personal media files on a regular basis to ensure that their iPad has sufficient storage space to store lesson materials.
 
   
 

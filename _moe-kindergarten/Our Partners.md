@@ -6,7 +6,7 @@ variant: markdown
 ---
 ![](/images/MOE%20Kindergarten/Our%20Partners/P1.png)  
 
-**1.**&nbsp;**Parent Support Group**
+##### **1.**&nbsp;**Parent Support Group**
 
 We aim to establish a strong home-school partnership with our parents as we believe that parents play a very important role in their children’s development. Through various activities, we seek parents’ involvement by contributing their time, knowledge and expertise to enhance children’s learning experiences.&nbsp;&nbsp;
 
@@ -54,7 +54,7 @@ We aim to establish a strong home-school partnership with our parents as we beli
 </figure>
 &nbsp;
 
-**2.**&nbsp;**Kranji Primary School**
+##### **2.**&nbsp;**Kranji Primary School**
 
 We collaborate with the primary school to give our children an early exposure to understanding a bigger school system.&nbsp;
 
@@ -94,7 +94,7 @@ We collaborate with the primary school to give our children an early exposure to
 
   
 
-**3.&nbsp;The Community**
+##### **3.&nbsp;The Community**
 
 Collaboration with the community can also enhance the learning experience for our children.
 

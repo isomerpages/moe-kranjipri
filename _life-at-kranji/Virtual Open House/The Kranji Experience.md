@@ -83,7 +83,7 @@ The main aim of the 1:1 Learning Experience is to enable our students to gain fu
   
 <img style="width:50%;height:50%" src="/images/Life%20@%20Kranji/Virtual%20Open%20House/The%20Kranji%20Experience/Q9.png">
 
-**Learning for Life Programme**&nbsp;
+##### **Learning for Life Programme**&nbsp;
 
 The Learning for Life Programme (LLP) seeks to nurture Champions in Life through Sports. Our students are exposed to various novelty sports and these sports experiences are complemented by a strong character education programme in the development of Kranjian Champions.
 
@@ -94,7 +94,7 @@ Do join our students for a short workout session at the end of the video!&nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3m8Y9cSMXVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
-**Champions in Life**
+##### **Champions in Life**
 
 Kranjian Champions are life-long learners who strive to:&nbsp;
 

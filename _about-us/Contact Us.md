@@ -4,7 +4,7 @@ permalink: /about-us/Contact-Us/
 description: ""
 variant: markdown
 ---
-**School Information**
+#### **School Information**
 
   
 

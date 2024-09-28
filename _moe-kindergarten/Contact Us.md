@@ -4,17 +4,15 @@ permalink: /moe-kindergarten/Contact-Us/
 description: ""
 variant: tiptap
 ---
-<p><strong>Address</strong>
-</p>
+<h4><strong>Address</strong></h4>
 <p>MOE Kindergarten@Kranji
 <br>Kranji Primary School
 <br>11 Choa Chu Kang Street 54
 <br>Singapore 689189</p>
-<p><strong>Contact</strong>
+<p>Contact
 <br>&nbsp;
-<br><strong>MK Office</strong> Tel: 6760 0367
-<br>Email:&nbsp;<a href="mailto:mk_kranji@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_kranji@moe.edu.sg</a>
-</p>
+<br>MK Office Tel: 6760 0367
+<br>Email:&nbsp;mk_kranji@moe.edu.sg</p>
 <p><strong>Kranji Primary School</strong>
 <br>Tel: 6763 4812
 <br>Email:&nbsp;<strong><a href="mailto:kranji_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kranji_ps@moe.edu.sg</a></strong>

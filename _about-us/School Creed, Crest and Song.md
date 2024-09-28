@@ -2,6 +2,7 @@
 title: School Creed, Crest and Song
 permalink: /about-us/School-Creed-Crest-and-Song/
 description: ""
+variant: markdown
 ---
 **School Creed**  
   
@@ -23,18 +24,17 @@ to achieve success.
 **Colours of School Crest:**
 ![](/images/About%20Us/School%20Creed,%20Crest%20and%20Song/color.png)
 
-**School Song** 
+**School Song**&nbsp;
 
-At Kranji we learn to work and play. <br>Making the most of each new day.<br>Giving our best in all that we do.<br>Living our values every day.<br>It's here where we aspire,  to be joyful learners.<br>
+At Kranji we learn to work and play.&nbsp;<br>Making the most of each new day.<br>Giving our best in all that we do.<br>Living our values every day.<br>It's here where we aspire,&nbsp; to be joyful learners.<br>
 Strive to be, gracious citizens.<br>
 Give our best, to be champions in life every day.<br>
 It's here where we belong, in this family.<br>
-We'll learn and play,  with our friends and teachers.<br>
+We'll learn and play,&nbsp; with our friends and teachers.<br>
 Do our best, And we'll live up to our promise.<br>
 Through knowledge and practice we'll succeed.<br>
 Following faithfully our creed.<br>
 Working together hand in hand.<br>
 Showing our love for KPS.
 
-
-<iframe width="718" height="404" src="https://www.youtube.com/embed/3qDmPlfT930" title="Kranji Primary School song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/d5hkj_sgJLA?si=YOI4faymcNRfYho7" height="315" width="560"></iframe>

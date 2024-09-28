@@ -2,8 +2,9 @@
 title: FAQs
 permalink: /1-1-learning-experience/FAQs/
 description: ""
+variant: markdown
 ---
-**About 1: 1 Learning Experience**
+#### **About 1: 1 Learning Experience**
 
 **1\. What is 1:1 Learning Experience?**
 
@@ -95,11 +96,11 @@ We will not require parents to provide an iPad for your child immediately in the
 
 **13\. What kind of iPad should I purchase for my child if I would like to help him/her get started?**
 
-We strongly recommend the iPad Wi-Fi 32GB (7th Generation), as the minimum device specifications required. These may be purchased from the Apple Store or a variety of Apple resellers. However, do note the device specifications as follows:
+We strongly recommend the iPad Wi-Fi 64GB (9th Generation), as the minimum device specifications required. These may be purchased from the Apple Store or a variety of Apple resellers. However, do note the device specifications as follows:
 
-*   Able to run iPad iOS 13
+*   Able to run iPad iOS 17
 *   Minimum 9.7” screen
-*   Minimum 32GB storage
+*   Minimum 64GB storage
 *   Durable case to protect the iPad
 
 The newer the iPad, the longer it will be able to accommodate future software and app purchases. Purchasing an older iPad may mean your device is unable to be updated and the compatibility of apps may become an issue in the future.
@@ -114,9 +115,9 @@ There is a chance that older iPads may have limited functions and may not suppor
 
   
 
-**15\. Why 32 GB?**
+**15\. Why 64 GB?**
 
-The recommended size for an iPad in an educational environment is at least 32GB or more. Items stored in the iPad include apps, photos, videos and other media. Students who bring their own iPad are required to backup their personal media files on a regular basis to ensure that their iPad has sufficient storage space to store lesson materials.
+The recommended size for an iPad in an educational environment is at least 64GB or more. Items stored in the iPad include apps, photos, videos and other media. Students who bring their own iPad are required to backup their personal media files on a regular basis to ensure that their iPad has sufficient storage space to store lesson materials.
 
   
 

@@ -4,7 +4,7 @@ permalink: /about-us/Contact-Us/
 description: ""
 variant: markdown
 ---
-**School Information**
+#### **School Information**
 
   
 
@@ -29,11 +29,11 @@ For general enquires, do send us an email&nbsp;[here](mailto:kranji_ps@moe.edu.s
 
   
 
-**Service Providers**
+#### **Service Providers**
 
   
 
-### 1\. School Bookshop and Uniform
+#### 1\. School Bookshop and Uniform
 
 Asencio Pte Ltd <br>
 Operating Hours: 9am to 3pm <br>
@@ -44,7 +44,7 @@ For **online ordering of school uniform**, please visit their website <a href="h
 The **online ordering guide** is also available [here](/files/School_Uniform_Ordering_Guide.pdf).
 <br>
 
-### 2\. School Bus Transport&nbsp;
+#### 2\. School Bus Transport&nbsp;
 
 Name of Company: Chang Chen Pte Ltd<br>
 Liaison Person: Mr Grif Lim<br>
@@ -52,7 +52,7 @@ Contact No.: 6760 4835&nbsp;
 
   
 
-### 3\. School Dental Clinic
+#### 3\. School Dental Clinic
 
 The school dental clinic will be closed from 7 August 2024 to August/September 2025. Students who require dental treatment may contact the buddy clinics at nearby schools for dental appointment. 
 

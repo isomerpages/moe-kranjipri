@@ -20,10 +20,10 @@ Find out more about SLS in our dedicated [Student Learning Space (SLS) page](ht
 
   
 
-**2\. Google Apps**
+#### **2\. Google Apps**
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/11%20Learning%20Experience/Apps/A2.png)
 
-**3.  Other Apps**
+#### **3.  Other Apps**
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/11%20Learning%20Experience/Apps/A3.png)

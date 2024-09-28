@@ -4,7 +4,7 @@ permalink: /about-us/School-Creed-Crest-and-Song/
 description: ""
 variant: markdown
 ---
-**School Creed**  
+#### **School Creed**  
   
 We, the students of KPS,<br>
 pledge to be exemplary in character at all times.  
@@ -14,7 +14,7 @@ We will show care, uphold integrity
 and persevere in everything we do  
 to achieve success.  
   
-**School Crest**
+#### **School Crest**
 
 
 ![](/images/About%20Us/School%20Creed,%20Crest%20and%20Song/School_Crest_as_of_2024.png)
@@ -23,7 +23,7 @@ to achieve success.
 ![](/images/About%20Us/School%20Creed,%20Crest%20and%20Song/Symbols_in_the_School_Crest_as_of_2024.jpg)
 **Colours of School Crest:**
 ![](/images/About%20Us/School%20Creed,%20Crest%20and%20Song/Colours_of_School_Crest_as_of_2024.jpg)
-**School Song**&nbsp;
+#### **School Song**&nbsp;
 
 At Kranji we learn to work and play.&nbsp;<br>Making the most of each new day.<br>Giving our best in all that we do.<br>Living our values every day.<br>It's here where we aspire,&nbsp; to be joyful learners.<br>
 Strive to be, gracious citizens.<br>

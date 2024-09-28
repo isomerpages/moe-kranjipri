@@ -98,9 +98,9 @@ We will not require parents to provide an iPad for your child immediately in the
 
 We strongly recommend the iPad Wi-Fi 64GB (9th Generation), as the minimum device specifications required. These may be purchased from the Apple Store or a variety of Apple resellers. However, do note the device specifications as follows:
 
-*   Able to run iPad iOS 13
+*   Able to run iPad iOS 17
 *   Minimum 9.7” screen
-*   Minimum 32GB storage
+*   Minimum 64GB storage
 *   Durable case to protect the iPad
 
 The newer the iPad, the longer it will be able to accommodate future software and app purchases. Purchasing an older iPad may mean your device is unable to be updated and the compatibility of apps may become an issue in the future.

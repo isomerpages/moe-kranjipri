@@ -3,12 +3,13 @@ title: Weeks of Wonder Projects (WoW)
 permalink: /moe-kindergarten/Programmes-and-Activities/Weeks-of-Wonder-Projects-WoW/
 description: ""
 third_nav_title: Programmes and Activities
+variant: markdown
 ---
 To deepen children’s learning, each term culminates in a Weeks of Wonder (WoW) project in which children work together with their peers and teachers to investigate topics of their interest. Through the WoW projects, children experience the joy of self-motivated learning and find answers to their questions through exploration and discovery. 
 
   
 
-Our MK@Kranji WoW projects:
+#### **Our MK@Kranji WoW projects:**
 
 ![](/images/MOE%20Kindergarten/Programmes%20and%20Activities/Weeks%20of%20Wonder%20Projects%20(WoW)/W1.png)
 

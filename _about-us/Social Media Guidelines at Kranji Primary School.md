@@ -2,9 +2,9 @@
 title: Social Media Guidelines at Kranji Primary School
 permalink: /about-us/Social-Media-Guidelines-at-Kranji-Primary-School/
 description: ""
+variant: markdown
 ---
-  
-**Connect with us via social media!**  
+#### **Connect with us via social media!**  
 
 To help ensure that online interaction remains meaningful and constructive for everyone, we ask that you be sensitive to the significant impact that it can have on our students, staff and education fraternity.  As an education institution, we have a reputation to maintain. We hope that everyone can be responsible when connecting with us through social media.
 

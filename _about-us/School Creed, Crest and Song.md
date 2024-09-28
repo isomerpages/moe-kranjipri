@@ -20,7 +20,7 @@ to achieve success.
 
 **Symbols in the School Crest:**
 ![](/images/About%20Us/School%20Creed,%20Crest%20and%20Song/Symbols.png)
-
+![](/images/About%20Us/School%20Creed,%20Crest%20and%20Song/Symbols_in_the_School_Crest_as_of_2024.jpg)
 **Colours of School Crest:**
 ![](/images/About%20Us/School%20Creed,%20Crest%20and%20Song/color.png)
 

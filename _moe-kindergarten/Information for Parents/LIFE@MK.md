@@ -3,8 +3,9 @@ title: LIFE@MK
 permalink: /moe-kindergarten/Information-for-Parents/LIFE-at-MK/
 description: ""
 third_nav_title: Information for Parents
+variant: markdown
 ---
-**Leading and Inspiring Families of Early Learners @ MOE Kindergarten (LIFE@MK)**  
+#### **Leading and Inspiring Families of Early Learners @ MOE Kindergarten (LIFE@MK)**  
 
 LIFE@MK is a series of workshops conducted by MK educators for parents to encourage greater family involvement in children’s learning and holistic development. The workshops are customised for families and they provide practical tips and advice on how you can support your child’s learning at home.
 

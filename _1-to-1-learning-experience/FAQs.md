@@ -2,8 +2,9 @@
 title: FAQs
 permalink: /1-1-learning-experience/FAQs/
 description: ""
+variant: markdown
 ---
-**About 1: 1 Learning Experience**
+#### **About 1: 1 Learning Experience**
 
 **1\. What is 1:1 Learning Experience?**
 

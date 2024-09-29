@@ -3,6 +3,7 @@ title: Information and Communication Technology (ICT)
 permalink: /Departments/Information-and-Communication-Technology-ICT/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 ##### **ICT Curriculum Framework**
 
@@ -52,7 +53,7 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 
 1\. Acquire and apply technical skills to create digital content
 
-2\. Demonstrate 21st&nbsp;CC through self-directed and collaborative learning
+2\. Demonstrate e21st&nbsp;CC through self-directed and collaborative learning
 
 3\. Develop computational thinking and problem-solving skills
 

@@ -46,7 +46,7 @@ Parents/guardians can also enable restrictions to stop your child/ward from usin
 
   
 
-#### **Use of iPads**
+##### **Use of iPads**
 
 **6\. How much time will my child/ward spend using the iPad each day?**
 
@@ -90,7 +90,7 @@ Besides its intuitive design, our students have been well exposed to the use of 
 
 **12\. Do I have to provide an iPad for my child to bring to school?**
 
-We will not require parents to provide an iPad for your child immediately in the beginning of the year, as students will be using the school-owned iPads for their day-to-day learning. We hope to help students familiarize and establish the routines for iPad usage first, before we encourage them to bring their own iPads to school. More details will be communicated to you should we require students to start bringing their own iPads to school.  
+We will not require parents to provide an iPad for your child as students will be using the school-owned iPads for theor day-to-day learning. This is to ensure that students will be able to access upto-date applications and platforms for their day-to-day learning.
 
   
 

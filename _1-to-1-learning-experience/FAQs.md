@@ -117,36 +117,36 @@ Students have to return all school-owned iPads to the school at the end of the s
 
   
 
-**Apps for the iPad**
+##### **Apps for the iPad**
 
-**21\. Do I have to purchase the paid apps for my child/ward?**
+**17\. Do I have to purchase the paid apps for my child/ward?**
 
 The school will inform you of the list of apps that your child/ward will be using for his/her learning in class. All the apps in the school-owned iPads will be fully paid by the school. However, you will have to purchase the paid apps should you wish to download these apps into your personal iPad at home.
 
   
 
-**22\. Does my child/ward need to have an iTunes account?**
+**18\. Does my child/ward need to have an iTunes account?**
 
 No, your child will not require an iTunes account at the moment as they are still using school-owned devices and are not allowed to bring home the device. 
 
   
 
-**23\. Will students be able to install apps into their iPad on their own?**
+**19\. Will students be able to install apps into their iPad on their own?**
 
 No, students will not be able to install apps on the school’s iPads. All apps installation are managed by the school's ICT department.   
 
   
 
-**Technical**
+##### **Technical**
 
   
 
-**24\. How do we backup the data and apps on the school’s iPad?**
+**20\. How do we backup the data and apps on the school’s iPad?**
 
 Students can save their work in their Google Drive to back up their learning data. 
 
   
 
-**25\. What is the Mobile Device Management (MDM) Program?**
+**21\. What is the Mobile Device Management (MDM) Program?**
 
  MDM installed in the iPad provides an additional layer of security, which prevents students from accessing inappropriate content and disables the downloading of apps.**

@@ -24,7 +24,7 @@ This is achieved through providing tools and resources that allow them to acquir
 
   
 
-**Cyber Wellness**
+##### **Cyber Wellness**
 
 **3\. Will my child be distracted from learning?**
 
@@ -46,7 +46,7 @@ Parents/guardians can also enable restrictions to stop your child/ward from usin
 
   
 
-**Use of iPads**
+#### **Use of iPads**
 
 **6\. How much time will my child/ward spend using the iPad each day?**
 
@@ -80,7 +80,7 @@ Students are expected to keep the school’s iPads securely in their designated 
 
   
 
-**Choice of Device**
+##### **Choice of Device**
 
 **11\. Why iPads for P4 students?**
 

@@ -176,3 +176,6 @@ The Talent Development Programme is designed to develop and challenge students w
 
 </figure>
 
+**My Passion Project (MPP)**
+
+Through exploring their interest and passions, Kranjians are given the opportunity to exercise student agency, which in turn help them to develop their intrinsic motivation and nurture self-directed learning.

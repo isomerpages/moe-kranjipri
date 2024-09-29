@@ -24,7 +24,7 @@ This is achieved through providing tools and resources that allow them to acquir
 
   
 
-**Cyber Wellness**
+##### **Cyber Wellness**
 
 **3\. Will my child be distracted from learning?**
 
@@ -46,7 +46,7 @@ Parents/guardians can also enable restrictions to stop your child/ward from usin
 
   
 
-**Use of iPads**
+##### **Use of iPads**
 
 **6\. How much time will my child/ward spend using the iPad each day?**
 
@@ -80,7 +80,7 @@ Students are expected to keep the school’s iPads securely in their designated 
 
   
 
-**Choice of Device**
+##### **Choice of Device**
 
 **11\. Why iPads for P4 students?**
 
@@ -90,97 +90,63 @@ Besides its intuitive design, our students have been well exposed to the use of 
 
 **12\. Do I have to provide an iPad for my child to bring to school?**
 
-We will not require parents to provide an iPad for your child immediately in the beginning of the year, as students will be using the school-owned iPads for their day-to-day learning. We hope to help students familiarize and establish the routines for iPad usage first, before we encourage them to bring their own iPads to school. More details will be communicated to you should we require students to start bringing their own iPads to school.  
+We will not require parents to provide an iPad for your child as students will be using the school-owned iPads for theor day-to-day learning. This is to ensure that students will be able to access upto-date applications and platforms for their day-to-day learning.
 
-  
 
-**13\. What kind of iPad should I purchase for my child if I would like to help him/her get started?**
-
-We strongly recommend the iPad Wi-Fi 64GB (9th Generation), as the minimum device specifications required. These may be purchased from the Apple Store or a variety of Apple resellers. However, do note the device specifications as follows:
-
-*   Able to run iPad iOS 17
-*   Minimum 9.7” screen
-*   Minimum 64GB storage
-*   Durable case to protect the iPad
-
-The newer the iPad, the longer it will be able to accommodate future software and app purchases. Purchasing an older iPad may mean your device is unable to be updated and the compatibility of apps may become an issue in the future.
-
-Phones and “phablets” are not recommended as they do not provide the optimal experience when using some of the required apps. In addition to native apps, cloud-based apps will also be used.
-
-  
-
-**14\. What if my child already has an older iPad or another iPad model?**
-
-There is a chance that older iPads may have limited functions and may not support the required learning apps. The newer the iPad, the longer it will be able to accommodate future software and app purchases.  
-
-  
-
-**15\. Why 64 GB?**
-
-The recommended size for an iPad in an educational environment is at least 64GB or more. Items stored in the iPad include apps, photos, videos and other media. Students who bring their own iPad are required to backup their personal media files on a regular basis to ensure that their iPad has sufficient storage space to store lesson materials.
-
-  
-
-**16\. Does the school have any bulk/group purchase for iPads?**
-
-The school currently has no plans to call for a bulk purchase of iPads. Current market prices for iPads that meets the specifications for the programme are very competitive and are easily available from most electronics and computer stores.
-
-  
-
-**17\. Do I need to purchase any other accessories along with the iPad?**
+**13\. Do I need to purchase any other accessories along with the iPad?**
 
 All students are expected to bring their own headphones or earpiece with built-in microphone to class and are not encouraged to share their earpieces due to health concerns. If the earpiece/headsets are lost or broken, it is the responsibility of the parents to replace them.
 
   
 
-**18\. Will my child/ward still need access to a device at home?**
+**14\. Will my child/ward still need access to a device at home?**
 
 Yes, as students are not allowed to bring home the school owned iPads, he/she will still need access to a device at home to complete the online school work and learning activities.
 
   
 
-**19\. When will my child/ward start to use the school-owned iPad?**
+**15\. When will my child/ward start to use the school-owned iPad?**
 
 We are targeting for your child/ward to using the iPads in school at the beginning of Term 1.
 
   
 
-**20\. Can my child/ward bring home the school-owned iPad?**
+**16\. Can my child/ward bring home the school-owned iPad?**
 
 Students have to return all school-owned iPads to the school at the end of the school day and are not allowed to bring home any of the school-owned iPads.
 
   
 
-**Apps for the iPad**
+##### **Apps for the iPad**
 
-**21\. Do I have to purchase the paid apps for my child/ward?**
+**17\. Do I have to purchase the paid apps for my child/ward?**
 
 The school will inform you of the list of apps that your child/ward will be using for his/her learning in class. All the apps in the school-owned iPads will be fully paid by the school. However, you will have to purchase the paid apps should you wish to download these apps into your personal iPad at home.
 
   
 
-**22\. Does my child/ward need to have an iTunes account?**
+**18\. Does my child/ward need to have an iTunes account?**
 
 No, your child will not require an iTunes account at the moment as they are still using school-owned devices and are not allowed to bring home the device. 
 
   
 
-**23\. Will students be able to install apps into their iPad on their own?**
+**19\. Will students be able to install apps into their iPad on their own?**
 
 No, students will not be able to install apps on the school’s iPads. All apps installation are managed by the school's ICT department.   
 
   
 
-**Technical**
+##### **Technical**
 
   
 
-**24\. How do we backup the data and apps on the school’s iPad?**
+**20\. How do we backup the data and apps on the school’s iPad?**
 
 Students can save their work in their Google Drive to back up their learning data. 
 
   
 
-**25\. What is the Mobile Device Management (MDM) Program?**
+**21\. What is the Mobile Device Management (MDM) Program?**
 
  MDM installed in the iPad provides an additional layer of security, which prevents students from accessing inappropriate content and disables the downloading of apps.**

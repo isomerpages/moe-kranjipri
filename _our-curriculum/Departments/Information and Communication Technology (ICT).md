@@ -64,9 +64,6 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 
 ##### **Students in Action!**
 
-  
-
-![](/images/Our%20Curriculum/Departments/ICT/ICT/I3.png)
 
 ![](/images/Our%20Curriculum/Departments/ICT/ICT/I4.png)
 

@@ -92,40 +92,6 @@ Besides its intuitive design, our students have been well exposed to the use of 
 
 We will not require parents to provide an iPad for your child as students will be using the school-owned iPads for theor day-to-day learning. This is to ensure that students will be able to access upto-date applications and platforms for their day-to-day learning.
 
-  
-
-**13\. What kind of iPad should I purchase for my child if I would like to help him/her get started?**
-
-We strongly recommend the iPad Wi-Fi 64GB (9th Generation), as the minimum device specifications required. These may be purchased from the Apple Store or a variety of Apple resellers. However, do note the device specifications as follows:
-
-*   Able to run iPad iOS 17
-*   Minimum 9.7” screen
-*   Minimum 64GB storage
-*   Durable case to protect the iPad
-
-The newer the iPad, the longer it will be able to accommodate future software and app purchases. Purchasing an older iPad may mean your device is unable to be updated and the compatibility of apps may become an issue in the future.
-
-Phones and “phablets” are not recommended as they do not provide the optimal experience when using some of the required apps. In addition to native apps, cloud-based apps will also be used.
-
-  
-
-**14\. What if my child already has an older iPad or another iPad model?**
-
-There is a chance that older iPads may have limited functions and may not support the required learning apps. The newer the iPad, the longer it will be able to accommodate future software and app purchases.  
-
-  
-
-**15\. Why 64 GB?**
-
-The recommended size for an iPad in an educational environment is at least 64GB or more. Items stored in the iPad include apps, photos, videos and other media. Students who bring their own iPad are required to backup their personal media files on a regular basis to ensure that their iPad has sufficient storage space to store lesson materials.
-
-  
-
-**16\. Does the school have any bulk/group purchase for iPads?**
-
-The school currently has no plans to call for a bulk purchase of iPads. Current market prices for iPads that meets the specifications for the programme are very competitive and are easily available from most electronics and computer stores.
-
-  
 
 **17\. Do I need to purchase any other accessories along with the iPad?**
 

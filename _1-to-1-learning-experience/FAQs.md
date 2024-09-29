@@ -93,25 +93,25 @@ Besides its intuitive design, our students have been well exposed to the use of 
 We will not require parents to provide an iPad for your child as students will be using the school-owned iPads for theor day-to-day learning. This is to ensure that students will be able to access upto-date applications and platforms for their day-to-day learning.
 
 
-**17\. Do I need to purchase any other accessories along with the iPad?**
+**13\. Do I need to purchase any other accessories along with the iPad?**
 
 All students are expected to bring their own headphones or earpiece with built-in microphone to class and are not encouraged to share their earpieces due to health concerns. If the earpiece/headsets are lost or broken, it is the responsibility of the parents to replace them.
 
   
 
-**18\. Will my child/ward still need access to a device at home?**
+**14\. Will my child/ward still need access to a device at home?**
 
 Yes, as students are not allowed to bring home the school owned iPads, he/she will still need access to a device at home to complete the online school work and learning activities.
 
   
 
-**19\. When will my child/ward start to use the school-owned iPad?**
+**15\. When will my child/ward start to use the school-owned iPad?**
 
 We are targeting for your child/ward to using the iPads in school at the beginning of Term 1.
 
   
 
-**20\. Can my child/ward bring home the school-owned iPad?**
+**16\. Can my child/ward bring home the school-owned iPad?**
 
 Students have to return all school-owned iPads to the school at the end of the school day and are not allowed to bring home any of the school-owned iPads.
 

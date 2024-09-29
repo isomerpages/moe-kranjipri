@@ -20,7 +20,4 @@ variant: markdown
 
   
   
-**Contact Information of Subject Teachers &amp; School Counsellors**  
-  
-
-
+**Contact Information of Subject Teachers &amp; School Counsellors**

@@ -4,7 +4,7 @@ permalink: /home-based-learning/Home-Based-Learning-Plan/
 description: ""
 variant: markdown
 ---
-|   Level   | HBL Weekly Plan (Mon-Thurs) |
+|   Level   |HBL Weekly Plan (Mon-Thurs) |
 |:---------:|:---------------------------:|
 | Primary 1 |    N.A   |
 | Primary 2 |    N.A   |

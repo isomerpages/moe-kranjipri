@@ -77,9 +77,7 @@ P2 Champion Chef
 ![](/images/Our%20Curriculum/Departments/Mathematics/Math_P3_Chef_2024.png)
 P3 Champion Chef
 
-![](/images/Our%20Curriculum/Departments/Mathematics/M8.png)
 
-![](/images/Our%20Curriculum/Departments/Mathematics/M9.png)
 
 ##### **Talent Development Programme**
 

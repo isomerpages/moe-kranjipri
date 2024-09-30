@@ -131,29 +131,9 @@ Play Cool Sports in offered to all Primary 3 to 6 students to expose them to spo
 <figcaption> <strong> Rollerblading is fun but having to balance and move is not easy!&nbsp; &nbsp;I can barely see my opponent but I definitely look forward to this fencing experience. Lunge and parry away! </strong> </figcaption>
 
 </figure>
-<figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L16.jpg">
 
-<figcaption> <strong> How come this ball is not round and I have to throw in a different manner? Touch Rugby </strong> </figcaption>
 
-</figure>
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L17.jpg">
-
-<figcaption> <strong> Quick reflexes required for Frisbee! </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L18.jpg">
-
-<figcaption> <strong> Will we hit the bull's eye? Let's aim and shoot. </strong> </figcaption>
-
-</figure>
 
 
 <figure>

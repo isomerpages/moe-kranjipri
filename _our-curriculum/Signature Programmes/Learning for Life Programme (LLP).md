@@ -111,34 +111,3 @@ In Kranji, two physical sports Co-Curricular Activities (CCAs), namely Football 
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP_Sports_CCA_3_2024.png)
 
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L22.jpg">
-
-<figcaption> <strong> Ready to pass and attack! </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L23.jpg">
-
-<figcaption> <strong> Every basket counts! </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L24.jpg">
-
-<figcaption> <strong> National School Games Basketball Senior Girls Division </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L25.jpg">
-
-<figcaption> <strong> National School Games: 2019 Junior Boys Division - Tier 2 Top 8 (Basketball) </strong> </figcaption>
-
-</figure>

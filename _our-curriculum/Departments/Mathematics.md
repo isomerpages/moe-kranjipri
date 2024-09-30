@@ -56,11 +56,7 @@ P1 Math Trail
 
 ![](/images/Our%20Curriculum/Departments/Mathematics/P2_Math_Fun_Time_2024.png)
 P2 Math Fun Time
-![](/images/Our%20Curriculum/Departments/Mathematics/p1_mathtrail.png)
-<br>
 
-![](/images/Our%20Curriculum/Departments/Mathematics/p2_funtime.png)
-<br>
 ![](/images/Our%20Curriculum/Departments/Mathematics/p4_projectwork.png)
 
 P1  to P6 Math Games Carnival

@@ -2,8 +2,9 @@
 title: Infocomm Media Club
 permalink: /cca/Infocomm-Media-Club/
 description: ""
+variant: markdown
 ---
-##### **Objectives**
+#### **Objectives**
 
   
 Students will be able to:  

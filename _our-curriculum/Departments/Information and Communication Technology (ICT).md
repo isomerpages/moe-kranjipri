@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: markdown
 ---
-##### **ICT Curriculum Framework**
+#### **ICT Curriculum Framework**
 
 In Kranji Primary School, we believe in preparing our students to be future-ready champions in life. Therefore, the ICT department aims to create an ICT enriched environment, providing opportunities for our students to be joyful and responsible digital learners through a range of quality learning experiences with technology.&nbsp;
 

@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Total Curriculum Framework
 ---
-<h4>Environment</h4>
+<h3><strong>Environment</strong></h3>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caring and Enabling Environment</strong>
 </p>
 <p>As humans, we have basic psychological needs to connect with others, feel

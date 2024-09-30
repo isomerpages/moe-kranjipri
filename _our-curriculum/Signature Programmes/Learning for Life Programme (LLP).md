@@ -28,7 +28,7 @@ Our LLP adopts a whole-school approach in the development of Kranjian Champions.
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L1.jpg)  
 
-**Sports Experience**
+##### **Sports Experience**
 
   
 
@@ -38,7 +38,7 @@ Competitive sporting experiences are effective platforms to nurture positive tra
 
 Recreational sporting experiences through ‘Play Cool Sports’ and participation in Physical Sports Co-Curricular Activities (CCA) at recreational level is available to all students. We hope to broaden their experiences and interests by providing recreational sports training and game plays in a non-competitive and fun environment.&nbsp; In doing so, we strive to promote an active and healthy lifestyle and develop a lifelong passion for sports in our students.&nbsp;
 
-**Sports Excellence**
+##### **Sports Excellence**
 
 This thrust caters to the needs of high performing students in Physical Sports CCA by providing them with opportunities to further their talents and strengthen their character. There is application of training in higher competition as they develop sport-specific strength and fitness conditioning. School team players receive opportunities to participate in friendly matches, fiestas and National School Games competitions. The school emphasises the importance of ‘giving one’s personal best’ and showing good sportsmanship in the process.&nbsp;
 
@@ -48,7 +48,7 @@ Many of our school team players have used their talents in sports to apply succe
 
 In addition to participating in sports, our student athletes also contribute back to our community through our curated Values-in-Action programmes. The CCA outreach programmes to MOE Kindergarten@Kranji and other kindergartens around our neighbourhood allow our students to share their knowledge and skills with the younger children through fun and engaging activities.&nbsp;
 
-**Budding Champions Day**
+##### **Budding Champions Day**
 
 This sporting event provides our Primary 1 and 2 students with the opportunity to display their fundamental movement skills through a variety of exciting relays and game challenges. Amidst the challenge of clearing each stage with finesse and competing against one another, our students display good sportsmanship and always give their best in each game.To foster greater engagement between students, our lower primary students also buddy up with our MOE Kindergarten students, in relay competitions where they work together in tandem to complete a series of challenges. Parents are invited to participate in parent-child relay races during Budding Champions Day, and this provides a wonderful opportunity for parents to be involved in their child's school experience and build memories together.
 

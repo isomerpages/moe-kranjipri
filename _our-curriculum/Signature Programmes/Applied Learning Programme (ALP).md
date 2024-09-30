@@ -32,88 +32,28 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 	  
 <figure>
 
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP2.jpg">
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Junior_Tinkering_1_2024.png)
 
-<figcaption> <strong> We are building the tallest ice cream castle! </strong> </figcaption>
-
-</figure>
-
-<figure>
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/jtp-5.jpg">
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Junior_Tinkering_2_2024.png)
 	
 
-
-
-
-</figure>
-
-**Primary 2 - Tinkering with Strawbees**
-	
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP4.jpg">
-
-<figcaption> <strong> Look at our 2D shapes </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP5.jpg">
-
-<figcaption> <strong> We built a strong and stable Truss Bridge </strong> </figcaption>
-
-</figure>
 
 **Please [click here](/Junior-Tinkering-Programme/) for Junior Tinkering Programme**
 
 
 ##### **K Maker Programme**
 
-  
+
 
 The Makerspace forms the backbone of the K-Makers Programme where all students will be given the opportunity to engage in the process of making to learn, unlearn and re-learn. As part of the process, students will learn to create, innovate, recover from failure, and build critical thinking and problem solving skills.&nbsp; This will be done through a 3-tiered approach as given below, catering to the different readiness of each child. As a consolidation for the ALP, an InnoCarnival is held at the end of the year to celebrate and showcase the journey of innovation and the rich variety of student products to the school community.  
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A5.jpg)
 
-**Highlights of the Innocarnival**
+##### **Highlights of the Innocarnival**
 
-<figure>
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP6.jpg">
-</figure>
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Innocarnival_1_2024.png)
 
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP8.jpg">
-
-<figcaption> <strong> What is Micro:bit? </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP9.jpg">
-
-<figcaption> <strong> Check out our cool Micro:bit watches! </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP10.jpg">
-
-<figcaption> <strong> Exploring how the Ozobot works </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP11.jpg">
-
-<figcaption> <strong> Setting the path for the Ozobot </strong> </figcaption>
-
-</figure>
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Innocarnival_2_2024.png)
 
 ##### **Project Work**
 
@@ -123,23 +63,15 @@ Project Work unites the teaching and learning of Science and Mathematics in an i
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A9.jpg) 
 
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Project_Work_P5_1_2024.png)
 
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/alp-4.jpg">
-
-<figcaption> <strong> Primary 5 Young Environmentalist in action </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/alp-3.jpg">
-
-<figcaption> <strong> Primary 5 students with their portable Water Filtration System </strong> </figcaption>
-
-</figure>
-
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Project_Work_P5_2_2024.png)
+P5 Project Work - Protable Water Filter
+	
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Project_Work_P6_1_2024.png)
+	
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Project_Work_P6_2_2024.png)
+P6 Project Work - Urban Farming Prototype
 ##### **Science Club**
 
   
@@ -184,5 +116,5 @@ MPP provides the time and space for P4 to P6 Kranjians to initiate activities gr
 * '**Joyful Explorers'** - Kranjians can explore their passion.
 * **'Gracious Adventurers'** - Kranjians can pursue their passion through collaboration or individually.
 * '**Champions in MPP**' - Kranjians showcase their passion through various platforms provided.
-
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/MPP.png)
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_MPP_2024.png)
+</figure>

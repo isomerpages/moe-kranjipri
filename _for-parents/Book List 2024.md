@@ -4,7 +4,7 @@ permalink: /for-parents/book-list-2024/
 description: ""
 variant: markdown
 ---
-Dear Parents / Guardians:
+#### **Dear Parents / Guardians:**
 
 The Book List for Year 2024 is as below:
 
@@ -16,4 +16,3 @@ The Book List for Year 2024 is as below:
 |P4    |             [P4 Booklist 2024](/files/For%20Parents/P4_Booklist_AY2024.pdf)               |
 |P5 / P5 Foundation| [P5 Booklist 2024](/files/For%20Parents/P5_Booklist_AY2024.pdf)<br>[P5 Foundation Booklist 2024](/files/For%20Parents/P5_FDN_Booklist_AY2024.pdf)    |
 |P6 / P6 Foundation|  [P6 Booklist 2024](/files/For%20Parents/P6_Booklist_AY2024.pdf) <br> [P6 Foundation Booklist 2024](/files/For%20Parents/P6_FDN_Booklist_AY2024.pdf)   |
-

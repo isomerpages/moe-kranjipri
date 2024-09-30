@@ -105,7 +105,11 @@ Play Cool Sports in offered to all Primary 3 to 6 students to expose them to spo
 
 In Kranji, two physical sports Co-Curricular Activities (CCAs), namely Football and Basketball, are offered to interested Primary 3 to Primary 6 students. Physical sports CCAs provide our students with a balanced range of opportunities to develop a healthier and stronger body through participation in sports, while also developing team spirit, fair play and sportsmanship in our students. For individuals who exhibit talent and a deep passion for Football and Basketball, they will join our school team and participate in targeted development programmes to further develop them in these particular sports areas.&nbsp;
 
-  
+![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP_Sports_CCA_2024.png)
+
+![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP_Sports_CCA_2_2024.png)
+
+![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP_Sports_CCA_3_2024.png)
 
 <figure>
 

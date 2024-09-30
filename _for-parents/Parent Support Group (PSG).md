@@ -2,6 +2,7 @@
 title: Parent Support Group (PSG)
 permalink: /for-parents/Parent-Support-Group-PSG/
 description: ""
+variant: markdown
 ---
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P1.jpg)
 ### **Parent Support Group (PSG)**
@@ -12,7 +13,7 @@ We are the parents of KPS who contribute to the school’s efforts to give our c
 
 ### **Our Role:**
 
-*   To be a Supportive Partner In Education 
+*   To be a Supportive Partner In Education&nbsp;
 
 We complement the school’s efforts by supporting and strengthening school programmes to enhance our children’s well-being and learning.
 			 
@@ -20,22 +21,22 @@ We complement the school’s efforts by supporting and strengthening school prog
 
 ### **Benefits of Joining PSG:**
 
-PSG is a great opportunity for us to be closer to our children, understand them better and help them in their education journey. 
+PSG is a great opportunity for us to be closer to our children, understand them better and help them in their education journey.&nbsp;
 
   
 
-Our children benefit when we are more active in the school environment.  They tend to:
+Our children benefit when we are more active in the school environment.&nbsp; They tend to:
 
 *   show more positive attitudes  
     
-*   have better school attendance and complete homework more consistently
+*   have&nbsp;better school attendance and complete homework more consistently
 *   be able to bridge the cultural gap between school and home
 *   be less anti-social and less prone to behavioural issues
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QrtzGEsDZD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QrtzGEsDZD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rJYZaNezc-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rJYZaNezc-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ### **PSG Focus Group**
 
@@ -65,7 +66,7 @@ We are a group of parents who play a key role in inspiring our fellow PSG member
 
 <div style="float: left">
 
-<img style="width:20%;height:50%" src="/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSGNEW1.jpeg" />
+<img style="width:20%;height:50%" src="/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSGNEW1.jpeg">
 
 </div><div>
 
@@ -73,13 +74,13 @@ Effective home-school partnership provides a great educational experience for ou
 
   
 
-Kranji’s PSG has a strong network to bridge parent-school communication & support.  PSG Focus Group members show our “Kampung Spirit” through encouraging and supporting one another in our parenting journey.  We communicate regularly and collaborate closely to support school activities.
+Kranji’s PSG has a strong network to bridge parent-school communication &amp; support.&nbsp; PSG Focus Group members show our “Kampung Spirit” through encouraging and supporting one another in our parenting journey.&nbsp; We communicate regularly and collaborate closely to support school activities.
 
   
 
 We hope to see more active parent participation in our programmes so as to maintain a successful PSG-school community that raises happy and successful Kranjians!  
 **Joreen Ong, PSG Coordinator**
-</br>	
+<br>	
 	
 </div></div>
 
@@ -88,17 +89,17 @@ We hope to see more active parent participation in our programmes so as to maint
 
 <div style="float: left">
 
-<img style="width:20%;height:50%" src="/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSGNEW2.jpeg" />
+<img style="width:20%;height:50%" src="/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSGNEW2.jpeg">
 
 </div><div>
 
-Together with the school, parents play an important role in enriching our children’s development. 
+Together with the school, parents play an important role in enriching our children’s development.&nbsp;
 
 Our participation in school programmes sends a strong signal to our children that we are interested in their learning and that we are walking the journey with them.
 
 We believe that our collaboration with the school will raise happy and successful children and help us forge closer bonds with them.
 	
-We also hope to make lasting memories for every Kranjian on their primary school life.  Hence, I encourage all parents to join hands and support our children in school whenever you are available.  Together, we will support the school in building the Kranjian spirit in our children!  
+We also hope to make lasting memories for every Kranjian on their primary school life.&nbsp; Hence, I encourage all parents to join hands and support our children in school whenever you are available.&nbsp; Together, we will support the school in building the Kranjian spirit in our children!  
 
 **Minh, PSG Coordinator**
 
@@ -106,7 +107,7 @@ We also hope to make lasting memories for every Kranjian on their primary school
 
 
 
-### PSG Involvement
+### **PSG Involvement**
 
 **Chinese New Year**
 

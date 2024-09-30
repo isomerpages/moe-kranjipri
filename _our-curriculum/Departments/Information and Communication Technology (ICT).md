@@ -57,9 +57,8 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 
 3\. Develop computational thinking and problem-solving skills
 
-![](/images/Our%20Curriculum/Departments/ICT/ICT/ICTNEW1.png)
-![](/images/Our%20Curriculum/Departments/ICT/ICT/ICTNEW2.png)
-![](/images/Our%20Curriculum/Departments/ICT/ICT/ICTNEW3.png)
+![](/images/Our%20Curriculum/Departments/ICT/ICT/ICT_Level_Programme_2024.png)
+
 
 
 ##### **Students in Action!**

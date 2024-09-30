@@ -64,9 +64,9 @@ Project Work unites the teaching and learning of Science and Mathematics in an i
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A9.jpg) 
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Project_Work_P5_1_2024.png)
-P5 Project Work - Protable Water Filter
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Project_Work_P5_2_2024.png)
 
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Project_Work_P5_2_2024.png)
+P5 Project Work - Protable Water Filter
 ##### **Science Club**
 
   

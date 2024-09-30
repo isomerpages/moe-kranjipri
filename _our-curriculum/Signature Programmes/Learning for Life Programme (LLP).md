@@ -65,6 +65,11 @@ Our CCA and Sports leaders are given opportunities to serve our Kranji community
 
 Champions Day is a yearly event for our Primary 3 to 6 students to celebrate Children’s Day and take part in modified games like Captain’s Ball, Football, Floorball and Tchoukball. They get to demonstrate their fundamental &amp; specialised skills and movement concepts learnt in Physical Education lessons.&nbsp; Students are also challenged to form and work in teams with&nbsp; peers from other classes to compete in a wide variety of sports and games, and are required to give their personal best to win as many points as possible for the team they are representing. This collaboration across classes allows for greater bonding experiences within the cohort and promotes cohort and school identity.&nbsp;
 
+![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP_Play_Cool_Sports_P4_1_2024.png)
+
+![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP_Play_Cool_Sports_P4_2_2024.png)
+
+
 <figure>
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L6.jpg">

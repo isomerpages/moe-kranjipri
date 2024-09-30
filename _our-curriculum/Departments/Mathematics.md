@@ -54,7 +54,7 @@ At KPS, we focus on building strong numeracy and problem-solving skills in our s
 P1 Math Trail
 ![](/images/Our%20Curriculum/Departments/Mathematics/P1_Math_Trail_2024.png)
 
-P2Math Fun Time
+P2 Math Fun Time
 ![](/images/Our%20Curriculum/Departments/Mathematics/P2_Math_Fun_Time_2024.png)
 
 

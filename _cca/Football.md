@@ -2,8 +2,9 @@
 title: Football
 permalink: /cca/Football/
 description: ""
+variant: markdown
 ---
-##### **Objectives**
+#### **Objectives**
 
   
 Students will be able to:  

@@ -2,8 +2,9 @@
 title: Scouts
 permalink: /cca/Scouts/
 description: ""
+variant: markdown
 ---
-##### **Objectives**
+#### **Objectives**
 
   
 
@@ -105,8 +106,3 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 <figcaption> <strong> Opening Ceremony In the West Area Cub Scout Field Day </strong> </figcaption>
 
 </figure>
-
-
-
-
-

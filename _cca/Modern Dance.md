@@ -2,8 +2,9 @@
 title: Modern Dance
 permalink: /cca/Modern-Dance/
 description: ""
+variant: markdown
 ---
-##### **Objectives**
+#### **Objectives**
 
   
 Students will be able to:  

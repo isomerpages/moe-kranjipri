@@ -3,15 +3,16 @@ title: Mathematics
 permalink: /Departments/Mathematics/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
-##### **Math Curriculum Framework**
+#### **Math Curriculum Framework**
 
   
 The central focus of the Mathematics Framework is mathematical problem solving, that is, using Mathematics to solve problems. The framework stresses conceptual understanding, skills proficiency and mathematical processes, and gives due emphasis to attitudes and metacognition. These five components are inter-related.&nbsp;
 
 ![](/images/Our%20Curriculum/Departments/Mathematics/M1.png)
 
-#### **Department Pedagogy**
+##### **Department Pedagogy**
 
 We believe every Kranjian can be a joyful and confident problem solver with strong numeracy skills. Our Math lessons aim to:
 

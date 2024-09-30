@@ -32,38 +32,11 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 	  
 <figure>
 
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP2.jpg">
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Junior_Tinkering_1_2024.png)
 
-<figcaption> <strong> We are building the tallest ice cream castle! </strong> </figcaption>
-
-</figure>
-
-<figure>
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/jtp-5.jpg">
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Junior_Tinkering_2_2024.png)
 	
 
-
-
-
-</figure>
-
-**Primary 2 - Tinkering with Strawbees**
-	
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP4.jpg">
-
-<figcaption> <strong> Look at our 2D shapes </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP5.jpg">
-
-<figcaption> <strong> We built a strong and stable Truss Bridge </strong> </figcaption>
-
-</figure>
 
 **Please [click here](/Junior-Tinkering-Programme/) for Junior Tinkering Programme**
 
@@ -78,42 +51,9 @@ The Makerspace forms the backbone of the K-Makers Programme where all students w
 
 **Highlights of the Innocarnival**
 
-<figure>
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP6.jpg">
-</figure>
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Innocarnival_1_2024.png)
 
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP8.jpg">
-
-<figcaption> <strong> What is Micro:bit? </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP9.jpg">
-
-<figcaption> <strong> Check out our cool Micro:bit watches! </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP10.jpg">
-
-<figcaption> <strong> Exploring how the Ozobot works </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP11.jpg">
-
-<figcaption> <strong> Setting the path for the Ozobot </strong> </figcaption>
-
-</figure>
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Innocarnival_2_2024.png)
 
 ##### **Project Work**
 
@@ -185,4 +125,4 @@ MPP provides the time and space for P4 to P6 Kranjians to initiate activities gr
 * **'Gracious Adventurers'** - Kranjians can pursue their passion through collaboration or individually.
 * '**Champions in MPP**' - Kranjians showcase their passion through various platforms provided.
 
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/MPP.png)
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/MPP.png)</figure>

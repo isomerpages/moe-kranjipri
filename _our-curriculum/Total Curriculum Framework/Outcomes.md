@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Total Curriculum Framework
 ---
-<h4>Outcomes</h4>
+<h3><strong>Outcomes</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/learning_dispostions_final.png">
 </div>

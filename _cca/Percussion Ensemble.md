@@ -2,8 +2,9 @@
 title: Percussion Ensemble
 permalink: /cca/Percussion-Ensemble/
 description: ""
+variant: markdown
 ---
-##### **Objectives**
+#### **Objectives**
 
   
 Students will be able to:  

@@ -124,13 +124,6 @@ Play Cool Sports in offered to all Primary 3 to 6 students to expose them to spo
 ![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP_Play_Cool_Sports_P5_1_2024.png)
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP_Play_Cool_Sports_P5_2_2024.png)
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L15new.png">
-
-<figcaption> <strong> Rollerblading is fun but having to balance and move is not easy!&nbsp; &nbsp;I can barely see my opponent but I definitely look forward to this fencing experience. Lunge and parry away! </strong> </figcaption>
-
-</figure>
 
 
 

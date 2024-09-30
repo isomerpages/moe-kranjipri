@@ -3,8 +3,9 @@ title: Co Curricular Activities
 permalink: /Departments/Co-Curricular-Activities/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
-##### **PURPOSE OF CCA**
+#### **PURPOSE OF CCA**
   
 The CCA Programme provides students with a platform to discover their interests and talents. Well-organised and implemented, they can fuel in the individual a life-long love for a particular activity, be it a sport or a musical pursuit. This helps the individual to lead a balanced life in adulthood.
 

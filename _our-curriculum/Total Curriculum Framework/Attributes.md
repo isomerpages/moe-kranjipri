@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Total Curriculum Framework
 ---
-<h4>Attributes</h4>
+<h3><strong>Attributes</strong></h3>
 <p>In order to achieve our Student Outcomes, the school believes that equal
 emphasis needs to be given to a broad spectrum of attributes. The CHAMPS
 Leadership Programme integrates the various efforts of the school to build

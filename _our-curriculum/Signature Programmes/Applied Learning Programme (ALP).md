@@ -30,7 +30,6 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 
 **Primary 1- Tinkering Basics**
 	  
-<figure>
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Junior_Tinkering_1_2024.png)
 
@@ -117,4 +116,3 @@ MPP provides the time and space for P4 to P6 Kranjians to initiate activities gr
 * **'Gracious Adventurers'** - Kranjians can pursue their passion through collaboration or individually.
 * '**Champions in MPP**' - Kranjians showcase their passion through various platforms provided.
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_MPP_2024.png)
-</figure>

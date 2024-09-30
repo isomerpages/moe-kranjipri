@@ -71,7 +71,11 @@ P1  to P6 Math Games Carnival
 
 Learning of mathematics should be fun, relevant and meaningful to students.&nbsp; We immerse students in a learning environment that arouses creativity and stimulates thinking. Our Math Champion Chef programme seeks to ignite the joy of learning through authentic learning experiences in baking. As students apply mathematics in real-life activities, their mathematical concepts and skills are reinforced, reasoning and communication skills are strengthened and they will see the relevance of mathematics in real life that makes learning of mathematics meaningful.
 
+![](/images/Our%20Curriculum/Departments/Mathematics/Math_P2_Chef_2024.png)
+P2 Champion Chef
 
+![](/images/Our%20Curriculum/Departments/Mathematics/Math_P3_Chef_2024.png)
+P3 Champion Chef
 
 ![](/images/Our%20Curriculum/Departments/Mathematics/M8.png)
 

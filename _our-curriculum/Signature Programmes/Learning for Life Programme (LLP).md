@@ -52,8 +52,10 @@ In addition to participating in sports, our student athletes also contribute bac
 This sporting event provides our Primary 1 and 2 students with the opportunity to display their fundamental movement skills through a variety of exciting relays and game challenges. Amidst the challenge of clearing each stage with finesse and competing against one another, our students display good sportsmanship and always give their best in each game.To foster greater engagement between students, our lower primary students also buddy up with our MOE Kindergarten students, in relay competitions where they work together in tandem to complete a series of challenges. Parents are invited to participate in parent-child relay races during Budding Champions Day, and this provides a wonderful opportunity for parents to be involved in their child's school experience and build memories together.
 
 Our CCA and Sports leaders are given opportunities to serve our Kranji community of students and parents by assisting in different games and activities. They provide guidance and encouragement to our lower primary students, helping parents through parent-child races and serve as cheerleaders for their lower primary friends.  
- 
-![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP__Budding_Champion_P1_2024.png)
+
+![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP__Budding_Champion_P1_2_2024.png)
+
+
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP__Budding_Champion_P1__22024.png)
 

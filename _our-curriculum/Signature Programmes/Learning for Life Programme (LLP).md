@@ -99,25 +99,6 @@ Play Cool Sports in offered to all Primary 3 to 6 students to expose them to spo
 
 
 
-
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L20.jpg">
-
-<figcaption> <strong> Dragonboating requires teamwork, let's row in unison. </strong> </figcaption>
-
-</figure>
-
-  
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L21.jpg">
-
-<figcaption> <strong> Building team spirit as we row together as one in Dragon Boating. </strong> </figcaption>
-
-</figure>
-
   
 ##### **Sports CCA**  
   

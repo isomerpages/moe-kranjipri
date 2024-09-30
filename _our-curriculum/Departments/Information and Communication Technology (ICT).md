@@ -68,7 +68,7 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 
 ![](/images/Our%20Curriculum/Departments/ICT/ICT/Drone_Adventures_workshop_2024.png)
 
-
+![](/images/Our%20Curriculum/Departments/ICT/ICT/Infocomm_Media_Club_2024_.png)
 
 ##### **ICT Facilities**
 

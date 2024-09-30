@@ -121,7 +121,9 @@ Our outdoor adventure camps are a key aspect of our Learning for Life Programme 
 
 Play Cool Sports in offered to all Primary 3 to 6 students to expose them to sports beyond the PE curriculum and enhance their movement education through application of skills in novel sports. Through the programme, students get to explore different sports such as Golf, Archery and Fencing, allowing them to build foundation skills and knowledge of the games. Students also demonstrate resilience and take ownership of their learning as they show determination to learn the sport. Some of the sports introduced are team sports, hence the students will be able to work in a respectful manner with others in a group setting to meet group goals To do so, they will need to practise their communication, collaboration and information skills.
 
+![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP_Play_Cool_Sports_P5_1_2024.png)
 
+![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP_Play_Cool_Sports_P5_2_2024.png)
 <figure>
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L15new.png">
@@ -172,7 +174,7 @@ Play Cool Sports in offered to all Primary 3 to 6 students to expose them to spo
 </figure>
 
   
-**Sports CCA**  
+##### **Sports CCA**  
   
 
 In Kranji, two physical sports Co-Curricular Activities (CCAs), namely Football and Basketball, are offered to interested Primary 3 to Primary 6 students. Physical sports CCAs provide our students with a balanced range of opportunities to develop a healthier and stronger body through participation in sports, while also developing team spirit, fair play and sportsmanship in our students. For individuals who exhibit talent and a deep passion for Football and Basketball, they will join our school team and participate in targeted development programmes to further develop them in these particular sports areas.&nbsp;

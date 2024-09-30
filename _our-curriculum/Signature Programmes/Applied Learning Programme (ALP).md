@@ -115,5 +115,5 @@ MPP provides the time and space for P4 to P6 Kranjians to initiate activities gr
 * '**Joyful Explorers'** - Kranjians can explore their passion.
 * **'Gracious Adventurers'** - Kranjians can pursue their passion through collaboration or individually.
 * '**Champions in MPP**' - Kranjians showcase their passion through various platforms provided.
-
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/MPP.png)</figure>
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_MPP_2024.png)
+</figure>

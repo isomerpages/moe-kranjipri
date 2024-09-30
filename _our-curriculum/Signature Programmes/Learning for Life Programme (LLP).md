@@ -69,38 +69,10 @@ Champions Day is a yearly event for our Primary 3 to 6 students to celebrate Chi
 ![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP_Play_Cool_Sports_P4_2_2024.png)
 
 
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L6.jpg">
-
-<figcaption> <strong> Will we score a point? </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L7.jpg">
-
-<figcaption> <strong> Yes! It's a catch </strong> </figcaption>
-
-</figure>
 
 
-<figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L9.jpg">
 
-<figcaption> <strong> Sharing a laugh over a goal scored </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L10.jpg">
-
-<figcaption> <strong> It's not easy to get pass the opponents! Going for ball! </strong> </figcaption>
-
-</figure>
 
   
 

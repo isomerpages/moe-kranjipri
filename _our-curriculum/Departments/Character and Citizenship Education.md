@@ -3,8 +3,9 @@ title: Character and Citizenship Education
 permalink: /our-curriculum/Departments/Character-and-Citizenship-Education/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
-##### **Citizen and Character Education**
+#### **Citizen and Character Education**
 
   
 The aim of Character and Citizenship Education (CCE) at Kranji Primary School is to inculcate values and build social emotional competencies so that Kranjians grow up into Gracious Citizens.  

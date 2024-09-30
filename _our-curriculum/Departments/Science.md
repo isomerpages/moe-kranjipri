@@ -3,8 +3,9 @@ title: Science
 permalink: /Departments/Science/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
-##### **Science Curriculum Framework**
+#### **Science Curriculum Framework**
 
   
 

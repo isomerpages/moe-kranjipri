@@ -43,13 +43,13 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 
 ##### **K Maker Programme**
 
-  
+
 
 The Makerspace forms the backbone of the K-Makers Programme where all students will be given the opportunity to engage in the process of making to learn, unlearn and re-learn. As part of the process, students will learn to create, innovate, recover from failure, and build critical thinking and problem solving skills.&nbsp; This will be done through a 3-tiered approach as given below, catering to the different readiness of each child. As a consolidation for the ALP, an InnoCarnival is held at the end of the year to celebrate and showcase the journey of innovation and the rich variety of student products to the school community.  
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A5.jpg)
 
-**Highlights of the Innocarnival**
+##### **Highlights of the Innocarnival**
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Innocarnival_1_2024.png)
 
@@ -63,22 +63,9 @@ Project Work unites the teaching and learning of Science and Mathematics in an i
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A9.jpg) 
 
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/alp-4.jpg">
-
-<figcaption> <strong> Primary 5 Young Environmentalist in action </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/alp-3.jpg">
-
-<figcaption> <strong> Primary 5 students with their portable Water Filtration System </strong> </figcaption>
-
-</figure>
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Project_Work_P5_1_2024.png)
+P5 Project Work - Protable Water Filter
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Project_Work_P5_2_2024.png)
 
 ##### **Science Club**
 

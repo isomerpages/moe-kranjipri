@@ -51,8 +51,8 @@ At KPS, we focus on building strong numeracy and problem-solving skills in our s
 
 **Fun-In-Learning @ Kranji**<br>
 
-![](/images/Our%20Curriculum/Departments/Mathematics/P1_Math_Trail_2024.png)
 P1 Math Trail
+![](/images/Our%20Curriculum/Departments/Mathematics/P1_Math_Trail_2024.png)
 
 ![](/images/Our%20Curriculum/Departments/Mathematics/P2_Math_Fun_Time_2024.png)
 P2 Math Fun Time

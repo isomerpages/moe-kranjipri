@@ -114,41 +114,9 @@ Our outdoor adventure camps are a key aspect of our Learning for Life Programme 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/P5_Camp_1_2024.png)  
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/P5_Camp_2_2024.png)
-<figure>
+ 
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L11.jpg">
-
-<figcaption> <strong> I love my team! </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L12.jpg">
-
-<figcaption> <strong> All geared up and ready to conquer the high rope obstacle course </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L13.jpg">
-
-<figcaption> <strong> Clearing the high obstacles is a challenge but we can do it! </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/L14.jpg">
-
-<figcaption> <strong> Let's try to reach the top together! </strong> </figcaption>
-
-</figure>
-
-  
-
-**Play Cool Sports**
+##### **Play Cool Sports**
 
   
 

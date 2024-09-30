@@ -3,14 +3,12 @@ title: Music
 permalink: /Departments/Music/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
-
-
-
-##### **Music Curriculum Framework**
+#### **Music Curriculum Framework**
   
 
-Music is a key platform upon which every child is provided a basic music education, giving them opportunities to develop a connection to music. This contributes to the future development and preservation of Singapore’s cultural heritage. Music, being an integral part of many cultures, also provides a means to raise global awareness amongst students. The processes involved in music performing and creating, develop skills such as listening skills, fine motor skills, creative thinking skills and social skills. Music enables students to express their thoughts and ideas. 
+Music is a key platform upon which every child is provided a basic music education, giving them opportunities to develop a connection to music. This contributes to the future development and preservation of Singapore’s cultural heritage. Music, being an integral part of many cultures, also provides a means to raise global awareness amongst students. The processes involved in music performing and creating, develop skills such as listening skills, fine motor skills, creative thinking skills and social skills. Music enables students to express their thoughts and ideas.&nbsp;
 
   
 
@@ -38,7 +36,7 @@ In Kranji Primary School, we believe that students have the innate ability to li
 
 The following are the pedagogies that our teachers adopt:
 
-**Orff** 
+**Orff**&nbsp;
 
 Developing musicianship through students’ imagination and creation.
 
@@ -62,7 +60,7 @@ Developing students’ musical abilities through performing, creating, listening
   
 Our school has a structured whole-school approach to music learning through a 6-year progressive programme. The programme sets out to achieve the following objectives, where students are able to:
 
-*   Contribute to the arts through various musical forms (active participation) 
+*   Contribute to the arts through various musical forms (active participation)&nbsp;
 *   Interpret music in his or her own style and to create movements and melodies (critical thinking)
 *   Appreciate culture differences and embrace diversity (appreciation of diverse culture)
 
@@ -72,15 +70,15 @@ Our school has a structured whole-school approach to music learning through a 6-
 | --- | --- |
 | Primary 1 | Creative Movement |
 | Primary 2 | Ethnic Percussion |
-| Primary 3 |  P3 Boomwhackers |
-| Primary 4 |  P4 Garageband |
-| Primary 5 |  P5 Ukelele |
+| Primary 3 | &nbsp;P3 Boomwhackers |
+| Primary 4 | &nbsp;P4 Garageband |
+| Primary 5 | &nbsp;P5 Ukelele |
 
   
 
 ##### **Level Programme**
 
-      **P1 Creative Movement**
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;**P1 Creative Movement**
 
 
 
@@ -100,7 +98,7 @@ Our school has a structured whole-school approach to music learning through a 6-
 
 </figure>
 
-      **P2 Ethnic Drums**
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;**P2 Ethnic Drums**
 
 <figure>
 
@@ -120,7 +118,7 @@ Our school has a structured whole-school approach to music learning through a 6-
 
   
 
-      **P3 Boomwhackers**
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;**P3 Boomwhackers**
 
 <figure>
 
@@ -138,7 +136,7 @@ Our school has a structured whole-school approach to music learning through a 6-
 
 </figure>
 
-     **P4 GarageBand**
+&nbsp;&nbsp; &nbsp;&nbsp;**P4 GarageBand**
 
 <figure>
 
@@ -156,7 +154,7 @@ Our school has a structured whole-school approach to music learning through a 6-
 
 </figure>
 
-     **P5 Ukelele**
+&nbsp;&nbsp; &nbsp;&nbsp;**P5 Ukelele**
 
 <figure>
 
@@ -175,7 +173,7 @@ Our school has a structured whole-school approach to music learning through a 6-
 </figure>
   
 
-        **P6 Cajon**  
+&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;**P6 Cajon**  
 
 <figure>
 

@@ -35,7 +35,7 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Junior_Tinkering_2_2024.png)
 	
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Junior_Tinkering_Strawbees.png)
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Junior_Tinkering_Strawbees_2024.png)
 
 **Please [click here](/Junior-Tinkering-Programme/) for Junior Tinkering Programme**
 

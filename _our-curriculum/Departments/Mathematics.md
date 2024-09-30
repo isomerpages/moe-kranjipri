@@ -3,15 +3,16 @@ title: Mathematics
 permalink: /Departments/Mathematics/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
-##### **Math Curriculum Framework**
+#### **Math Curriculum Framework**
 
   
 The central focus of the Mathematics Framework is mathematical problem solving, that is, using Mathematics to solve problems. The framework stresses conceptual understanding, skills proficiency and mathematical processes, and gives due emphasis to attitudes and metacognition. These five components are inter-related.&nbsp;
 
 ![](/images/Our%20Curriculum/Departments/Mathematics/M1.png)
 
-#### **Department Pedagogy**
+##### **Department Pedagogy**
 
 We believe every Kranjian can be a joyful and confident problem solver with strong numeracy skills. Our Math lessons aim to:
 
@@ -50,11 +51,13 @@ At KPS, we focus on building strong numeracy and problem-solving skills in our s
 
 **Fun-In-Learning @ Kranji**<br>
 
-![](/images/Our%20Curriculum/Departments/Mathematics/p1_mathtrail.png)
-<br>
+P1 Math Trail
+![](/images/Our%20Curriculum/Departments/Mathematics/P1_Math_Trail_2024.png)
 
-![](/images/Our%20Curriculum/Departments/Mathematics/p2_funtime.png)
-<br>
+P2 Math Fun Time
+![](/images/Our%20Curriculum/Departments/Mathematics/P2_Math_Fun_Time_2024.png)
+
+
 ![](/images/Our%20Curriculum/Departments/Mathematics/p4_projectwork.png)
 
 P1  to P6 Math Games Carnival
@@ -70,11 +73,16 @@ P1  to P6 Math Games Carnival
 
 Learning of mathematics should be fun, relevant and meaningful to students.&nbsp; We immerse students in a learning environment that arouses creativity and stimulates thinking. Our Math Champion Chef programme seeks to ignite the joy of learning through authentic learning experiences in baking. As students apply mathematics in real-life activities, their mathematical concepts and skills are reinforced, reasoning and communication skills are strengthened and they will see the relevance of mathematics in real life that makes learning of mathematics meaningful.
 
-  
+P1 Champion Chef
+![](/images/Our%20Curriculum/Departments/Mathematics/Math_P1_Chef_2024.png)
 
-![](/images/Our%20Curriculum/Departments/Mathematics/M8.png)
+P2 Champion Chef
+![](/images/Our%20Curriculum/Departments/Mathematics/Math_P2_Chef_2024.png)
 
-![](/images/Our%20Curriculum/Departments/Mathematics/M9.png)
+P3 Champion Chef
+![](/images/Our%20Curriculum/Departments/Mathematics/Math_P3_Chef_2024.png)
+
+
 
 ##### **Talent Development Programme**
 

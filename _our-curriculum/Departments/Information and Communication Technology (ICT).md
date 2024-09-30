@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: markdown
 ---
-##### **ICT Curriculum Framework**
+#### **ICT Curriculum Framework**
 
 In Kranji Primary School, we believe in preparing our students to be future-ready champions in life. Therefore, the ICT department aims to create an ICT enriched environment, providing opportunities for our students to be joyful and responsible digital learners through a range of quality learning experiences with technology.&nbsp;
 
@@ -57,9 +57,8 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 
 3\. Develop computational thinking and problem-solving skills
 
-![](/images/Our%20Curriculum/Departments/ICT/ICT/ICTNEW1.png)
-![](/images/Our%20Curriculum/Departments/ICT/ICT/ICTNEW2.png)
-![](/images/Our%20Curriculum/Departments/ICT/ICT/ICTNEW3.png)
+![](/images/Our%20Curriculum/Departments/ICT/ICT/ICT_Level_Programme_2024.png)
+
 
 
 ##### **Students in Action!**
@@ -67,9 +66,9 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 
 ![](/images/Our%20Curriculum/Departments/ICT/ICT/I4.png)
 
-<img style="width:50%;height:50%" src="/images/Our%20Curriculum/Departments/ICT/ICT/I7.png">
+![](/images/Our%20Curriculum/Departments/ICT/ICT/Drone_Adventures_workshop_2024.png)
 
-<img style="width:70%;height:50%" src="/images/Our%20Curriculum/Departments/ICT/ICT/I8.png">
+![](/images/Our%20Curriculum/Departments/ICT/ICT/Infocomm_Media_Club_2024_.png)
 
 ##### **ICT Facilities**
 

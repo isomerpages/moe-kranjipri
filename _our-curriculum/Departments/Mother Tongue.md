@@ -3,8 +3,9 @@ title: Mother Tongue
 permalink: /Departments/Mother-Tongue/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
-##### **Mother Tongue Curriculum Framework**
+#### **Mother Tongue Curriculum Framework**
 
   
 

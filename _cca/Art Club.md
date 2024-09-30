@@ -2,8 +2,9 @@
 title: Art Club
 permalink: /cca/Arts/
 description: ""
+variant: markdown
 ---
-##### **Objectives**
+#### **Objectives**
   
 
 Students will be able to:

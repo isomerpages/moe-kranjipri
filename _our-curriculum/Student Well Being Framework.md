@@ -2,8 +2,9 @@
 title: Student Well Being Framework
 permalink: /Student-Well-Being-Framework/
 description: ""
+variant: markdown
 ---
-##### **Student Well-being Framework**
+#### **Student Well-being Framework**
   
 
 Guided by our vision and mission, we are committed to developing Kranjians to be Joyful Learners, Gracious Citizens and Champions in Life. By advocating the 6 elements of psychological well-being and happiness 

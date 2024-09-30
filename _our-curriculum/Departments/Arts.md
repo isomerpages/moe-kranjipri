@@ -3,8 +3,9 @@ title: Arts
 permalink: /Departments/Arts/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
-##### **Art Curriculum Framework**
+#### **Art Curriculum Framework**
   
 Recognising students as key agents of learning, the objectives of the primary art syllabus are to develop all students as active artists and informed audience with  
   

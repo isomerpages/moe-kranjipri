@@ -2,8 +2,9 @@
 title: Eco Makers Club
 permalink: /cca/eco-makers-club/
 description: ""
+variant: markdown
 ---
-##### **Objectives**
+#### **Objectives**
   
 Students will be able to:  
   

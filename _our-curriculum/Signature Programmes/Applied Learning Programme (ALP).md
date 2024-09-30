@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Signature Programmes
 variant: markdown
 ---
-##### **Nurturing Joyful Learners through Critical and Inventive Thinking**
+#### **Nurturing Joyful Learners through Critical and Inventive Thinking**
 
 
 
@@ -30,13 +30,12 @@ The Junior Tinkering Programme was conceptualized to give our students a head st
 
 **Primary 1- Tinkering Basics**
 	  
-<figure>
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Junior_Tinkering_1_2024.png)
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Junior_Tinkering_2_2024.png)
 	
-
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Junior_Tinkering_Strawbees_2024.png)
 
 **Please [click here](/Junior-Tinkering-Programme/) for Junior Tinkering Programme**
 
@@ -63,15 +62,16 @@ Project Work unites the teaching and learning of Science and Mathematics in an i
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A9.jpg) 
 
+P5 Project Work - Protable Water Filter
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Project_Work_P5_1_2024.png)
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Project_Work_P5_2_2024.png)
-P5 Project Work - Protable Water Filter
-	
+
+P6 Project Work - Urban Farming Prototype
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Project_Work_P6_1_2024.png)
 	
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Project_Work_P6_2_2024.png)
-P6 Project Work - Urban Farming Prototype
+
 ##### **Science Club**
 
   
@@ -116,5 +116,5 @@ MPP provides the time and space for P4 to P6 Kranjians to initiate activities gr
 * '**Joyful Explorers'** - Kranjians can explore their passion.
 * **'Gracious Adventurers'** - Kranjians can pursue their passion through collaboration or individually.
 * '**Champions in MPP**' - Kranjians showcase their passion through various platforms provided.
+
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_MPP_2024.png)
-</figure>

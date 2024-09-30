@@ -3,9 +3,9 @@ title: Physical Education
 permalink: /Departments/Physical-Education/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
-
-##### **PE Curriculum Framework**
+#### **PE Curriculum Framework**
 
   
 
@@ -65,7 +65,7 @@ In Kranji, a whole-school approach is adopted in promoting health and skill-rela
 
 </figure>
 
-**Games & Sports**
+**Games &amp; Sports**
 
 <figure>
 
@@ -127,7 +127,7 @@ In Kranji, a whole-school approach is adopted in promoting health and skill-rela
 
 <img src="/images/Our%20Curriculum/Departments/Physical%20Education/P11.jpg">
 
-<figcaption> <strong> Practising for crouch start.  Ready, get set ..... </strong> </figcaption>
+<figcaption> <strong> Practising for crouch start.&nbsp; Ready, get set ..... </strong> </figcaption>
 
 </figure>
 

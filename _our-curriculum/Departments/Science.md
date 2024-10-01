@@ -24,11 +24,12 @@ The Science Curriculum Framework is derived from the Policy Framework for the Te
 
 Science teaching and learning are anchored on inquiry-based lessons where students are exposed to hands-on activities in the learning of Science concepts. To deepen students’ learning, thinking routines are infused during lessons to help in students’ cognitive development. Science investigative skills are developed through Investigative Tasks and Performance Tasks, which form part of holistic assessment in Science. Students are given a scenario in which they have to design their experiment, gather information, interpret data and make conclusions based on their findings.  
 
-![](/images/Our%20Curriculum/Departments/Science/S2.png)
+![](/images/Our%20Curriculum/Departments/Science/Science_Pedagogy_2024.png)
 
-Our key programme, Awe & Wonder in Science, aims to instil a sense of curiosity in students as they learn science within the classroom and beyond. While being introduced to a scientific concept, students are exposed to discrepant events to pique their interest. These ‘surprising’ events allow students to develop an inquiry mindset. Students raise questions related to the topic through structured journal writing. Students are encouraged to be self-directed learners as they search for answers to their questions. Teachers will also address some of these questions at the closure of the topics.  
 
-![](/images/Our%20Curriculum/Departments/Science/S3.png)  
+Our key programme, Awe & Wonder in Science, aims to instil a sense of curiosity in students as they learn science within the classroom and beyond. While being introduced to a scientific concept, students are exposed to discrepant events to pique their interest. These ‘surprising’ events allow students to develop an inquiry mindset. Students raise questions related to the topic through structured journal writing. Students are encouraged to be self-directed learners as they search for answers to their questions.
+
+![](/images/Our%20Curriculum/Departments/Science/Science_Pedagogy_2_2024.png) 
 
 ##### **Level Programmes**
 

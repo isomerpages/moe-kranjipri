@@ -36,10 +36,11 @@ The Upper Primary strategies include:
 * Retelling (RT), Language Activities and Sentence Manipulation
 * Writing Process Cycle (WPC)
 
- 
-![](/images/Our%20Curriculum/Departments/English/E5.png) 
+P2: A Butterfly is Born
+![](/images/Our%20Curriculum/Departments/English/EL_2.png)
 
-![](/images/Our%20Curriculum/Departments/English/E6.png)
+P3: Stephanie Investigates
+![](/images/Our%20Curriculum/Departments/English/EL_1.png)
 
 
 
@@ -78,7 +79,8 @@ As Dr Seuss would say “The more that you read, the more you will know, the mor
 
 Each classroom is equipped with books appropriate for the reading level of the students and are rotated every semester, so as to provide reading opportunities for all. In addition, weekly library visits are weaved into the EL curriculum. During the library visits, students are introduced to different genres of books, storytelling and engaged in other extensive reading activities.
 
-![](/images/Our%20Curriculum/Departments/English/reading_prog.png)
+![](/images/Our%20Curriculum/Departments/English/El_3.png)
+
 
 ##### **Talent Development Programme**
 

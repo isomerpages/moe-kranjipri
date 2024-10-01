@@ -37,9 +37,12 @@ Our key programme, Awe & Wonder in Science, aims to instil a sense of curiosity 
 
 The Science Department also organises learning journeys to reinforce what is being taught in the classroom. Learning journeys serve to provide authentic learning experiences for the students and further fuels the spirit of Awe & Wonder in Science. 
 
-![](/images/Our%20Curriculum/Departments/Science/S4.png)
+P3: Singapore Botanic Garden
+![](/images/Our%20Curriculum/Departments/Science/P3_Botanic_Garden_2023.png)
 
-![](/images/Our%20Curriculum/Departments/Science/S5.png)
+P6: Sungai Buloh
+![](/images/Our%20Curriculum/Departments/Science/P6_Sungai_Buloh_2024.png)
+
 
 ##### **Talent Development Programme**
 
@@ -50,14 +53,15 @@ The Excellence 2000 (E2K) Science Talent Development Programme is designed to de
   
 
 Observing ultra-violet rays
+![](/images/Our%20Curriculum/Departments/Science/Science_5.png)
 
-![](/images/Our%20Curriculum/Departments/Science/S6.png)  
 
 Studying the effects of yeast  
+![](/images/Our%20Curriculum/Departments/Science/Science_6.png)
 
-![](/images/Our%20Curriculum/Departments/Science/S7.png) 
 
-Singapore Amazing Flying Machine Competition organised by Science Centre Singapore  
+Singapore Amazing Flying Machine Competition organised by Science Centre Singapore 
+![](/images/Our%20Curriculum/Departments/Science/Singapore_Amazing_Flying_2024.png)
 ![](/images/Our%20Curriculum/Departments/Science/S8.png)
 
   

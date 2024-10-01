@@ -62,7 +62,7 @@ Studying the effects of yeast
 
 Singapore Amazing Flying Machine Competition organised by Science Centre Singapore 
 ![](/images/Our%20Curriculum/Departments/Science/Singapore_Amazing_Flying_2024.png)
-![](/images/Our%20Curriculum/Departments/Science/S8.png)
+
 
   
 

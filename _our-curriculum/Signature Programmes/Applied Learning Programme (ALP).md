@@ -78,14 +78,9 @@ P6 Project Work - Urban Farming Prototype
 
 Science Club CCA provides opportunity for extension for Primary 3 to 6 students, who demonstrate strong interest in Science.&nbsp; Through their response to everyday problems using the maker-centred approaches, students engage in drafting, designing and testing their solutions while maintaining a strong focus on the application of science concepts.  
 
-  
-<figure>
+ Young Scientists testing their prototypes of portable chairs designed for senior citizens.
+ ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_Science_Club.png)
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A12_2.jpg">
-
-<figcaption> <strong> Young Scientists testing their prototypes of portable chairs designed for senior citizens </strong> </figcaption>
-
-</figure>
 
 ##### **Talent Development Programme**
 
@@ -96,17 +91,12 @@ The Talent Development Programme is designed to develop and challenge students w
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/Alp%20.png)
 
-<figure>
-<br>
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_1.jpg">
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_1.png)
 
-<br>
+Young Mathematicians explore different methods of problem solving.
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP_2.png)
 
-<img src="/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A15.jpg">
 
-<figcaption> <strong> Young Mathematicians explore different methods of problem solving </strong> </figcaption>
-
-</figure>
 
 ##### **My Passion Project (MPP)**
 

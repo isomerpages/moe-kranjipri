@@ -87,7 +87,7 @@ K-Studio is our customised broadcasting programme that aims to hone our students
 
   
 
-The Mother Tongue Language Fortnight aims to&nbsp;create an immersive environment for the learning of Mother Tongue languages. Students are exposed to a wide range of fun-filled language and cultural activities related to their Mother Tongue. Activities organised includes, book sharing, inter-class competitions, learning journeys, workshops, talks, cultural camps, etc. All these activities added to the fun and fervour of learning mother tongue languages. These platforms provide pupils an authentic environment to practise their mother tongue languages and appreciate their cultures.
+The Mother Tongue Language Fortnight aims to create an immersive environment for the learning of Mother Tongue languages. Students are exposed to a wide range of fun-filled language and cultural activities related to their Mother Tongue. Activities organised includes, book sharing, inter-class competitions, learning journeys, workshops, talks, cultural camps, etc. All these activities added to the fun and fervour of learning mother tongue languages. These platforms provide pupils an authentic environment to practice their mother tongue languages and appreciate their cultures.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
 

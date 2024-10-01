@@ -105,22 +105,12 @@ Through the Olympiad training, students expand their knowledge of mathematical c
 
 The Excellence 2000 (E2K) Math Talent Development Programme is offered to Primary 4 and 5 high-ability learners. It aims to develop students’ mathematical reasoning skills and to deepen their conceptual understanding through an inquiry approach.&nbsp;Students have opportunities to collaborate with their peers and engage in mathematical thinking through puzzles, games and Mathematical explorations.&nbsp;&nbsp;The rich learning experiences offered by the programme serve to help students to develop the habits, attitudes and dispositions mathematicians possess, and gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills.&nbsp; The programme is conducted in-house by our Math teachers who have been trained in the E2K pedagogy by MOE Gifted Education Branch (GEB).
 
+ Students are engaged in discussion to explore alternative solutions during E2K lessons
+![](/images/Our%20Curriculum/Departments/Mathematics/Math_E2K_1.png)
 
-<figure>
+Students make math thinking visible through their reasoning and explanation
+![](/images/Our%20Curriculum/Departments/Mathematics/Math_E2K_2.png)
 
-<img src="/images/Our%20Curriculum/Departments/Mathematics/M10.png">
-
-<figcaption> <strong> Students are engaged in discussion to explore alternative solutions during E2K lessons </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Mathematics/M11.png">
-
-<figcaption> <strong> Students make math thinking visible through their reasoning and explanation </strong> </figcaption>
-
-</figure>
 
 
 ##### **Support Programme**

@@ -41,7 +41,7 @@ The Upper Primary strategies include:
 
 ![](/images/Our%20Curriculum/Departments/English/E6.png)
 
-![](/images/Our%20Curriculum/Departments/English/E7.png)  
+
 
 
 

@@ -122,7 +122,7 @@ Pupils will be discharged from LSP at the end of P1 and P2 when they meet the fo
 
 **Reading Remediation Programme (RRP)**
 
-The MOE's School-based Dyslexia Remediation programme is a two-year intervention programme for Primary 3 and 4 students who still face consistent difficulty in reading in the English Language despite having completed the Learning Support Programme in P1 and P2.  The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists. It exposes students to a range of coping strategies for reading comprehension which will enable them to better manage their daily learning. This programme is held twice a week after curriculum hours.
+The MOE's School-based Dyslexia Remediation programme is a two-year intervention programme for Primary 3 and 4 students who still face consistent difficulty in reading in the English Language despite having completed the Learning Support Programme in P1 and P2. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists. It exposes students to a range of coping strategies for reading comprehension which will enable them to better manage their daily learning. This programme is held twice a week after curriculum hours.
 
 **School-based Dyslexia Remediation Programme (SDR)**
 

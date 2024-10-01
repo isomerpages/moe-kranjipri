@@ -81,7 +81,7 @@ In collaboration with both the instructional and non-instructional programmes, s
 ![](/images/Our%20Curriculum/Departments/ICT/ICT/facilities.png)
 ![](/images/Our%20Curriculum/Departments/ICT/ICT/facilities2.png)
 
-**Please click [here](/Student-Learning-Space/) for Student Learning Space**
+**Please click [here](https://www.kranjipri.moe.edu.sg/resources/Student-Learning-Space-SLS/) for Student Learning Space**
 
 **Please click [here](/Student-iCON/) for Student iCON**
 

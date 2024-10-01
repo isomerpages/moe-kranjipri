@@ -71,7 +71,8 @@ Our drama activities include: 
 
 To promote the joy of learning and to bring about greater interest in the learning of English, Kranjians were treated to a slew of English activities during our annual English Fiesta. Activities include drama performances, puppet shows, English quizzes, spelling bee competition, as well as different library activities. In 2019, EL Fiesta concluded with the official reopening of our newly renovated Media Resource Library. The School Leaders and all English teachers were involved in a Character Parade, much to the delight of the students!  
 
-![](/images/Our%20Curriculum/Departments/English/E11.jpg)
+![](/images/Our%20Curriculum/Departments/English/EL_fiesta_2019.png)
+
 
 **3\. Reading Programme**
 

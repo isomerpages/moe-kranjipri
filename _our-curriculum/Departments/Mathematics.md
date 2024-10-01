@@ -27,7 +27,8 @@ We believe every Kranjian can be a joyful and confident problem solver with stro
 
 We plan learning experiences and opportunities for Kranjians to learn skills and concepts by doing. They are actively involved in constructing knowledge through hands on experiences&nbsp;
 
-![](/images/Our%20Curriculum/Departments/Mathematics/M2.png)
+![](/images/Our%20Curriculum/Departments/Mathematics/Math_activity__based_learning_2024.png)
+
 
   
 
@@ -37,7 +38,8 @@ Teaching resources are used to help Kranjians interact as well as to construct m
 
 We lead Kranjians to explore, investigate and find answers on their own. This is achieved by providing opportunities for them to communicate ideas, questions and comments using mathematical language.&nbsp;
 
-![](/images/Our%20Curriculum/Departments/Mathematics/M3.png)
+![](/images/Our%20Curriculum/Departments/Mathematics/Math_teacher_directed_inquiry_2024.png)
+
 
   
 
@@ -63,11 +65,11 @@ P2 Math Fun Time
 P1  to P6 Math Games Carnival
 ![](/images/Our%20Curriculum/Departments/Mathematics/P1_to_P6_Math_Carnival.png)
 
-![](/images/Our%20Curriculum/Departments/Mathematics/Math%20Carnival_2.png)
+Through games, skills such as spatial-visualization, reasoning and critical thinking are enhanced
+![](/images/Our%20Curriculum/Departments/Mathematics/P1_to_P6_Math_Carnival_3.png)
 
-<br>
-	<img src="/images/Our%20Curriculum/Departments/Mathematics/Math Carnival_1.png">
-<figcaption> <strong>Through games, skills such as spatial-visualization, reasoning and critical thinking are enhanced </strong> </figcaption>
+![](/images/Our%20Curriculum/Departments/Mathematics/P1_to_P6_Math_Carnival_2.png)
+
 
 
 ##### **Math Enrichment Programme**
@@ -103,22 +105,12 @@ Through the Olympiad training, students expand their knowledge of mathematical c
 
 The Excellence 2000 (E2K) Math Talent Development Programme is offered to Primary 4 and 5 high-ability learners. It aims to develop students’ mathematical reasoning skills and to deepen their conceptual understanding through an inquiry approach.&nbsp;Students have opportunities to collaborate with their peers and engage in mathematical thinking through puzzles, games and Mathematical explorations.&nbsp;&nbsp;The rich learning experiences offered by the programme serve to help students to develop the habits, attitudes and dispositions mathematicians possess, and gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills.&nbsp; The programme is conducted in-house by our Math teachers who have been trained in the E2K pedagogy by MOE Gifted Education Branch (GEB).
 
+ Students are engaged in discussion to explore alternative solutions during E2K lessons
+![](/images/Our%20Curriculum/Departments/Mathematics/Math_E2K_1.png)
 
-<figure>
+Students make math thinking visible through their reasoning and explanation
+![](/images/Our%20Curriculum/Departments/Mathematics/Math_E2K_2.png)
 
-<img src="/images/Our%20Curriculum/Departments/Mathematics/M10.png">
-
-<figcaption> <strong> Students are engaged in discussion to explore alternative solutions during E2K lessons </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Mathematics/M11.png">
-
-<figcaption> <strong> Students make math thinking visible through their reasoning and explanation </strong> </figcaption>
-
-</figure>
 
 
 ##### **Support Programme**

@@ -41,7 +41,7 @@ The Upper Primary strategies include:
 
 ![](/images/Our%20Curriculum/Departments/English/E6.png)
 
-![](/images/Our%20Curriculum/Departments/English/E7.png)  
+
 
 
 
@@ -57,11 +57,14 @@ It is a powerful teaching tool to capture the attention of students in the class
 
 Our drama activities include: 
 
-![](/images/Our%20Curriculum/Departments/English/E8.png)
+![](/images/Our%20Curriculum/Departments/English/English_Drama_1_2023.png)
 
-![](/images/Our%20Curriculum/Departments/English/E9.png)
+![](/images/Our%20Curriculum/Departments/English/English_Drama_2_2023.png)
 
-![](/images/Our%20Curriculum/Departments/English/E10.png)
+![](/images/Our%20Curriculum/Departments/English/English_Drama_3_2023.png)
+
+![](/images/Our%20Curriculum/Departments/English/English_Drama_4_2023.png)
+
 
 **2\. EL Fiesta**  
 
@@ -95,7 +98,11 @@ During each session, students read and respond to works of literature with empha
 
 In addition, our Talent Development Programme provides a platform for students to further develop their oral communication and creative writing skills. Verbally talented students are selected and trained to achieve high standards of expression, argument and presentation through the introduction and exposure to debate. Budding writers are also given opportunities to hone their creative writing skills through various writing competitions. Such activities nurture our students’ flair and passion for the English Language.
 
-![](/images/Our%20Curriculum/Departments/English/E16.png)
+Mystery Reader - Student-Led Storytelling
+![](/images/Our%20Curriculum/Departments/English/English_talent_1_2024.png)
+
+![](/images/Our%20Curriculum/Departments/English/English_talent_2_2024.png)
+
 
 ##### **Support Programmes**  
 

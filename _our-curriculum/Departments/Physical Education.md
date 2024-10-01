@@ -47,51 +47,19 @@ In Kranji, a whole-school approach is adopted in promoting health and skill-rela
 
 **Dance**  
 
+![](/images/Our%20Curriculum/Departments/Physical%20Education/Physical_Education_Dance_2_2023.png)
+
+![](/images/Our%20Curriculum/Departments/Physical%20Education/Physical_Education_Dance_2023.png)
 
 
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P3.jpg">
-
-<figcaption> <strong> Dancing in unison </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P4.jpg">
-
-<figcaption> <strong> Time to modify the steps </strong> </figcaption>
-
-</figure>
 
 **Games &amp; Sports**
 
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P5.jpg">
-
-<figcaption> <strong> Run to space, if not I cannot pass the ball! </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P6.jpg">
-
-<figcaption> <strong> Getting ready to take a shot! </strong> </figcaption>
-
-</figure>
+![](/images/Our%20Curriculum/Departments/Physical%20Education/Physical_Education_Games___Sports_2023.png)
 
 **Gymnastics**
 
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P7.jpg">
-
-<figcaption> <strong> Part of my sequence is to do a one-point balance </strong> </figcaption>
-
-</figure>
+![](/images/Our%20Curriculum/Departments/Physical%20Education/Physical_Education_Gym.png)
 
   
 

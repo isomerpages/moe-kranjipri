@@ -52,10 +52,10 @@ In addition to participating in sports, our student athletes also contribute bac
 This sporting event provides our Primary 1 and 2 students with the opportunity to display their fundamental movement skills through a variety of exciting relays and game challenges. Amidst the challenge of clearing each stage with finesse and competing against one another, our students display good sportsmanship and always give their best in each game.To foster greater engagement between students, our lower primary students also buddy up with our MOE Kindergarten students, in relay competitions where they work together in tandem to complete a series of challenges. Parents are invited to participate in parent-child relay races during Budding Champions Day, and this provides a wonderful opportunity for parents to be involved in their child's school experience and build memories together.
 
 Our CCA and Sports leaders are given opportunities to serve our Kranji community of students and parents by assisting in different games and activities. They provide guidance and encouragement to our lower primary students, helping parents through parent-child races and serve as cheerleaders for their lower primary friends.  
- 
-![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP__Budding_Champion_P1_2024.png)
 
-![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP__Budding_Champion_P1__22024.png)
+![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP__Budding_Champion_P1_2_2024.png)
+
+![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP__Budding_Champion_P2_2024.png)
 
 
   
@@ -82,6 +82,7 @@ Champions Day is a yearly event for our Primary 3 to 6 students to celebrate Chi
 
 Our outdoor adventure camps are a key aspect of our Learning for Life Programme (LLP). The camps are a highlight for our students in their schooling experience, as they get to forge meaningful friendships with their peers, build resilience and adaptability through the outdoor experience, and develop leadership qualities as they learn to communicate and collaborate with others. As the students reside together at the campsite, far away from home, they learn to be independent, and to be sensitive to the needs of their peers. The camps are designed for a progressive experience - from a 2D1N camp in school for Primary 4 students to a 3D2N camp at an external campsite for Primary 5 students. A range of activities including outdoor cooking, team bonding games and challenges, campfire, as well as exposure to high and/or low elements ropes course is part of the experience.&nbsp;
 
+
 ![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/P5_Camp_1_2024.png)  
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/P5_Camp_2_2024.png)
@@ -99,6 +100,7 @@ Play Cool Sports in offered to all Primary 3 to 6 students to expose them to spo
 
 ![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP_Play_Cool_Sports_P5_2_2024.png)
 
+![](/images/Our%20Curriculum/Signature%20Programmes/Learning%20for%20Life%20Prog%20(LLP)/LLP_Fencing.png)
 
 
   

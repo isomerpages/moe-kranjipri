@@ -131,7 +131,12 @@ KPS Mother Tongue Reading Programme aims to cultivate pupils’ interest in read
 
 The Mother Tongue Talent Development Programme (TDP) is designed to nurture promising students who have consistently demonstrated a keen ability and interest in their Mother Tongue.&nbsp; These pupils are selected for the Higher Mother Tongue Programme from Primary 1. The programme aims to hone students’ language skills, deepen their knowledge of the language and appreciation of their culture through a wide range of enrichment activities.&nbsp; These activities include storytelling, class-based talk shows, book sharing, cultural festivals exposure and literature studies.&nbsp; Students will have opportunities to collaborate with their peers and engage in experiential learning, which help them to develop their critical and inventive thinking, communication and collaboration skills, nurturing them into proficient learners of the language.  
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M17.png)
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_CL_Talent_Development_2024.png)
+
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_ML_Talent_Development_2024.png)
+
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_TL_Talent_Development_2024.png)
+
 
 ##### **Tips for parents**
 

@@ -102,23 +102,10 @@ In Kranji, a whole-school approach is adopted in promoting health and skill-rela
 ![](/images/Our%20Curriculum/Departments/Physical%20Education/Physical_Education_P4_swimsafer_2024.png)
 
 
-**Athletics**
+**NAPFA**
 
-<figure>
+![](/images/Our%20Curriculum/Departments/Physical%20Education/Physical_Education_P4_NAPFA_2024.png)
 
-<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P10.jpg">
-
-<figcaption> <strong> Building our stamina! </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P11.jpg">
-
-<figcaption> <strong> Practising for crouch start.&nbsp; Ready, get set ..... </strong> </figcaption>
-
-</figure>
 
   
 

@@ -83,7 +83,7 @@ In collaboration with both the instructional and non-instructional programmes, s
 
 **Please click [here](https://www.kranjipri.moe.edu.sg/resources/Student-Learning-Space-SLS/) for Student Learning Space**
 
-**Please click [here](/Student-iCON/) for Student iCON**
+**Please click [here](https://www.kranjipri.moe.edu.sg/resources/Student-ICON/) for Student iCON**
 
 **Please click [here](/Cyber-Wellness/) for Cyber Wellness**
 

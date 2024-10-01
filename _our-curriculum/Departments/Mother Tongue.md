@@ -87,47 +87,16 @@ K-Studio is our customised broadcasting programme that aims to hone our students
 
   
 
-The Mother Tongue Language Fortnight aims to&nbsp;create an immersive environment for the learning of Mother Tongue languages. Students are exposed to a wide range of fun-filled language and cultural activities related to their Mother Tongue. Activities organised includes, book sharing, inter-class competitions, learning journeys, workshops, talks, cultural camps, etc. All these activities added to the fun and fervour of learning mother tongue languages. These platforms provide pupils an authentic environment to practise their mother tongue languages and appreciate their cultures.
+The Mother Tongue Language Fortnight aims to create an immersive environment for the learning of Mother Tongue languages. Students are exposed to a wide range of fun-filled language and cultural activities related to their Mother Tongue. Activities organised includes, book sharing, inter-class competitions, learning journeys, workshops, talks, cultural camps, etc. All these activities added to the fun and fervour of learning mother tongue languages. These platforms provide pupils an authentic environment to practice their mother tongue languages and appreciate their cultures.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_CL_2024.png)
 
-<img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M5.jpg">
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_ML_2024.png)
 
-<figure>
-<img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M6.jpg">
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M7.jpg">
-
-<figcaption> <strong> CL Activities: Shadow Puppet, Chinese Bean Artwork, Paper Cutting </strong> </figcaption>
-
-</figure> 
-
-
-<img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M8.jpg">
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M9.jpg">
-
-<figcaption> <strong> ML Activities: Silat, Kite-making </strong> </figcaption>
-
-</figure> 
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_TL_2024.png)
 
 
 
-<img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M10.jpg">
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M11.jpg">
-
-<figcaption> <strong> TL Activities: Drama and performance, Face-mask painting </strong> </figcaption>
-
-</figure> 
-
-</figure>
 
 **2. Learning Journey**
 
@@ -135,25 +104,15 @@ The Mother Tongue Language Fortnight aims to&nbsp;create an immersive environmen
 
 Learning Journeys aims to provide a platform for pupils to extend their learning beyond the classroom. The learning journey creates a wonderful experience for pupils as they are able to gain a hands-on-experience and have a better understanding of their language and culture. Reflections done after the trip helps pupils to examine and interpret their experience to gain new understanding which provides deeper learning.  
 
-  
-<figure>
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_P3_Learning_Journey_2024.png)
 
-<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M12.jpg">
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_P3_Learning_Journey_2_2024.png)
 
-<figcaption> <strong> CL: Tea Appreciation </strong> </figcaption>
 
-</figure>
 
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M13.jpg">
-
-<figcaption> <strong> ML: Making of Malay Delicacies -Ondeh-ondeh </strong> </figcaption>
-
-</figure>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-
+Tamilfest 2022 at Umar Pulavar Tamil Language Centre (UPTLC)
 ![](/images/Our%20Curriculum/Departments/Mother%20Tongue/tamillang_lj.png)
-<center>Tamilfest 2022 at Umar Pulavar Tamil Language Centre (UPTLC)</center>
+
 
 3.&nbsp;&nbsp;&nbsp;**Reading Programme**
 
@@ -161,24 +120,23 @@ Learning Journeys aims to provide a platform for pupils to extend their learning
 
 KPS Mother Tongue Reading Programme aims to cultivate pupils’ interest in reading and expose them to books of different genre. To carry out this programme, the department has purchased a range of books that are recommended for the different levels from P1 to P6. Class-based library corners are set up to provide the opportunity for students to be engaged in reading activities or even borrow books home for leisure reading. Students are also given the reading passports to note down their reading progress and share with the teachers and their peers their reading journey.&nbsp;
 
-<img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M15.jpg">
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_Reading_Programme_2024.png)
 
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M16.jpg">
-
-<figcaption> <strong> Recess Activity @ KPS Reading Cafe </strong> </figcaption>
-
-</figure>
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_Reading_Programme_at_library_2024.png)
 
 
   
 
 ##### **Talent Development Programme**
 
-The Mother Tongue Talent Development Programme (TDP) is designed to nurture promising students who have consistently demonstrated a keen ability and interest in their Mother Tongue.&nbsp; These pupils are selected for the Higher Mother Tongue Programme from Primary 3 .&nbsp; The programme aims to hone students’ language skills, deepen their knowledge of the language and appreciation of their culture through a wide range of enrichment activities.&nbsp; These activities include storytelling, class-based talk shows, book sharing, cultural festivals exposure and literature studies.&nbsp; Students will have opportunities to collaborate with their peers and engage in experiential learning, which help them to develop their critical and inventive thinking, communication and collaboration skills, nurturing them into proficient learners of the language.  
+The Mother Tongue Talent Development Programme (TDP) is designed to nurture promising students who have consistently demonstrated a keen ability and interest in their Mother Tongue.&nbsp; These pupils are selected for the Higher Mother Tongue Programme from Primary 1. The programme aims to hone students’ language skills, deepen their knowledge of the language and appreciation of their culture through a wide range of enrichment activities.&nbsp; These activities include storytelling, class-based talk shows, book sharing, cultural festivals exposure and literature studies.&nbsp; Students will have opportunities to collaborate with their peers and engage in experiential learning, which help them to develop their critical and inventive thinking, communication and collaboration skills, nurturing them into proficient learners of the language.  
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M17.png)
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_CL_Talent_Development_2024.png)
+
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_ML_Talent_Development_2024.png)
+
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_TL_Talent_Development_2024.png)
+
 
 ##### **Tips for parents**
 

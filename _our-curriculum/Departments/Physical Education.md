@@ -97,21 +97,10 @@ In Kranji, a whole-school approach is adopted in promoting health and skill-rela
 
 **Swimsafer 2.0 Programme**
 
-<figure>
+![](/images/Our%20Curriculum/Departments/Physical%20Education/Physical_Education_P3_swimsafer_2024.png)
 
-<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P8.jpg">
+![](/images/Our%20Curriculum/Departments/Physical%20Education/Physical_Education_P4_swimsafer_2024.png)
 
-<figcaption> <strong> Keep your legs straight and kick up a storm! </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P9.jpg">
-
-<figcaption> <strong> We look forward to each and every swimming class! </strong> </figcaption>
-
-</figure>
 
 **Athletics**
 
@@ -135,10 +124,5 @@ In Kranji, a whole-school approach is adopted in promoting health and skill-rela
 
 **Physical Health and Fitness**
 
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P12.jpg">
-
-<figcaption> <strong> Assembly Talk to reinforce the importance of Healthy Eating </strong> </figcaption>
-
-</figure>
+I'm a Health and Wellness Champion Assembly Talk
+![](/images/Our%20Curriculum/Departments/Physical%20Education/Physical_Education_health_talk_2023.png)

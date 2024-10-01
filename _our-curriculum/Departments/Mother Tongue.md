@@ -104,22 +104,11 @@ The Mother Tongue Language Fortnight aims to create an immersive environment for
 
 Learning Journeys aims to provide a platform for pupils to extend their learning beyond the classroom. The learning journey creates a wonderful experience for pupils as they are able to gain a hands-on-experience and have a better understanding of their language and culture. Reflections done after the trip helps pupils to examine and interpret their experience to gain new understanding which provides deeper learning.  
 
-  
-<figure>
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_P3_Learning_Journey_2024.png)
 
-<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M12.jpg">
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_P3_Learning_Journey_2_2024.png)
 
-<figcaption> <strong> CL: Tea Appreciation </strong> </figcaption>
 
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M13.jpg">
-
-<figcaption> <strong> ML: Making of Malay Delicacies -Ondeh-ondeh </strong> </figcaption>
-
-</figure>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 Tamilfest 2022 at Umar Pulavar Tamil Language Centre (UPTLC)
 ![](/images/Our%20Curriculum/Departments/Mother%20Tongue/tamillang_lj.png)

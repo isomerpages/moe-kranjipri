@@ -27,7 +27,8 @@ We believe every Kranjian can be a joyful and confident problem solver with stro
 
 We plan learning experiences and opportunities for Kranjians to learn skills and concepts by doing. They are actively involved in constructing knowledge through hands on experiences&nbsp;
 
-![](/images/Our%20Curriculum/Departments/Mathematics/M2.png)
+![](/images/Our%20Curriculum/Departments/Mathematics/Math_activity__based_learning_2024.png)
+
 
   
 
@@ -37,7 +38,8 @@ Teaching resources are used to help Kranjians interact as well as to construct m
 
 We lead Kranjians to explore, investigate and find answers on their own. This is achieved by providing opportunities for them to communicate ideas, questions and comments using mathematical language.&nbsp;
 
-![](/images/Our%20Curriculum/Departments/Mathematics/M3.png)
+![](/images/Our%20Curriculum/Departments/Mathematics/Math_teacher_directed_inquiry_2024.png)
+
 
   
 

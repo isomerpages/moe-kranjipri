@@ -120,15 +120,9 @@ Tamilfest 2022 at Umar Pulavar Tamil Language Centre (UPTLC)
 
 KPS Mother Tongue Reading Programme aims to cultivate pupils’ interest in reading and expose them to books of different genre. To carry out this programme, the department has purchased a range of books that are recommended for the different levels from P1 to P6. Class-based library corners are set up to provide the opportunity for students to be engaged in reading activities or even borrow books home for leisure reading. Students are also given the reading passports to note down their reading progress and share with the teachers and their peers their reading journey.&nbsp;
 
-<img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M15.jpg">
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_Reading_Programme_2024.png)
 
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M16.jpg">
-
-<figcaption> <strong> Recess Activity @ KPS Reading Cafe </strong> </figcaption>
-
-</figure>
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_Reading_Programme_at_library_2024.png)
 
 
   

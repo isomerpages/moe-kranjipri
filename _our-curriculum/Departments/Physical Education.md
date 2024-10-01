@@ -97,6 +97,9 @@ In Kranji, a whole-school approach is adopted in promoting health and skill-rela
 
 **Swimsafer 2.0 Programme**
 
+![](/images/Our%20Curriculum/Departments/Physical%20Education/Physical_Education_P3_swimsafer_2024.png)
+
+
 <figure>
 
 <img src="/images/Our%20Curriculum/Departments/Physical%20Education/P8.jpg">

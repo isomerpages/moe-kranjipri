@@ -64,11 +64,7 @@ Our drama activities include: 
 ![](/images/Our%20Curriculum/Departments/English/English_Drama_3_2023.png)
 
 ![](/images/Our%20Curriculum/Departments/English/English_Drama_4_2023.png)
-![](/images/Our%20Curriculum/Departments/English/E8.png)
 
-![](/images/Our%20Curriculum/Departments/English/E9.png)
-
-![](/images/Our%20Curriculum/Departments/English/E10.png)
 
 **2\. EL Fiesta**  
 

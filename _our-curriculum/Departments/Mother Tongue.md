@@ -89,45 +89,14 @@ K-Studio is our customised broadcasting programme that aims to hone our students
 
 The Mother Tongue Language Fortnight aims to create an immersive environment for the learning of Mother Tongue languages. Students are exposed to a wide range of fun-filled language and cultural activities related to their Mother Tongue. Activities organised includes, book sharing, inter-class competitions, learning journeys, workshops, talks, cultural camps, etc. All these activities added to the fun and fervour of learning mother tongue languages. These platforms provide pupils an authentic environment to practice their mother tongue languages and appreciate their cultures.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_CL_2024.png)
 
-<img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M5.jpg">
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_ML_2024.png)
 
-<figure>
-<img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M6.jpg">
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M7.jpg">
-
-<figcaption> <strong> CL Activities: Shadow Puppet, Chinese Bean Artwork, Paper Cutting </strong> </figcaption>
-
-</figure> 
-
-
-<img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M8.jpg">
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M9.jpg">
-
-<figcaption> <strong> ML Activities: Silat, Kite-making </strong> </figcaption>
-
-</figure> 
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_TL_2024.png)
 
 
 
-<img style="width:80%;height:50%" src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M10.jpg">
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Mother%20Tongue/M11.jpg">
-
-<figcaption> <strong> TL Activities: Drama and performance, Face-mask painting </strong> </figcaption>
-
-</figure> 
-
-</figure>
 
 **2. Learning Journey**
 

@@ -58,6 +58,8 @@ It is a powerful teaching tool to capture the attention of students in the class
 
 Our drama activities include: 
 
+![](/images/Our%20Curriculum/Departments/English/speech__drama_and_fun_2024.png)
+
 ![](/images/Our%20Curriculum/Departments/English/English_Drama_1_2023.png)
 
 ![](/images/Our%20Curriculum/Departments/English/English_Drama_2_2023.png)

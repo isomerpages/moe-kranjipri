@@ -24,11 +24,12 @@ The Science Curriculum Framework is derived from the Policy Framework for the Te
 
 Science teaching and learning are anchored on inquiry-based lessons where students are exposed to hands-on activities in the learning of Science concepts. To deepen students’ learning, thinking routines are infused during lessons to help in students’ cognitive development. Science investigative skills are developed through Investigative Tasks and Performance Tasks, which form part of holistic assessment in Science. Students are given a scenario in which they have to design their experiment, gather information, interpret data and make conclusions based on their findings.  
 
-![](/images/Our%20Curriculum/Departments/Science/S2.png)
+![](/images/Our%20Curriculum/Departments/Science/Science_Pedagogy_2024.png)
 
-Our key programme, Awe & Wonder in Science, aims to instil a sense of curiosity in students as they learn science within the classroom and beyond. While being introduced to a scientific concept, students are exposed to discrepant events to pique their interest. These ‘surprising’ events allow students to develop an inquiry mindset. Students raise questions related to the topic through structured journal writing. Students are encouraged to be self-directed learners as they search for answers to their questions. Teachers will also address some of these questions at the closure of the topics.  
 
-![](/images/Our%20Curriculum/Departments/Science/S3.png)  
+Our key programme, Awe & Wonder in Science, aims to instil a sense of curiosity in students as they learn science within the classroom and beyond. While being introduced to a scientific concept, students are exposed to discrepant events to pique their interest. These ‘surprising’ events allow students to develop an inquiry mindset. Students raise questions related to the topic through structured journal writing. Students are encouraged to be self-directed learners as they search for answers to their questions.
+
+![](/images/Our%20Curriculum/Departments/Science/Science_Pedagogy_2_2024.png) 
 
 ##### **Level Programmes**
 
@@ -36,9 +37,12 @@ Our key programme, Awe & Wonder in Science, aims to instil a sense of curiosity 
 
 The Science Department also organises learning journeys to reinforce what is being taught in the classroom. Learning journeys serve to provide authentic learning experiences for the students and further fuels the spirit of Awe & Wonder in Science. 
 
-![](/images/Our%20Curriculum/Departments/Science/S4.png)
+P3: Singapore Botanic Garden
+![](/images/Our%20Curriculum/Departments/Science/P3_Botanic_Garden_2023.png)
 
-![](/images/Our%20Curriculum/Departments/Science/S5.png)
+P6: Sungai Buloh
+![](/images/Our%20Curriculum/Departments/Science/P6_Sungai_Buloh_2024.png)
+
 
 ##### **Talent Development Programme**
 
@@ -49,15 +53,18 @@ The Excellence 2000 (E2K) Science Talent Development Programme is designed to de
   
 
 Observing ultra-violet rays
+![](/images/Our%20Curriculum/Departments/Science/Science_5.png)
 
-![](/images/Our%20Curriculum/Departments/Science/S6.png)  
 
 Studying the effects of yeast  
+![](/images/Our%20Curriculum/Departments/Science/Science_6.png)
 
-![](/images/Our%20Curriculum/Departments/Science/S7.png) 
 
-Singapore Amazing Flying Machine Competition organised by Science Centre Singapore  
-![](/images/Our%20Curriculum/Departments/Science/S8.png)
+Singapore Amazing Flying Machine Competition organised by Science Centre Singapore 
+![](/images/Our%20Curriculum/Departments/Science/Singapore_Amazing_Flying_2024.png)
+
+![](/images/Our%20Curriculum/Departments/Science/Singapore_Amazing_Flying_2_2024.png)
+
 
   
 

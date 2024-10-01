@@ -60,7 +60,7 @@ P2 Math Fun Time
 ![](/images/Our%20Curriculum/Departments/Mathematics/P2_Math_Fun_Time_2024.png)
 
 
-![](/images/Our%20Curriculum/Departments/Mathematics/p4_projectwork.png)
+
 
 P1  to P6 Math Games Carnival
 ![](/images/Our%20Curriculum/Departments/Mathematics/P1_to_P6_Math_Carnival.png)

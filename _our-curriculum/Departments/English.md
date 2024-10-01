@@ -36,10 +36,11 @@ The Upper Primary strategies include:
 * Retelling (RT), Language Activities and Sentence Manipulation
 * Writing Process Cycle (WPC)
 
- 
-![](/images/Our%20Curriculum/Departments/English/E5.png) 
+P2: A Butterfly is Born
+![](/images/Our%20Curriculum/Departments/English/EL_2.png)
 
-![](/images/Our%20Curriculum/Departments/English/E6.png)
+P3: Stephanie Investigates
+![](/images/Our%20Curriculum/Departments/English/EL_1.png)
 
 
 
@@ -57,6 +58,8 @@ It is a powerful teaching tool to capture the attention of students in the class
 
 Our drama activities include: 
 
+![](/images/Our%20Curriculum/Departments/English/speech__drama_and_fun_2024.png)
+
 ![](/images/Our%20Curriculum/Departments/English/English_Drama_1_2023.png)
 
 ![](/images/Our%20Curriculum/Departments/English/English_Drama_2_2023.png)
@@ -70,7 +73,8 @@ Our drama activities include: 
 
 To promote the joy of learning and to bring about greater interest in the learning of English, Kranjians were treated to a slew of English activities during our annual English Fiesta. Activities include drama performances, puppet shows, English quizzes, spelling bee competition, as well as different library activities. In 2019, EL Fiesta concluded with the official reopening of our newly renovated Media Resource Library. The School Leaders and all English teachers were involved in a Character Parade, much to the delight of the students!  
 
-![](/images/Our%20Curriculum/Departments/English/E11.jpg)
+![](/images/Our%20Curriculum/Departments/English/EL_fiesta_2019.png)
+
 
 **3\. Reading Programme**
 
@@ -78,7 +82,8 @@ As Dr Seuss would say “The more that you read, the more you will know, the mor
 
 Each classroom is equipped with books appropriate for the reading level of the students and are rotated every semester, so as to provide reading opportunities for all. In addition, weekly library visits are weaved into the EL curriculum. During the library visits, students are introduced to different genres of books, storytelling and engaged in other extensive reading activities.
 
-![](/images/Our%20Curriculum/Departments/English/reading_prog.png)
+![](/images/Our%20Curriculum/Departments/English/El_3.png)
+
 
 ##### **Talent Development Programme**
 
@@ -120,7 +125,7 @@ Pupils will be discharged from LSP at the end of P1 and P2 when they meet the fo
 
 **Reading Remediation Programme (RRP)**
 
-The MOE's School-based Dyslexia Remediation programme is a two-year intervention programme for Primary 3 and 4 students who still face consistent difficulty in reading in the English Language despite having completed the Learning Support Programme in P1 and P2.  The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists. It exposes students to a range of coping strategies for reading comprehension which will enable them to better manage their daily learning. This programme is held twice a week after curriculum hours.
+The MOE's School-based Dyslexia Remediation programme is a two-year intervention programme for Primary 3 and 4 students who still face consistent difficulty in reading in the English Language despite having completed the Learning Support Programme in P1 and P2. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists. It exposes students to a range of coping strategies for reading comprehension which will enable them to better manage their daily learning. This programme is held twice a week after curriculum hours.
 
 **School-based Dyslexia Remediation Programme (SDR)**
 

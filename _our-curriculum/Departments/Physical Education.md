@@ -126,10 +126,3 @@ In Kranji, a whole-school approach is adopted in promoting health and skill-rela
 
 I'm a Health and Wellness Champion Assembly Talk
 ![](/images/Our%20Curriculum/Departments/Physical%20Education/Physical_Education_health_talk_2023.png)
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Physical%20Education/P12.jpg">
-
-<figcaption> <strong> Assembly Talk to reinforce the importance of Healthy Eating </strong> </figcaption>
-
-</figure>

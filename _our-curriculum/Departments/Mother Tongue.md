@@ -56,6 +56,7 @@ These strategies&nbsp;focus on students' ability to understand comprehension pas
 
 The story mountain strategy is a pedagogical tool adopted by the Kranji Primary Tamil department. This tool helps children to understand, visualize and remember the 6 aspects that should be addressed in their compositions. The six core aspects of writing a story are:
 
+
 &nbsp; &nbsp; &nbsp;1)&nbsp;&nbsp;&nbsp;&nbsp;Introduction / Beginning
 
 &nbsp; &nbsp; &nbsp;2)&nbsp;&nbsp;&nbsp;&nbsp;Setting
@@ -77,7 +78,10 @@ This strategy aids pupils to plan their composition more effectively before writ
 
 K-Studio is our customised broadcasting programme that aims to hone our students’ language skills and instill the joy of learning through authentic and interactive learning experiences. As “Little Reporters”, students learn to gather and organise information for news presentations, speak fluently and articulate their ideas clearly to the audience. Through this process, they build confidence in self-expression. Besides sharpening their oracy skills, students also have the opportunity to collaborate and work as a team to discover the joy of learning and sharing of knowledge.&nbsp;
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/k-studio1.jpg)
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/K_Studio_1.png)
+
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/K_Studio_2.png)
+
 
 ##### **Other Programmes**
 

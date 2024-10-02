@@ -95,20 +95,24 @@ Built self-confidence and strengthened the bond and camaraderie between our Scou
 
 The Six National Education Messages are transmitted to Kranjians during Total Defence Day, International Friendship Day, Racial Harmony Day and National Day through parades, assembly talks, concerts, classroom-based lessons and recess activities.It is hoped that through active participation and sharing of our common Identity, students develop the sense of belonging and commitment to Singapore.
 
-<figure>
+![](/images/Our%20Curriculum/Departments/CCE/National_Day_3_2024.png)
 
-<img src="/images/Our%20Curriculum/Departments/CCE/C7.jpg">
+Total Defense Day
+![](/images/Our%20Curriculum/Departments/CCE/Total_Defence_Day_2024.png)
 
-<figcaption> <strong> SG United Card Game </strong> </figcaption>
+Simulation Exercise
+![](/images/Our%20Curriculum/Departments/CCE/TDD_Simulation_Exercise_2024.png)
 
-</figure>
-  
+Racial Harmony Day
+![](/images/Our%20Curriculum/Departments/CCE/International_Friendship_Day_2024.png)
+
+
 
 In Kranji Primary, providing cultural immersion experiences through overseas learning journeys is an integral part of the Kranji Experience to enrich our students’ holistic development. In this globalised world, everyone must possess a global outlook and learn to collaborate and communicate with people from different countries, be it for studies, work or play. Such a global outlook is best developed from a young age. The provision of overseas immersion experiences is key to developing this global outlook.
 
   
 
-Overseas learning journeys to Vietnam and Malaysia are organized to inculcate global awareness in our students. In Primary 5, selected Kranjians have the opportunity to participate in a trip to Danang, Vietnam.Through this trip, students learn about the Vietnam culture and heritage from visits to places of interests, are exposed to cutting-edge technology from industrial visits, and immerse themselves in experiencing school life in a different setting through interactions with students from our partner schools. In Primary 6, every Kranjian will participate in a trip to Malacca &amp; KL, Malaysia, our closest ASEAN neighbour.The trip exposes them to the rich historical and cultural history of Malacca and hones their cross-cultural skills and sensitivities. Students also learn valuable life skills such as being resilient and developing independence, and learning to live and collaborate in a team.&nbsp;&nbsp;
+Overseas learning journeys to Vietnam and Malaysia are organized to inculcate global awareness in our students. In Primary 5, selected Kranjians have the opportunity to participate in a trip to Danang, Vietnam.Through this trip, students learn about the Vietnamese culture and heritage from visits to places of interests, are exposed to cutting-edge technology from industrial visits, and immerse themselves in experiencing school life in a different setting through interactions with students from our partner schools. In Primary 6, every Kranjian will participate in a trip to Malacca &amp; KL, Malaysia, our closest ASEAN neighbour.The trip exposes them to the rich historical and cultural history of Malacca and hones their cross-cultural skills and sensitivities. Students also learn valuable life skills such as being resilient and developing independence, and learning to live and collaborate in a team.&nbsp;&nbsp;
 
   
 ![](/images/Our%20Curriculum/Departments/CCE/C8.jpg)

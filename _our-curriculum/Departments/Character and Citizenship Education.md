@@ -113,12 +113,15 @@ In Kranji Primary, providing cultural immersion experiences through overseas lea
 
   
 
-Overseas learning journeys to Vietnam and Malaysia are organized to inculcate global awareness in our students. In Primary 5, selected Kranjians have the opportunity to participate in a trip to Danang, Vietnam.Through this trip, students learn about the Vietnamese culture and heritage from visits to places of interests, are exposed to cutting-edge technology from industrial visits, and immerse themselves in experiencing school life in a different setting through interactions with students from our partner schools. In Primary 6, every Kranjian will participate in a trip to Malacca &amp; KL, Malaysia, our closest ASEAN neighbour.The trip exposes them to the rich historical and cultural history of Malacca and hones their cross-cultural skills and sensitivities. Students also learn valuable life skills such as being resilient and developing independence, and learning to live and collaborate in a team.&nbsp;&nbsp;
+Overseas learning journeys to Vietnam and Malaysia are organized to inculcate global awareness in our students. In Primary 5, selected Kranjians have the opportunity to participate in a trip to Danang, Vietnam.Through this trip, students learn about the Vietnamese culture and heritage from visits to places of interests, are exposed to cutting-edge technology from industrial visits, and immerse themselves in experiencing school life in a different setting through interactions with students from our partner schools. In Primary 6, every Kranjian will participate in a trip to Malacca &amp; KL, Malaysia, our closest ASEAN neighbour.The trip exposes them to the rich historical and cultural history of Malacca and KL and hones their cross-cultural skills and sensitivities. Students also learn valuable life skills such as being resilient and developing independence, and learning to live and collaborate in a team.&nbsp;&nbsp;
 
+![](/images/Our%20Curriculum/Departments/CCE/P5_Vietnam_2024.png)
+
+![](/images/Our%20Curriculum/Departments/CCE/P6_Melaka_2024.png)
+
+![](/images/Our%20Curriculum/Departments/CCE/P6_KL_2024.png)
   
-![](/images/Our%20Curriculum/Departments/CCE/C8.jpg)
 
-![](/images/Our%20Curriculum/Departments/CCE/C9.jpg)
 
 **Please click [here](/Sexuality-Education/) for Sexuality Education information**
 

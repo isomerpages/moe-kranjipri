@@ -62,7 +62,7 @@ Built self-confidence and strengthened the bond and camaraderie between our Scou
 
 &nbsp; &nbsp;iv.&nbsp; &nbsp;&nbsp;Recycling&nbsp;@ Kranji - Kranjians reflect on the state of the environment and respond to the community, national and global issues by being responsible citizens as they participate in recycling and upcycling efforts both in and out of the school.
 
-
+![](/images/Our%20Curriculum/Departments/CCE/CCE_Recycling.png)
 <figure>
 
 <img src="/images/Our%20Curriculum/Departments/CCE/C4.jpg">

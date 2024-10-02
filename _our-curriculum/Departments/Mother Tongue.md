@@ -87,7 +87,7 @@ K-Studio is our customised broadcasting programme that aims to hone our students
 
   
 
-1.&nbsp;&nbsp;&nbsp;**MTL Fortnight &amp; Cultural Camp**
+**1. MTL Fortnight &amp; Cultural Camp**
 
   
 

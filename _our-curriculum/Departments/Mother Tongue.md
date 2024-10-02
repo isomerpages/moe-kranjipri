@@ -19,7 +19,7 @@ The key features of the Mother Tongue curriculum includes focusing on students' 
 
 ##### **Department Pedagogy**
 
-**1\. 5-Finger Strategy**
+**1. 5-Finger Strategy**
 
 The 5-Finger strategy was designed to help students adapt to the new format in 2017 PSLE E-Oral. Using 5 fingers as visual stimulus, this strategy encompasses the 5 important steps when preparing for the oral exam.
 
@@ -32,7 +32,7 @@ The 5-Finger strategy was designed to help students adapt to the new format in 2
 
 This structured model serves as a useful guide for pupils to use the silent preparation time wisely by brainstorming on the possible topic and questions that will be asked by the Oral Examiner. To facilitate teaching and learning, teachers have developed customised notes to guide students in their learning.
 
-**2.**&nbsp;**BaiK S²anGaT**
+**2. BaiK S²anGaT**
 
 Reading comprehension is the ability to recognise words, sentences and paragraphs and make sense of the overall meaning. The&nbsp;_BaiK S²anGaT_&nbsp;concept in the teaching of Malay Langauge reading comprehension was designed to help students to understand reading comprehension passages and answer the questions.
 

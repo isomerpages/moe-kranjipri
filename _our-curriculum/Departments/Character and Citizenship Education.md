@@ -49,6 +49,7 @@ Having inculcated the necessary values and socio-emotional competencies in schoo
 
 ![](/images/Our%20Curriculum/Departments/CCE/VIA_Outreach_2_2019.png)
 
+Built self-confidence and strengthened the bond and camaraderie between our Scouts and the MK children.
 ![](/images/Our%20Curriculum/Departments/CCE/VIA_Outreach_2023.png)
 
 

@@ -110,8 +110,6 @@ Learning Journeys aims to provide a platform for pupils to extend their learning
 
 
 
-Tamilfest 2022 at Umar Pulavar Tamil Language Centre (UPTLC)
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/tamillang_lj.png)
 
 
 3.&nbsp;&nbsp;&nbsp;**Reading Programme**

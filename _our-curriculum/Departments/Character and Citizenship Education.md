@@ -35,29 +35,24 @@ Having inculcated the necessary values and socio-emotional competencies in schoo
 
 &nbsp;&nbsp;&nbsp;i.&nbsp; &nbsp;&nbsp;Food donation and distribution&nbsp;@ Limbang Senior Activities Centre - As a way to show care for others and contribute to the community, students collect food every year and distribute them to the needy in the Limbang neighbourhood.  
 
+**VALUES-IN-ACTION**
+![](/images/Our%20Curriculum/Departments/CCE/VIA_Food_Donation_2024.png)
+
+![](/images/Our%20Curriculum/Departments/CCE/VIA_Food_Donation_2_2024.png)
 
 
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/CCE/values-in-action.png">
-
-<figcaption> <strong> Food Donation and Distribution </strong> </figcaption>
-
-</figure>
 
 
   
 
 &nbsp;&nbsp; ii.&nbsp; &nbsp;&nbsp;CCA VIA Outreach&nbsp;@ Sparkletots Kindergarten - Since 2019, our Co-Curricular Activity (CCA) group have linked up with pre-schoolers in the vicinity of the school, to carry out activities with the young children, and share the skills they have learnt in CCA. Through the CCA Outreach, our CCA leaders step out of their comfort zone to demonstrate leadership and also hone their interpersonal skills.
 
+![](/images/Our%20Curriculum/Departments/CCE/VIA_Outreach_2_2019.png)
 
-<figure>
+Built self-confidence and strengthened the bond and camaraderie between our Scouts and the MK children.
+![](/images/Our%20Curriculum/Departments/CCE/VIA_Outreach_2023.png)
 
-<img src="/images/Our%20Curriculum/Departments/CCE/C2.jpg">
 
-<figcaption> <strong> CCA Groups Outreach </strong> </figcaption>
-
-</figure>
 
   
 
@@ -67,30 +62,8 @@ Having inculcated the necessary values and socio-emotional competencies in schoo
 
 &nbsp; &nbsp;iv.&nbsp; &nbsp;&nbsp;Recycling&nbsp;@ Kranji - Kranjians reflect on the state of the environment and respond to the community, national and global issues by being responsible citizens as they participate in recycling and upcycling efforts both in and out of the school.
 
+![](/images/Our%20Curriculum/Departments/CCE/CCE_Recycling.png)
 
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/CCE/C4.jpg">
-
-<figcaption> <strong> Recycling Corner </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/CCE/C5.jpg">
-
-<figcaption> <strong> Primary 2 Recycling Briefing </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/CCE/C6.jpg">
-
-<figcaption> <strong> Primary 6 Upcycling </strong> </figcaption>
-
-</figure>
 
   
 
@@ -100,25 +73,33 @@ Having inculcated the necessary values and socio-emotional competencies in schoo
 
 The Six National Education Messages are transmitted to Kranjians during Total Defence Day, International Friendship Day, Racial Harmony Day and National Day through parades, assembly talks, concerts, classroom-based lessons and recess activities.It is hoped that through active participation and sharing of our common Identity, students develop the sense of belonging and commitment to Singapore.
 
-<figure>
+![](/images/Our%20Curriculum/Departments/CCE/National_Day_3_2024.png)
 
-<img src="/images/Our%20Curriculum/Departments/CCE/C7.jpg">
+Total Defense Day
+![](/images/Our%20Curriculum/Departments/CCE/Total_Defence_Day_2024.png)
 
-<figcaption> <strong> SG United Card Game </strong> </figcaption>
+Simulation Exercise
+![](/images/Our%20Curriculum/Departments/CCE/TDD_Simulation_Exercise_2024.png)
 
-</figure>
-  
+International Friendsip Day
+![](/images/Our%20Curriculum/Departments/CCE/International_Friendship_Day_2024.png)
+
+Racial Harmony Day
+![](/images/Our%20Curriculum/Departments/CCE/Racial_Harmony_2024.png)
 
 In Kranji Primary, providing cultural immersion experiences through overseas learning journeys is an integral part of the Kranji Experience to enrich our students’ holistic development. In this globalised world, everyone must possess a global outlook and learn to collaborate and communicate with people from different countries, be it for studies, work or play. Such a global outlook is best developed from a young age. The provision of overseas immersion experiences is key to developing this global outlook.
 
   
 
-Overseas learning journeys to China and Malaysia are organized to inculcate global awareness in our students. In Primary 5, selected Kranjians have the opportunity to participate in a trip to Suzhou and Shanghai, China.&nbsp; Through this trip, students learn about the Chinese culture and heritage from visits to places of interests, are exposed to cutting-edge technology from industrial visits, and immerse themselves in experiencing school life in a different setting through interactions with students from our partner schools. In Primary 6, every Kranjian will participate in a trip to Malacca, Malaysia, our closest ASEAN neighbour.The trip exposes them to the rich historical&nbsp;and cultural history of Malacca and hones their cross-cultural skills and sensitivities.&nbsp; Students also learn valuable life skills such as being resilient and developing independence, and learning to live and collaborate in a team.&nbsp;&nbsp;
+Overseas learning journeys to Vietnam and Malaysia are organized to inculcate global awareness in our students. In Primary 5, selected Kranjians have the opportunity to participate in a trip to Danang, Vietnam.Through this trip, students learn about the Vietnamese culture and heritage from visits to places of interests, are exposed to cutting-edge technology from industrial visits, and immerse themselves in experiencing school life in a different setting through interactions with students from our partner schools. In Primary 6, every Kranjian will participate in a trip to Malacca &amp; KL, Malaysia, our closest ASEAN neighbour.The trip exposes them to the rich historical and cultural history of Malacca and KL and hones their cross-cultural skills and sensitivities. Students also learn valuable life skills such as being resilient and developing independence, and learning to live and collaborate in a team.&nbsp;&nbsp;
 
+![](/images/Our%20Curriculum/Departments/CCE/P5_Vietnam_2024.png)
+
+![](/images/Our%20Curriculum/Departments/CCE/P6_Melaka_2024.png)
+
+![](/images/Our%20Curriculum/Departments/CCE/P6_KL_2024.png)
   
-![](/images/Our%20Curriculum/Departments/CCE/C8.jpg)
 
-![](/images/Our%20Curriculum/Departments/CCE/C9.jpg)
 
 **Please click [here](/Sexuality-Education/) for Sexuality Education information**
 

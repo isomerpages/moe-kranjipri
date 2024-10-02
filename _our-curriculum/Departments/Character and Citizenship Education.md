@@ -47,14 +47,11 @@ Having inculcated the necessary values and socio-emotional competencies in schoo
 
 &nbsp;&nbsp; ii.&nbsp; &nbsp;&nbsp;CCA VIA Outreach&nbsp;@ Sparkletots Kindergarten - Since 2019, our Co-Curricular Activity (CCA) group have linked up with pre-schoolers in the vicinity of the school, to carry out activities with the young children, and share the skills they have learnt in CCA. Through the CCA Outreach, our CCA leaders step out of their comfort zone to demonstrate leadership and also hone their interpersonal skills.
 
+![](/images/Our%20Curriculum/Departments/CCE/VIA_Outreach_2_2019.png)
 
-<figure>
+![](/images/Our%20Curriculum/Departments/CCE/VIA_Outreach_2023.png)
 
-<img src="/images/Our%20Curriculum/Departments/CCE/C2.jpg">
 
-<figcaption> <strong> CCA Groups Outreach </strong> </figcaption>
-
-</figure>
 
   
 

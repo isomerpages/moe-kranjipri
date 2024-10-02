@@ -52,7 +52,7 @@ This concept encompasses the following strategies:
 
 These strategies&nbsp;focus on students' ability to understand comprehension passages and answer the questions in the form of literal and inferential comprehension before moving to more challenging levels.
 
-**3.**&nbsp;**The Story Mountain Strategy**
+**3. The Story Mountain Strategy**
 
 The story mountain strategy is a pedagogical tool adopted by the Kranji Primary Tamil department. This tool helps children to understand, visualize and remember the 6 aspects that should be addressed in their compositions. The six core aspects of writing a story are:
 
@@ -76,7 +76,7 @@ This strategy aids pupils to plan their composition more effectively before writ
   
 **K-Studio**  
 
-K-Studio is our customised broadcasting programme that aims to hone our students’ language skills and instill the joy of learning through authentic and interactive learning experiences. As “Little Reporters”, students learn to gather and organise information for news presentations, speak fluently and articulate their ideas clearly to the audience. Through this process, they build confidence in self-expression. Besides sharpening their oracy skills, students also have the opportunity to collaborate and work as a team to discover the joy of learning and sharing of knowledge.&nbsp;
+K-Studio is our customised broadcasting programme that aims to hone our students’ language skills and instill the joy of learning through authentic and interactive learning experiences. As “Little Reporters”, students learn to gather and organise information for news presentations, speak fluently and articulate their ideas clearly to the audience. Through this process, they build confidence in self-expression. Besides sharpening their oracy skills, students also have the opportunity to collaborate and work as a team to discover the joy of learning and sharing of knowledge.
 
 ![](/images/Our%20Curriculum/Departments/Mother%20Tongue/K_Studio_1.png)
 
@@ -120,7 +120,7 @@ Learning Journeys aims to provide a platform for pupils to extend their learning
 
   
 
-KPS Mother Tongue Reading Programme aims to cultivate pupils’ interest in reading and expose them to books of different genre. To carry out this programme, the department has purchased a range of books that are recommended for the different levels from P1 to P6. Class-based library corners are set up to provide the opportunity for students to be engaged in reading activities or even borrow books home for leisure reading. Students are also given the reading passports to note down their reading progress and share with the teachers and their peers their reading journey.&nbsp;
+KPS Mother Tongue Reading Programme aims to cultivate pupils’ interest in reading and expose them to books of different genre. To carry out this programme, the department has purchased a range of books that are recommended for the different levels from P1 to P6. Class-based library corners are set up to provide the opportunity for students to be engaged in reading activities or even borrow books home for leisure reading. Students are also given the reading passports to note down their reading progress and share with the teachers and their peers their reading journey.
 
 ![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_Reading_Programme_2024.png)
 

@@ -35,15 +35,12 @@ Having inculcated the necessary values and socio-emotional competencies in schoo
 
 &nbsp;&nbsp;&nbsp;i.&nbsp; &nbsp;&nbsp;Food donation and distribution&nbsp;@ Limbang Senior Activities Centre - As a way to show care for others and contribute to the community, students collect food every year and distribute them to the needy in the Limbang neighbourhood.  
 
+VALUES-IN-ACTION
+![](/images/Our%20Curriculum/Departments/CCE/VIA_Food_Donation_2024.png)
+
+![](/images/Our%20Curriculum/Departments/CCE/VIA_Food_Donation_2_2024.png)
 
 
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/CCE/values-in-action.png">
-
-<figcaption> <strong> Food Donation and Distribution </strong> </figcaption>
-
-</figure>
 
 
   

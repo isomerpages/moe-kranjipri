@@ -11,9 +11,9 @@ variant: markdown
 <b>“Every Kranjian Matters and Deserves the Best!”</b><br><br>
 We value every Kranjian <br><br>
 Every Kranjian wants to succeed<br><br>
-All can learn<br><br>
+All can learn<br>
 
-<img style="width:50%;height:50%; border:2px solid black;" src="/images/About%20Us/School%20Philosophy,%20School%20Vis/S1.png">
+<img style="width:70%;height:50%; border:2px solid black;" src="/images/About%20Us/School%20Creed,%20Crest%20and%20Song/Our_Philosophy.png">
 
 <h3><b style="font-family:verdana">Our Vision</b></h3>
 

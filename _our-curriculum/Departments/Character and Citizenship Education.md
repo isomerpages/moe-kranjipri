@@ -81,7 +81,7 @@ Total Defense Day
 Simulation Exercise
 ![](/images/Our%20Curriculum/Departments/CCE/TDD_Simulation_Exercise_2024.png)
 
-International Friendsip Day
+International Friendship Day
 ![](/images/Our%20Curriculum/Departments/CCE/International_Friendship_Day_2024.png)
 
 Racial Harmony Day

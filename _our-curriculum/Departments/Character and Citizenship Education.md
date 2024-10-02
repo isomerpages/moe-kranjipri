@@ -103,10 +103,11 @@ Total Defense Day
 Simulation Exercise
 ![](/images/Our%20Curriculum/Departments/CCE/TDD_Simulation_Exercise_2024.png)
 
-Racial Harmony Day
+International Friendsip Day
 ![](/images/Our%20Curriculum/Departments/CCE/International_Friendship_Day_2024.png)
 
-
+Racial Harmony Day
+![](/images/Our%20Curriculum/Departments/CCE/Racial_Harmony_2024.png)
 
 In Kranji Primary, providing cultural immersion experiences through overseas learning journeys is an integral part of the Kranji Experience to enrich our students’ holistic development. In this globalised world, everyone must possess a global outlook and learn to collaborate and communicate with people from different countries, be it for studies, work or play. Such a global outlook is best developed from a young age. The provision of overseas immersion experiences is key to developing this global outlook.
 

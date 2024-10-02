@@ -78,28 +78,28 @@ Our school has a structured whole-school approach to music learning through a 6-
 
 ##### **Level Programme**
 
-**P1 Creative Movement**
+P1 Creative Movement
 ![](/images/Our%20Curriculum/Departments/Music/P1_creative_movement.png)
 
 
 
-**P2 Ethnic Drums**
+P2 Ethnic Drums
 ![](/images/Our%20Curriculum/Departments/Music/P2_Ethic_drums.png)
 
   
 
-**P3 Boomwhackers**
+P3 Boomwhackers
 ![](/images/Our%20Curriculum/Departments/Music/P3_boomwhackers.png)
 
 
-**P4 GarageBand**
+P4 GarageBand
 ![](/images/Our%20Curriculum/Departments/Music/P4_garageband.png)
 
 
-**P5 Ukelele**
+P5 Ukelele
 ![](/images/Our%20Curriculum/Departments/Music/P5_Ukelele.png)
 
   
 
-**P6 Cajon**  
+P6 Cajon  
 ![](/images/Our%20Curriculum/Departments/Music/P6_Cajon.png)

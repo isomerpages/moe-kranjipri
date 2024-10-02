@@ -44,7 +44,14 @@ Developing musicianship through students’ imagination and creation.
 *   Include Orff instruments (e.g. xylophone, glockenspiel, recorder) and non-pitched percussion instruments (e.g. woodblocks, hand drums, triangles) to provide a range of musical experiences from aural training to improvisation to ensemble performances
 *   Use of solfege, ostinato and drones as part of musical training
 
-  
+Recess @Busking
+![](/images/Our%20Curriculum/Departments/Music/Music_talent.png)
+
+![](/images/Our%20Curriculum/Departments/Music/Music_Instrument.png)
+
+![](/images/Our%20Curriculum/Departments/Music/Music_Dance.png)
+
+![](/images/Our%20Curriculum/Departments/Music/Music_group.png)
 
 **Kodaly**
 

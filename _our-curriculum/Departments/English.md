@@ -76,7 +76,7 @@ To promote the joy of learning and to bring about greater interest in the learni
 ![](/images/Our%20Curriculum/Departments/English/EL_fiesta_2019.png)
 
 
-**3\. Reading Programme**
+**3. Reading Programme**
 
 As Dr Seuss would say “The more that you read, the more you will know, the more that you know, the more places you will go”. Apart from improving vocabulary and language skills, reading also helps to exercise our brain and improves our concentration. The EL department places a strong emphasis on the importance of reading.
 

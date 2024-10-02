@@ -144,7 +144,7 @@ The Mother Tongue Talent Development Programme (TDP) is designed to nurture prom
 
 * Speak to your child in MTL whenever possible.
 
-* Show interest in your child’s MTL learning experiences and&nbsp;encourage&nbsp;him or her to them with you
+* Show interest in your child’s MTL learning experiences and encourage him or her to them with you
 
 * Have regular conversation with your child about his/her experience in class.
 

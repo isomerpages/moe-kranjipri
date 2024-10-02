@@ -13,13 +13,13 @@ The Mother Tongue curriculum objectives are to develop students' general ability
 
 ![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M1.png)  
 
-The key features of the Mother Tongue curriculum includes focusing on students' spoken and written interaction skills, having authentic activities to better engage students and develop their communication skills and exposing students to their culture and values through the learning of their Mother Tongue Language.&nbsp;
+The key features of the Mother Tongue curriculum includes focusing on students' spoken and written interaction skills, having authentic activities to better engage students and develop their communication skills and exposing students to their culture and values through the learning of their Mother Tongue Language.
 
   
 
 ##### **Department Pedagogy**
 
-**1\. 5-Finger Strategy**
+**1. 5-Finger Strategy**
 
 The 5-Finger strategy was designed to help students adapt to the new format in 2017 PSLE E-Oral. Using 5 fingers as visual stimulus, this strategy encompasses the 5 important steps when preparing for the oral exam.
 
@@ -32,7 +32,7 @@ The 5-Finger strategy was designed to help students adapt to the new format in 2
 
 This structured model serves as a useful guide for pupils to use the silent preparation time wisely by brainstorming on the possible topic and questions that will be asked by the Oral Examiner. To facilitate teaching and learning, teachers have developed customised notes to guide students in their learning.
 
-**2.**&nbsp;**BaiK S²anGaT**
+**2. BaiK S²anGaT**
 
 Reading comprehension is the ability to recognise words, sentences and paragraphs and make sense of the overall meaning. The&nbsp;_BaiK S²anGaT_&nbsp;concept in the teaching of Malay Langauge reading comprehension was designed to help students to understand reading comprehension passages and answer the questions.
 
@@ -52,9 +52,10 @@ This concept encompasses the following strategies:
 
 These strategies&nbsp;focus on students' ability to understand comprehension passages and answer the questions in the form of literal and inferential comprehension before moving to more challenging levels.
 
-**3.**&nbsp;**The Story Mountain Strategy**
+**3. The Story Mountain Strategy**
 
 The story mountain strategy is a pedagogical tool adopted by the Kranji Primary Tamil department. This tool helps children to understand, visualize and remember the 6 aspects that should be addressed in their compositions. The six core aspects of writing a story are:
+
 
 &nbsp; &nbsp; &nbsp;1)&nbsp;&nbsp;&nbsp;&nbsp;Introduction / Beginning
 
@@ -75,15 +76,18 @@ This strategy aids pupils to plan their composition more effectively before writ
   
 **K-Studio**  
 
-K-Studio is our customised broadcasting programme that aims to hone our students’ language skills and instill the joy of learning through authentic and interactive learning experiences. As “Little Reporters”, students learn to gather and organise information for news presentations, speak fluently and articulate their ideas clearly to the audience. Through this process, they build confidence in self-expression. Besides sharpening their oracy skills, students also have the opportunity to collaborate and work as a team to discover the joy of learning and sharing of knowledge.&nbsp;
+K-Studio is our customised broadcasting programme that aims to hone our students’ language skills and instill the joy of learning through authentic and interactive learning experiences. As “Little Reporters”, students learn to gather and organise information for news presentations, speak fluently and articulate their ideas clearly to the audience. Through this process, they build confidence in self-expression. Besides sharpening their oracy skills, students also have the opportunity to collaborate and work as a team to discover the joy of learning and sharing of knowledge.
 
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/k-studio1.jpg)
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/K_Studio_1.png)
+
+![](/images/Our%20Curriculum/Departments/Mother%20Tongue/K_Studio_2.png)
+
 
 ##### **Other Programmes**
 
   
 
-1.&nbsp;&nbsp;&nbsp;**MTL Fortnight &amp; Cultural Camp**
+**1. MTL Fortnight &amp; Cultural Camp**
 
   
 
@@ -110,15 +114,13 @@ Learning Journeys aims to provide a platform for pupils to extend their learning
 
 
 
-Tamilfest 2022 at Umar Pulavar Tamil Language Centre (UPTLC)
-![](/images/Our%20Curriculum/Departments/Mother%20Tongue/tamillang_lj.png)
 
 
-3.&nbsp;&nbsp;&nbsp;**Reading Programme**
+**3. Reading Programme**
 
   
 
-KPS Mother Tongue Reading Programme aims to cultivate pupils’ interest in reading and expose them to books of different genre. To carry out this programme, the department has purchased a range of books that are recommended for the different levels from P1 to P6. Class-based library corners are set up to provide the opportunity for students to be engaged in reading activities or even borrow books home for leisure reading. Students are also given the reading passports to note down their reading progress and share with the teachers and their peers their reading journey.&nbsp;
+KPS Mother Tongue Reading Programme aims to cultivate pupils’ interest in reading and expose them to books of different genre. To carry out this programme, the department has purchased a range of books that are recommended for the different levels from P1 to P6. Class-based library corners are set up to provide the opportunity for students to be engaged in reading activities or even borrow books home for leisure reading. Students are also given the reading passports to note down their reading progress and share with the teachers and their peers their reading journey.
 
 ![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_Reading_Programme_2024.png)
 
@@ -129,7 +131,7 @@ KPS Mother Tongue Reading Programme aims to cultivate pupils’ interest in read
 
 ##### **Talent Development Programme**
 
-The Mother Tongue Talent Development Programme (TDP) is designed to nurture promising students who have consistently demonstrated a keen ability and interest in their Mother Tongue.&nbsp; These pupils are selected for the Higher Mother Tongue Programme from Primary 1. The programme aims to hone students’ language skills, deepen their knowledge of the language and appreciation of their culture through a wide range of enrichment activities.&nbsp; These activities include storytelling, class-based talk shows, book sharing, cultural festivals exposure and literature studies.&nbsp; Students will have opportunities to collaborate with their peers and engage in experiential learning, which help them to develop their critical and inventive thinking, communication and collaboration skills, nurturing them into proficient learners of the language.  
+The Mother Tongue Talent Development Programme (TDP) is designed to nurture promising students who have consistently demonstrated a keen ability and interest in their Mother Tongue. These pupils are selected for the Higher Mother Tongue Programme from Primary 1. The programme aims to hone students’ language skills, deepen their knowledge of the language and appreciation of their culture through a wide range of enrichment activities. These activities include storytelling, class-based talk shows, book sharing, cultural festivals exposure and literature studies. Students will have opportunities to collaborate with their peers and engage in experiential learning, which help them to develop their critical and inventive thinking, communication and collaboration skills, nurturing them into proficient learners of the language.  
 
 ![](/images/Our%20Curriculum/Departments/Mother%20Tongue/MTL_CL_Talent_Development_2024.png)
 
@@ -142,14 +144,14 @@ The Mother Tongue Talent Development Programme (TDP) is designed to nurture prom
 
 * Speak to your child in MTL whenever possible.
 
-* Show interest in your child’s MTL learning experiences and&nbsp;encourage&nbsp;him or her to&nbsp;share&nbsp;them with you
+* Show interest in your child’s MTL learning experiences and encourage him or her to them with you
 
 * Have regular conversation with your child about his/her experience in class.
 
-* Cultivate good&nbsp;**reading habits**&nbsp;(reading together). Reading resources includes books, newspapers, magazines, online&nbsp;resources, etc.)
+* Cultivate good **reading habits** (reading together). Reading resources includes books, newspapers, magazines, online resources, etc.)
 
 * Encourage and accompany your child to watch suitable TV programmes in MTL.
 
 * Use physical and digital resources to help your child revise the vocabulary and learning content.
 
-* Make use of objects in the environment to engage your child in&nbsp;**conversations**.
+* Make use of objects in the environment to engage your child in **conversations**.

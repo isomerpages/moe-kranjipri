@@ -13,7 +13,7 @@ The Mother Tongue curriculum objectives are to develop students' general ability
 
 ![](/images/Our%20Curriculum/Departments/Mother%20Tongue/M1.png)  
 
-The key features of the Mother Tongue curriculum includes focusing on students' spoken and written interaction skills, having authentic activities to better engage students and develop their communication skills and exposing students to their culture and values through the learning of their Mother Tongue Language.&nbsp;
+The key features of the Mother Tongue curriculum includes focusing on students' spoken and written interaction skills, having authentic activities to better engage students and develop their communication skills and exposing students to their culture and values through the learning of their Mother Tongue Language.
 
   
 

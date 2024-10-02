@@ -116,7 +116,7 @@ Learning Journeys aims to provide a platform for pupils to extend their learning
 
 
 
-3.&nbsp;&nbsp;&nbsp;**Reading Programme**
+**3. Reading Programme**
 
   
 

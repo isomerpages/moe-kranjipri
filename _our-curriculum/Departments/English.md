@@ -50,7 +50,7 @@ P3: Stephanie Investigates
 
 ##### **Level Programmes**
 
-**1\. D.I.C.E** **(Drama infused Curriculum in English)**
+**1. D.I.C.E** **(Drama infused Curriculum in English)**
 
 Drama is a vehicle to inject an element of fun in language learning. Through drama infused curriculum, it can provide opportunities for students to learn English in authentic and interactive learning experiences and apply in context that makes it come to life.  
 
@@ -69,7 +69,7 @@ Our drama activities include: 
 ![](/images/Our%20Curriculum/Departments/English/English_Drama_4_2023.png)
 
 
-**2\. EL Fiesta**  
+**2. EL Fiesta**  
 
 To promote the joy of learning and to bring about greater interest in the learning of English, Kranjians were treated to a slew of English activities during our annual English Fiesta. Activities include drama performances, puppet shows, English quizzes, spelling bee competition, as well as different library activities. In 2019, EL Fiesta concluded with the official reopening of our newly renovated Media Resource Library. The School Leaders and all English teachers were involved in a Character Parade, much to the delight of the students!  
 

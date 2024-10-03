@@ -4,14 +4,14 @@ permalink: /for-parents/Parent-Support-Group-PSG/
 description: ""
 variant: markdown
 ---
-![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P1.jpg)
-### **Parent Support Group (PSG)**
+
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_BANNER_2024.png)
+#### **Parent Support Group (PSG)**
 
 We are the parents of KPS who contribute to the school’s efforts to give our children the best educational experience in KPS.  
 
-  
 
-### **Our Role:**
+#### **Our Role:**
 
 *   To be a Supportive Partner In Education&nbsp;
 
@@ -19,7 +19,7 @@ We complement the school’s efforts by supporting and strengthening school prog
 			 
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P2.jpg)
 
-### **Benefits of Joining PSG:**
+#### **Benefits of Joining PSG:**
 
 PSG is a great opportunity for us to be closer to our children, understand them better and help them in their education journey.&nbsp;
 

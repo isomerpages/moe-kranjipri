@@ -36,10 +36,10 @@ The Upper Primary strategies include:
 * Retelling (RT), Language Activities and Sentence Manipulation
 * Writing Process Cycle (WPC)
 
-**P2: A Butterfly is Born**
+P2: A Butterfly is Born
 ![](/images/Our%20Curriculum/Departments/English/EL_2.png)
 
-**P3: Stephanie Investigates**
+P3: Stephanie Investigates
 ![](/images/Our%20Curriculum/Departments/English/EL_1.png)
 
 

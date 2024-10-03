@@ -4,7 +4,7 @@ permalink: /for-parents/Parent-Support-Group-PSG/
 description: ""
 variant: markdown
 ---
-![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_BANNER_2024.png)
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Budding_Champion.png)![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_BANNER_2024.png)
 #### **Parent Support Group (PSG)**
 
 We are the parents of KPS who contribute to the school’s efforts to give our children the best educational experience in KPS.  
@@ -76,8 +76,14 @@ We are a group of parents who play a key role in inspiring our fellow PSG member
 **Happy Teacher's Day**
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Teacher_s_Day_2024.png)
 
+P1 &amp; P2 Math &amp; Fun Time
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P1___P2_Math_Trail_and_Fun_Time_2024.png)
 
+P1 &amp; P2 Budding Champions Day
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Budding_Champion.png)
 
+Children's Day
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Children_s_Day.png)
 
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P8.jpg)
 

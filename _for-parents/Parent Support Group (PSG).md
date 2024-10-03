@@ -37,7 +37,6 @@ Our children benefit when we are more active in the school environment.&nbsp; Th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrtzGEsDZD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <br>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rJYZaNezc-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 #### **PSG Focus Group**
@@ -76,16 +75,16 @@ We are a group of parents who play a key role in inspiring our fellow PSG member
 **Happy Teacher's Day**
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Teacher_s_Day_2024.png)
 
-P1 &amp; P2 Math &amp; Fun Time
+**P1 &amp; P2 Math &amp; Fun Time**
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P1___P2_Math_Trail_and_Fun_Time_2024.png)
 
-P1 &amp; P2 Budding Champions Day
+**P1 &amp; P2 Budding Champions Day**
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Budding_Champion.png)
 
-Children's Day
-![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Children_s_Day.png)
+**Children's Day**
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Children_s_Day_2024.png)
 
-Parent-Child Bonding
+**Parent-Child Bonding**
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Parent_Bonding_2024.png)
 
 

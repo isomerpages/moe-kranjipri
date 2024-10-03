@@ -9,6 +9,7 @@ variant: markdown
 
 We are the parents of KPS who contribute to the school’s efforts to give our children the best educational experience in KPS.  
 
+Breakfast Meeting with PSG
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_breakfast_with_Principal.png)
 
 #### **Our Role:**

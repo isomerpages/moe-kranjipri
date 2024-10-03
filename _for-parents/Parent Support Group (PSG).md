@@ -15,8 +15,9 @@ We are the parents of KPS who contribute to the school’s efforts to give our c
 *   To be a Supportive Partner In Education&nbsp;
 
 We complement the school’s efforts by supporting and strengthening school programmes to enhance our children’s well-being and learning.
-			 
-![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P2.jpg)
+
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Our_role.png)
+
 
 #### **Benefits of Joining PSG:**
 

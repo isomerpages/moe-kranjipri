@@ -4,7 +4,6 @@ permalink: /for-parents/Parent-Support-Group-PSG/
 description: ""
 variant: markdown
 ---
-
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_BANNER_2024.png)
 #### **Parent Support Group (PSG)**
 
@@ -34,17 +33,17 @@ Our children benefit when we are more active in the school environment.&nbsp; Th
 *   be less anti-social and less prone to behavioural issues
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrtzGEsDZD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rJYZaNezc-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-### **PSG Focus Group**
+#### **PSG Focus Group**
 
 We are a group of parents who play a key role in inspiring our fellow PSG members and coordinating their time and effort to contribute to the school’s programmes.  
 
   
 
-### **Our Roles:**
+#### **Our Roles:**
 
 * To be the Bridge Between Parents and School  
 

@@ -36,10 +36,10 @@ The Upper Primary strategies include:
 * Retelling (RT), Language Activities and Sentence Manipulation
 * Writing Process Cycle (WPC)
 
-P2: A Butterfly is Born
+**P2: A Butterfly is Born**
 ![](/images/Our%20Curriculum/Departments/English/EL_2.png)
 
-P3: Stephanie Investigates
+**P3: Stephanie Investigates**
 ![](/images/Our%20Curriculum/Departments/English/EL_1.png)
 
 
@@ -56,7 +56,7 @@ Drama is a vehicle to inject an element of fun in language learning. Through dra
 
 It is a powerful teaching tool to capture the attention of students in the classroom to bring about effective language learning. In Kranji, drama is infused through the Stellar Curriculum, to make language learning fun and dynamic. A classroom can be transformed into an imaginary or real world setting for students to explore and develop ideas. Through DICE, students will overcome the fear and inhibitions to express themselves spontaneously and think critically in the shoes of another.  
 
-Our drama activities include: 
+**Our drama activities include: **
 
 ![](/images/Our%20Curriculum/Departments/English/speech__drama_and_fun_2024.png)
 
@@ -103,7 +103,7 @@ During each session, students read and respond to works of literature with empha
 
 In addition, our Talent Development Programme provides a platform for students to further develop their oral communication and creative writing skills. Verbally talented students are selected and trained to achieve high standards of expression, argument and presentation through the introduction and exposure to debate. Budding writers are also given opportunities to hone their creative writing skills through various writing competitions. Such activities nurture our students’ flair and passion for the English Language.
 
-Mystery Reader - Student-Led Storytelling
+**Mystery Reader - Student-Led Storytelling**
 ![](/images/Our%20Curriculum/Departments/English/English_talent_1_2024.png)
 
 ![](/images/Our%20Curriculum/Departments/English/English_talent_2_2024.png)

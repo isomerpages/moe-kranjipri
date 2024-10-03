@@ -4,7 +4,7 @@ permalink: /for-parents/Parent-Support-Group-PSG/
 description: ""
 variant: markdown
 ---
-![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Budding_Champion.png)![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_BANNER_2024.png)
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_BANNER_2024.png)
 #### **Parent Support Group (PSG)**
 
 We are the parents of KPS who contribute to the school’s efforts to give our children the best educational experience in KPS.  
@@ -99,4 +99,4 @@ Parent-Child Bonding
 **Parenting Talk**
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/Parenting_Talk_2024.png)
 
-![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P12.jpg)
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/Parenting_Talk_2.png)

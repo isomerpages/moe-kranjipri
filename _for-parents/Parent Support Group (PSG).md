@@ -67,6 +67,8 @@ We are a group of parents who play a key role in inspiring our fellow PSG member
 
 #### **PSG Involvement**
 
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_breakfast_with_Principal.png)
+
 **Chinese New Year**
 
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P5.jpg)

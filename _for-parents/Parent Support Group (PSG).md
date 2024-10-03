@@ -60,51 +60,9 @@ We are a group of parents who play a key role in inspiring our fellow PSG member
 
 	- We support and guide our fellow KPS parents in their Parenting journey
 
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Joreen_Ong.png)
 
-![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Joreen.png)
-<div>
-
-<div style="float: left">
-
-<img style="width:20%;height:50%" src="/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSGNEW1.jpeg">
-
-</div><div>
-
-Effective home-school partnership provides a great educational experience for our children. At KPS, we witness many successful parents who are actively involved in their children’s education journey, and their children have demonstrated positive learning attitudes, high self-esteem and are motivated in learning. This is the key driver for us in the PSG Focus Group - to build a strong collaboration with the school.  
-
-  
-
-Kranji’s PSG has a strong network to bridge parent-school communication &amp; support.&nbsp; PSG Focus Group members show our “Kampung Spirit” through encouraging and supporting one another in our parenting journey.&nbsp; We communicate regularly and collaborate closely to support school activities.
-
-  
-
-We hope to see more active parent participation in our programmes so as to maintain a successful PSG-school community that raises happy and successful Kranjians!  
-**Joreen Ong, PSG Coordinator**
-<br>	
-	
-</div></div>
-
-
-<div>
-
-<div style="float: left">
-
-<img style="width:20%;height:50%" src="/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSGNEW2.jpeg">
-
-</div><div>
-
-Together with the school, parents play an important role in enriching our children’s development.&nbsp;
-
-Our participation in school programmes sends a strong signal to our children that we are interested in their learning and that we are walking the journey with them.
-
-We believe that our collaboration with the school will raise happy and successful children and help us forge closer bonds with them.
-	
-We also hope to make lasting memories for every Kranjian on their primary school life.&nbsp; Hence, I encourage all parents to join hands and support our children in school whenever you are available.&nbsp; Together, we will support the school in building the Kranjian spirit in our children!  
-
-**Minh, PSG Coordinator**
-
-</div></div>
-
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Minh.png)
 
 
 #### **PSG Involvement**

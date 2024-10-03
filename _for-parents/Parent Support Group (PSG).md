@@ -73,7 +73,8 @@ We are a group of parents who play a key role in inspiring our fellow PSG member
 **Chinese New Year**
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Chinese_New_Year_2024.png)
 
-
+**Happy Teacher's Day**
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/PSG_Teacher_s_Day_2024.png)
 
 
 

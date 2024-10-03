@@ -97,4 +97,6 @@ Parent-Child Bonding
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P11.jpg)
 
 **Parenting Talk**
+![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/Parenting_Talk_2024.png)
+
 ![](/images/For%20Parents/Parent%20Support%20Group%20(PSG)/P12.jpg)

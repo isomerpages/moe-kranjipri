@@ -18,8 +18,8 @@ Teachers will also use the SLS to complement classroom teaching and learning thr
 ##### **How to Login?**
 
 **SLS Website**: [here](here ) 
+![](/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/SLS_main_page_login_2024.png)
 
-![](/images/SLS_main_page_login.png)
 
 Click on **"LOGIN WITH MIMS"**. You will be directed to MIMS Portal main page.
 

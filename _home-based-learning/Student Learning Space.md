@@ -10,7 +10,7 @@ variant: markdown
 
 
 
-**SLS Website:**  **[](https://learning.moe.edu.sg/)** [video](https://www.youtube.com/watch?v=ht--L3Pj_yQ)
+**SLS Website:** [here](https://vle.learning.moe.edu.sg/login)
 
   
 **Student Learning Space (SLS) Introduction:** [video](https://www.youtube.com/watch?v=ht--L3Pj_yQ)

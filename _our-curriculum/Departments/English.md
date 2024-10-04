@@ -56,7 +56,7 @@ Drama is a vehicle to inject an element of fun in language learning. Through dra
 
 It is a powerful teaching tool to capture the attention of students in the classroom to bring about effective language learning. In Kranji, drama is infused through the Stellar Curriculum, to make language learning fun and dynamic. A classroom can be transformed into an imaginary or real world setting for students to explore and develop ideas. Through DICE, students will overcome the fear and inhibitions to express themselves spontaneously and think critically in the shoes of another.  
 
-Our drama activities include: 
+**Our drama activities include: **
 
 ![](/images/Our%20Curriculum/Departments/English/speech__drama_and_fun_2024.png)
 

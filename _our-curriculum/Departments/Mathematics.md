@@ -65,7 +65,7 @@ P2 Math Fun Time
 P1  to P6 Math Games Carnival
 ![](/images/Our%20Curriculum/Departments/Mathematics/P1_to_P6_Math_Carnival.png)
 
-Through games, skills such as spatial-visualization, reasoning and critical thinking are enhanced
+**Through games, skills such as spatial-visualization, reasoning and critical thinking are enhanced**
 ![](/images/Our%20Curriculum/Departments/Mathematics/P1_to_P6_Math_Carnival_3.png)
 
 ![](/images/Our%20Curriculum/Departments/Mathematics/P1_to_P6_Math_Carnival_2.png)

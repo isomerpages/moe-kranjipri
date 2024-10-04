@@ -30,4 +30,5 @@ Nurturing Minds, Engaging Hearts, Building Character <br>
 <b>I</b>ntegrity  <br>
 Res<b>PE</b>ct<br>
 <br>
-<img src="/images/About%20Us/School%20Creed,%20Crest%20and%20Song/schoolvalues003.png"></center>
+<img src="/images/About%20Us/School%20Philosophy,%20School%20Vis/RRIP_2024.png"></center>
+

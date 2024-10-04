@@ -31,4 +31,3 @@ Nurturing Minds, Engaging Hearts, Building Character <br>
 Res<b>PE</b>ct<br>
 <br>
 <img src="/images/About%20Us/School%20Philosophy,%20School%20Vis/RRIP_2024.png"></center>
-

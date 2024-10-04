@@ -5,7 +5,8 @@ description: ""
 variant: markdown
 ---
 #### **Student Learning Space (SLS)**
-![](/images/SLS_main_page_login.png)
+![](/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/SLS_main_page_login_2024.png)
+
 
 At Kranji Primary School, we believe in helping every child find joy in learning and equip our students with the skill to leverage on technology to become future-ready champions in life.
 

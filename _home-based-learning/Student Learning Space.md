@@ -6,13 +6,14 @@ variant: markdown
 ---
 #### **Student Learning Space (SLS)**
 
-![](/images/SLS_main_page_login.png)
+![](/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/SLS_main_page_login_2024.png)
 
 
-**SLS Website:**  **[](https://learning.moe.edu.sg/)** [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)  
+
+**SLS Website:** [here](https://vle.learning.moe.edu.sg/login)
 
   
-**Student Learning Space (SLS) Introduction:** [https://www.youtube.com/watch?time\_continue=80&v=F0FTP2FveSg](https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg)  
+**Student Learning Space (SLS) Introduction:** [video](https://www.youtube.com/watch?v=ht--L3Pj_yQ)
   
 
 

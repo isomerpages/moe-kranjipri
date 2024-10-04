@@ -43,7 +43,7 @@ learner.</p>
 <p><strong>Re</strong>sponsibility, <strong>Re</strong>silience, <strong>C</strong>ompassion, <strong>I</strong>ntegrity,
 Res<strong>PE</strong>ct</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/RRIP_final_v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Total Curriculum Framework/RRIP_2024.png">
 </div>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skills</strong>
 </p>

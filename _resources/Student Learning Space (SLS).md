@@ -17,7 +17,7 @@ Teachers will also use the SLS to complement classroom teaching and learning thr
 
 ##### **How to Login?**
 
-**SLS Website**: [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
+**SLS Website**: [here](here )
 
 ![](/images/SLS_main_page_login.png)
 

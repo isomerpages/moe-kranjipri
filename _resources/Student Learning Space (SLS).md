@@ -17,7 +17,7 @@ Teachers will also use the SLS to complement classroom teaching and learning thr
 
 ##### **How to Login?**
 
-**SLS Website**: [here](here )
+**SLS Website**: [here](here ) 
 
 ![](/images/SLS_main_page_login.png)
 

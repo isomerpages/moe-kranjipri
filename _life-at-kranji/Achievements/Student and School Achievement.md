@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Achievements
 variant: tiptap
 ---
-<h3>Academic Achievement</h3>
+<h3><strong>Academic Achievement</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -32,7 +32,8 @@ variant: tiptap
 <p>Moo-O Digital Storytelling Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: Merit Award</p>
+<p><strong>2024</strong>: Merit Award
+<br><strong>2022</strong>: Merit Award</p>
 </td>
 </tr>
 <tr>
@@ -40,16 +41,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUS High School Oratorical Challenge
-<br>
-<br>
-</p>
-<p>
-<br>
-</p>
+<p>NUS High School Oratorical Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022: Commendation Award</p>
+<p><strong>2022</strong>: Commendation Award</p>
 </td>
 </tr>
 <tr>
@@ -57,14 +52,24 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Raffles Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>: 3 Distinctions, 3 Merits (Junior Category)
+<br><strong>2024</strong>: 1 Distinction, 1 Merit (Open Category)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Raffles Institution Primary Mathematics World Contest</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: 3 Distinctions, 3 Merits
-<br>
-<br>2022: 2 Distinctions, 5 Merits
-<br>
-<br>2019: 3 Distinctions, 1 Credit</p>
+<p><strong>2023</strong>: 3 Distinctions, 3 Merits
+<br><strong>2022</strong>: 2 Distinctions, 5 Merits
+<br><strong>2019</strong>: 3 Distinctions, 1 Credit</p>
 </td>
 </tr>
 <tr>
@@ -78,15 +83,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: 3 Gold 2 Silver 11 Bronze, 6 Honourable Mentions</p>
-<p></p>
-<p>2022: 3 Gold, 2 Silver, 7 Bronze, 8 Honourable Mentions
-<br>
+<p><strong>2023</strong>: 3 Gold, 2 Silver, 11 Bronze, 6 Honourable Mentions
+<br>2022: 3 Gold, 2 Silver, 7 Bronze, 8 Honourable Mentions
 <br>2020: 4 Silver, 10 Bronze
-<br>
-<br>2019: 2 Gold, 5 Silver, 6 Bronze
-<br>
-<br>2018: 5 Gold, 6 Silver,9 Bronze</p>
+<br><strong>2019</strong>: 2 Gold, 5 Silver, 6 Bronze 2018: 5 Gold, 6 Silver,
+9 Bronze</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +98,8 @@ variant: tiptap
 <p>Annual Mathlympics for Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022: 3 Gold</p>
+<p><strong>2024</strong>: 5 Bronze, 3 Merits
+<br><strong>2022</strong>: 3 Gold</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +110,7 @@ variant: tiptap
 <p>ACS Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2018: 1 Silver, 1 Bronze</p>
+<p><strong>2018</strong>: 1 Silver, 1 Bronze</p>
 </td>
 </tr>
 <tr>
@@ -119,9 +121,9 @@ variant: tiptap
 <p>National Mathematical Olympiad of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: 2 Bronze, 3 Honourable Mentions</p>
-<p></p>
-<p>2022: 3 Silver, 1 Bronze, 2 Honourable Mention</p>
+<p><strong>2024</strong>: 3 Bronze, 5 Honourable Mentions
+<br><strong>2023</strong>: 3 Bronze, 3 Honourable Mentions
+<br><strong>2022</strong>: 3 Silver, 1 Bronze, 2 Honourable Mentions</p>
 </td>
 </tr>
 <tr>
@@ -129,11 +131,22 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>: Abbott Young Scientist Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Singapore Amazing Flying Machine Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022: 1 team in final
-<br>2nd place, 3 teams in finals</p>
+<p><strong>2024</strong>: 3rd place in Learning Journey Award
+<br><strong>2022</strong>:1 team in final, 2nd place, 3 teams in finals</p>
 </td>
 </tr>
 <tr>
@@ -144,10 +157,11 @@ variant: tiptap
 <p>Singapore Primary Science Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: 1 Silver, 1 Bronze, 5 Merits</p>
-<p></p>
-<p>2022: 1 team in final
-<br>2nd place, 3 teams in finals</p>
+<p><strong>2024</strong>: 2 Bronze, 4 Merits, 4 Participation
+<br><strong>2023</strong>: 3 Silver, 1 Bronze, 5 Merits
+<br><strong>2022</strong>: 1 team in final, 2nd place, 3 teams in finals
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -159,13 +173,11 @@ variant: tiptap
 <br>National Thinkers Challenge (P5-Eco Champions)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023:1 Merit
-<br>
-<br>2022:3 Merits
-<br>
-<br>2022:21st to 30th scorer, Audience Round Winner, School Tour Winner.
-<br>
-<br>2022: Commendation Award</p>
+<p><strong>2023</strong>: 1 Merit
+<br><strong>2022</strong>: 3 Merits
+<br><strong>2022</strong>: 21st to 30th scorer, Audience Round Winner, School
+Tour Winner.
+<br><strong>2022</strong>: Commendation Award</p>
 </td>
 </tr>
 <tr>
@@ -176,9 +188,9 @@ variant: tiptap
 <p>Text Recital Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: Bronze Award
-<br>
-<br>2022: Silver Award</p>
+<p><strong>2024</strong>: Bronze Award
+<br><strong>2023</strong>: Bronze Award
+<br><strong>2022</strong>: Silver Award</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +201,9 @@ variant: tiptap
 <p>Chinese Escape Room Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: Excellence Award</p>
+<p><strong>2024</strong>: Excellence Award
+<br><strong>2023</strong>: Excellence Award</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -200,8 +214,8 @@ variant: tiptap
 <p>Memory Games Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022: Champion
-<br>2021: Top 3 teams</p>
+<p><strong>2022</strong>: Champion
+<br><strong>2021</strong>: Top 3 teams</p>
 </td>
 </tr>
 <tr>
@@ -212,7 +226,7 @@ variant: tiptap
 <p>National Primary School "Picture Book Creation" Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2021: Silver Award</p>
+<p><strong>2021</strong>: Silver Award</p>
 </td>
 </tr>
 <tr>
@@ -220,10 +234,21 @@ variant: tiptap
 <p>Mother Tongue Language - Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Piala Cendekia Sahibba</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>: West Zone Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Peraduan Peribahasa Melalui Lensa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: Bronze Award</p>
+<p><strong>2023</strong>: Bronze Award</p>
 </td>
 </tr>
 <tr>
@@ -234,7 +259,7 @@ variant: tiptap
 <p>Perkasa Warisan Camp - Yew Tee GRC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2019: Top 2 (P4 Teams A &amp; C)</p>
+<p><strong>2019</strong>: Top 2 (P4 Teams A &amp; C)</p>
 </td>
 </tr>
 <tr>
@@ -245,7 +270,7 @@ variant: tiptap
 <p>National Malay Language Writing Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2019: 2 Silvers, 2nd place</p>
+<p><strong>2019</strong>: 2 Silvers, 2nd place</p>
 </td>
 </tr>
 <tr>
@@ -253,10 +278,21 @@ variant: tiptap
 <p>Mother Tongue Language - Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Tamil Talent Quest Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>: Consolation prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Yew Tee CC IEAC- Show &amp; Tell Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2019: 3rd place</p>
+<p><strong>2019</strong>: 3rd place</p>
 </td>
 </tr>
 <tr>
@@ -267,7 +303,7 @@ variant: tiptap
 <p>Tampines CC IEAC- Singing Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2019: 1st place</p>
+<p><strong>2019</strong>: 1st place</p>
 </td>
 </tr>
 <tr>
@@ -278,7 +314,7 @@ variant: tiptap
 <p>Yew Tee CC IEAC - Fancy Dress Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2019: 3rd place</p>
+<p><strong>2019</strong>: 3rd place</p>
 </td>
 </tr>
 <tr>
@@ -289,7 +325,7 @@ variant: tiptap
 <p>Tirukkural Vizha - Recital Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2019: 2nd place</p>
+<p><strong>2019</strong>: 2nd place</p>
 </td>
 </tr>
 <tr>
@@ -300,7 +336,7 @@ variant: tiptap
 <p>Tirukkural Vizha - Story Telling Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2019: 3rd place &amp; Motivational prize</p>
+<p><strong>2019</strong>: 3rd place &amp; Motivational prize</p>
 </td>
 </tr>
 <tr>
@@ -311,7 +347,7 @@ variant: tiptap
 <p>Tirukkural Vizha - Oratorical Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2019: 2nd place</p>
+<p><strong>2019</strong>: 2nd place</p>
 </td>
 </tr>
 </tbody>
@@ -343,11 +379,23 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Raffles Scholarship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>: 1 awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Singapore Olympic Foundation - Peter Lim Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: 3 awardees
-<br>2022: Encouragement Award</p>
+<p><strong>2024</strong>: 2 awardees
+<br><strong>2023</strong>: 3 awardees
+<br><strong>2022</strong>: Encouragement Award</p>
 </td>
 </tr>
 <tr>
@@ -355,10 +403,32 @@ variant: tiptap
 <p>Cub Scout</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>National Cub Scouts Design Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024: Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Area Cubster Chef Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024: 1 Gold Award, 1 Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>West Area Founder's Day Rally</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: Three-legged Race (2nd postion)
+<p><strong>2023</strong>: Three-legged Race (2nd position)
 <br>Caterpillar Race (3rd Position)</p>
 </td>
 </tr>
@@ -370,7 +440,7 @@ variant: tiptap
 <p>Istana Heritage Gallery Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: 1st Prize</p>
+<p><strong>2023</strong>: 1st Prize</p>
 </td>
 </tr>
 <tr>
@@ -378,22 +448,28 @@ variant: tiptap
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>National School Games Senior Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>: 3rd place in League 1 (Senior Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>National School Games Basketball Championship
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: 3rd place (Senior Girls)
-<br>
+<p><strong>2023</strong>: 3rd place (Senior Girls)
 <br>Tier 2 1st Position (Junior boys)
-<br>
 <br>Tier 2 1st Position (Junior girls)
-<br>
-<br>2019: 1st place (Senior Girls)
-<br>
+<br><strong>2019</strong>: 1st place (Senior Girls)
 <br>Tier 2 1st Position (Junior Boys)
-<br>
-<br>2018: 1st place (Senior Girls), 4th place (Junior Girls)</p>
+<br><strong>2018</strong>: 1st place (Senior Girls), 4th place (Junior Girls)</p>
 </td>
 </tr>
 <tr>
@@ -407,16 +483,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: 3rd place (Senior Girls),
+<p><strong>2023</strong>: 3rd place (Senior Girls),
 <br>Tier 2 1st Position (Junior Boys), Tier 2 1st Position (Junior Girls)
-<br>
-<br>2022: 1st place (Senior Girls),
+<br><strong>2022</strong>: 1st place (Senior Girls),
 <br>Tier 2 1st position (Junior Girls)
 <br>Tier 1 (Junior Boys)
-<br>
-<br>2019: 1st place (Senior Girls)
-<br>
-<br>2018: 1st place (Senior Girls),1st place (Junior Girls)</p>
+<br><strong>2019</strong>: 1st place (Senior Girls)
+<br><strong>2018</strong>: 1st place (Senior Girls),1st place (Junior Girls)</p>
 </td>
 </tr>
 <tr>
@@ -424,10 +497,10 @@ variant: tiptap
 <p>Football</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AES 8-A-Side Football Challenge Club</p>
+<p>Marsiling Yew Tee Football Jamboree</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022: 2nd place</p>
+<p><strong>2024</strong>: 2nd place</p>
 </td>
 </tr>
 <tr>
@@ -435,23 +508,54 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>National School Games Senior Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>: 4th place in League 3 (Senior Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AES 8-A-Side Football Challenge Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>: 2nd place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>National School Games Football Competition
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022: Tier 2 (Junior Boys)</p>
+<p><strong>2022</strong>: Tier 2 (Junior Boys)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dance</p>
+<p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival (SYF) Arts Presentation - International Dance</p>
+<p>Singapore Youth Festival (SYF) Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2018: Certificate of Distinction</p>
+<p><strong>2024</strong>: Certificate of Distinction 2018: Certificate of
+Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Percussion Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>: Certificate of Distinction</p>
 </td>
 </tr>
 <tr>
@@ -459,10 +563,10 @@ variant: tiptap
 <p>Infocomm Media Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Swift Explorers Singapore</p>
+<p>2024 AI Festival for Primary Schools</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: Best 20 Teams</p>
+<p><strong>2024</strong>: Champion School</p>
 </td>
 </tr>
 <tr>
@@ -470,10 +574,22 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Digital Explorer 2023</p>
+<p>Swift Explorers Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: 1 Bronze Award</p>
+<p><strong>2023</strong>: Best 20 Teams</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Digital Explorer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>: 1 Bronze Award
+<br><strong>2023</strong>: 1 Bronze Award</p>
 </td>
 </tr>
 <tr>
@@ -484,9 +600,9 @@ variant: tiptap
 <p>Singapore Youth Festival (SYF) Arts Presentation - Visual Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: Certificate of Recognition
-<br>2021: Certificate of Recognition
-<br>2019: Certificate of Recognition</p>
+<p><strong>2023</strong>: Certificate of Recognition
+<br><strong>2021</strong>: Certificate of Recognition
+<br><strong>2019</strong>: Certificate of Recognition</p>
 </td>
 </tr>
 <tr>
@@ -497,7 +613,7 @@ variant: tiptap
 <p>Stagmont Park Resident's Commitee's National Day Art Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2020: 1st, 3rd, 4th and 5th Place</p>
+<p><strong>2020</strong>: 1st, 3rd, 4th and 5th Place</p>
 </td>
 </tr>
 <tr>
@@ -505,10 +621,10 @@ variant: tiptap
 <p>Environment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Green Wave Environmental Care Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2023</strong>: 3rd place &amp; Team Award</p>
 </td>
 </tr>
 <tr>
@@ -518,13 +634,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>School Green Awards</p>
 <div class="isomer-image-wrapper">
-<img style="width:50%; border:1px double black;" height="50" width="50" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/schgreen-%20yellow%20award.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Student and School Achievement/Yellow_Flame_Award.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022: Yellow Flame Award</p>
+<p><strong>2023</strong>: Yellow Flame Award
+<br><strong>2022</strong>: Yellow Flame Award</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>

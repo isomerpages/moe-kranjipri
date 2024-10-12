@@ -36,6 +36,18 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Awards_2022.png">
 </div>
+<h4><strong>2021</strong></h4>
+<p><strong>MOE Service Excellence Award (MSEA)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/A4.png">
+</div>
+<p><strong>National Day Awards</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Awards_2021.png">
+</div>
+<p></p>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
@@ -44,27 +56,24 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<h4><strong>2021</strong></h4>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Award/Achievement</p>
+<p><strong>Award/Achievement</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff</p>
+<p><strong>Staff</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Presentation of research paper on 'Developing Thinking Disposition in
-<br>Oral Skill' at the Malay Seminar organised by Malay Language Center of
+Oral Skill' at the Malay Seminar organised by Malay Language Center of
 Singapore
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="177" width="385" alt="ML Sharing.png" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A3.png">
+<img style="width: 100%;" height="177" width="385" alt="ML Sharing.png" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,9 +91,8 @@ Singapore
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sharing on "Teaching and Learning during COVID-19 Pandemic" with educators
-in Thailand at a
-<br>conference organised by the Institute for the Promotion of Teaching Science
-and Technology (IPST), Ministry of Education, Thailand</p>
+in Thailand at a conference organised by the Institute for the Promotion
+of Teaching Science and Technology (IPST), Ministry of Education, Thailand</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Chang Suo Hui (LT/MA)
@@ -159,61 +167,6 @@ and ExCEL Fest (TCEF2021)</p>
 <br>Mdm Lena Chua (LH/MA)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOE Service Excellence Award (MSEA) 2021
-<br>
-<br>2 Gold
-<br>12 Silver
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="311" width="554" alt="MSEA 2021.png" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A4.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Woon Ai Ling (ICT Manager)
-<br>Mdm Yap Zhi Jun Vivienne (SH/ICT)
-<br>Mdm Ang Hoon Kwan Angela
-<br>Dr Chang Suo Hui (LT/MA)
-<br>Mdm Chua Siao Yen Lena (LH/MA)
-<br>Mdm Ernie Binte Jumat
-<br>Mdm Hajerah Beevi D/O Kutus (HOD/SM)
-<br>Mrs Hesheam Hashim (ST/ML)
-<br>Mdm Lim Fang Fang (YH/P1 &amp; P2)
-<br>Mdm Ng Pai Chen (SSD)
-<br>Mr Soh Eng Siong Steven
-<br>Mdm Subaidah Bte Syed Ahmad
-<br>Mdm Shirlene Tan
-<br>Mrs Tham-Lin Weijia Amanda (HOD/EL)
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Day Awards 2021
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="487" width="375" alt="National Day Awards 2021.png" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A5.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>The Commendation Medal -
-<br>Mdm Suriana Bte Mohamamed Bakri (ST/ML)
-<br>
-<br>The Long Service Medal –
-<br>Mdm Yong Chin (HOD/MT)
-<br>Mdm Nur Fazalina Bte Hussin (YH/P5 &amp; P6
-<br>
-<br>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -224,24 +177,30 @@ and ExCEL Fest (TCEF2021)</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>2020</p>
+<h4><strong>2020</strong></h4>
+<p><strong>MOE Service Excellence Award (MSEA)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/A8.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Award/Achievement</p>
+<p><strong>Award/Achievement</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff</p>
+<p><strong>Staff</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/National-Awards/" rel="noopener noreferrer nofollow" target="_blank"><u>Outstanding in Youth Education Award (OYEA) 2020</u></a>
-<br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="192" width="290" alt="Vivienne OYEA 1.jpg" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/vivienne_yap_2020.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,11 +217,10 @@ and ExCEL Fest (TCEF2021)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/National-Awards/" rel="noopener noreferrer nofollow" target="_blank"><u>Listening Educator for Advancement and Progress (LEAP) Award 2020 </u></a>
-<br>
+<p><a href="/National-Awards/" rel="noopener noreferrer nofollow" target="_blank"><u>Listening Educator for Advancement and Progress (LEAP) Award 2020</u></a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="239" width="310" alt="Fazalina_LEAP.png" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/Nur_Fazalina_LEAP_2020.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -297,35 +255,6 @@ and ExCEL Fest (TCEF2021)</p>
 <br>Mdm Nordiana Mohd Rashid
 <br>Mdm Noorasmaedah Ahmad
 <br>Mdm Radhiah Jais</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOE Service Excellence Award (MSEA) 2020
-<br>
-<br>10 Silver
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="286" width="510" alt="2020 MOE Service Excellence Award Winners.png" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A8.png">
-</div>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Joanna Wong (HOD/PE &amp; CCA)
-<br>Mdm Junaidah Bte Senor
-<br>Miss Lim Su Bing
-<br>Mdm Neo Bee Leng (HOD/MA)
-<br>Mr Roy Tan (Senior School Counsellor)
-<br>Mdm Deborah Tham
-<br>Mr Peter Wang
-<br>Miss Woon Ai Ling (ICT Manager)
-<br>Mdm Vivienne Yap (SH/ICT)
-<br>Mdm Yong Chin (HOD/MT)
-<br>
-</p>
 </td>
 </tr>
 </tbody>

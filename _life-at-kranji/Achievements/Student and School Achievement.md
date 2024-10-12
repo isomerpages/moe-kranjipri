@@ -54,7 +54,8 @@ variant: tiptap
 <p>Raffles Mathematical Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2024: 3 Distinctions, 3 Merits (Junior Category) 3 Distinctions, 3 Merits
+(Open Category)</p>
 </td>
 </tr>
 <tr>

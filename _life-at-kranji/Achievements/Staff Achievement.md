@@ -11,6 +11,33 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Awards_2024.png">
 </div>
+<p></p>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Award/Achievement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Staff</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Profesional Sharing for Malay Language Senior Teachers/Lead Teachers organised
+by the Malay Language Centre of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Hesheam Hashim</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>2023</strong></h4>
 <p><strong>MOE Service Excellence Award (MSEA)</strong>
 </p>

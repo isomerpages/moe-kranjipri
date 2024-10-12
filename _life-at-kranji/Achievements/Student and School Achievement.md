@@ -352,7 +352,7 @@ variant: tiptap
 <p>West Area Founder's Day Rally</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: Three-legged Race (2nd postion)
+<p>2023: Three-legged Race (2nd position)
 <br>Caterpillar Race (3rd Position)</p>
 </td>
 </tr>
@@ -372,7 +372,7 @@ variant: tiptap
 <p>National School Games Senior Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024: 3rd place (Senior Girls)</p>
+<p>2024: 3rd place in League 1 (Senior Girls)</p>
 </td>
 </tr>
 <tr>

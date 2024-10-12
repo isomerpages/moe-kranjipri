@@ -501,7 +501,7 @@ Distinction</p>
 <p>Infocomm Media Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 AI Festival</p>
+<p>2024 AI Festival for Primary Schools</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024: Champion School</p>

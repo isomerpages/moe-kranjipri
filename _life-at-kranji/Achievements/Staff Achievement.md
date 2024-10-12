@@ -187,10 +187,12 @@ and ExCEL Fest (TCEF2021)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Award/Achievement</p>
+<p><strong>Award/Achievement</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff</p>
+<p><strong>Staff</strong>
+</p>
 </td>
 </tr>
 <tr>

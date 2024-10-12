@@ -36,6 +36,18 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Awards_2022.png">
 </div>
+<h4><strong>2021</strong></h4>
+<p><strong>MOE Service Excellence Award (MSEA)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/A4.png">
+</div>
+<p><strong>National Day Awards</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Awards_2021.png">
+</div>
+<p></p>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>

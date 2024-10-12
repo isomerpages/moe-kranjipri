@@ -5,57 +5,8 @@ description: ""
 third_nav_title: Achievements
 variant: tiptap
 ---
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>MOE Service Excellence Award (MSEA) 2023</p>
-</th>
-<th rowspan="1" colspan="1">
+<h4><strong>2024</strong></h4>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Gold</p>
-<p>13 Silver</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MSEA_2023_Winners_final.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yak Hui Hwa (Mrs Seetoh), Miss Ting Pui Sin, Mdm Wong Wai Leng, Mr
-Tan Tien Leng (Senior School Counsellor), Ms Yeo Hwee Koon (AM),Mdm Poh
-Lay Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Pai Chen, Mrs Stephanie Thoo, Mrs Gwen Tan, Ms Azzulin Binte Aripin,
-Mrs Joanna Wong, Mdm Nur Fazalina Bte Hussin, Mdm Mariah Binte Rahmat,
-Mdm Ernie Binte Jumat, Mdm Shirlene Tan, Mr Ng Whye Shoen Wilson, Mr Ng
-Chou Yeaw, Mr Lee Thian Soh (OSO), Mdm Ong Peck Eng (OSO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>2023</strong></h4>
 <p><strong>MOE Service Excellence Award (MSEA)</strong>
 </p>
@@ -65,9 +16,6 @@ Chou Yeaw, Mr Lee Thian Soh (OSO), Mdm Ong Peck Eng (OSO)</p>
 </div>
 <p><strong>National Day Awards</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Awards_2023.png">
-</div>
 <h4><strong>2022</strong></h4>
 <p><strong>MOE Service Excellence Award (MSEA)</strong>
 </p>

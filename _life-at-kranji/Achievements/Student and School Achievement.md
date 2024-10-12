@@ -501,6 +501,17 @@ Distinction</p>
 <p>Infocomm Media Club</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2024 AI Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024: Champion School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Swift Explorers Singapore</p>
 </td>
 <td rowspan="1" colspan="1">

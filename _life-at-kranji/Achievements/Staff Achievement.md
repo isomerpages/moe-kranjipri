@@ -6,7 +6,8 @@ third_nav_title: Achievements
 variant: tiptap
 ---
 <h4><strong>2024</strong></h4>
-<p>National Day Awards</p>
+<p><strong>National Day Awards</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Awards_2024.png">
 </div>

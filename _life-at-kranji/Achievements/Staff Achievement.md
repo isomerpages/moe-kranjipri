@@ -89,8 +89,7 @@ Chou Yeaw, Mr Lee Thian Soh (OSO), Mdm Ong Peck Eng (OSO)</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p></p>
-<h4>2021</h4>
+<h4><strong>2021</strong></h4>
 </th>
 </tr>
 <tr>

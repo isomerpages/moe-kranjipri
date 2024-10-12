@@ -41,13 +41,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUS High School Oratorical Challenge
-<br>
-<br>
-</p>
-<p>
-<br>
-</p>
+<p>NUS High School Oratorical Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2022: Commendation Award</p>

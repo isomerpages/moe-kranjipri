@@ -223,7 +223,7 @@ and ExCEL Fest (TCEF2021)</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>2020</p>
+<h4><strong>2020</strong></h4>
 </th>
 </tr>
 <tr>

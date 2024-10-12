@@ -527,10 +527,11 @@ Distinction</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Digital Explorer 2023</p>
+<p>National Digital Explorer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2023</strong>: 1 Bronze Award</p>
+<p><strong>2024</strong>: 1 Bronze Award
+<br><strong>2023</strong>: 1 Bronze Award</p>
 </td>
 </tr>
 <tr>

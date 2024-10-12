@@ -345,7 +345,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Cub Scout</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -357,9 +357,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Istana Heritage Gallery Challenge</p>
 </td>
@@ -451,7 +448,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Infocomm Media Club</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -463,9 +460,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>National Digital Explorer 2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -473,7 +467,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -487,9 +481,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Stagmont Park Resident's Commitee's National Day Art Competition</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -499,17 +490,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Environment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Green Awards</p>

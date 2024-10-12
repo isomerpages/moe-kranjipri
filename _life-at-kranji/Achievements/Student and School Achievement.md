@@ -171,7 +171,8 @@ Tour Winner.
 <p>Text Recital Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2023</strong>: Bronze Award
+<p><strong>2024</strong>: Bronze Award
+<br><strong>2023</strong>: Bronze Award
 <br><strong>2022</strong>: Silver Award</p>
 </td>
 </tr>
@@ -504,7 +505,7 @@ Distinction</p>
 <p>2024 AI Festival for Primary Schools</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024: Champion School</p>
+<p><strong>2024</strong>: Champion School</p>
 </td>
 </tr>
 <tr>

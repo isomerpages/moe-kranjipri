@@ -11,7 +11,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Awards_2024.png">
 </div>
-<p></p>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>

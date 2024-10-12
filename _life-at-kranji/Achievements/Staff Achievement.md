@@ -59,6 +59,7 @@ Chou Yeaw, Mr Lee Thian Soh (OSO), Mdm Ong Peck Eng (OSO)</p>
 <h4><strong>2023</strong></h4>
 <p><strong>MOE Service Excellence Award (MSEA)</strong>
 </p>
+<p>6 Gold 13 Silver</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/MSEA_2023_Winners.png">
 </div>

@@ -30,6 +30,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Profesional Sharing for Malay Language Senior Teachers/Lead Teachers organised
 by the Malay Language Centre of Singapore</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/Hesheam_Achievement_2024.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Hesheam Hashim</p>

@@ -463,10 +463,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dance</p>
+<p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival (SYF) Arts Presentation - International Dance</p>
+<p>Singapore Youth Festival (SYF) Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024: Certificate of Distinction 2018: Certificate of Distinction</p>

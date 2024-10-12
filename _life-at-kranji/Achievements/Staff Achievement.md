@@ -82,9 +82,8 @@ Singapore
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sharing on "Teaching and Learning during COVID-19 Pandemic" with educators
-in Thailand at a
-<br>conference organised by the Institute for the Promotion of Teaching Science
-and Technology (IPST), Ministry of Education, Thailand</p>
+in Thailand at a conference organised by the Institute for the Promotion
+of Teaching Science and Technology (IPST), Ministry of Education, Thailand</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Chang Suo Hui (LT/MA)

@@ -474,6 +474,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Percussion Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024: Cetificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Infocomm Media Club</p>
 </td>
 <td rowspan="1" colspan="1">

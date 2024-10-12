@@ -261,7 +261,7 @@ and ExCEL Fest (TCEF2021)</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="239" width="310" alt="Fazalina_LEAP.png" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/Nur_Fazalina_LEAP_2020.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">

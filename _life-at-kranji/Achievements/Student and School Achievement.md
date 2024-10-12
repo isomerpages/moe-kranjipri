@@ -375,6 +375,28 @@ Tour Winner.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cub Scouts Design Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024: Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Area Cubster Chef Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024: 1 Gold Award, 1 Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Cub Scout</p>
 </td>
 <td rowspan="1" colspan="1">

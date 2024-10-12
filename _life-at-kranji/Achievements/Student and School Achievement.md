@@ -328,6 +328,17 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Raffles Scholarship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024: 1 awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Singapore Olympic Foundation - Peter Lim Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -130,9 +130,8 @@ variant: tiptap
 <p>Singapore Amazing Flying Machine Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024: 3rd place in Learning Journey Award</p>
-<p>2022: 1 team in final
-<br>2nd place, 3 teams in finals</p>
+<p>2024: 3rd place in Learning Journey Award
+<br>2022:1 team in final, 2nd place, 3 teams in finals</p>
 </td>
 </tr>
 <tr>
@@ -143,9 +142,9 @@ variant: tiptap
 <p>Singapore Primary Science Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: 1 Silver, 1 Bronze, 5 Merits</p>
-<p>2022: 1 team in final
-<br>2nd place, 3 teams in finals</p>
+<p>2023:1 Merit
+<br>2022:3 Merits
+<br>2022:21st to 30th scorer, Audience Round Winner, School Tour Winner.</p>
 </td>
 </tr>
 <tr>

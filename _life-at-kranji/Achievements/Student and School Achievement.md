@@ -183,6 +183,7 @@ variant: tiptap
 <p>Chinese Escape Room Competition</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2024: Excellence Award</p>
 <p>2023: Excellence Award</p>
 </td>
 </tr>

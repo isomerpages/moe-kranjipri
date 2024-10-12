@@ -375,7 +375,7 @@ Tour Winner.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cub Scout</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Cub Scouts Design Competition</p>
@@ -397,7 +397,7 @@ Tour Winner.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cub Scout</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>West Area Founder's Day Rally</p>

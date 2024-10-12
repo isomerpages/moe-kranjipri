@@ -256,35 +256,6 @@ and ExCEL Fest (TCEF2021)</p>
 <br>Mdm Radhiah Jais</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOE Service Excellence Award (MSEA) 2020
-<br>
-<br>10 Silver
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="286" width="510" alt="2020 MOE Service Excellence Award Winners.png" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A8.png">
-</div>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Joanna Wong (HOD/PE &amp; CCA)
-<br>Mdm Junaidah Bte Senor
-<br>Miss Lim Su Bing
-<br>Mdm Neo Bee Leng (HOD/MA)
-<br>Mr Roy Tan (Senior School Counsellor)
-<br>Mdm Deborah Tham
-<br>Mr Peter Wang
-<br>Miss Woon Ai Ling (ICT Manager)
-<br>Mdm Vivienne Yap (SH/ICT)
-<br>Mdm Yong Chin (HOD/MT)
-<br>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>

@@ -56,7 +56,7 @@ Chou Yeaw, Mr Lee Thian Soh (OSO), Mdm Ong Peck Eng (OSO)</p>
 </tr>
 </tbody>
 </table>
-<p><strong>MOE Service Excellence Award (MSEA) 2023</strong>
+<p><strong>MOE Service Excellence Award (MSEA) </strong>
 </p>
 <p></p>
 <p><strong>National Day Awards</strong>
@@ -65,7 +65,7 @@ Chou Yeaw, Mr Lee Thian Soh (OSO), Mdm Ong Peck Eng (OSO)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Awards_2023.png">
 </div>
 <h4><strong>2022</strong></h4>
-<p><strong>MOE Service Excellence Award (MSEA) 2022</strong>
+<p><strong>MOE Service Excellence Award (MSEA)</strong>
 </p>
 <p>1 Platinum 2 Gold 8 Silver</p>
 <div class="isomer-image-wrapper">

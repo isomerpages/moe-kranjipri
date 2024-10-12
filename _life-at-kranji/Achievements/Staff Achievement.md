@@ -111,10 +111,6 @@ Chou Yeaw, Mr Lee Thian Soh (OSO), Mdm Ong Peck Eng (OSO)</p>
 </div>
 <p><strong>National Day Awards</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Awards_2022.png">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Awards_2022.png">
 </div>

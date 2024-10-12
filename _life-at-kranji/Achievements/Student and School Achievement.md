@@ -623,7 +623,7 @@ Distinction</p>
 <p>Green Wave Environmental Care Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024: 3rd place &amp; Team Award</p>
+<p><strong>2023</strong>: 3rd place &amp; Team Award</p>
 </td>
 </tr>
 <tr>

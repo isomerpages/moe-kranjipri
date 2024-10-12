@@ -82,11 +82,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: 3 Gold 2 Silver 11 Bronze, 6 Honourable Mentions</p>
-<p>2022: 3 Gold, 2 Silver, 7 Bronze, 8 Honourable Mentions
+<p>2023: 3 Gold, 2 Silver, 11 Bronze, 6 Honourable Mentions
+<br>2022: 3 Gold, 2 Silver, 7 Bronze, 8 Honourable Mentions
 <br>2020: 4 Silver, 10 Bronze
-<br>2019: 2 Gold, 5 Silver, 6 Bronze
-<br>2018: 5 Gold, 6 Silver,9 Bronze</p>
+<br>2019: 2 Gold, 5 Silver, 6 Bronze 2018: 5 Gold, 6 Silver, 9 Bronze</p>
 </td>
 </tr>
 <tr>

@@ -456,9 +456,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Infocomm Media Club</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Singapore Amazing Flying Machine Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024: 3rd place</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Swift Explorers Singapore</p>
 </td>

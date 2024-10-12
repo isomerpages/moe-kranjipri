@@ -119,8 +119,8 @@ variant: tiptap
 <p>National Mathematical Olympiad of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2023</strong>: 2 Bronze, 3 Honourable Mentions</p>
-<p><strong>2022</strong>: 3 Silver, 1 Bronze, 2 Honourable Mentions</p>
+<p><strong>2023</strong>: 2 Bronze, 3 Honourable Mentions
+<br><strong>2022</strong>: 3 Silver, 1 Bronze, 2 Honourable Mentions</p>
 </td>
 </tr>
 <tr>

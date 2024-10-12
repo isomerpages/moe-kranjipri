@@ -55,9 +55,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2023: 3 Distinctions, 3 Merits
-<br>
 <br>2022: 2 Distinctions, 5 Merits
-<br>
 <br>2019: 3 Distinctions, 1 Credit</p>
 </td>
 </tr>
@@ -73,13 +71,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2023: 3 Gold 2 Silver 11 Bronze, 6 Honourable Mentions</p>
-<p></p>
 <p>2022: 3 Gold, 2 Silver, 7 Bronze, 8 Honourable Mentions
-<br>
 <br>2020: 4 Silver, 10 Bronze
-<br>
 <br>2019: 2 Gold, 5 Silver, 6 Bronze
-<br>
 <br>2018: 5 Gold, 6 Silver,9 Bronze</p>
 </td>
 </tr>
@@ -114,7 +108,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2023: 2 Bronze, 3 Honourable Mentions</p>
-<p></p>
 <p>2022: 3 Silver, 1 Bronze, 2 Honourable Mention</p>
 </td>
 </tr>
@@ -140,7 +133,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2023: 1 Silver, 1 Bronze, 5 Merits</p>
-<p></p>
 <p>2022: 1 team in final
 <br>2nd place, 3 teams in finals</p>
 </td>
@@ -155,11 +147,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2023:1 Merit
-<br>
 <br>2022:3 Merits
-<br>
 <br>2022:21st to 30th scorer, Audience Round Winner, School Tour Winner.
-<br>
 <br>2022: Commendation Award</p>
 </td>
 </tr>
@@ -172,7 +161,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2023: Bronze Award
-<br>
 <br>2022: Silver Award</p>
 </td>
 </tr>
@@ -184,6 +172,7 @@ variant: tiptap
 <p>Chinese Escape Room Competition</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2024: Excellence Award</p>
 <p>2023: Excellence Award</p>
 </td>
 </tr>
@@ -390,15 +379,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2023: 3rd place (Senior Girls)
-<br>
 <br>Tier 2 1st Position (Junior boys)
-<br>
 <br>Tier 2 1st Position (Junior girls)
-<br>
 <br>2019: 1st place (Senior Girls)
-<br>
 <br>Tier 2 1st Position (Junior Boys)
-<br>
 <br>2018: 1st place (Senior Girls), 4th place (Junior Girls)</p>
 </td>
 </tr>
@@ -415,13 +399,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2023: 3rd place (Senior Girls),
 <br>Tier 2 1st Position (Junior Boys), Tier 2 1st Position (Junior Girls)
-<br>
 <br>2022: 1st place (Senior Girls),
 <br>Tier 2 1st position (Junior Girls)
 <br>Tier 1 (Junior Boys)
-<br>
 <br>2019: 1st place (Senior Girls)
-<br>
 <br>2018: 1st place (Senior Girls),1st place (Junior Girls)</p>
 </td>
 </tr>

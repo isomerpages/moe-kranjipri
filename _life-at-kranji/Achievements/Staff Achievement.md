@@ -56,51 +56,9 @@ Chou Yeaw, Mr Lee Thian Soh (OSO), Mdm Ong Peck Eng (OSO)</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>National Day Awards 2023</p>
-</th>
-<th rowspan="1" colspan="1">
+<p><strong>MOE Service Excellence Award (MSEA) 2023</strong>
+</p>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Commendation Medal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Azzulin Bte Aripin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Long Service Medal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Goh Meei Yunn
-<br>Mdm Joanne Chia Lee Eng
-<br>Mdm Mariah Binte Rahmat
-<br>Mr Richard s/o Arokiasamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>National Day Awards</strong>
 </p>
 <div class="isomer-image-wrapper">

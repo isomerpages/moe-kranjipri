@@ -368,9 +368,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Basketball</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>National School Games Senior Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024: 3rd place (Senior Girls)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>National School Games Basketball Championship
 <br>
@@ -392,9 +400,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>National School Games West Zone Basketball Championship
 <br>
 </p>
@@ -414,7 +419,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Football</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -425,9 +430,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>National School Games Football Competition
 <br>

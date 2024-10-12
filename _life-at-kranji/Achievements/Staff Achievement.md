@@ -56,11 +56,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<h4><strong>2021</strong></h4>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Award/Achievement</strong>
 </p>

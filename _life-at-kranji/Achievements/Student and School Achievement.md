@@ -183,7 +183,6 @@ variant: tiptap
 <p>Chinese Escape Room Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024: Excellence Award</p>
 <p>2023: Excellence Award</p>
 </td>
 </tr>
@@ -346,7 +345,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Cub Scout</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -359,6 +358,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Istana Heritage Gallery Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -366,7 +368,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -377,6 +379,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p>National School Games Basketball Championship
 <br>
@@ -398,6 +403,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>National School Games West Zone Basketball Championship
 <br>
 </p>
@@ -417,17 +425,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Football</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>National School Games Senior Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024: 4th place in League 4</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>AES 8-A-Side Football Challenge Club</p>
 </td>
@@ -457,17 +457,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Infocomm Media Club</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Singapore Amazing Flying Machine Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024: 3rd place</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Swift Explorers Singapore</p>
 </td>
@@ -477,6 +469,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>National Digital Explorer 2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -484,7 +479,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -497,6 +492,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Stagmont Park Resident's Commitee's National Day Art Competition</p>
 </td>

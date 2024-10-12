@@ -634,7 +634,7 @@ Distinction</p>
 <td rowspan="1" colspan="1">
 <p>School Green Awards</p>
 <div class="isomer-image-wrapper">
-<img style="width:50%; border:1px double black;" height="50" width="50" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/schgreen-%20yellow%20award.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Student and School Achievement/Yellow_Flame_Award.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">

@@ -264,6 +264,17 @@ Tour Winner.
 <p>Mother Tongue Language - Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Tamil Talent Quest Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>: Consolation prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Yew Tee CC IEAC- Show &amp; Tell Competition</p>
 </td>
 <td rowspan="1" colspan="1">

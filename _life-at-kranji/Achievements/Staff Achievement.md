@@ -16,6 +16,10 @@ variant: tiptap
 </div>
 <p><strong>National Day Awards</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Awards_2023.png">
+</div>
 <h4><strong>2022</strong></h4>
 <p><strong>MOE Service Excellence Award (MSEA)</strong>
 </p>

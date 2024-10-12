@@ -101,7 +101,11 @@ Chou Yeaw, Mr Lee Thian Soh (OSO), Mdm Ong Peck Eng (OSO)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>National Day Awards</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Awards_2023.png">
+</div>
 <h4><strong>2022</strong></h4>
 <p><strong>MOE Service Excellence Award (MSEA) 2022</strong>
 </p>
@@ -114,55 +118,6 @@ Chou Yeaw, Mr Lee Thian Soh (OSO), Mdm Ong Peck Eng (OSO)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Awards_2022.png">
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOE Service Excellence Award (MSEA) 2022</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/SANEW1.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Chin Hong (OM) Mdm Ang Yue Quin Sherin (AM)
-<br>Mdm Subaidah Bte Syed Ahmad
-<br>Mdm Ida Fittri Binte Arifin
-<br>Mdm K Rajeswary
-<br>Mdm Poh Lay Hong
-<br>Mr Tan Tien Leng (Senior School Counsellor)
-<br>Miss Ting Pui Sin
-<br>Mdm Wong Wai Leng
-<br>Mdm Yak Hui Hwa (SH/ICT)
-<br>Miss Yeo Hwee Koon (AM)</p>
-<p></p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <hr>
 <p></p>

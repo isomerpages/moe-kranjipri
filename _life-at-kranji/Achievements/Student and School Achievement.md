@@ -216,6 +216,17 @@ Tour Winner.
 <p>Mother Tongue Language - Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Piala Cendekia Sahibba</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>: West Zone Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Peraduan Peribahasa Melalui Lensa</p>
 </td>
 <td rowspan="1" colspan="1">

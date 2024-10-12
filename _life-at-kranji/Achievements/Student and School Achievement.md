@@ -143,8 +143,11 @@ variant: tiptap
 <p>Singapore Primary Science Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2023</strong>: 1 Silver, 1 Bronze, 5 Merits
-<br><strong>2022</strong>: 1 team in final, 2nd place, 3 teams in finals</p>
+<p><strong>2024</strong>: 2 Bronze, 4 Merits, 4 Participation
+<br><strong>2023</strong>: 3 Silver, 1 Bronze, 5 Merits
+<br><strong>2022</strong>: 1 team in final, 2nd place, 3 teams in finals
+<br>
+</p>
 </td>
 </tr>
 <tr>

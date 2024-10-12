@@ -382,7 +382,8 @@ Tour Winner.
 <p>Raffles Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: 1 awardee</p>
+<p><strong>2024</strong>: 1 Awardee
+<br><strong>2023</strong>: 1 Awardee</p>
 </td>
 </tr>
 <tr>
@@ -406,7 +407,7 @@ Tour Winner.
 <p>National Cub Scouts Design Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024: Bronze Award</p>
+<p><strong>2024</strong>: Bronze Award</p>
 </td>
 </tr>
 <tr>
@@ -417,7 +418,7 @@ Tour Winner.
 <p>West Area Cubster Chef Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024: 1 Gold Award, 1 Silver Award</p>
+<p><strong>2024</strong>: 1 Gold Award, 1 Silver Award</p>
 </td>
 </tr>
 <tr>

@@ -59,7 +59,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Presentation of research paper on 'Developing Thinking Disposition in
-<br>Oral Skill' at the Malay Seminar organised by Malay Language Center of
+Oral Skill' at the Malay Seminar organised by Malay Language Center of
 Singapore
 <br>
 </p>

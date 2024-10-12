@@ -178,6 +178,11 @@ and ExCEL Fest (TCEF2021)</p>
 <tr>
 <th rowspan="1" colspan="2">
 <h4><strong>2020</strong></h4>
+<p><strong>MOE Service Excellence Award (MSEA)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/A8.png">
+</div>
 </th>
 </tr>
 <tr>

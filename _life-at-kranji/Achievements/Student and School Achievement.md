@@ -620,6 +620,17 @@ Distinction</p>
 <p>Environment</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Green Wave Environmental Care Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024: 3rd place &amp; Team Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>School Green Awards</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%; border:1px double black;" height="50" width="50" src="/images/Life%20@%20Kranji/Achievements/Student%20and%20School%20Achievement/schgreen-%20yellow%20award.png">

@@ -164,7 +164,6 @@ variant: tiptap
 <br><strong>2022</strong>: 21st to 30th scorer, Audience Round Winner, School
 Tour Winner.
 <br><strong>2022</strong>: Commendation Award</p>
-<p></p>
 </td>
 </tr>
 <tr>

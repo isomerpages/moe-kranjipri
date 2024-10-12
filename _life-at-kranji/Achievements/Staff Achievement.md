@@ -258,7 +258,6 @@ and ExCEL Fest (TCEF2021)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/National-Awards/" rel="noopener noreferrer nofollow" target="_blank"><u>Listening Educator for Advancement and Progress (LEAP) Award 2020 </u></a>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/Nur_Fazalina_LEAP_2020.png">

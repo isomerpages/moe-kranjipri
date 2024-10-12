@@ -297,8 +297,6 @@ and ExCEL Fest (TCEF2021)</p>
 <br>
 <br>
 <br>
-<br>
-<br>
 </p>
 </td>
 </tr>
@@ -370,10 +368,6 @@ and ExCEL Fest (TCEF2021)</p>
 <br>Miss Woon Ai Ling (ICT Manager)
 <br>Mdm Vivienne Yap (SH/ICT)
 <br>Mdm Yong Chin (HOD/MT)
-<br>
-<br>
-<br>
-<br>
 <br>
 </p>
 </td>

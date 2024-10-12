@@ -121,9 +121,6 @@ Singapore
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 </p>
 </td>
 </tr>

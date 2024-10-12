@@ -126,6 +126,7 @@ variant: tiptap
 <p>Singapore Amazing Flying Machine Competition</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2024: 3rd place in Learning Journey Award</p>
 <p>2022: 1 team in final
 <br>2nd place, 3 teams in finals</p>
 </td>

@@ -97,7 +97,8 @@ variant: tiptap
 <p>Annual Mathlympics for Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>: 3 Gold</p>
+<p><strong>2024</strong>: 5 Bronze, 3 Merits
+<br><strong>2022</strong>: 3 Gold</p>
 </td>
 </tr>
 <tr>

@@ -48,7 +48,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raffles Mathematical Olympiad</p>
@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raffles Institution Primary Mathematics World Contest</p>

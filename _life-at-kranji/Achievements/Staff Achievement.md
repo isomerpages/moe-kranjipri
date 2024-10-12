@@ -198,10 +198,9 @@ and ExCEL Fest (TCEF2021)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/National-Awards/" rel="noopener noreferrer nofollow" target="_blank"><u>Outstanding in Youth Education Award (OYEA) 2020</u></a>
-<br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="192" width="290" alt="Vivienne OYEA 1.jpg" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/A6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/vivienne_yap_2020.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

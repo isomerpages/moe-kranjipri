@@ -218,7 +218,7 @@ and ExCEL Fest (TCEF2021)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/A8.png">
 </div>First row from left to right: Mrs Joanna Wong (HOD/PE &amp; CCA), Mdm Junaidah Bte Senor, Miss Lim Su Bing, Mdm Neo Bee Leng (HOD/MA), Mr Roy Tan (Senior School Counsellor)<br>
-Second row from left to right:  Mdm Deborah Tham, Mr Peter Wang, Miss Woon Ai Ling (ICT Manager), Mdm Vivienne Yap (SH/ICT), Mdm Yong Chin (HOD/MT)
+Second row from left to right:  Mdm Deborah Tham, Mr Peter Wang, Miss Woon Ai Ling (ICT Manager), Mdm Yap Zhi Jun Vivienne (SH/ICT), Mdm Yong Chin (HOD/MT)
 	
 </th>
 </tr>

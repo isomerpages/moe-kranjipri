@@ -8,6 +8,7 @@ variant: markdown
 <h4><strong>2024</strong></h4>
 <p><strong>MOE Service Excellence Award (MSEA)</strong>
 </p>
+<p>7 Gold 17 Silver</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/MSEA_2024_Winners.png">
 </div>
@@ -76,7 +77,8 @@ by the Malay Language Centre of Singapore</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/A4.png">
 </div>First row from left to right: Miss Woon Ai Ling (CT Manager), Mdm  Yap Zhi Jun Vivienne (SH/ICT), Mdm Ang Hoon Kwan Angela, Dr Chang Suo Hui (LT/MA), Mdm Chua Siao Yen Lena (LH/MA), Mdm Ernie Binte Jumat, Mdm Hajerah Beevi D/O Kutus (HOD/SM)<br>
-Second row from left to right: Mrs Hesheam Hashim (ST/ML), Mdm Lim Fang Fang (YH/P1 &amp; P2), Mdm Ng Pai Chen (SSD), Mr Soh Eng Siong Steven , Mdm Subaidah Bte Syed Ahmad, Mdm Shirlene Tan, Mrs Tham-Lin Weijia Amanda (HOD/EL)
+Second row from left to right: Mrs Hesheam Hashim (ST/ML), Mdm Lim Fang Fang (YH/P1 &amp; P2), Mdm Ng Pai Chen (SSD), Mr Soh Eng Siong Steven , Mdm Subaidah Bte Syed Ahmad, Mdm Shirlene Tan, Mrs Tham-Lin Weijia Amanda (HOD/EL)<br>
+
 <p><strong>National Day Awards</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -219,7 +221,7 @@ and ExCEL Fest (TCEF2021)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/A8.png">
 </div>First row from left to right: Mrs Joanna Wong (HOD/PE &amp; CCA), Mdm Junaidah Bte Senor, Miss Lim Su Bing, Mdm Neo Bee Leng (HOD/MA), Mr Roy Tan (Senior School Counsellor)<br>
 Second row from left to right:  Mdm Deborah Tham, Mr Peter Wang, Miss Woon Ai Ling (ICT Manager), Mdm Yap Zhi Jun Vivienne (SH/ICT), Mdm Yong Chin (HOD/MT)
-	
+
 </th>
 </tr>
 <tr>

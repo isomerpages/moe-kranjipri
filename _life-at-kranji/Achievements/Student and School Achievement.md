@@ -622,7 +622,7 @@ Distinction</p>
 <p>Environment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SembEnviro School Recycling LEague</p>
+<p>SembEnviro School Recycling League</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024: Silver Award</p>

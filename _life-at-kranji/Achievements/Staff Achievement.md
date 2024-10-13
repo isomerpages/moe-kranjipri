@@ -65,7 +65,9 @@ by the Malay Language Centre of Singapore</p>
 <p>1 Platinum 2 Gold 8 Silver</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/SANEW1.png">
-</div>
+</div>First row from left to right: Mr Tan Ching Hong (OM), Mdm Ang Yue Quin Sherin (AM), Mdm Subaidah Bte Syed Ahmad<br>
+Second row from left to right: Mdm Ida Fittri Binte Arifin,. Mdm K Rajeswary, Mdm Poh Lay Hong, Mr Tan Tien Leng (Senior School Counsellor)<br>
+Third row from left to right: Miss Ting Pui Sin, Mdm Yak Hui Hwa (SH/ICT), Miss Yeo Hwee Koon (AM)
 <p><strong>National Day Awards</strong>
 </p>
 <div class="isomer-image-wrapper">

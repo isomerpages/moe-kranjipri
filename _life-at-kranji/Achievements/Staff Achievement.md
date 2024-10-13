@@ -65,9 +65,7 @@ by the Malay Language Centre of Singapore</p>
 <p>1 Platinum 2 Gold 8 Silver</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/SANEW1.png">
-</div>First row from left to right: Mr Tan Ching Hong (OM), Mdm Ang Yue Quin Sherin (AM), Mdm Subaidah Bte Syed Ahmad<br>
-Second row from left to right: Mdm Ida Fittri Binte Arifin,. Mdm K Rajeswary, Mdm Poh Lay Hong, Mr Tan Tien Leng (Senior School Counsellor)<br>
-Third row from left to right: Miss Ting Pui Sin, Mdm Yak Hui Hwa (SH/ICT), Miss Yeo Hwee Koon (AM)
+</div>
 <p><strong>National Day Awards</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -78,8 +76,7 @@ Third row from left to right: Miss Ting Pui Sin, Mdm Yak Hui Hwa (SH/ICT), Miss 
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/A4.png">
-</div>First row from left to right: Miss Woon Ai Ling (CT Manager), Mdm  Yap Zhi Jun Vivienne (SH/ICT), Mdm Ang Hoon Kwan Angela, Dr Chang Suo Hui (LT/MA), Mdm Chua Siao Yen Lena (LH/MA), Mdm Ernie Binte Jumat, Mdm Hajerah Beevi D/O Kutus (HOD/SM)<br>
-Second row from left to right: Mrs Hesheam Hashim (ST/ML), Mdm Lim Fang Fang (YH/P1 &amp; P2), Mdm Ng Pai Chen (SSD), Mr Soh Eng Siong Steven , Mdm Subaidah Bte Syed Ahmad, Mdm Shirlene Tan, Mrs Tham-Lin Weijia Amanda (HOD/EL)<br>
+</div>
 
 <p><strong>National Day Awards</strong>
 </p>
@@ -221,8 +218,7 @@ and ExCEL Fest (TCEF2021)</p>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/A8.png">
-</div>First row from left to right: Mrs Joanna Wong (HOD/PE &amp; CCA), Mdm Junaidah Bte Senor, Miss Lim Su Bing, Mdm Neo Bee Leng (HOD/MA), Mr Roy Tan (Senior School Counsellor)<br>
-Second row from left to right:  Mdm Deborah Tham, Mr Peter Wang, Miss Woon Ai Ling (ICT Manager), Mdm Yap Zhi Jun Vivienne (SH/ICT), Mdm Yong Chin (HOD/MT)
+</div>
 
 </th>
 </tr>

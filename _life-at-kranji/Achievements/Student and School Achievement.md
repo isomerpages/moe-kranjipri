@@ -352,7 +352,7 @@ Tour Winner.
 </tr>
 </tbody>
 </table>
-<h3>Non-Academic Achievement</h3>
+<h3><strong>Non-Academic Achievement</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

@@ -75,7 +75,8 @@ by the Malay Language Centre of Singapore</p>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/A4.png">
-</div>
+</div>First row from left to right: Miss Woon Ai Ling (CT Manager), Mdm  Yap Zhi Jun Vivienne (SH/ICT), Mdm Ang Hoon Kwan Angela, Dr Chang Suo Hui (LT/MA), Mdm Chua Siao Yen Lena (LH/MA), Mdm Ernie Binte Jumat, Mdm Hajerah Beevi D/O Kutus (HOD/SM)<br>
+Second row from left to right: Mrs Hesheam Hashim (ST/ML), Mdm Lim Fang Fang (YH/P1 &amp; P2), Mdm Ng Pai Chen (SSD), Mr Soh Eng Siong Steven , Mdm Subaidah Bte Syed Ahmad, Mdm Shirlene Tan, Mrs Tham-Lin Weijia Amanda (HOD/EL)
 <p><strong>National Day Awards</strong>
 </p>
 <div class="isomer-image-wrapper">

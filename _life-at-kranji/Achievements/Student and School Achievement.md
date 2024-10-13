@@ -625,7 +625,7 @@ Distinction</p>
 <p>SembEnviro School Recycling League</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024: Silver Award</p>
+<p><strong>2024</strong>: Silver Award</p>
 </td>
 </tr>
 <tr>

@@ -1,9 +1,9 @@
 ---
 title: Student and School Achievement
-permalink: /life-at-kranji/Achievements/Student-and-School-Achievement/
+permalink: /life-at-kranji/achievements/student-and-school-achievement/
 description: ""
 third_nav_title: Achievements
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>Academic Achievement</strong></h3>
 <table style="minWidth: 75px">
@@ -32,7 +32,8 @@ variant: tiptap
 <p>Moo-O Digital Storytelling Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: Merit Award
+<p>
+	<strong>2024</strong>: Merit Award
 <br><strong>2022</strong>: Merit Award</p>
 </td>
 </tr>

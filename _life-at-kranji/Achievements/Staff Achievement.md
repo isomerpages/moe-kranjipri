@@ -1,11 +1,17 @@
 ---
 title: Staff Achievement
-permalink: /life-at-kranji/Achievements/Staff-Achievement/
+permalink: /life-at-kranji/achievements/staff-achievement/
 description: ""
 third_nav_title: Achievements
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>2024</strong></h4>
+<p><strong>MOE Service Excellence Award (MSEA)</strong>
+</p>
+<p>7 Gold 17 Silver</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life%20@%20Kranji/Achievements/Staff%20Achievement/Staff%20Achievement/MSEA_2024_Winners.png">
+</div>
 <p><strong>National Day Awards</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -20,10 +26,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Award/Achievement</p>
+	<p><strong>Award/Achievement</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff</p>
+	<p><strong>Staff</strong></p>
 </td>
 </tr>
 <tr>
@@ -35,7 +41,7 @@ by the Malay Language Centre of Singapore</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Hesheam Hashim</p>
+<p>Mrs Hesheam Hashim (ST/ML)</p>
 </td>
 </tr>
 </tbody>
@@ -71,6 +77,7 @@ by the Malay Language Centre of Singapore</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/A4.png">
 </div>
+
 <p><strong>National Day Awards</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -212,6 +219,7 @@ and ExCEL Fest (TCEF2021)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/A8.png">
 </div>
+
 </th>
 </tr>
 <tr>

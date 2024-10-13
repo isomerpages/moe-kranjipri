@@ -1,7 +1,7 @@
 ---
 title: Introduction
 permalink: /our-curriculum/total-curriculum-framework/introduction/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Total Curriculum Framework
 ---

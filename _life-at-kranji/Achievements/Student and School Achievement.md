@@ -32,7 +32,8 @@ variant: markdown
 <p>Moo-O Digital Storytelling Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: Merit Award
+<p>
+	<strong>2024</strong>: Merit Award
 <br><strong>2022</strong>: Merit Award</p>
 </td>
 </tr>

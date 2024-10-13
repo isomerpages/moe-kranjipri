@@ -622,6 +622,17 @@ Distinction</p>
 <p>Environment</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>SembEnviro School Recycling LEague</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024: Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Green Wave Environmental Care Competition</p>
 </td>
 <td rowspan="1" colspan="1">

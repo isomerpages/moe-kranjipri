@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Our People
 variant: markdown
 ---
-![](/images/About%20Us/Our%20People/School%20Leaders/School_Leaders_as_of_25June2024.png)
+![](/images/About%20Us/Our%20People/School%20Leaders/School_Leaders_2024.png)

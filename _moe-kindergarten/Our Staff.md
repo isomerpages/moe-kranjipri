@@ -4,4 +4,4 @@ permalink: /moe-kindergarten/Our-Staff/
 description: ""
 variant: markdown
 ---
-![](/images/MKOrgchart.png)
+![](/images/MK_Org_Chart.png)

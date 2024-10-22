@@ -11,7 +11,8 @@ Guided by our vision and mission, we are committed to developing Kranjians to be
 (**P**ositive Emotion, **E**ngagement, **R**elationship, 
 **M**eaning, **A**chievement and **H**ealth) adapted from Professor Martin Seligman’s Positive Education framework, as well as Stanford University Professor Carol Dweck’s Growth Mindset Theory, we hope to empower our students to build resilience and learn to motivate themselves toward achievement for success.  
 
-![](/images/Our%20Curriculum/Student%20Well%20Being%20Framework/F1.jpg)
+![](/images/Our%20Curriculum/Student%20Well%20Being%20Framework/Student_Well_being_Framework.png)
+
 
 Values define a student’s character. They shape the beliefs, attitudes and actions of a student. Therefore, it forms the core of our school’s student well-being framework. The yellow hexagon signifies the PERMAH
 (**P**ositive Emotion, **E**ngagement, **R**elationship, 

@@ -648,7 +648,9 @@ Distinction</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Student and School Achievement/vanda_miss_joaquim.png">
 </div>		
-<p>School  Green Awards</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Student and School Achievement/Yellow_Flame_Award.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Student and School Achievement/Yellow_Flame_Award.png">
 </div>

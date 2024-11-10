@@ -648,15 +648,14 @@ Distinction</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Student and School Achievement/vanda_miss_joaquim.png">
 </div>		
-<br>School  Green Awards
-<br><br>
+<p>School  Green Awards</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Student and School Achievement/Yellow_Flame_Award.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: Vanda Miss Joaqium Award
-</p><p><strong>2023</strong>: Yellow Flame Award	
+<strong>2024</strong>: Vanda Miss Joaqium Award
+<p></p><p><strong>2023</strong>: Yellow Flame Award	
 </p><p><strong>2022</strong>: Yellow Flame Award</p>
 </td>
 </tr>

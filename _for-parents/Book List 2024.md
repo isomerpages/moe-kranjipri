@@ -6,6 +6,4 @@ variant: markdown
 ---
 #### **Dear Parents / Guardians:**
 
-#### 2025 Booklist Coming Soon
-
-
+#### 2025 Booklist Coming Soon!

@@ -50,7 +50,9 @@ Name of Company: Chang Chen Pte Ltd<br>
 Liaison Person: Mr Grif Lim<br>
 Contact No.: 6760 4835&nbsp;
 
-  [](/files/For%20Parents/Kranji_Pri_School_Bus_Registration_Form_2025.pdf)
+School Bus Registration Form 2025 [here](/files/For%20Parents/Kranji_Pri_School_Bus_Registration_Form_2025.pdf)
+
+School Bus Contact Price 1 Jan 2025 to 31 Dec 2025 [here](/files/For%20Parents/Kranji_Pri_School_Bus_Contact_Price_2025.pdf)
 
 #### 3\. School Dental Clinic
 

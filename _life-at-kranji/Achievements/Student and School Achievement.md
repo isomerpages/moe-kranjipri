@@ -642,7 +642,6 @@ Distinction</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -658,9 +657,9 @@ Distinction</p>
 <td rowspan="1" colspan="1">
 <p><strong>2024</strong>: Vanda Miss Joaqium Award
 <br>
-</p><p><strong>2023</strong>: Yellow Flame Award	
+<strong>2023</strong>: Yellow Flame Award	
 <br>
-</p><p><strong>2022</strong>: Yellow Flame Award</p>
+<strong>2022</strong>: Yellow Flame Award</p>
 </td>
 </tr>
 </tbody>

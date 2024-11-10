@@ -657,7 +657,7 @@ Distinction</p>
 <td rowspan="1" colspan="1">
 <p><strong>2024</strong>: Vanda Miss Joaqium Award
 <strong>2023</strong>: Yellow Flame Award	
-<br><strong>2022</strong>: Yellow Flame Award</p>
+</p><p><strong>2022</strong>: Yellow Flame Award</p>
 </td>
 </tr>
 </tbody>

@@ -646,7 +646,7 @@ Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Student and School Achievement/Vanda_Miss_Joaquim.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Student and School Achievement/vanda_miss_joaquim.png">
 </div>		
 <p>School Green Awards</p>
 <div class="isomer-image-wrapper">

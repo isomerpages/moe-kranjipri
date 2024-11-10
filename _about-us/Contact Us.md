@@ -13,7 +13,7 @@ variant: markdown
 **Fax**: 67634568<br>
 **E-mail**:&nbsp;[kranji\_ps@moe.edu.sg](mailto:kranji_ps@moe.edu.sg)
 
-  
+
 
 **Nearest MRT Station**: Yew Tee MRT&nbsp;
 
@@ -50,7 +50,7 @@ Name of Company: Chang Chen Pte Ltd<br>
 Liaison Person: Mr Grif Lim<br>
 Contact No.: 6760 4835&nbsp;
 
-  
+  [](/files/For%20Parents/Kranji_Pri_School_Bus_Registration_Form_2025.pdf)
 
 #### 3\. School Dental Clinic
 

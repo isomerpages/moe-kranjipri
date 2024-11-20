@@ -6,13 +6,19 @@ variant: tiptap
 ---
 <h3><strong>Read our latest news</strong></h3>
 <p>Catch our P6 Graduation ceremony on our Youtube channel.</p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T_KIRP2KFag?si=5WDRjC19_BP9ZfKG"></iframe>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/ESdvNl25bYs?si=xh7WgpvQBqgkBN9O" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2024_11_20_at_2_01_09_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Class of 2024 - In This Moment </div><div class="isomer-card-link">Click Here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://youtu.be/T_KIRP2KFag?si=2NAp3iMQD_8Qyasb" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2024_11_20_at_2_04_25_PM.png">
 </div>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T_KIRP2KFag?si=7W9cRlIyeGAk-w8U"></iframe>
 </div>
-<p></p>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Class of 2024</div>
+<div class="isomer-card-link">Click Here</div>
+</div>
+</a>
+</div>
 <p></p>
 <hr>
 <p>EXCITING NEWS!</p>

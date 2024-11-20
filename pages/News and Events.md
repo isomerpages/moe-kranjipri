@@ -17,7 +17,7 @@ variant: tiptap
 <div class="isomer-card-title">Class of 2024</div>
 <div class="isomer-card-link">Click Here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/Ft_0OgwXx34" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="cajon" src="/images/Screenshot_2024_11_20_at_2_21_31_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">6 Integrity - Cajon Performance </div><div class="isomer-card-link">Click Here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/Ft_0OgwXx34" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="cajon" src="/images/Screenshot_2024_11_20_at_2_21_31_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">6 Integrity - Cajon Performance</div><div class="isomer-card-link">Click Here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://youtu.be/Rs7PkoeAJFc" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

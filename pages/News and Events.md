@@ -41,7 +41,7 @@ variant: tiptap
 </div>
 </a>
 </div>
-<p></p>
+<p>Catch our other performances on our <a href="https://www.youtube.com/@kranjiprisch97" rel="noopener nofollow" target="_blank">Youtube Channel</a>.</p>
 <hr>
 <p>EXCITING NEWS!</p>
 <h1><strong>Our School is Relocating to Tengah in 2028!</strong></h1>

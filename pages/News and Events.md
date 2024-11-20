@@ -5,6 +5,43 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Read our latest news</strong></h3>
+<p>Catch our P6 Graduation ceremony on our Youtube channel.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/ESdvNl25bYs?si=xh7WgpvQBqgkBN9O" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2024_11_20_at_2_01_09_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Class of 2024 - In This Moment</div><div class="isomer-card-link">Click Here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://youtu.be/T_KIRP2KFag?si=2NAp3iMQD_8Qyasb" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2024_11_20_at_2_04_25_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Class of 2024</div>
+<div class="isomer-card-link">Click Here</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/Ft_0OgwXx34" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="cajon" src="/images/Screenshot_2024_11_20_at_2_21_31_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">6 Integrity - Cajon Performance</div><div class="isomer-card-link">Click Here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://youtu.be/Rs7PkoeAJFc" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="6IN Dance" src="/images/Screenshot_2024_11_20_at_2_23_38_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">6 Integrity - Dance Performance</div>
+<div class="isomer-card-link">Click Here</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/pe3AG6t-RBI" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="6 CO" src="/images/Screenshot_2024_11_20_at_2_25_43_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">6 Compassion - Dance Performance</div><div class="isomer-card-link">Click Here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://youtu.be/ilR7TzoKgqM" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="6 RP" src="/images/Screenshot_2024_11_20_at_2_27_30_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">6 Respect - Dance Performance</div>
+<div class="isomer-card-link">Click Here</div>
+</div>
+</a>
+</div>
+<p>Catch our other performances on our <a href="https://www.youtube.com/@kranjiprisch97" rel="noopener nofollow" target="_blank">Youtube Channel</a>.</p>
 <hr>
 <p>EXCITING NEWS!</p>
 <h1><strong>Our School is Relocating to Tengah in 2028!</strong></h1>

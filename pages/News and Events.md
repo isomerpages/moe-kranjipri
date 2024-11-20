@@ -5,6 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Read our latest news</strong></h3>
+<p>Catch our P6 Graduation ceremony on our Youtube channel.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T_KIRP2KFag?si=5WDRjC19_BP9ZfKG"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T_KIRP2KFag?si=7W9cRlIyeGAk-w8U"></iframe>
+</div>
+<p></p>
+<p></p>
 <hr>
 <p>EXCITING NEWS!</p>
 <h1><strong>Our School is Relocating to Tengah in 2028!</strong></h1>

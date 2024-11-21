@@ -28,7 +28,7 @@ sections:
       image: /images/Tengah.png
       alt: Image alt text
       button: READ MORE
-      url: https://www.kranjipri.moe.edu.sg/News-and-Events/
+      url: https://www.kranjipri.moe.edu.sg/news-and-events/
   - infopic:
       title: Every Kranjian Matters and Deserves the Best!
       description: “We value every student, Every student wants to succeed, All can

@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: News & Events
           description: ""
-          url: /News-and-Events/
+          url: /news-and-events/
         - title: Our Curriculum
           description: ""
           url: https://www.kranjipri.moe.edu.sg/our-curriculum/total-curriculum-framework/introduction/

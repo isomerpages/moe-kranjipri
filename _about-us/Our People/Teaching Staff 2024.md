@@ -546,30 +546,26 @@ variant: tiptap
 <br>gee_violet@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Swee Maye Lin
-<br>swee_maye_lin@moe.edu.sg</p>
+<p>Miss Goh Chow Thye
+<br>goh_chow_thye@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nazli Binti Mat Ali
 <br>nazli_mat_ali@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Rashid Bin Ismail
-<br>abdul_rashid_ismail@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Hajar Binte Abdul Hamid
-<br>siti_hajar_abdul_hamid@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Stephanie Yeo Chin Pin
-<br>yeo_chin_pin_stephanie@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Goh Chow Thye
-<br>goh_chow_thye@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

@@ -82,9 +82,8 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 3</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -100,14 +99,10 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Co-Form Teacher</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3
-<br>Compassion</p>
+<p>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr (Ryan) Ng Chou Yeaw
@@ -117,64 +112,31 @@ variant: tiptap
 <p>Mdm Saraswathi D/O Valliappan
 <br>saraswathi_valliappan@moe.edu.sg</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Hesheam Hashim
-<br>hesheam_hashim@moe.edu.sg</p>
+<p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rufaidah Bte Ismail
+<br>rufaidah_ismail@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chia Lee Eng
+<br>chia_lee_eng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3
-<br>Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Chang Sheng Jansen lee_chang_sheng_jansen@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Saraswathi D/O Valliappan
-<br>saraswathi_valliappan@moe.edu.sg
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ernie Bte Jumat
-<br>ernie_jumat@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3
-<br>Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Eldora Kok Ying Zhi
-<br>eldora_kok_ying_zhi@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Deborah Tham Lai Mei
-<br>deborah_tham_lai_mei@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sri Rahayu Bte Mohd Amin
-<br>sri_rahayu_mohamed_amin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2
-<br>Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Liu Yan
-<br>liu_yan@moe.edu.sg</p>
+<p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nordiana Bte Mohd Rashid
 <br>nordiana_mohd_rashid@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Lee Eng
-<br>chia_lee_eng@moe.edu.sg</p>
+<p>Mdm Deborah Tham Lai Mei
+<br>deborah_tham_lai_mei@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -438,8 +400,8 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Azzulin Bte Aripin
-<br>azzulin_aripin@moe.edu.sg</p>
+<p>Mdm Eldora Kok Ying Zhi
+<br>eldora_kok_ying_zhi@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Lim Hui Khooh

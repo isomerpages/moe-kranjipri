@@ -274,7 +274,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Primary 5</strong></h4>
+<h4><strong>Primary 6</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -295,12 +295,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5
-<br>Compassion</p>
+<p>6 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm (Amanda) Lin Weijia
-<br>lin_weijia@moe.edu.sg</p>
+<p>Mdm Eldora Kok Ying Zhi
+<br>eldora_kok_ying_zhi@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wilson Ng Whye Shoen
@@ -309,30 +308,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5
-<br>Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lena Chua Siao Yen
-<br>lena_chua_siao_yen@moe.edu.sg</p>
+<p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Liew Lim Han
 <br>liew_lim_han@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Chai Lay
+<br>lim_chai_lay@moe.edu.sg</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5
-<br>Respect</p>
+<p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr (Ryan) Ng Chou Yeaw
-<br>ng_chou_yeaw@moe.edu.sg</p>
+<p>Mr Richard S/O Arokiasamy
+<br>richard_arokiasamy@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yong Chin
-<br>yong_chin@moe.edu.sg</p>
+<p>Miss Chang Si Ying
+<br>chang_si_ying@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

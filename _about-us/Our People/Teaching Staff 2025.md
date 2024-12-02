@@ -9,9 +9,8 @@ variant: tiptap
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWp0S1jsK3BE-OXvwOAUd_44LqfQZ8DVU8gCJoAhUwdqZ5yyJKF4Gh4CipF6I20wjIPzo8GiFQSkgF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Primary 2</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -27,14 +26,10 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Co-Form Teacher</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2
-<br>Compassion</p>
+<p>2 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Gwen Tan
@@ -44,15 +39,10 @@ variant: tiptap
 <p>Mdm Sarimah Bte Mohd Noor
 <br>sarimah_mohamad_noor@moe.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mrs Hesheam Hashim
-<br>hesheam_hashim@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2
-<br>Integrity</p>
+<p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Liu Yan
@@ -62,41 +52,31 @@ variant: tiptap
 <p>Mdm Hafizah Beevi binti Abdul Basit
 <br>hafizah_beevi_abdul_basit@moe.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2
-<br>Respect</p>
+<p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mariah Bte Rahmat
 <br>mariah_rahmat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noorasmaedah Bte Ahmad
-<br>noorasmaedah_ahmad@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Goh Chow Thye
+<br>goh_chow_thye@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2
-<br>Resilience</p>
+<p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Abshah Bte Sulaiman
 <br>siti_abshah_sulaiman@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Chang Sheng Jansen lee_chang_sheng_jansen@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lee Chang Sheng Jansen
+<br>lee_chang_sheng_jansen@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -138,8 +118,8 @@ variant: tiptap
 <br>deborah_tham_lai_mei@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Adelene Tan Tse Hui
-<br>tan_tse_hui_adelene@moe.edu.sg</p>
+<p>Mrs Hesheam Hashim
+<br>hesheam_hashim@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -232,8 +212,8 @@ variant: tiptap
 <br>soh_eng_siong@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Radhiah Bte Jais
-<br>radhiah_jais@moe.edu.sg</p>
+<p>Mdm Noorasmaedah Bte Ahmad
+<br>noorasmaedah_ahmad@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -266,8 +246,8 @@ variant: tiptap
 <br>shirlene_tan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yak Hui Hwa (Seetoh)
-<br>yak_hui_hwa@moe.edu.sg</p>
+<p>Mdm Radhiah Bte Jais
+<br>radhiah_jais@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

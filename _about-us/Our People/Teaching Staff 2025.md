@@ -8,102 +8,6 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWp0S1jsK3BE-OXvwOAUd_44LqfQZ8DVU8gCJoAhUwdqZ5yyJKF4Gh4CipF6I20wjIPzo8GiFQSkgF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4><strong>Primary 1</strong></h4>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1
-<br>Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Gwen Tan
-<br>gwen_tan@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Junaidah Bte Senor
-<br>junaidah_senor@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Hesheam Hashim
-<br>hesheam_hashim@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1
-<br>Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin
-<br>raja_nur_rasyidah_raja_kamarul_bahrin@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hafizah Beevi binti Abdul Basit
-<br>hafizah_beevi_abdul_basit@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1
-<br>Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Mariah Bte Rahmat
-<br>mariah_rahmat@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Noorasmaedah Bte Ahmad
-<br>noorasmaedah_ahmad@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Goh Chow Thye
-<br>goh_chow_thye@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1
-<br>Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Abshah Bte Sulaiman
-<br>siti_abshah_sulaiman@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Andrea Lee
-<br>lee_qing_andrea@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sarimah Bte Mohd Noor
-<br>sarimah_mohamad_noor@moe.edu.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Primary 2</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -133,6 +37,99 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Gwen Tan
+<br>gwen_tan@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sarimah Bte Mohd Noor
+<br>sarimah_mohamad_noor@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Hesheam Hashim
+<br>hesheam_hashim@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2
+<br>Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liu Yan
+<br>liu_yan@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hafizah Beevi binti Abdul Basit
+<br>hafizah_beevi_abdul_basit@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2
+<br>Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mariah Bte Rahmat
+<br>mariah_rahmat@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noorasmaedah Bte Ahmad
+<br>noorasmaedah_ahmad@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2
+<br>Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Abshah Bte Sulaiman
+<br>siti_abshah_sulaiman@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Chang Sheng Jansen lee_chang_sheng_jansen@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Primary 3</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Co-Form Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Co-Form Teacher</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3
+<br>Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Wong Wai Leng
 <br>wong_wai_leng@moe.edu.sg</p>
 </td>
@@ -147,7 +144,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2
+<p>3
 <br>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,7 +163,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2
+<p>3
 <br>Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -202,7 +199,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Primary 3</strong></h4>
+<h4><strong>Primary 4</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -227,7 +224,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3
+<p>4
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -244,7 +241,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3
+<p>4
 <br>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -261,7 +258,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3
+<p>4
 <br>Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -278,7 +275,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3
+<p>4
 <br>Resilience</p>
 </td>
 <td rowspan="1" colspan="1">

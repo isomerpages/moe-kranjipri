@@ -110,12 +110,12 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Wai Leng
-<br>wong_wai_leng@moe.edu.sg</p>
+<p>Mr (Ryan) Ng Chou Yeaw
+<br>ng_chou_yeaw@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Deborah Tham Lai Mei
-<br>deborah_tham_lai_mei@moe.edu.sg</p>
+<p>Mdm Saraswathi D/O Valliappan
+<br>saraswathi_valliappan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Hesheam Hashim
@@ -151,8 +151,8 @@ variant: tiptap
 <br>eldora_kok_ying_zhi@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Su Hui
-<br>ong_su_hui@moe.edu.sg</p>
+<p>Mdm Deborah Tham Lai Mei
+<br>deborah_tham_lai_mei@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sri Rahayu Bte Mohd Amin

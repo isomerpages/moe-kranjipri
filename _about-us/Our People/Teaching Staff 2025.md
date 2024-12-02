@@ -214,7 +214,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Primary 4</strong></h4>
+<h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -235,58 +235,41 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4
-<br>Compassion</p>
+<p>5 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Alicia Ngo Phew Ling
 <br>alicia_ngo_phew_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Dan
-<br>liu_dan@moe.edu.sg</p>
+<p>Mdm Lena Chua Siao Yen
+<br>lena_chua_siao_yen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4
-<br>Integrity</p>
+<p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joanna Wong
-<br>joanna_teo_wei-jin@moe.edu.sg</p>
+<p>Mrs Hesheam Hashim
+<br>hesheam_hashim@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liaw Bee Ling (Valerie)
-<br>liaw_bee_ling@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4
-<br>Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohd Fazlee Bin Sabari
-<br>mohamad_fazlee_sabari@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Chang Si Ying
-<br>chang_si_ying@moe.edu.sg</p>
+<p>Mdm Ong Su Hui
+<br>ong_su_hui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4
-<br>Resilience</p>
+<p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wee Kang Sheng Nicholas
-<br>wee_kang_sheng_nicholas@moe.edu.sg</p>
+<p>Miss Fan Yiou
+<br>fan_yiou@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rufaidah Bte Ismail
-<br>rufaidah_ismail@moe.edu.sg</p>
+<p>Mdm Ernie Bte Jumat
+<br>ernie_jumat@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

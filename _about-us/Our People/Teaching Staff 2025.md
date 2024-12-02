@@ -334,69 +334,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Primary 6</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6
-<br>Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Eldora Kok Ying Zhi
-<br>eldora_kok_ying_zhi@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Lim Hui Khooh
-<br>lim_hui_khooh@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6
-<br>Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Neo Bee Leng
-<br>neo_bee_leng@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Zhu Hong
-<br>zhu_hong@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6
-<br>Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Richard S/O Arokiasamy
-<br>richard_arokiasamy@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Fan Yiou
-<br>fan_yiou@moe.edu.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>FLEXI-ADJUNCT TEACHERS</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>

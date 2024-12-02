@@ -14,7 +14,7 @@ Welcome to Kranji Primary School!&nbsp;My colleagues and I have spent much time 
 
 
 
-<p>Kranji Primary School is committed to provide a forward-looking learning experience in the school so that all our students can be future-ready at the end of their six years with us.&nbsp;&nbsp;The <b>EXCITE</b> Learning Approach (<b>EX</b>periential,&nbsp;<b>C</b>haracter Focused,&nbsp;<b>I</b>nquiry Based,&nbsp;<b>T</b>echnology Mediated, Positive&nbsp;<b>E</b>ducation Driven)&nbsp;outlines what our Kranjians experience here in Kranji Primary on a daily basis, and&nbsp;is a consolidation of how learning is designed, curated and enacted in Kranji Primary School (KPS).&nbsp; You can read more about it on our dedicated webpage&nbsp;<a href="https://www.kranjipri.moe.edu.sg/our-curriculum/total-curriculum-framework/approach/">here. </a>
+<p>Kranji Primary School is committed to provide a forward-looking learning experience in the school so that all our students can be future-ready at the end of their six years with us.&nbsp;&nbsp;The <b>EXCITE</b> Learning Approach (<b>EX</b>periential,&nbsp;<b>C</b>haracter Focused,&nbsp;<b>I</b>nquiry Based,&nbsp;<b>T</b>echnology Mediated, Positive&nbsp;<b>E</b>ducation Driven)&nbsp;outlines what our Kranjians experience here in Kranji Primary on a daily basis, and&nbsp;is a consolidation of how learning is designed, curated and enacted in Kranji Primary School (KPS).&nbsp; You can read more about it on our dedicated webpage&nbsp;<a href="https://www.kranjipri.moe.edu.sg/our-curriculum/total-curriculum-framework/introduction/">here. </a>
 </p>
   
 

@@ -142,9 +142,8 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 4</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -160,14 +159,10 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Co-Form Teacher</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4
-<br>Compassion</p>
+<p>4 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Soh Eng Siong
@@ -177,31 +172,23 @@ variant: tiptap
 <p>Mdm Noorasmaedah Bte Ahmad
 <br>noorasmaedah_ahmad@moe.edu.sg</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Fazlee Bin Sabari
+<br>mohamad_fazlee_sabari@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ting Pui Sin
+<br>ting_pui_sin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4
-<br>Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Cheng Li Yin
-<br>cheng_li_yin@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Richard S/O Arokiasamy
-<br>richard_arokiasamy@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4
-<br>Respect</p>
+<p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shirlene Tan
@@ -211,26 +198,18 @@ variant: tiptap
 <p>Mdm Radhiah Bte Jais
 <br>radhiah_jais@moe.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4
-<br>Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Alicia Ngo Phew Ling
-<br>alicia_ngo_phew_ling@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tay Li Ping
-<br>tay_li_ping@moe.edu.sg</p>
+<p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Loh Yan Hao, Jeremy
 <br>loh_yan_hao_jeremy@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tay Li Ping
+<br>tay_li_ping@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -260,8 +239,8 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Chai Lay
-<br>lim_chai_lay@moe.edu.sg</p>
+<p>Mdm Alicia Ngo Phew Ling
+<br>alicia_ngo_phew_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Liu Dan
@@ -428,8 +407,8 @@ variant: tiptap
 <br>Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Loh Jun Qin
-<br>loh_jun_qin@moe.edu.sg</p>
+<p>Mr Richard S/O Arokiasamy
+<br>richard_arokiasamy@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Fan Yiou

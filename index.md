@@ -25,7 +25,7 @@ sections:
       description: We are thrilled to announce that in 2028, our school will be
         relocating to a brand new campus in the vibrant and rapidly growing
         Tengah Estate!
-      image: /images/Tengah.png
+      image: /images/Tengah_with_source.png
       alt: Image alt text
       button: READ MORE
       url: https://www.kranjipri.moe.edu.sg/news-and-events/

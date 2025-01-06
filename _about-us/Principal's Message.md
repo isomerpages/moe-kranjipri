@@ -43,9 +43,11 @@ MOE has announced that Kranji Primary School (KPS) and MK@Kranji will be relocat
 We are very excited with new chapter ahead for the school. Billed as an  eco-friendly and car-lite "forest" town, Tengah will be Singapore's first smart and sustainable town. The Garden district, where the school will be located, will host a 20-hectare central park, including a forest amphitheatre and water bodies, accessible via the community farmways. The new school will incorporate thse features into our design, and tap on the affordances of our location to benefit the learning experience of our future Kranjians. As the newest school to bebuilt in Singapore, we see ourselves as the School of the Future, and have incorporated 4 key concepts of "School as a Second Home, School as a Living Lab, School as a Connected Community, and School in a Garden" in our design. Our curriculems draws on the strong offerings that our school has built since our inception in 1997, and will bring shearper focus to our efforts to place your child at the centre, where potential is discovered an unlocked, as we focus on our vision on creating futures which are customizes to each of our Kranjians.
 Take time to navigate the information on our website and learn about what Kranji Primary School has to offer.&nbsp; Better still, check out our Facebook and Instagram accounts, where we update school happenings on a very regular basis.
 
+**KPS: Knowledges, Practice, Success**
+
 In line with our school motto&nbsp;**_K_**_nowledge,&nbsp;**P**ractice,&nbsp;**S**uccess_, we look forward to partnering you to build a strong foundation (_Knowledge_)&nbsp;and cultivate essential skills and attitudes (_Practice_) that would position your child to be ready for the future (_Success_).
 
-  
+Check out our Facebook and Instagram accounts, where we update school happenings on a very regular basis. We endeavour to update you of the latest hapennings on our Tengah plans here, so be sure to check back here regularly.
 
 Your Partner in Education  
 

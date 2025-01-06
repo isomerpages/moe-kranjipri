@@ -102,14 +102,14 @@ be located, will host a 20-hectare central park, including a forest amphitheatre
 and water bodies, accessible via the community farmways. The new school
 will incorporate thse features into our design, and tap on the affordances
 of our location to benefit the learning experience of our future Kranjians.
-As the newest school to bebuilt in Singapore, we see ourselves as the School
-of the Future, and have incorporated 4 key concepts of "School as a Second
-Home, School as a Living Lab, School as a Connected Community, and School
-in a Garden" in our design. Our curriculums draws on the strong offerings
-that our school has built since our inception in 1997, and will bring sharper
-focus to our efforts to place your child at the centre, where potential
-is discovered an unlocked, as we focus on our vision on creating futures
-which are customizes to each of our Kranjians.</p>
+As the newest school to be built in Singapore, we see ourselves as the
+School of the Future, and have incorporated 4 key concepts of "School as
+a Second Home, School as a Living Lab, School as a Connected Community,
+and School in a Garden" in our design. Our curriculums draws on the strong
+offerings that our school has built since our inception in 1997, and will
+bring sharper focus to our efforts to place your child at the centre, where
+potential is discovered an unlocked, as we focus on our vision on creating
+futures which are customizes to each of our Kranjians.</p>
 <p><strong>KPS: Knowledges, Practice, Success</strong>
 </p>
 <p>In line with our school motto&nbsp;<strong><em><u>K</u></em></strong><em>nowledge,&nbsp;</em><strong><em><u>P</u></em></strong><em>ractice,&nbsp;</em><strong><em><u>S</u></em></strong><em>uccess</em>,

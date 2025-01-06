@@ -20,15 +20,15 @@ the end of their six years with us. The KPS Total Curriculum Framework
 provides a coherent overview of the school's collective efforts to nurture
 future-ready learners. At the heart of the Framework is the vision of the
 school to nurture Joyful Learners, Gracious Citizens and Champions in Life.
-In order to deliver our vision, the four core attrivutes of Values, Skills,
-Knowledge and Attitudes that eery Kranjian needs to have are defined. You
-can read more about it on our dedicated webpage&nbsp;<a href="https://www.kranjipri.moe.edu.sg/our-curriculum/total-curriculum-framework/introduction/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+In order to deliver our vision, the four core attributes of Values, Skills,
+Knowledge and Attitudes that every Kranjian needs to have are defined.
+You can read more about it on our dedicated webpage&nbsp;<a href="https://www.kranjipri.moe.edu.sg/our-curriculum/total-curriculum-framework/introduction/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p>Central to the Kranji Experience are our key programmes, including the&nbsp;<strong>1:1 Learning Experience</strong>&nbsp;that
-provides all our P4 &amp; P6 students with an iPad for learning, our&nbsp;<strong>Applied Learning Programme (ALP)</strong> that
-focuses on&nbsp;<strong>Nurturing Joyful Learners through Critical and Inventive Thinking</strong>,
-as well as our <strong>Learning for Life Programme (LLP</strong>) that focuses
-on&nbsp;Developing Champions in Life through Sports.</p>
+provides all our P4 to P6 students with an iPad for learning, our&nbsp;<strong>Applied Learning Programme (ALP)</strong> that
+focuses on&nbsp;Nurturing Joyful Learners through Critical and Inventive
+Thinking, as well as our <strong>Learning for Life Programme (LLP</strong>)
+that focuses on&nbsp;Developing Champions in Life through Sports.</p>
 <p>&nbsp;The school is focused on creating a learning environment which is
 student-centric and focuses on student ownership and agency. To enable
 this, the school has introduced the <strong>CHAMPS Leadership Programme</strong>,

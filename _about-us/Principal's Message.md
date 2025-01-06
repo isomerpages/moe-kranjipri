@@ -12,7 +12,7 @@ Welcome to Kranji Primary School! My colleagues and I have spent much time and e
 
 **Nurturing Future-Ready Learners**
 
-<p>Kranji Primary School is committed to provide a forward-looking learning experience in the school so that all our students can be future-ready at the end of their six years with us.&nbsp;&nbsp;The <b>EXCITE</b> Learning Approach (<b>EX</b>periential,&nbsp;<b>C</b>haracter Focused,&nbsp;<b>I</b>nquiry Based,&nbsp;<b>T</b>echnology Mediated, Positive&nbsp;<b>E</b>ducation Driven)&nbsp;outlines what our Kranjians experience here in Kranji Primary on a daily basis, and&nbsp;is a consolidation of how learning is designed, curated and enacted in Kranji Primary School (KPS).&nbsp; You can read more about it on our dedicated webpage&nbsp;<a href="https://www.kranjipri.moe.edu.sg/our-curriculum/total-curriculum-framework/introduction/">here. </a>
+<p>Kranji Primary School is committed to provide a forward-looking learning experience in the school so that all our students can be future-ready at the end of their six years with us. The KPS Total Curriculem Framework provides a coherent overview of the school's collective efforts to nurture future-ready learners. At the heart of the Framework is the vision of the school to nurture Joyful Learners, Gracious Citizens and Champions in Life. In order to deliver our vision, the four core attrivutes of Values, Skills, Knowledge and Attitudes that eery Kranjian needs to have are defined. You can read more about it on our dedicated webpage&nbsp;<a href="https://www.kranjipri.moe.edu.sg/our-curriculum/total-curriculum-framework/introduction/">here. </a>
 </p>
   
 

@@ -25,7 +25,7 @@ Knowledge and Attitudes that every Kranjian needs to have are defined.
 You can read more about it on our dedicated webpage&nbsp;<a href="https://www.kranjipri.moe.edu.sg/our-curriculum/total-curriculum-framework/introduction/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p>Central to the Kranji Experience are our key programmes, including the&nbsp;<strong>1:1 Learning Experience</strong>&nbsp;that
-provides all our P4 &amp; P6 students with an iPad for learning, our&nbsp;<strong>Applied Learning Programme (ALP)</strong> that
+provides all our P4 to P6 students with an iPad for learning, our&nbsp;<strong>Applied Learning Programme (ALP)</strong> that
 focuses on&nbsp;<strong>Nurturing Joyful Learners through Critical and Inventive Thinking</strong>,
 as well as our <strong>Learning for Life Programme (LLP</strong>) that focuses
 on&nbsp;Developing Champions in Life through Sports.</p>

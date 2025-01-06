@@ -20,7 +20,7 @@ the end of their six years with us. The KPS Total Curriculum Framework
 provides a coherent overview of the school's collective efforts to nurture
 future-ready learners. At the heart of the Framework is the vision of the
 school to nurture Joyful Learners, Gracious Citizens and Champions in Life.
-In order to deliver our vision, the four core attrivutes of Values, Skills,
+In order to deliver our vision, the four core attributes of Values, Skills,
 Knowledge and Attitudes that eery Kranjian needs to have are defined. You
 can read more about it on our dedicated webpage&nbsp;<a href="https://www.kranjipri.moe.edu.sg/our-curriculum/total-curriculum-framework/introduction/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>

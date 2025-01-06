@@ -26,9 +26,9 @@ You can read more about it on our dedicated webpage&nbsp;<a href="https://www.kr
 </p>
 <p>Central to the Kranji Experience are our key programmes, including the&nbsp;<strong>1:1 Learning Experience</strong>&nbsp;that
 provides all our P4 to P6 students with an iPad for learning, our&nbsp;<strong>Applied Learning Programme (ALP)</strong> that
-focuses on&nbsp;<strong>Nurturing Joyful Learners through Critical and Inventive Thinking</strong>,
-as well as our <strong>Learning for Life Programme (LLP</strong>) that focuses
-on&nbsp;Developing Champions in Life through Sports.</p>
+focuses on&nbsp;Nurturing Joyful Learners through Critical and Inventive
+Thinking, as well as our <strong>Learning for Life Programme (LLP</strong>)
+that focuses on&nbsp;Developing Champions in Life through Sports.</p>
 <p>&nbsp;The school is focused on creating a learning environment which is
 student-centric and focuses on student ownership and agency. To enable
 this, the school has introduced the <strong>CHAMPS Leadership Programme</strong>,

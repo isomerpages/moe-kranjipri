@@ -12,7 +12,7 @@ time and effort to put together the content that you see on our website,
 which showcases the unique value propositions and rich programmes of our
 school. We have also included information about the relocation of the school
 to Tengah, to provide a taster of the exciting chapter ahead for the school.</p>
-<p><strong>Nurturing Future-Ready Learners</strong>
+<p><strong><u>Nurturing Future-Ready Learners</u></strong>
 </p>
 <p>Kranji Primary School is committed to provide a forward-looking learning
 experience in the school so that all our students can be future-ready at
@@ -56,7 +56,7 @@ trips.</p>
 <p>All of the above, in our belief that Every Kranjian Matters and Deserves
 the Best, and our commitment to provide the best all-rounded education
 to your child that is in tune with the times.&nbsp;</p>
-<p><strong>Culture of Care</strong>
+<p><strong><u>Culture of Care</u></strong>
 </p>
 <p>To support the above, Kranji Primary has a strong culture of care.&nbsp;
 We value every child who comes to us, regardless of ability and background,
@@ -69,7 +69,7 @@ and specialists who include a Senior School Counsellor and Special Educational
 Needs Officer. Our teachers work very closely with parents and specialists
 to provide the best care to each of our Kranjians, to support them in their
 holistic growth.</p>
-<p><strong>Achievements</strong>
+<p><strong><u>Achievements</u></strong>
 </p>
 <p>Since 2020, we have seen a string of achievements in the student and staff
 domains.&nbsp; My colleagues achieved various national-level awards like
@@ -85,7 +85,7 @@ competitions,&nbsp;National School Games Basketball Championships,&nbsp;Singapor
 Youth Festival (SYF) Arts Presentation (International Dance &amp; Visual
 Arts).&nbsp; Follow this <a href="https://kranjipri.moe.edu.sg/life-at-kranji/achievements/student-and-school-achievement/" rel="noopener noreferrer nofollow" target="_blank">link</a> for
 a list of our school achievements.</p>
-<p><strong>Tengah Bound: Unlocking Potential, Creating Futures</strong>
+<p><strong><u>Tengah Bound: Unlocking Potential, Creating Futures</u></strong>
 </p>
 <p>MOE has announced that Kranji Primary School (KPS) and MK@Kranji will
 be relocated from Choa Chu Kang to a new Tengah campus in 2028. To facilitate
@@ -110,7 +110,7 @@ offerings that our school has built since our inception in 1997, and will
 bring sharper focus to our efforts to place your child at the centre, where
 potential is discovered an unlocked, as we focus on our vision on creating
 futures which are customizes to each of our Kranjians.</p>
-<p><strong>KPS: Knowledges, Practice, Success</strong>
+<p><strong><u>KPS: Knowledges, Practice, Success</u></strong>
 </p>
 <p>In line with our school motto&nbsp;<strong><em><u>K</u></em></strong><em>nowledge,&nbsp;</em><strong><em><u>P</u></em></strong><em>ractice,&nbsp;</em><strong><em><u>S</u></em></strong><em>uccess</em>,
 we look forward to partnering you to build a strong foundation (<em>Knowledge</em>)&nbsp;and

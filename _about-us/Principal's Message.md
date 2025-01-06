@@ -7,7 +7,7 @@ variant: markdown
 <img style="width:40%;height:50% ; border:5px double black; float: right; margin: 0px 0px 15px 15px;" src="/images/About%20Us/Principal's%20Message/P1.jpg">
 
 <p>
-Welcome to Kranji Primary School!&nbsp;My colleagues and I have spent much time and effort to put together the content that you see on our website, which showcases the unique value propositions and rich programmes of our school.&nbsp; Before you proceed, allow me to provide a short introduction of what is important to us, and has been keeping us busy.
+Welcome to Kranji Primary School!&nbsp;My colleagues and I have spent much time and effort to put together the content that you see on our website, which showcases the unique value propositions and rich programmes of our school.&nbsp; We have also included information about the relocation of the school to Tengah, to provide a taster of the exciting chapter ahead for the school.
 </p>
 
 **Nurturing Future-Ready Learners**

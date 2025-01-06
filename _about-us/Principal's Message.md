@@ -45,7 +45,7 @@ We are very excited with new chapter ahead for the school. Billed as an  eco-fri
 
 **KPS: Knowledges, Practice, Success**
 
-In line with our school motto&nbsp;<u>**_K_**</u>_nowledge,&nbsp;<u>**P**</u>ractice,&nbsp;<u>**S**</u>uccess_, we look forward to partnering you to build a strong foundation (_Knowledge_)&nbsp;and cultivate essential skills and attitudes (_Practice_) that would position your child to be ready for the future (_Success_).
+In line with our school motto&nbsp;<u>***K***</u>_nowledge,&nbsp;<u>***P***</u>ractice,&nbsp;<u>***S***</u>uccess_, we look forward to partnering you to build a strong foundation (_Knowledge_)&nbsp;and cultivate essential skills and attitudes (_Practice_) that would position your child to be ready for the future (_Success_).
 
 Check out our Facebook and Instagram accounts, where we update school happenings on a very regular basis. We endeavour to update you of the latest hapennings on our Tengah plans here, so be sure to check back here regularly.
 

@@ -38,7 +38,7 @@ Since 2020, we have seen a string of achievements in the student and staff domai
 
 **Tengah Bound: Unlocking Potential, Creating Futures**
 
-MOE has annoucne that Kranji Primary School (KPS) and MK@Kranji will be relocated from Choa Chu Kang to a new Tengah campus in 2028. To facilitate the relocation, KPS and MK@Kranji will stop accepting P1 and K1 students from 2025. KPS and MK@Kranji (Tengah camous) will begin operations from 2028.
+MOE has announced that Kranji Primary School (KPS) and MK@Kranji will be relocated from Choa Chu Kang to a new Tengah campus in 2028. To facilitate the relocation, KPS and MK@Kranji will stop accepting P1 and K1 students from 2025. KPS and MK@Kranji (Tengah campus) will begin operations from 2028. Parents who wish to enrol their children in P! at KPS and K1 at MK@Kranji at the new Tengah campus in 2028 may register in 2027 P1 Registration Exercise and in the 2027 MK Registration Exercise. Follow this 
 Take time to navigate the information on our website and learn about what Kranji Primary School has to offer.&nbsp; Better still, check out our Facebook and Instagram accounts, where we update school happenings on a very regular basis.
 
 In line with our school motto&nbsp;**_K_**_nowledge,&nbsp;**P**ractice,&nbsp;**S**uccess_, we look forward to partnering you to build a strong foundation (_Knowledge_)&nbsp;and cultivate essential skills and attitudes (_Practice_) that would position your child to be ready for the future (_Success_).

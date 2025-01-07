@@ -30,6 +30,9 @@ variant: markdown
     
 *   [P1 JTP Dance Mat Typing Level 4](https://toybox.tools.bbc.co.uk/activities/id/activity-dance-mat-typing-level4/exitGameUrl/http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr)
 *   [Student Travel Declaration](https://form.gov.sg/6348b384168a250012344bb7)  
+*   [Google Classroom (at home) login issue report form](https://form.gov.sg/677c8153103c8249e2bc7e1c)
+
+
     
 
 #### **For Teachers**

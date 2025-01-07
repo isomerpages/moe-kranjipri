@@ -108,7 +108,7 @@ a Second Home, School as a Living Lab, School as a Connected Community,
 and School in a Garden" in our design. Our curriculums draws on the strong
 offerings that our school has built since our inception in 1997, and will
 bring sharper focus to our efforts to place your child at the centre, where
-potential is discovered an unlocked, as we focus on our vision on creating
+potential is discovered and unlocked, as we focus on our vision on creating
 futures which are customizes to each of our Kranjians.</p>
 <p><strong><u>KPS: Knowledges, Practice, Success</u></strong>
 </p>

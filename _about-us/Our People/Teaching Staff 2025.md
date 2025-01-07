@@ -334,6 +334,42 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4><strong>TEACHERS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wee Kang Sheng, Nicholas
+<br>wee_kang_sheng_nicholas@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Andrea Lee Qing
+<br>lee_qing_andrea@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sri Rahayu Bte Mohad Amin
+<br>sri_rahayu_mohamed_amin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin
+<br>raja_nur_rasyidah_raja_kamarul_bahrin@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>FLEXI-ADJUNCT TEACHERS</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>

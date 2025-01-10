@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Designation</p>
+<p>Name &amp; Designation</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Email</p>
@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Wilson Ng Whye Shoen
+<p>Mr Wilson Ng Whye Shoen
 <br>Senior Teacher/SS</p>
 </td>
 <td rowspan="1" colspan="1">

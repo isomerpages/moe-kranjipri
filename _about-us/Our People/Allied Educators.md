@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Foo Jit Too (Angeline)
+<p>Mdm (Angeline) Foo Jit Too
 <br>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">

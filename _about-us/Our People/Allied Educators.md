@@ -26,7 +26,7 @@ variant: tiptap
 <br>Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_tien_leng@students.edu.sg</p>
+<p>tan_tien_leng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

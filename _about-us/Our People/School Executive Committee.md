@@ -94,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yong Chin
+<p>Mdm Stephanie Thoo
 <br>Year Head P3 &amp; P4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +103,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head P5 &amp; P6</p>
+<p>Mdm Nur Fazalina Bte Hussin
+<br>Year Head P5 &amp; P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_fazalina_hussin@moe.edu.sg</p>

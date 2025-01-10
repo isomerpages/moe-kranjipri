@@ -65,7 +65,7 @@ variant: tiptap
 <p>Mdm Alenus Lee Leng Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>alenus_lee@schools</p>
+<p>alenus_lee@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>

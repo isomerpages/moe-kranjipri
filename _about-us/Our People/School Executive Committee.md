@@ -81,13 +81,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Hajerah Beevi D/O Kutus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>hajerah_beevi_kutus@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

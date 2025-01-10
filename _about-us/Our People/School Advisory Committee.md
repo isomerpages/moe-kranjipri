@@ -110,7 +110,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Our%20People/School%20Advisory%20Committee/Red%20Clean%20Professional%20Team%20Organization%20Graph.png">
-</div>
 <p></p>

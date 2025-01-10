@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<p>Special Education Needs (SEN) Officer</p>
+<h3><strong>Special Education Needs (SEN) Officer</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

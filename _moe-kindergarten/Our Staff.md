@@ -5,33 +5,98 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>MOE Kindergarten Team</strong></h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Column 1</p>
+<p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Column 2</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Column 3</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Text</p>
+<p>Miss Stacie Ng Wan Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Text</p>
+<p>Centre Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Reka Sherlin John</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Text</p>
+<p>Lead Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Tan You Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Child Development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Kanchana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Long Zhi Qi, Gilda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Hanping, Wilson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurfarha Begum Binti Naina Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

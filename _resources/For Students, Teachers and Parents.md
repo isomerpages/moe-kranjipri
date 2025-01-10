@@ -9,7 +9,7 @@ variant: markdown
 
   
 
-*   [Koobits](https://www.koobits.com/)  
+
     
 *   [KPS Art Gallery](https://sites.google.com/view/kpsartgallery2021/home)  
 *   [School Facebook Page](https://www.facebook.com/KranjiPrimarySchool.Official)  

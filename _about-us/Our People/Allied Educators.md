@@ -17,7 +17,7 @@ variant: tiptap
 <p>Name &amp; Designation</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Emai</p>
+<p>Email</p>
 </th>
 </tr>
 <tr>

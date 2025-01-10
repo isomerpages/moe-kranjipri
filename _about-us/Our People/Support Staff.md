@@ -6,33 +6,42 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3><strong>School Support Staff</strong></h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Column 1</p>
+<p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Column 2</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Column 3</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Text</p>
+<p>Miss Nur Sabrina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Text</p>
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hartini Binte Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Text</p>
+<p>Librarian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

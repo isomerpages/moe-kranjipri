@@ -29,7 +29,7 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Angie Ng</p>
+<p>Mdm (Angie) Ng PAi Chen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_pai_chen@moe.edu.sg</p>
@@ -88,6 +88,72 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>hajerah_beevi_kutus@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD PAM &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Joanna Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>joanna_teo_wei-jin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Fang Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_fang_fang_moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head P3 &amp; P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Stephanie Thoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>stephanie_thoo@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head P5 &amp; P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Fazalina Bte Hussin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_fazalina_hussin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

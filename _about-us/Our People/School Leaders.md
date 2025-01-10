@@ -40,7 +40,7 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sathya Prasad S/O Gopalakrishnan</p>
+<p>Mr Sathya Prasad G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sathya_prasad_g@schools.gov.sg</p>
@@ -65,12 +65,9 @@ variant: tiptap
 <p>Mdm Alenus Lee Leng Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>alenus_lee@schools.gov.sg</p>
+<p>alenus_lee@schools</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Our%20People/School%20Leaders/School_Leaders_2024.png">
-</div>
 <p></p>

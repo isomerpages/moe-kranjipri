@@ -130,6 +130,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Adelene Tan Tse Hui
+<br>Level Head Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_tse_hui_adelene@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamad Fazlee Bin Sabari
+<br>Level Head English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mohamad_fazlee_sabari@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

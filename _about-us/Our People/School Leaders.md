@@ -3,22 +3,18 @@ title: School Leaders
 permalink: /about-us/our-people/school-leaders/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Our School Leaders</strong></h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Personnel</p>
+<p>Name &amp; Designation</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Email</p>
@@ -26,10 +22,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Goh Meei Yunn</p>
+<p>Mdm Goh Meei Yunn
+<br>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_meei_yunn@schools.gov.sg</p>
@@ -37,10 +31,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Sathya Prasad G</p>
+<p>Mr Sathya Prasad S/O Gopalakrishnan
+<br>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sathya_prasad_g@schools.gov.sg</p>
@@ -48,10 +40,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Wong Seow Ling Rennie</p>
+<p>Mdm Wong Seow Ling Rennie
+<br>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_seow_ling@schools.gov.sg</p>
@@ -59,10 +49,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Principal (Admin)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Alenus Lee Leng Hui</p>
+<p>Mdm Alenus Lee
+<br>Vice Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>alenus_lee@schools.gov.sg</p>

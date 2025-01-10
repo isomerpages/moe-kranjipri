@@ -31,26 +31,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lee Seet Fong
+<br>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>lee_seet_fong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Chin Hong
+<br>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_chin_hong_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Woon Ai Ling
+<br>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>woon_ai_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

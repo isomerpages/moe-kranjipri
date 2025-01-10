@@ -149,7 +149,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Chang Si Ying
-<br>Subject Head Pe &amp; PAL</p>
+<br>Subject Head PE &amp; PAL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chang_si_ying@moe.edu.sg</p>
@@ -203,8 +203,5 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/School Exec Committee/KPS_Head_Department_2025.png">
-</div>
 <h4></h4>
 <p></p>

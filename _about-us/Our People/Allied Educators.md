@@ -14,10 +14,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Name % Designation</p>
+<p>Name &amp; Designation</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Emai;</p>
+<p>Emai</p>
 </th>
 </tr>
 <tr>
@@ -57,7 +57,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Our%20People/Allied%20Educators/Special_Education_Needs__SEN__Officer_2025.png">
-</div>
 <p></p>

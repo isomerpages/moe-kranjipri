@@ -22,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Nur Sabrina</p>
+<p>Miss Nur Sabrina Binte Kamaruddin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>

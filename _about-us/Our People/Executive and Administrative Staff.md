@@ -152,7 +152,7 @@ variant: tiptap
 <br>Adjunct Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>

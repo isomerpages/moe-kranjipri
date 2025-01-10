@@ -101,7 +101,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE%20Kindergarten/Our%20Staff/MK_KINDERGARTEN_TEAM_2025_as_of_Dec.png">
-</div>
 <p></p>

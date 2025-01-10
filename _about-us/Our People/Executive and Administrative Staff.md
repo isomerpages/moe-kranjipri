@@ -58,7 +58,98 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Muhammad Hafiz Bin Mohamed Yasim
+<br>Adjunct ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_hafiz_mohamed_yasim@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm (Esther) Poh Lay Hong
+<br>Admin Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>poh_lay_hong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Subaidah Syed Ahmad
+<br>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>subaidah_syed_ahmad@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Hidayah Binte Abdul Rahman
+<br>Adjunct Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_hidayah_abdul_rahman@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Peck Eng
+<br>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tong Chew Yong
+<br>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hasina D/O Sultan
+<br>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Thian Soh
+<br>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Chin Seng
+<br>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Li Leng
+<br>Adjunct Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lim Hui Kee (Peggy)
+<br>Adjunct Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

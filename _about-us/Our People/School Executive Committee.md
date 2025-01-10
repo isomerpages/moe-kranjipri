@@ -15,7 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Designation</p>
+<p>Name &amp; Designation</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Personnel</p>
@@ -26,10 +26,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p>Mdm (Angie) Ng Pai ChenSchool Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm (Angie) Ng PAi Chen</p>
+<p>Mdm (Angie) Ng Pai Chen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_pai_chen@moe.edu.sg</p>

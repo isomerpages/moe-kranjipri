@@ -40,7 +40,7 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sathya Prasad S/O</p>
+<p>Mr Sathya Prasad S/O Gopalakrishnan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sathya_prasad_g@schools.gov.sg</p>

@@ -46,7 +46,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Our%20People/Support%20Staff/School_Support_Staff_2025.png">
-</div>
 <p></p>

@@ -48,13 +48,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior Teacher/SS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Wilson Ng Whye Shoen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_whye_shoen_wilson@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

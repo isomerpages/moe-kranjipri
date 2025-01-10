@@ -37,13 +37,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior TeacherSEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Mariah Bte Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>mariah_rahmat@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

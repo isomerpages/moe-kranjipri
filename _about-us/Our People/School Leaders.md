@@ -43,7 +43,7 @@ variant: tiptap
 <p>Mr Sathya Prasad S/O</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sathya_prasad_g@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ variant: tiptap
 <p>Mdm Wong Seow Ling Rennie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>wong_seow_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ variant: tiptap
 <p>Mdm Alenus Lee Leng Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>alenus_lee@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>

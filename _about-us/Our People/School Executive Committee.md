@@ -15,24 +15,68 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Designation</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Personnel</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Email</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Angie Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_pai_chen@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yong Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yong_chin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Neo Bee Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>neo_bee_leng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm (Amanda) Lin Weijia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lin_weijia@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Azzulin Bte Aripin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>azzulin_aripin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

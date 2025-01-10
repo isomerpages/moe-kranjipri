@@ -157,7 +157,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tak Hui Hwa (Mrs Seetoh)
+<p>Mdm Yak Hui Hwa (Mrs Seetoh)
 <br>Subject Head ICT</p>
 </td>
 <td rowspan="1" colspan="1">

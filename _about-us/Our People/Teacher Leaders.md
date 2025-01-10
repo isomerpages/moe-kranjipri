@@ -29,10 +29,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Hesheam Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>hesheam_hashim@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

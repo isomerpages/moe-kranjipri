@@ -112,6 +112,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Lena Chau Siao Yen
+<br>Level Head Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lena_Chua_siao_yen@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Loh Jun Qin
+<br>Level Head Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>loh_jun_qin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

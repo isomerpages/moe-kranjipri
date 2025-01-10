@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWp0S1jsK3BE-OXvwOAUd_44LqfQZ8DVU8gCJoAhUwdqZ5yyJKF4Gh4CipF6I20wjIPzo8GiFQSkgF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <h4><strong>Primary 2</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>

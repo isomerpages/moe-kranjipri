@@ -148,26 +148,56 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Chang Si Ying
+<br>Subject Head Pe &amp; PAL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>chang_si_ying@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Tak Hui Hwa (Mrs Seetoh)
+<br>Subject Head ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>yak_hui_hwa@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Su Hui
+<br>Subject Head CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_su_hui@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Chin Hong
+<br>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_chin_hong_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss (Valarie) Yeo Hwee Koon
+<br>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo_hwee_koon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Seet Fong
+<br>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_seet_fong@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -177,6 +207,4 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/School Exec Committee/KPS_Head_Department_2025.png">
 </div>
 <h4></h4>
-<h5></h5>
-<p></p>
 <p></p>

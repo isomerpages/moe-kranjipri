@@ -71,7 +71,7 @@ variant: tiptap
 <br>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>poh_lay_hong@moe.edu.sg</p>
+<p>poh_lay_hong_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ variant: tiptap
 <br>Adjunct Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_hidayah_abdul_rahman@moe.edu.sg</p>
+<p>nur_hidayah_abdul_rahman_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

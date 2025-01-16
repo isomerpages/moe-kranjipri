@@ -1,8 +1,8 @@
 ---
 title: Sexuality Education
-permalink: /Sexuality-Education/
+permalink: /sexuality-education/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p></p>
 <h3><strong>MOE Sexuality Education in Schools</strong></h3>
@@ -55,7 +55,7 @@ unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 </li>
 </ul>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here </a>for
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
 <p><strong>Overview of Kranji Primary School’s Sexuality Education Programme for 2025</strong>
@@ -112,7 +112,7 @@ Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated &nbsp;to parents at the
-start of the year and is also downloadable <a href="/files/Parent_Opt_out_form_SEd_2025__KPS.pdf" rel="noopener nofollow" target="_blank">here.</a> The completed
+start of the year and is also downloadable <a href="/files/Parent_Opt_out_form_SEd_2025__KPS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
 opt-out form is to be submitted by 01/04/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at <a rel="noopener noreferrer nofollow" target="_blank">kranji_ps@moe.edu.sg</a> or

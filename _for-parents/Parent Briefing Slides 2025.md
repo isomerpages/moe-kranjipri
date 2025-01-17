@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 ---
 <h3>Parent Briefing Slides 2025</h3>
-<p>Click</p>
+<p>Coming Soon !!!</p>

@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Parent Briefing Slides 2025 (Coming Soon).md
+      - Parent Briefing Slides 2025.md
       - Sexuality Education.md
       - Book List 2025.md
       - Parent Support Group (PSG).md

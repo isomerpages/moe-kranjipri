@@ -100,4 +100,4 @@ The 4E Approach guides the art department in the delivery of the art curriculum:
 ![](/images/Our%20Curriculum/Departments/Art/p5ceramicprog.png)
 ![](/images/Our%20Curriculum/Departments/Art/p6mangadrawing_6.png)
 ![](/images/Our%20Curriculum/Departments/Art/gallery.png)
-Please click [here](https://kpsart2024.my.canva.site/) find out more on student's art work.
+Please click [here](https://kpsart2024.my.canva.site/) to find out more on student's art work.

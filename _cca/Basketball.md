@@ -98,7 +98,7 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 <figure>
 	<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_1_2024.jpg">
 <figure>
-<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_2024-2.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_girls.jpg">
 <figcaption> <strong> No one can stop me, I will protect the ball. </strong> </figcaption>
 
 </figure>

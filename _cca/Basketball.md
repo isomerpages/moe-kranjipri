@@ -114,7 +114,7 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_2024-4.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_senior_girls_2024.jpg">
 
 <figcaption> <strong> National School Games Senior Division Girls </strong> </figcaption>
 

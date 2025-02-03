@@ -66,7 +66,7 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 |        |                                                                                      |                                             |
 |--------|--------------------------------------------------------------------------------------|---------------------------------------------|
 |  Year  |                                       West Zone                                      |                   National                  
-| 2014   | Attained Silver in West Area World Scout Day                                         | Attained Bronze in National Cub Scouts Design Competition |
+| 2014   | Attained 1 Gold Award and 1 Silver Award in West Area Cubster Competition                                         | Attained Bronze in National Cub Scouts Design Competition |
 2023 | Attained 2nd Postition (Three Legged Race) and 3rd Position (Caterpillar Race) in the West Area Founder's Day Rally. <br> Attained Consolation Prize (Running Man) in the West Area Cub Scout Field Day.     |  |
 2022 | Nil| Attained Bronze in the Frank Copper Sands Award  |
 2021 | Attained 1st Position in the Virtual World Scout Day Knots Kahoot Quiz.| Attained 3 Gold Awards and 1 Silver Award in the 7th National Cub Scout Mind Quiz. <br> Attained 5th out of 6th Place (Team) in the 7th National Cub Scout Mind Quiz (Final Round).|

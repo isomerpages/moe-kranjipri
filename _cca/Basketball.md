@@ -50,7 +50,7 @@ Students will be able to:
 | Mr Nicholas Wee | wee_kang_sheng_nicholas@moe.edu.sg |
 | Miss Ting Pui Sin | ting_pui_sin@moe.edu.sg |
 | Mr (Ryan) Ng Chou Yeaw | ng_chou_yeaw@moe.edu.sg |  
-
+| Mr Wilson Ng Whye Shoen | ng_whye_shoen_wilson@moe.edu.sg |
 
 ##### **Introduction**
   

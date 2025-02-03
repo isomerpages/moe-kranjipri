@@ -34,7 +34,7 @@ grow.&nbsp; We can’t wait to see you at Tengah!</p>
 <hr>
 <h4>National School Games Senior Division</h4>
 <div class="isomer-image-wrapper">
-<img src="/images/News%20and%20Events/Basketball_2024.png">
+<img src="/images/News%20and%20Events/basketball_2024.png">
 </div>
 <p>We are proud to announce that our Senior Girls Basketball Team has emerged
 as 3rd place in League 1 at the National School Games Senior Division Basketball

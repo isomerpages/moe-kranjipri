@@ -96,9 +96,7 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 **Photos of Basketballers in action**
 
 <figure>
-	<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_2024-1.jpg">
-<figcaption> <strong> Watch us as we buskets! </strong> </figcaption>
-	</figure>
+	<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_1_2024.jpg">
 <figure>
 <img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_2024-2.jpg">
 <figcaption> <strong> No one can stop me, I will protect the ball. </strong> </figcaption>
@@ -134,4 +132,4 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 <figcaption> <strong> Let's go Kranjians! We can do it! </strong> </figcaption>
 
-</figure>
+</figure></figure>

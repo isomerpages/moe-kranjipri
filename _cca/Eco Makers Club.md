@@ -28,8 +28,8 @@ Students will be able to:
   
 |          Teacher IC          |  Email address (ICON)  |
 |:----------------------------:|:----------------------:|
-| Miss Loh Jun Qin | loh_jun_qin@moe.edu.sg |
-|       Mdm Lim Chai Lay       | lim_chai_lay@moe.edu.sg |
+| Mdm Rufaidah Bte Ismail | rufaidah_ismail@moe.edu.sg |
+|       Mdm Chia Lee Eng (Mrs Joanne Yeong)       | chia_lee_eng@moe.edu.sg |
 
 
 ##### **Introduction**

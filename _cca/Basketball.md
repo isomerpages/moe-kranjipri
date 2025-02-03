@@ -47,10 +47,11 @@ Students will be able to:
 | Teacher IC | Email address (ICON) |
 | --- | --- |
 | Mr Liew Lim Han | liew_lim_han@moe.edu.sg |
-| Mdm Zhu hong | zhu_hong@moe.edu.sg |
 | Mr Nicholas Wee | wee_kang_sheng_nicholas@moe.edu.sg |
-
-  
+| Miss Ting Pui Sin | ting_pui_sin@moe.edu.sg |
+| Mr (Ryan) Ng Chou Yeaw | ng_chou_yeaw@moe.edu.sg |  
+| Mr Wilson Ng Whye Shoen | ng_whye_shoen_wilson@moe.edu.sg |
+| Mdm Liu Yan | liu_yan@moe.edu.sg |
 
 ##### **Introduction**
   
@@ -85,6 +86,7 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 | Year | West Zone | National | Others |
 | -------- | -------- | -------- |  -------- |
+2024     | Senior Girls - 3rd       | Senior Girls - 3rd in League 1
 | 2023     | Senior Girls - 2nd       | Senior Girls - 3rd   <br>Junior Girls - **Tier 2 Champion**  <br>Junior Boys - **Tier 2 Champion**   |
 | 2022     | Senior Girls - **Champion**   <br>Junior Girls - **Tier 2 Champion**    | **No National Games**   |
 | 2019     | Senior Girls - **Champion** <br>Senior Boys - **Top 21**      | Junior Girls - **Top 37** <br>Senior Girls - **Champion** Junior Boys - **Tier 2 Top 8**| AES 5-a-side Basketball Challenge Cup 2019 - **Boys Team (2nd)** <br>- **Best Defensive player Award Boys** <br>- **Basketball Skills Challenge (Boys) (1st)**
@@ -96,12 +98,10 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 **Photos of Basketballers in action**
 
 <figure>
-	<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_2024-1.jpg">
-<figcaption> <strong> Watch us as we buskets! </strong> </figcaption>
-	</figure>
+	<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_1_2024.jpg">
 <figure>
-<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_2024-2.jpg">
-<figcaption> <strong> No one can stop me, I will protect the ball. </strong> </figcaption>
+<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_girls.jpg">
+<figcaption> <strong> No one can stop me. Watch us as we buskets!. </strong> </figcaption>
 
 </figure>
 
@@ -114,7 +114,7 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_2024-4.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_senior_girls_2024.jpg">
 
 <figcaption> <strong> National School Games Senior Division Girls </strong> </figcaption>
 
@@ -134,4 +134,4 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 <figcaption> <strong> Let's go Kranjians! We can do it! </strong> </figcaption>
 
-</figure>
+</figure></figure>

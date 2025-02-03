@@ -43,8 +43,8 @@ Students will be able to:
 | Teacher IC | Email address (ICON) |
 | --- | --- |
 | Mr Jansen Lee | lee_chang_sheng_jansen@moe.edu.sg |
-| Miss Cheng Liyin | cheng_liyin@moe.edu.sg  
- |
+| Mr Jeremy Loh | loh_yan_hao_jeremy@moe.edu.sg   |
+|Mdm Ernie Bte Jumat  | ernie_jumat@moe.edu.sg   |
 
 ##### **Introduction**
   
@@ -66,6 +66,7 @@ Selected students in Football will be able to participate in the National School
 
 | Year | NSG Competition | Others |
 | -------- | -------- | -------- |
+| 2024     | Senior Boys - 4th place in League 3 <br>   | Marsiling Yew Tee Football Jamboree - 2nd    | 
 | 2023     | Junior Boys - Tier 2 <br> Senior Boys - 1st Round    |      |
 | 2022     | Junior Boys - Tier 2 <br> Senior Boys - West Zone Quarter Finals    | Assumption English School 8-A Side Tournament 2nd      |
 | 2019     | Junior Boys - 1st Round <br> Senior Boys - 1st Round      | Kranji Cup - **Champion** <br> Admiralty Primary and Active SG Cup - 1st Runner-Up

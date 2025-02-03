@@ -38,7 +38,7 @@ Students will be able to:
 | --- | --- |
 | Mdm Nordiana Mohd Rashid | nordiana_rashid@moe.edu.sg |
 | Mdm Shirlene Tan | shirlene_tan@moe.edu.sg |
-
+| Mdm Radhiah Bte Jais | radhiah_jais@moe.edu.sg |
   
 
 ##### **Introduction**
@@ -53,6 +53,7 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 
 | Year | National | Community | School |
 | -------- | -------- | -------- | -------- |
+| 2024     | Participated in Singapore Youth Festival Arts Presentation (Certificate of Distinction)     
 | 2023     |      | Performed for Limbang CCC National Day Celebration @ Kranji Sec    | - Performed for KPS Prize Giving Day <br> - Participated in Primary 2 CCA Experience Day      |
 | 2022     | Participated in Singapore Youth Festival Arts Presentation      | Performed for Limbang CCC National Day Celebration     | - Performed for KPS 25th Anniversary <br> - Participated in Primary 2 CCA Experience Day     |
 | 2019     | The Singapore Youth Festival Art Presentation is held biennially     | - Performed for Clean &amp; Green Singapore Carnival @ Causeway Point <br> - Performed in Chingay Celebrations @ Yew Tee    | - Performed for KPS National Day Celebration <br> - Performed for KPS Annual Prize Giving Day <br> - Performed for KPS Arts Appreciation Week <br> - Participated in the Primary 2 CCA Experience <br> - Participated in the China Immersion School Visit     |
@@ -91,18 +92,18 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/dance-4.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/national_day_performance_limbang_2024.jpg">
 
-<figcaption> <strong>  National Day Performance 2022 by Limbang CC  </strong> </figcaption>
+<figcaption> <strong>  National Day Performance 2024 by Limbang CC  </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/dance-5.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/modern_dance_2024.jpg">
 
 
-<figcaption> <strong> ShowStopperz participating in the Singapore Youth Festival Arts Presentation 2022  </strong> </figcaption>
+<figcaption> <strong> ShowStopperz participating in the Singapore Youth Festival Arts Presentation 2024  </strong> </figcaption>
 
 
 </figure>

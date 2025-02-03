@@ -38,7 +38,7 @@ Students will be able to:
 |:------------------------:|:-------------------------------:|
 |      Mdm Alicia Ngo Phew Ling     |      alicia_ngo_phew_ling@moe.edu.sg     |
 | Mdm Tay Li Ping | tay_li_ping@moe.edu.sg |
-
+| Mdm Saraswathi D/O Valliappan | saraswathi_valliappan@moe.edu.sg |
 
 ##### **Introduction**
   
@@ -51,6 +51,7 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 | Year | National | Community | School | 
 | -------- | -------- | -------- | -------- |
+| 2024     | Performed for Singapore Youth Festival Art Presentation (Certificate of Distinction)     |  Performed for Limbang National Day Celebration
 | 2023     | The Singapore Youth Festival Art  <br> Presentation is held biennially     | Performed for Limbang National Day Celebration     | - Performed for KPS Annual Prize Giving Day <br> - Participated in the Primary 2 CCA Experience   |
 | 2022     | Performed for Singapore Youth Festival Art Presentation       |      | - Performed for KPS National Day Celebration <br> - Performed  for KPS 25th Anniversary Celebration <br> - Participated in the Primary 2 CCA Experience |
   
@@ -59,19 +60,20 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion-1.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion_ensemble_1_2024.jpg">
 
-<figcaption> <strong> KPS 25th Anniversary Celebration 2022  </strong> </figcaption>
+<figcaption> <strong> Singapore Youth Festival (SYF) Arts Presentation 2024  </strong> </figcaption>
 
 </figure>
-
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/P3.png">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion_ensemble_2024.jpg">
 
-<figcaption> <strong> Singapore Youth Festival 2022 </strong> </figcaption>
+<figcaption> <strong> Limbang National Day Performance 2024  </strong> </figcaption>
 
 </figure>
+
+
 <figure>
 
 <img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion-2_limbang ndp 2023.jpg">

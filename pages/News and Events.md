@@ -43,7 +43,7 @@ Competition. <strong>Congratulations to our Basketballers!</strong>
 </p>
 <p>
 </p>
-<h5>Applied Learning Programme</h5>
+<h4>Applied Learning Programme</h4>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/News%20and%20Events/ALP 2023.png">
 </div>
@@ -53,7 +53,7 @@ Kranjians. As part of the learning process, students get to create, innovate,
 recover from failure, and build critical thinking and problem solving skills.</p>
 <p><a href="/our-curriculum/Signature-Programmes/Applied-Learning-Programme-ALP/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
-<h5>P4 1:1 Learning Experience</h5>
+<h4>P4 1:1 Learning Experience</h4>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/News%20and%20Events/N5.jpg">
 </div>

@@ -33,7 +33,7 @@ grow.&nbsp; We can’t wait to see you at Tengah!</p>
 <p><a href="https://www.moe.gov.sg/news/press-releases/20240116-meeting-shifting-demand-for-school-and-preschool-places-across-singapore" rel="noopener noreferrer nofollow" target="_blank">MOE Press Release</a>
 </p>
 <hr>
-<h3>National School Games Senior Division</h3>
+<h4>National School Games Senior Division</h4>
 <div class="isomer-image-wrapper">
 <img src="/images/News%20and%20Events/Basketball_2024.png">
 </div>
@@ -43,6 +43,7 @@ Competition. <strong>Congratulations to our Basketballers!</strong>
 </p>
 <p>
 </p>
+<hr>
 <h4>Applied Learning Programme</h4>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/News%20and%20Events/ALP 2023.png">
@@ -53,6 +54,7 @@ Kranjians. As part of the learning process, students get to create, innovate,
 recover from failure, and build critical thinking and problem solving skills.</p>
 <p><a href="/our-curriculum/Signature-Programmes/Applied-Learning-Programme-ALP/" rel="noopener noreferrer nofollow" target="_blank">Read More</a>
 </p>
+<hr>
 <h4>P4 1:1 Learning Experience</h4>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/News%20and%20Events/N5.jpg">

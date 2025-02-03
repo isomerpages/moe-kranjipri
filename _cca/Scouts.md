@@ -31,8 +31,7 @@ Students will be able to:
 
 |          Teacher IC          |        Email address (ICON)        |
 |:----------------------------:|:----------------------------------:|
-| Mdm Sri Rahayu  | sri_rahayu_mohamed_amin@moe.edu.sg |
-|      Mdm Deborah Tham      |      deborah_tham_lai_mei@moe.edu.sg     |
+|      Mdm Deborah Tham      |      deborah_tham_lai_mei@moe.edu.sg |  | Mdm Sri Rahayu  | sri_rahayu_mohamed_amin@moe.edu.sg |
 
   
 

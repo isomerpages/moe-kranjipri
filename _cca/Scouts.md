@@ -79,7 +79,7 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/scout_cubster_2024.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/Scout_Cubster_2024.png">
 <figcaption> <strong> 2024 West Area Cubster Competition </strong> </figcaption>
 </figure>	
 <img src="/images/Our%20Curriculum/Departments/CCA/Scouts/scout_2024-1.jpg">

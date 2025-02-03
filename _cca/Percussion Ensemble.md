@@ -65,6 +65,13 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 <figcaption> <strong> Singapore Youth Festival (SYF) Arts Presentation 2024  </strong> </figcaption>
 
 </figure>
+<figure>
+
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion_ensemble_2024.jpg">
+
+<figcaption> <strong> Limbang National Day Performance 2024  </strong> </figcaption>
+
+</figure>
 
 <figure>
 

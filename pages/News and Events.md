@@ -32,11 +32,10 @@ to our new home, where the Kranjian spirit will continue to thrive and
 grow.&nbsp; We can’t wait to see you at Tengah!</p>
 <p><a href="https://www.moe.gov.sg/news/press-releases/20240116-meeting-shifting-demand-for-school-and-preschool-places-across-singapore" rel="noopener noreferrer nofollow" target="_blank">MOE Press Release</a>
 </p>
-<p></p>
 <hr>
 <h3>National School Games Senior Division</h3>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/News%20and%20Events/Basketball_2024.png">
+<img src="/images/News%20and%20Events/Basketball_2024.png">
 </div>
 <p>We are proud to announce that our Senior Girls Basketball Team has emerged
 as 3rd place in League 1 at the National School Games Senior Division Basketball

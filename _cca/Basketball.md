@@ -84,7 +84,7 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 | Year | West Zone | National | Others |
 | -------- | -------- | -------- |  -------- |
-2024     | Senior Girls - 3rd       | Senior Girls - 3rd   <br>Junior Girls - **Tier 2 Champion**  <br>Junior Boys - **Tier 2 Champion**   |
+2024     | Senior Girls - 3rd       | Senior Girls - 3rd in League 1
 | 2023     | Senior Girls - 2nd       | Senior Girls - 3rd   <br>Junior Girls - **Tier 2 Champion**  <br>Junior Boys - **Tier 2 Champion**   |
 | 2022     | Senior Girls - **Champion**   <br>Junior Girls - **Tier 2 Champion**    | **No National Games**   |
 | 2019     | Senior Girls - **Champion** <br>Senior Boys - **Top 21**      | Junior Girls - **Top 37** <br>Senior Girls - **Champion** Junior Boys - **Tier 2 Top 8**| AES 5-a-side Basketball Challenge Cup 2019 - **Boys Team (2nd)** <br>- **Best Defensive player Award Boys** <br>- **Basketball Skills Challenge (Boys) (1st)**

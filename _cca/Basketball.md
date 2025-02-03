@@ -48,8 +48,9 @@ Students will be able to:
 | --- | --- |
 | Mr Liew Lim Han | liew_lim_han@moe.edu.sg |
 | Mr Nicholas Wee | wee_kang_sheng_nicholas@moe.edu.sg |
+| Miss Ting Pui Sin | ting_pui_sin@moe.edu.sg |
+| Mr (Ryan) Ng Chou Yeaw | ng_chou_yeaw@moe.edu.sg |  
 
-  
 
 ##### **Introduction**
   

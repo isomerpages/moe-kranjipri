@@ -34,7 +34,7 @@ grow.&nbsp; We can’t wait to see you at Tengah!</p>
 </p>
 <p></p>
 <hr>
-<h5>National School Games Senior Division</h5>
+<h3>National School Games Senior Division</h3>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/News%20and%20Events/Basketball_2024.png">
 </div>

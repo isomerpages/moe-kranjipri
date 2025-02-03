@@ -8,7 +8,7 @@ variant: markdown
 
 
 <p>EXCITING NEWS!</p>
-<h2><strong>Our School is Relocating to Tengah in 2028!</strong></h2>
+<h3><strong>Our School is Relocating to Tengah in 2028!</strong></h3>
 <p>We are thrilled to announce that in 2028, our school will be relocating
 to a brand new campus in the vibrant and rapidly growing Tengah Estate!</p>
 <div class="isomer-image-wrapper">

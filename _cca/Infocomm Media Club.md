@@ -34,7 +34,7 @@ Students will be able to:
 | Mr Soh Eng Siong | soh_eng_siong@moe.edu.sg |
 | Mr Richard S/O Arokiasamy | richard_arokiasamy@moe.edu.sg |
 | Mdm Noorasmaedah Bte Ahmad | noorasmaedah_ahmad@moe.edu.sg |
-| Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin | soh_eng_siong@moe.edu.sg |
+| Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin | raja_nur_rasyidah_raja_kamarul_bahrin@moe.edu.sg |
 
 ##### **Introduction**
 

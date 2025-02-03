@@ -60,9 +60,9 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion_ensemble_2024.png">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion_ensemble_1_2024.jpg">
 
-<figcaption> <strong> KPS 25th Anniversary Celebration 2022  </strong> </figcaption>
+<figcaption> <strong> Singapore Youth Festival (SYF) Arts Presentation 2024  </strong> </figcaption>
 
 </figure>
 

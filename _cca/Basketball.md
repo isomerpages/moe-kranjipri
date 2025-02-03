@@ -47,7 +47,6 @@ Students will be able to:
 | Teacher IC | Email address (ICON) |
 | --- | --- |
 | Mr Liew Lim Han | liew_lim_han@moe.edu.sg |
-| Mdm Zhu hong | zhu_hong@moe.edu.sg |
 | Mr Nicholas Wee | wee_kang_sheng_nicholas@moe.edu.sg |
 
   

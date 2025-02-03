@@ -43,8 +43,8 @@ Students will be able to:
 | Teacher IC | Email address (ICON) |
 | --- | --- |
 | Mr Jansen Lee | lee_chang_sheng_jansen@moe.edu.sg |
-| Miss Cheng Liyin | cheng_liyin@moe.edu.sg  
- |
+| Mr Jeremy Loh | loh_yan_hao_jeremy@moe.edu.sg   |
+|Mdm Ernie Bte Jumat  | ernie_jumat@moe.edu.sg   |
 
 ##### **Introduction**
   

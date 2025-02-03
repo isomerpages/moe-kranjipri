@@ -38,7 +38,7 @@ Students will be able to:
 | --- | --- |
 | Mdm Nordiana Mohd Rashid | nordiana_rashid@moe.edu.sg |
 | Mdm Shirlene Tan | shirlene_tan@moe.edu.sg |
-
+| Mdm Radhiah Bte Jais | radhiah_jais@moe.edu.sg |
   
 
 ##### **Introduction**

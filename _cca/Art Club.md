@@ -26,8 +26,9 @@ Students will be able to:
 
 | Teacher IC | Email address (ICON) |
 | --- | --- |
+| Miss Fan Yiou | fan_yiou@moe.edu.sg |
 | Mrs Gwen Tan | gwen_tan@moe.edu.sg |
-| Mdm Valerie Liaw | liaw_bee_ling@moe.edu.sg |
+| Mdm Lim Chai Lay | lim_chai_lay@moe.edu.sg |
 
   
 

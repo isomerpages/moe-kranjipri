@@ -42,7 +42,6 @@ as 3rd place in League 1 at the National School Games Senior Division Basketball
 Competition. <strong>Congratulations to our Basketballers!</strong>
 </p>
 <p>
-<br>
 </p>
 <h5>Applied Learning Programme</h5>
 <div class="isomer-image-wrapper">

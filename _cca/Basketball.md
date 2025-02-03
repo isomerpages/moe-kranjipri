@@ -51,6 +51,7 @@ Students will be able to:
 | Miss Ting Pui Sin | ting_pui_sin@moe.edu.sg |
 | Mr (Ryan) Ng Chou Yeaw | ng_chou_yeaw@moe.edu.sg |  
 | Mr Wilson Ng Whye Shoen | ng_whye_shoen_wilson@moe.edu.sg |
+| Mdm Liu Yan | liu_yan@moe.edu.sg |
 
 ##### **Introduction**
   

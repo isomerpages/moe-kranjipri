@@ -5,8 +5,8 @@ description: ""
 variant: markdown
 ---
 <h3><strong>Read our latest news</strong></h3>
-<p></p>
-<hr>
+
+
 <p>EXCITING NEWS!</p>
 <h1><strong>Our School is Relocating to Tengah in 2028!</strong></h1>
 <p>We are thrilled to announce that in 2028, our school will be relocating

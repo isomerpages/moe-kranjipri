@@ -32,8 +32,8 @@ Students will be able to:
 
 | Day | Time | Remarks |
 | --- | --- | --- |
-| Tuesday | 3.30pm to 5.30pm | Junior Boys &amp; Senior Boys |
-| &nbsp;Thursday | 3.30pm to 5.30pm | Junior Boys &amp; Senior Boys&nbsp; |
+| Tuesday | 3.00pm to 5.00pm | Junior Boys &amp; Senior Boys |
+| &nbsp;Thursday | 3.00pm to 5.00pm | Junior Boys &amp; Senior Boys&nbsp; |
 
   
 

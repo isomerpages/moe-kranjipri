@@ -69,7 +69,7 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 <figure>
 
 <img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/modern_dance_2025.png">
-
+<figcaption> <strong>  Let's strech out our muscles</strong> </figcaption>
 
 
 </figure>
@@ -77,7 +77,7 @@ Modern Dance CCA members take part in the Singapore Youth Festival (SYF) Arts Pr
 <figure>
 
 <img src="/images/Our%20Curriculum/Departments/CCA/Modern%20Dance/modern_dance_2_2025.png">
-
+<figcaption> <strong>  Grooving with the music and let's end the training with a pose!</strong> </figcaption>
 
 
 </figure>

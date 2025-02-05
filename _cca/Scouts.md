@@ -98,7 +98,7 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/scout_2024-3.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/Scout_2024.png">
 
 <figcaption> <strong> Scouts Reading Programme with MK students </strong> </figcaption>
 

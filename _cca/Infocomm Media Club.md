@@ -80,6 +80,8 @@ Members will also have opportunities to take part in competitions such as the Na
 
 <figure>
 
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_drone-2.jpg">
+	
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_2024-1.jpg">
 
 <figcaption> <strong> Students presenting their projects in the IMDAs LEARN Immersive New Media Junior Programme with Apple and Digital Maker with Microsoft Programme. </strong> </figcaption>

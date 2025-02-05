@@ -32,8 +32,8 @@ Students will be able to:
 
 | Day      | Time       | Remarks                    |
 |----------|------------|----------------------------|
-| Tuesday  | 2pm to 4pm | Junior Boys and Girls (P4) |
-|          | 4pm to 6pm | Junior Boys and Girls (P5) |
+| Tuesday  | 2.00pm to 4.30pm | Senior Boys and Junior Boys |
+|          | 2.00pm to 6.00pm | Senior Girls |
 | Thursday | 2pm to 4pm | Junior Boys and Girls (P4) |
 |       | 4pm to 6pm | Junior Boys and Girls (P5) |
 | Friday   | 2pm to 4pm | Junior Boys and Girls (P4) |

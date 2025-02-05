@@ -60,6 +60,12 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 <figure>
 
+<img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion_ensemble_2_2025.png">
+<br>
+<img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion_ensemble_2025.jpg">	
+	
+<figcaption> <strong> Tika ,Tika, Titi, Ta! </strong> </figcaption>
+<br>	
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion_ensemble_1_2024.jpg">
 
 <figcaption> <strong> Singapore Youth Festival (SYF) Arts Presentation 2024  </strong> </figcaption>
@@ -83,10 +89,3 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 </figure>
 
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion-tika.jpg">
-
-<figcaption> <strong> Tika ,Tika, Titi, Ta! </strong> </figcaption>
-
-</figure>

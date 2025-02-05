@@ -108,7 +108,7 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 
 <figure>
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/senior_girls_basketball_2025.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/senior_girls_basketball_2025.jpg">
 <figcaption> <strong> Skyhigh for the busket! </strong> </figcaption>
 
 </figure>

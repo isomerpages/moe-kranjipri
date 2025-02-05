@@ -67,15 +67,17 @@ In every CCA session, students will be guided by instructors/experienced teacher
   
 
 <figure>
-
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-1.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Art/Art_2024.png">
+<br>
+	
+<img src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-1.jpg">
 
 
 </figure>
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-2.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-2.jpg">
 
 <figcaption> <strong> Weaving Paper! </strong> </figcaption>
 

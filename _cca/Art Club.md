@@ -83,60 +83,22 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 </figure>
 
+
 <figure>
 
-
-
-
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-3.jpg">
-	
+<img src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-5.jpg">
 
 </figure>
 
-<figure>
 
 
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-4.jpg">
-	
-<figcaption> <strong> Admiring each other's ceramic creation  </strong> </figcaption>
-
-</figure>
 
 <figure>
 
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-5.jpg">
-
-</figure>
-
-<figure>
-
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-6.jpg">
-
-
-
-</figure>
-
-<figure>
-
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-7.jpg">
-
-
-
-</figure>
-
-<figure>
-
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-8.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Art/art_3_2024.png">
 
 <figcaption> <strong> 2023 SYF P5 &amp; P6 </strong> </figcaption>
 
 </figure>
 
-<figure>
-
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-9.jpg">
-
-
-
-</figure>

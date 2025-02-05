@@ -27,7 +27,7 @@ Students will be able to:
 **Teacher IC &amp; Email address**  
   
 |          Teacher IC          |  Email address (ICON)  |
-|:----------------------------:|:----------------------:|
+| --- | --- |
 | Mdm Rufaidah Bte Ismail | rufaidah_ismail@moe.edu.sg |
 |       Mdm Chia Lee Eng (Mrs Joanne Yeong)       | chia_lee_eng@moe.edu.sg |
 
@@ -59,15 +59,15 @@ Eco Makers Club members can look forward to visiting Science Fairs, such as Sing
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco makers-1.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco_maker_2_2024.png">
 
-<figcaption> <strong> Using recycled materials to make a mini-portable oven that works using Solar energy </strong> </figcaption>
+<figcaption> <strong> The newly formed Eco Makers Club had members using the Design Thinking approach to make a self-watering device for plants</strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco makers-2.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco_maker_3_2024.png">
 
 <figcaption> <strong> Trying out different methods to prevent the spread of oil pollution in water bodies </strong> </figcaption>
 
@@ -75,16 +75,9 @@ Eco Makers Club members can look forward to visiting Science Fairs, such as Sing
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco makers-3.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco_maker_2024.png">
 
-<figcaption> <strong> Practising for mini-busking activity during CCA </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco makers-4.png">
-
-<figcaption> <strong> Proposing solutions tackle problems in different scenarios </strong> </figcaption>
+<figcaption> <strong> Mr. Wilson Ng guided our Eco Makers Club as they learned how to recycle and repurpose used papers into unique art &amp; craft creations!</strong> </figcaption>
 
 </figure>
+

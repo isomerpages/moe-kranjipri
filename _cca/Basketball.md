@@ -32,11 +32,11 @@ Students will be able to:
 
 | Day      | Time       | Remarks                    |
 |----------|------------|----------------------------|
-| Tuesday  | 2.00pm to 4.30pm | Senior Boys and Junior Boys |
+| Tuesday  | 2.00pm to 4.30pm | Junior Boys and Senior Boys |
 |          | 2.00pm to 6.00pm | Senior Girls |
-| Thursday | 2.00pm to 4.30pm | Senior Boys and Junior Boys |
+| Thursday | 2.00pm to 4.30pm | Junior Boys and Senior Boys |
 |       | 2.00pm to 6.00pm | Senior Girls |
-| Friday   | 2.00pm to 4.30pm | Senior Boys and Juniro Boys |
+| Friday   | 2.00pm to 4.30pm | Junior Boys and Senior Boys |
 |          | 2.00pm to 4.30pm | Junior Girls |
 |          | 2.00pm to 6.00pm | Senior Girls |
 

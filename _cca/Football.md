@@ -76,16 +76,6 @@ Selected students in Football will be able to participate in the National School
                                                                                                                                   
 **Photos of our Footballers in action**
 
-
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F3.jpg">
-
-<figcaption> <strong> NSG 2022 Juniors Competition </strong> </figcaption>
-
-</figure>
-
 <figure>
 
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/football_CCA_2025.jpg">

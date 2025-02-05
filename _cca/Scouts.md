@@ -78,7 +78,9 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 **Photos of Scouts in action**
 
 <figure>
-
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/Scout_2025.png">
+<figcaption> <strong> Our Cub Scouts completed their mission for 2025 Chinese New Year Celebration! </strong> </figcaption>
+<br>	
 <img src="/images/Our%20Curriculum/Departments/CCA/Scouts/Scout_Cubster_2024.png">
 <figcaption> <strong> 2024 West Area Cubster Competition </strong> </figcaption>
 </figure>	

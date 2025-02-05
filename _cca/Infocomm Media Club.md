@@ -80,7 +80,9 @@ Members will also have opportunities to take part in competitions such as the Na
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_drone-2.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_drone_2.jpg">
+<br>
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_drone_3.jpg">
 	
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_2024-1.jpg">
 

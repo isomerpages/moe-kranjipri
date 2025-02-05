@@ -82,7 +82,7 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 <img src="/images/Our%20Curriculum/Departments/CCA/Scouts/Scout_Cubster_2024.png">
 <figcaption> <strong> 2024 West Area Cubster Competition </strong> </figcaption>
 </figure>	
-<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/scout_2024-1.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/Scout_ndp_2024.png">
 
 <figcaption> <strong> Flag bearers during National Day Observance Ceremony </strong> </figcaption>
 

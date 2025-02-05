@@ -35,7 +35,7 @@ Students will be able to:
 **Teacher IC &amp; Email address**
 
 |        Teacher IC        |       Email address (ICON)      |
-|:------------------------:|:-------------------------------:|
+| --- | --- |
 |      Mdm Alicia Ngo Phew Ling     |      alicia_ngo_phew_ling@moe.edu.sg     |
 | Mdm Tay Li Ping | tay_li_ping@moe.edu.sg |
 | Mdm Saraswathi D/O Valliappan | saraswathi_valliappan@moe.edu.sg |

@@ -102,8 +102,8 @@ Selected students in Football will be able to participate in the National School
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/football_2024-3.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/senior_boys_2025.png">
 
-<figcaption> <strong> NSG 2023 Football Junior Division Team </strong> </figcaption>
+<figcaption> <strong> NSG 2025 Football Senior Division Team </strong> </figcaption>
 
 </figure>

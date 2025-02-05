@@ -94,7 +94,7 @@ Selected students in Football will be able to participate in the National School
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/football_2024-2.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/football_CCA_2025.jpg">
 
 <figcaption> <strong> Work hard, dream big! </strong> </figcaption>
 
@@ -102,7 +102,7 @@ Selected students in Football will be able to participate in the National School
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Football/senior_boys_football_2025.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Football/senior_boys_football_2025.jpg">
 
 <figcaption> <strong> NSG 2025 Football Senior Division Team </strong> </figcaption>
 

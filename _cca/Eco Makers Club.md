@@ -75,9 +75,9 @@ Eco Makers Club members can look forward to visiting Science Fairs, such as Sing
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco makers-3.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco_maker_2024.png">
 
-<figcaption> <strong> Practising for mini-busking activity during CCA </strong> </figcaption>
+<figcaption> <strong> Mr. Wilson Ng guided our Eco Makers Club as they learned how to recycle and repurpose used papers into unique art &amp; craft creations!</strong> </figcaption>
 
 </figure>
 

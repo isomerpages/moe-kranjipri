@@ -45,7 +45,7 @@ Students will be able to:
 | Mr Jansen Lee | lee_chang_sheng_jansen@moe.edu.sg |
 | Mr Jeremy Loh | loh_yan_hao_jeremy@moe.edu.sg   |
 |Mdm Ernie Bte Jumat  | ernie_jumat@moe.edu.sg   |
-|Mdm Eldora Kok Ying Zhi  | eldora_kok_ying_zhi@moe.edu.sg   |
+|Miss Eldora Kok Ying Zhi  | eldora_kok_ying_zhi@moe.edu.sg   |
 
 ##### **Introduction**
   

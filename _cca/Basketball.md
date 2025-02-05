@@ -34,11 +34,11 @@ Students will be able to:
 |----------|------------|----------------------------|
 | Tuesday  | 2.00pm to 4.30pm | Senior Boys and Junior Boys |
 |          | 2.00pm to 6.00pm | Senior Girls |
-| Thursday | 2pm to 4pm | Junior Boys and Girls (P4) |
-|       | 4pm to 6pm | Junior Boys and Girls (P5) |
-| Friday   | 2pm to 4pm | Junior Boys and Girls (P4) |
-|          | 2pm to 4pm | Junior Boys and Girls (P5) |
-|          | 2pm to 6pm | Senior Boys and Girls (P6) |
+| Thursday | 2.00pm to 4.30pm | Senior Boys and Junior Boys) |
+|       | 2.00pm to 6.00pm | Senior Girls |
+| Friday   | 2.00pm to 4.30pm | Senior Boys and Juniro Boys |
+|          | 2.00pm to 4.30pm | Junior Girls |
+|          | 2.00pm to 6.00pm | Senior girls |
 
   
 

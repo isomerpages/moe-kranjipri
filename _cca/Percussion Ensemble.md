@@ -51,7 +51,7 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 | Year | National | Community | School | 
 | -------- | -------- | -------- | -------- |
-| 2024     | Performed for Singapore Youth Festival Art Presentation (Certificate of Distinction)     |  Performed for Limbang National Day Celebration
+| 2024     | Performed for Singapore Youth Festival Art Presentation (Certificate of Distinction)     |  Performed for Limbang National Day Celebration  | - Performed for KPS Annual Prize Giving Day 
 | 2023     | The Singapore Youth Festival Art  <br> Presentation is held biennially     | Performed for Limbang National Day Celebration     | - Performed for KPS Annual Prize Giving Day <br> - Participated in the Primary 2 CCA Experience   |
 | 2022     | Performed for Singapore Youth Festival Art Presentation       |      | - Performed for KPS National Day Celebration <br> - Performed  for KPS 25th Anniversary Celebration <br> - Participated in the Primary 2 CCA Experience |
   
@@ -60,6 +60,12 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 <figure>
 
+<img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion_ensemble_2_2025.png">
+<br>
+<img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion_ensemble_2025.jpg">	
+	
+<figcaption> <strong> Tika ,Tika, Titi, Ta! </strong> </figcaption>
+<br>	
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion_ensemble_1_2024.jpg">
 
 <figcaption> <strong> Singapore Youth Festival (SYF) Arts Presentation 2024  </strong> </figcaption>
@@ -80,13 +86,5 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 
 <figcaption> <strong> Limbang National Day Performance 2023 </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion-tika.jpg">
-
-<figcaption> <strong> Tika ,Tika, Titi, Ta! </strong> </figcaption>
 
 </figure>

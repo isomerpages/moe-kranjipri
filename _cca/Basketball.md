@@ -32,13 +32,13 @@ Students will be able to:
 
 | Day      | Time       | Remarks                    |
 |----------|------------|----------------------------|
-| Tuesday  | 2pm to 4pm | Junior Boys and Girls (P4) |
-|          | 4pm to 6pm | Junior Boys and Girls (P5) |
-| Thursday | 2pm to 4pm | Junior Boys and Girls (P4) |
-|       | 4pm to 6pm | Junior Boys and Girls (P5) |
-| Friday   | 2pm to 4pm | Junior Boys and Girls (P4) |
-|          | 2pm to 4pm | Junior Boys and Girls (P5) |
-|          | 2pm to 6pm | Senior Boys and Girls (P6) |
+| Tuesday  | 2.00pm to 4.30pm | Senior Boys and Junior Boys |
+|          | 2.00pm to 6.00pm | Senior Girls |
+| Thursday | 2.00pm to 4.30pm | Senior Boys and Junior Boys |
+|       | 2.00pm to 6.00pm | Senior Girls |
+| Friday   | 2.00pm to 4.30pm | Senior Boys and Juniro Boys |
+|          | 2.00pm to 4.30pm | Junior Girls |
+|          | 2.00pm to 6.00pm | Senior Girls |
 
   
 
@@ -87,7 +87,7 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 | Year | West Zone | National | Others |
 | -------- | -------- | -------- |  -------- |
-2024     | Senior Girls - 3rd       | Senior Girls - 3rd in League 1
+2024     | Senior Girls - 3rd       | Senior Girls - 3rd in League 1 <br> Senior Boys - 2nd, Group B in League 3
 | 2023     | Senior Girls - 2nd       | Senior Girls - 3rd   <br>Junior Girls - **Tier 2 Champion**  <br>Junior Boys - **Tier 2 Champion**   |
 | 2022     | Senior Girls - **Champion**   <br>Junior Girls - **Tier 2 Champion**    | **No National Games**   |
 | 2019     | Senior Girls - **Champion** <br>Senior Boys - **Top 21**      | Junior Girls - **Top 37** <br>Senior Girls - **Champion** Junior Boys - **Tier 2 Top 8**| AES 5-a-side Basketball Challenge Cup 2019 - **Boys Team (2nd)** <br>- **Best Defensive player Award Boys** <br>- **Basketball Skills Challenge (Boys) (1st)**
@@ -99,7 +99,7 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 **Photos of Basketballers in action**
 
 <figure>
-	<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_1_2024.jpg">
+	<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_CCA_2025.jpg">
 <figure>
 <img src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_girls.jpg">
 <figcaption> <strong> No one can stop me. Watch us as we buskets!. </strong> </figcaption>
@@ -108,7 +108,7 @@ Kranji Basketball has also supported many players to gain entry into secondary s
 
 
 <figure>
-<img style="width:59%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Basketball/basketball_2024-3.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Basketball/senior_girls_basketball_2025.jpg">
 <figcaption> <strong> Skyhigh for the busket! </strong> </figcaption>
 
 </figure>

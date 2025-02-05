@@ -80,19 +80,23 @@ Members will also have opportunities to take part in competitions such as the Na
 
 <figure>
 
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_drone_2.jpg">
+<br>
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_drone_3.jpg">
+	<figcaption> <strong> Dream Adventure Workshop. The workshop was conducted by GSATech through IMDA.   </strong> </figcaption>
+<br>	
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_3.png">
+<br>	
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_4.png">
 <img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_2024-1.jpg">
 
+
+	
 <figcaption> <strong> Students presenting their projects in the IMDAs LEARN Immersive New Media Junior Programme with Apple and Digital Maker with Microsoft Programme. </strong> </figcaption>
 
 </figure>
 
-<figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_2024-2.jpg">
-
-<figcaption> <strong> Students trying out the VR stations in IMDA's DISCOVER Headrock VR at Sentosa learning journey.   </strong> </figcaption>
-
-</figure>
 
 
 <figure>

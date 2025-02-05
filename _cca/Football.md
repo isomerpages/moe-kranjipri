@@ -45,7 +45,7 @@ Students will be able to:
 | Mr Jansen Lee | lee_chang_sheng_jansen@moe.edu.sg |
 | Mr Jeremy Loh | loh_yan_hao_jeremy@moe.edu.sg   |
 |Mdm Ernie Bte Jumat  | ernie_jumat@moe.edu.sg   |
-|Mdm Eldora Kok Ying Zhi  | eldora_kok_ying_zhi@moe.edu.sg   |
+|Miss Eldora Kok Ying Zhi  | eldora_kok_ying_zhi@moe.edu.sg   |
 
 ##### **Introduction**
   
@@ -78,23 +78,7 @@ Selected students in Football will be able to participate in the National School
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/football_2024-1.jpg">
-
-<figcaption> <strong> Friendlies. </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/F3.jpg">
-
-<figcaption> <strong> NSG 2022 Juniors Competition </strong> </figcaption>
-
-</figure>
-
-<figure>
-
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/football_2024-2.jpg">
+<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/football_CCA_2025.jpg">
 
 <figcaption> <strong> Work hard, dream big! </strong> </figcaption>
 
@@ -102,8 +86,8 @@ Selected students in Football will be able to participate in the National School
 
 <figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/football_2024-3.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Football/senior_boys_football_2025.jpg">
 
-<figcaption> <strong> NSG 2023 Football Junior Division Team </strong> </figcaption>
+<figcaption> <strong> NSG 2025 Football Senior Division Team </strong> </figcaption>
 
 </figure>

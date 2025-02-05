@@ -78,27 +78,29 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 **Photos of Scouts in action**
 
 <figure>
-
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/Scout_2025.png">
+<figcaption> <strong> Our Cub Scouts completed their mission for 2025 Chinese New Year Celebration! </strong> </figcaption>
+<br>	
 <img src="/images/Our%20Curriculum/Departments/CCA/Scouts/Scout_Cubster_2024.png">
 <figcaption> <strong> 2024 West Area Cubster Competition </strong> </figcaption>
 </figure>	
-<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/scout_2024-1.jpg">
 
-<figcaption> <strong> Flag bearers during National Day Observance Ceremony </strong> </figcaption>
+
+
 
 
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/scout_2024-2.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/Scout_ndp_2024.png">
 
-<figcaption> <strong> 2 Days 1 Night Cub Scouts Leadership Course. </strong> </figcaption>
+<figcaption> <strong> Flag bearers during National Day Observance Ceremony </strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/scout_2024-3.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Scouts/Scout_2024.png">
 
 <figcaption> <strong> Scouts Reading Programme with MK students </strong> </figcaption>
 

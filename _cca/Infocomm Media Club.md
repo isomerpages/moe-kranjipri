@@ -96,13 +96,7 @@ Members will also have opportunities to take part in competitions such as the Na
 
 </figure>
 
-<figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Infocomm%20Media%20Club/infocomm_2024-2.jpg">
-
-<figcaption> <strong> Students trying out the VR stations in IMDA's DISCOVER Headrock VR at Sentosa learning journey.   </strong> </figcaption>
-
-</figure>
 
 
 <figure>

@@ -81,10 +81,3 @@ Eco Makers Club members can look forward to visiting Science Fairs, such as Sing
 
 </figure>
 
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco makers-4.png">
-
-<figcaption> <strong> Proposing solutions tackle problems in different scenarios </strong> </figcaption>
-
-</figure>

@@ -26,7 +26,7 @@ Students will be able to:
 
 | Day | Time | Remarks |
 | --- | --- | --- |
-| Tuesday | 2.15pm to 3.45pm | ShowStopperz (SYF Team) |
+| Tuesday | 2.00pm to 4.00pm | ShowStopperz (SYF Team) |
 
   
 

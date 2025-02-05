@@ -52,6 +52,7 @@ Students will be able to:
 | Mr (Ryan) Ng Chou Yeaw | ng_chou_yeaw@moe.edu.sg |  
 | Mr Wilson Ng Whye Shoen | ng_whye_shoen_wilson@moe.edu.sg |
 | Mdm Liu Yan | liu_yan@moe.edu.sg |
+| Miss Andrea Lee Qing | lee_qing_andrea@moe.edu.sg |
 
 ##### **Introduction**
   

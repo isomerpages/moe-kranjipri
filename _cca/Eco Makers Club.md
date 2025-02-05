@@ -59,15 +59,15 @@ Eco Makers Club members can look forward to visiting Science Fairs, such as Sing
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco makers-1.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco_maker_2_2024.png">
 
-<figcaption> <strong> Using recycled materials to make a mini-portable oven that works using Solar energy </strong> </figcaption>
+<figcaption> <strong> The newly formed Eco Makers Club had members using the Design Thinking approach to make a self-watering device for plants</strong> </figcaption>
 
 </figure>
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco makers-2.png">
+<img src="/images/Our%20Curriculum/Departments/CCA/Science%20Club/eco_maker_3_2024.png">
 
 <figcaption> <strong> Trying out different methods to prevent the spread of oil pollution in water bodies </strong> </figcaption>
 

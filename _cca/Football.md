@@ -76,13 +76,7 @@ Selected students in Football will be able to participate in the National School
                                                                                                                                   
 **Photos of our Footballers in action**
 
-<figure>
 
-<img style="width:100%;height:50%" src="/images/Our%20Curriculum/Departments/CCA/Football/football_2024-1.jpg">
-
-<figcaption> <strong> Friendlies. </strong> </figcaption>
-
-</figure>
 
 <figure>
 

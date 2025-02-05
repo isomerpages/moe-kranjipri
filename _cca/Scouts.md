@@ -34,8 +34,8 @@ Students will be able to:
 |      Mdm Deborah Tham      |      deborah_tham_lai_mei@moe.edu.sg     |
 | Mdm Sarimah Bte Mohd Noor  | sarimah_mohamad_noor@moe.edu.sg |
 | Mrs Hesheam Hashim  | hesheam_hashim@moe.edu.sg |
-
-  
+| Mdm Hafizah Beevi Binti Abdul Basit  | hafizah_beevi_abdul_basit@moe.edu.sg |
+| Mdm Sri Rahayu Bte Mohd Amin  | sri_rahayu_mohamed_amin@moe.edu.sg |  
 
 ##### **Introduction**
 

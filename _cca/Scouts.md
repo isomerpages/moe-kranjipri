@@ -64,7 +64,6 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 ##### **CCA Achievements**
 
 
-
 |  Year  |                                       West Zone                                      |                   National                |     
 | -------- | -------- | -------- | 
 | 2024   | Attained 1 Gold Award and 1 Silver Award in West Area Cubster Competition                                         | Attained Bronze in National Cub Scouts Design Competition |

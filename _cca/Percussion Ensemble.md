@@ -86,5 +86,6 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 
 <figcaption> <strong> Our Kranji Percussion Ensemble delivered two energetic performances at the Octoburst! Children's Festival, held at the Esplanade's DBS Foundation Outdoor Theatre. </strong> </figcaption>
-
+	<br>
+<img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion_ensemble_3_2024.jpg">
 </figure>

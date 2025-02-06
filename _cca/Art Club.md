@@ -70,14 +70,11 @@ In every CCA session, students will be guided by instructors/experienced teacher
 <img src="/images/Our%20Curriculum/Departments/CCA/Art/Art_2024.png">
 <br>
 	
-<img src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-1.jpg">
 
-
-</figure>
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-2.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Art/art_3_2024.jpg">
 
 <figcaption> <strong> Weaving Paper! </strong> </figcaption>
 
@@ -86,7 +83,7 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-5.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Art/art_8_2024.jpg">
 
 </figure>
 
@@ -100,5 +97,4 @@ In every CCA session, students will be guided by instructors/experienced teacher
 
 <figcaption> <strong> 2023 SYF P5 &amp; P6 </strong> </figcaption>
 
-</figure>
-
+</figure></figure>

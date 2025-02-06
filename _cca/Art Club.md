@@ -69,36 +69,18 @@ In every CCA session, students will be guided by instructors/experienced teacher
 <figure>
 <img src="/images/Our%20Curriculum/Departments/CCA/Art/Art_2024.png">
 <br>
+<img src="/images/Our%20Curriculum/Departments/Art/art_3_2024.png">
+<figcaption> <strong> Joined forces with STAGMONT PARK RN members and residents to create a beautiful banner celebrating Singapore's National Day! </strong> </figcaption>	
 	
-<img src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-1.jpg">
-
-
-</figure>
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-2.jpg">
-
-<figcaption> <strong> Weaving Paper! </strong> </figcaption>
-
-</figure>
-
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/CCA/Art/art_2024-5.jpg">
-
-</figure>
-
-
-
-
-
-<figure>
-
+<br>
+<img src="/images/Our%20Curriculum/Departments/Art/art_8_2024.jpg">
+<br>
+<img src="/images/Our%20Curriculum/Departments/Art/art_4_2024.jpg">
+<br>
+	<img src="/images/Our%20Curriculum/Departments/Art/art_5_2024.png">
+<br>
 <img src="/images/Our%20Curriculum/Departments/CCA/Art/art_3_2024.png">
 
 <figcaption> <strong> 2023 SYF P5 &amp; P6 </strong> </figcaption>
 
 </figure>
-

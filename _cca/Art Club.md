@@ -75,32 +75,9 @@ In every CCA session, students will be guided by instructors/experienced teacher
 <br>
 <img src="/images/Our%20Curriculum/Departments/Art/art_8_2024.jpg">
 <br>
-	
-
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Art/art_3_2024.png">
-
-
-
-</figure>
-
-
-<figure>
-
-<img src="/images/Our%20Curriculum/Departments/Art/art_8_2024.jpg">
-
-</figure>
-
-
-
-
-
-<figure>
 
 <img src="/images/Our%20Curriculum/Departments/CCA/Art/art_3_2024.png">
 
 <figcaption> <strong> 2023 SYF P5 &amp; P6 </strong> </figcaption>
 
-</figure></figure>
+</figure>

@@ -63,9 +63,9 @@ Going on outdoor exploration, learning about nature, new games, sports and campi
 
 ##### **CCA Achievements**
 
-|        |                                                                                      |                                             |
-|--------|--------------------------------------------------------------------------------------|---------------------------------------------|
-|  Year  |                                       West Zone                                      |                   National                  
+
+|  Year  |                                       West Zone                                      |                   National                |     
+| -------- | -------- | -------- | 
 | 2024   | Attained 1 Gold Award and 1 Silver Award in West Area Cubster Competition                                         | Attained Bronze in National Cub Scouts Design Competition |
 2023 | Attained 2nd Postition (Three Legged Race) and 3rd Position (Caterpillar Race) in the West Area Founder's Day Rally. <br> Attained Consolation Prize (Running Man) in the West Area Cub Scout Field Day.     |  |
 2022 | Nil| Attained Bronze in the Frank Copper Sands Award  |

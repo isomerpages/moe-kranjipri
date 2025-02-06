@@ -82,9 +82,9 @@ The Percussion Ensemble aims to enhance students’ musical learning experience 
 
 <figure>
 
-<img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion-2_limbang ndp 2023.jpg">
+<img src="/images/Our%20Curriculum/Departments/CCA/Percussion%20Ensemble/percussion_ensemble_2_2024.png">
 
 
-<figcaption> <strong> Limbang National Day Performance 2023 </strong> </figcaption>
+<figcaption> <strong> Our Kranji Percussion Ensemble delivered two energetic performances at the Octoburst! Children's Festival, held at the Esplanade's DBS Foundation Outdoor Theatre. </strong> </figcaption>
 
 </figure>

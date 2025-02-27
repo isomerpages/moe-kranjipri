@@ -31,15 +31,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sathya Prasad S/O Gopalakrishnan
-<br>Vice Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sathya_prasad_g@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Wong Seow Ling Rennie
 <br>Vice Principal</p>
 </td>

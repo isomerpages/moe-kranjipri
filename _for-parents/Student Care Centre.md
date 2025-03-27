@@ -28,11 +28,6 @@ Student Care Centre (SCC) @ Kranji Primary School aims to provide a safe, struct
 
 For parents who are interested in enrolling your child into the student care, kindly approach Kranji Primary School’s General Office for registration details. Kindly note that enrolments are only open to students from Kranji Primary School. As SCC vacancies are limited, the school will assess and allocate the SCC space to families who are more in need of after-school care.  For any other enquiries, please feel free to contact Little Professors at the following contact details.
 
-Handphone: 98358498  
-Email: kjscc@nascans.com  
-Note: Office operation hours is from 10.00am to 7.00pm.  
-  
-
-
-
-
+Handphone:   
+Email:   
+Note: Office operation hours is from 10.00am to 7.00pm.

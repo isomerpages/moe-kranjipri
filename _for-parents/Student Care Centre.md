@@ -8,7 +8,7 @@ variant: markdown
 
   
 
-Student Care Centre (SCC) @ Kranji Primary School aims to provide a safe, structured and conducive environment for our students to rest and learn after school hours.  In Kranji Primary School, we partner Nascans to provide quality after-school care. The SCC programmes are designed to focus on students’ after-school care needs and to provide opportunities for them to develop social and emotional competencies and nurture healthy relationships. Nascans mentors are passionate and are committed to guiding and caring for the after-school care needs of our students.
+Student Care Centre (SCC) @ Kranji Primary School aims to provide a safe, structured and conducive environment for our students to rest and learn after school hours.  In Kranji Primary School, we partner Nascans to provide quality after-school care. The SCC programmes are designed to focus on students’ after-school care needs and to provide opportunities for them to develop social and emotional competencies and nurture healthy relationships. Little Professors mentors are passionate and are committed to guiding and caring for the after-school care needs of our students.
 
   
 

@@ -9,6 +9,18 @@ description: ""
 to access MOE applications such as Student Learning Space (SLS), Media
 Resource Library (MRL), etc.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/Challenge_QnA_setup.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/SSPR_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/SSPR_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/SSPR_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/SSPR_4.jpg">
 </div>
 <p></p>

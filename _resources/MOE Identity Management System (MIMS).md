@@ -30,4 +30,5 @@ capable enough to take responsibility and ownership of their MIMS account.</p>
 <p></p>
 <p>If you are unable to perform Self-Service Password Reset (SSPR) as you
 have forgotten the answers to your MIMS security challenge questions or
-other reasons, your password reset must be performed by the <strong>MIMS Student Administrator (SA)</strong>.</p>
+other reasons, please go to our <a href="https://form.gov.sg/5cdcfea6cac839001734c5a9" rel="noopener nofollow" target="_blank">Student Password Reset Form</a>
+</p>

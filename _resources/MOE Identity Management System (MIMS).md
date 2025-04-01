@@ -8,7 +8,6 @@ description: ""
 <p>MOE Identity Management System (MIMS) is a new system that allow students
 to access MOE applications such as Student Learning Space (SLS), Media
 Resource Library (MRL), etc.</p>
-<p></p>
 <h4><strong>Managing MIMS Account</strong></h4>
 <p><strong>Primary 2 &amp; 3 </strong>- Since these students are still young,
 we have done a one-time set up of answers to challenge questions (can be

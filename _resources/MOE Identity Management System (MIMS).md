@@ -1,7 +1,7 @@
 ---
 title: MOE Identity Management System (MIMS)
 permalink: /mims/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h3><strong>What is MIMS?</strong></h3>
@@ -10,17 +10,22 @@ to access MOE applications such as Student Learning Space (SLS), Media
 Resource Library (MRL), etc.</p>
 <h4><strong>Managing MIMS Account</strong></h4>
 <p><strong>Primary 2 &amp; 3 </strong>- Since these students are still young,
-we have done a one-time set up of answers to challenge questions (printed in and attached in their handbooks).</p>
+we have done a one-time set up of answers to challenge questions (printed
+in and attached in their handbooks).</p>
 <p><strong>Primary 4 to 6</strong> - They will need to reset or change their
 answers &amp; challenge questions. We believe Upper Primary students are
 capable enough to take responsibility and ownership of their MIMS account.</p>
 <p><strong>Please take note the MIMS username follows this format.</strong>
 </p>
 <p>Example: Muhammad Ali Bin Muhammad Raihan</p>
-Username: muhammad_ali_muhammad_raihan@students.edu.sg
-<p>
-</p><div class="isomer-image-wrapper">
+<p>Username: muhammad_ali_muhammad_raihan@students.edu.sg</p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_portal_login.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/What_is_this_about_poster.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">

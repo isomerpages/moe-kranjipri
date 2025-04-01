@@ -18,4 +18,5 @@ Resource Library (MRL), etc.</p>
 </div>
 <h4><strong>Managing MIMS Account</strong></h4>
 <p>Primary 2 &amp; 3 - since these students are still young, we have done
-a one-time set up of answers to challenge questions</p>
+a one-time set up of answers to challenge questions (can be found in their
+handbooks)</p>

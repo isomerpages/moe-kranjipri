@@ -90,4 +90,4 @@ In collaboration with both the instructional and non-instructional programmes, s
 
 **Please click [here](/home-based-learning/Home-Based-Learning/) for Home-Based Learning**
 
-**Please click** [here](https://www.kranjipri.moe.edu.sg/resource/moe-identity-management-system-mims/) **for Student MIMS**
+**Please click [here](https://www.kranjipri.moe.edu.sg/resource/moe-identity-management-system-mims/) for Student MIMS**

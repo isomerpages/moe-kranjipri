@@ -17,6 +17,8 @@ Resource Library (MRL), etc.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/Posters_MIMS_SSPR_Guide_Page_2.jpg">
 </div>
 <h4><strong>Managing MIMS Account</strong></h4>
-<p>Primary 2 &amp; 3 - since these students are still young, we have done
+<p>Primary 2 &amp; 3 - Since these students are still young, we have done
 a one-time set up of answers to challenge questions (can be found in their
-handbooks)</p>
+handbooks).</p>
+<p>Primary 4 to 6 - They will need to reset or change their answers &amp;
+challenge questions.</p>

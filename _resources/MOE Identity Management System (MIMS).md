@@ -21,4 +21,5 @@ Resource Library (MRL), etc.</p>
 a one-time set up of answers to challenge questions (can be found in their
 handbooks).</p>
 <p>Primary 4 to 6 - They will need to reset or change their answers &amp;
-challenge questions.</p>
+challenge questions. We believe Upper Primary students are capable enough
+to take responsibility and ownership of their MIMS account.</p>

@@ -17,7 +17,8 @@ answers &amp; challenge questions. We believe Upper Primary students are
 capable enough to take responsibility and ownership of their MIMS account.</p>
 <p><strong>Please take note the MIMS username follows this format.</strong>
 </p>
-<p>Example: Muhammad Ali Bin Muhammad RaihanUsername: muhammad_ali_muhammad_raihan@students.edu.sg</p>
+<p>Example: Muhammad Ali Bin Muhammad Raihan</p>
+<p>Username: muhammad_ali_muhammad_raihan@students.edu.sg</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_portal_login.png">
 </div>

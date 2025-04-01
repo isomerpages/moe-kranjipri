@@ -11,7 +11,7 @@ Resource Library (MRL), etc.</p>
 <h4><strong>Managing MIMS Account</strong></h4>
 <p><strong>Primary 2 &amp; 3 </strong>- Since these students are still young,
 we have done a one-time set up of answers to challenge questions (printed
-in and attached in their handbooks).</p>
+in card form and attached to their student handbook).</p>
 <p><strong>Primary 4 to 6</strong> - They will need to reset or change their
 answers &amp; challenge questions. We believe Upper Primary students are
 capable enough to take responsibility and ownership of their MIMS account.</p>

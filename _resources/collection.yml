@@ -2,8 +2,8 @@ collections:
   resources:
     output: true
     order:
-      - ICON.md
       - For Students, Teachers and Parents.md
       - Student ICON.md
       - Student Learning Space (SLS).md
       - MOE Identity Management System (MIMS).md
+      - ICON.md

@@ -17,5 +17,9 @@ app services such as Google Classroom and Docs.</p>
 <p>Facilitate collaboration, teaching and learning between teachers and students
 using apps such as Google Classroom, Drive.</p>
 </li>
+<li>
+<p>Follow students throughout their learning journey from Primary School
+to Junior Colleges / Centralised Institutes.</p>
+</li>
 </ul>
 <p></p>

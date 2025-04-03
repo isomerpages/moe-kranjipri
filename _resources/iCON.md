@@ -10,3 +10,12 @@ is the digital identity for supporting the personal learning device (PLD),
 Device Management Application (DMA) and Microsoft Proplus. It is an extension
 of iCON 2.0 and comprises a suite of Google apps including email and other
 app services such as Google Classroom and Docs.</p>
+<p><strong>Benefits</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Facilitate collaboration, teaching and learning between teachers and students
+using apps such as Google Classroom, Drive.</p>
+</li>
+</ul>
+<p></p>

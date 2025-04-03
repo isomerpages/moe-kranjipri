@@ -21,5 +21,10 @@ using apps such as Google Classroom, Drive.</p>
 <p>Follow students throughout their learning journey from Primary School
 to Junior Colleges / Centralised Institutes.</p>
 </li>
+<li>
+<p>Student iCON is web-based which means students can use their web browser
+in their internet-enabled computing or mobile devices to visit <a href="https://workspace.google.com/dashbaord" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashbaord</a> to
+access Student iCON.</p>
+</li>
 </ul>
 <p></p>

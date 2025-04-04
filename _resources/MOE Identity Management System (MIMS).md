@@ -32,6 +32,7 @@ capable enough to take responsibility and ownership of their MIMS account.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/MIMS__SSPR_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/Posters_MIMS_SSPR_Guide_Page_1.jpg">
 </div>
@@ -42,5 +43,5 @@ capable enough to take responsibility and ownership of their MIMS account.</p>
 <p></p>
 <p>If you are unable to perform Self-Service Password Reset (SSPR) as you
 have forgotten the answers to your MIMS security challenge questions or
-other reasons, please go to our <a href="https://form.gov.sg/5cdcfea6cac839001734c5a9" rel="noopener nofollow" target="_blank">Student Password Reset For</a>
+other reasons, please go to our <a href="https://form.gov.sg/5cdcfea6cac839001734c5a9" rel="noopener nofollow" target="_blank">Student Password Reset Fo</a>
 </p>

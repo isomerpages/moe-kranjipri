@@ -47,5 +47,14 @@ students will be redirected to the MIMS Portal to sign in.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/FAQ_v2.png">
 </div>
-<p></p>
+<h4><strong>Help Assistance</strong></h4>
+<p>If you are unable to perform Self-Service Password Reset (SSPR) as you
+have forgotten the answers to your MIMS security challenge questions or
+other reasons, please contact/inform your child's Form Teacher or go to
+<a href="https://form.gov.sg/5cdcfea6cac839001734c5a9" rel="noopener nofollow" target="_blank">Student Password Reset Form</a>. to request password reset.</p>
+<p><strong>Important Information:</strong>
+</p>
+<p>Please do take note, once ICT Dept performed a password reset, a default
+password will be given to the student and student <strong>MUST</strong> log
+in to MIMS portal with the default password and change his/her a new password.</p>
 <p></p>

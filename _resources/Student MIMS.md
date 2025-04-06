@@ -42,13 +42,13 @@ capable enough to take responsibility and ownership of their MIMS account.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/Posters_MIMS_SSPR_Guide_Page_2.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_SSPR_Change_QnA.jpg">
+</div>
 <p>If you are unable to perform Self-Service Password Reset (SSPR) as you
 have forgotten the answers to your MIMS security challenge questions or
 other reasons, please contact your child's Form Teacher or go to <a href="https://form.gov.sg/5cdcfea6cac839001734c5a9" rel="noopener nofollow" target="_blank">Student Password Reset Form</a> to
 request password reset.</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_SSPR_Change_QnA.jpg">
-</div>
 <p></p>

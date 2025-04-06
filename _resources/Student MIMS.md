@@ -15,10 +15,7 @@ etc.</p>
 <p><strong>MIMS portal</strong>: <strong><a href="https://idp.mims.moe.gov.sg/" rel="noopener nofollow" target="_blank">https://idp.mims.moe.gov.sg/</a></strong>
 </p>
 <h4><strong>What is MIMS Login ID format?</strong></h4>
-<p>Example: Muhammad Ali Bin Muhammad Ahmad</p>
-<p><strong>Username:</strong>  <a href="mailto:muhammad_ali_muhammad_raihan@students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ali_muhammad_ahmad@students.edu.sg</a>
-</p>
-<p><strong>Password:</strong> MIMS Password</p>
+<p>It is based on Student iCON email address with MIMS password.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_portal_login.png">
 </div>

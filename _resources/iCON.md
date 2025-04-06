@@ -55,7 +55,13 @@ Self-Service Password Reset (SSPR)</p>
 </div>
 <p>Enter your <strong><em>Student</em> <em>iCON email address. </em></strong><em>Click ‘</em><strong><em>Search</em></strong>’.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/icon_forgot_password.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/icon_forgot_password_1.jpg">
+</div>
+<p>You will be prompted to answer two security questions that you have set
+earlier in order to perform a self-service password reset.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/icon_forgot_password_2.jpg">
 </div>
 <p>If you are unable to perform Self-Service Password Reset (SSPR) as you
 have forgotten the answers to your MIMS security challenge questions or

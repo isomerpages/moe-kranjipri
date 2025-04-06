@@ -7,7 +7,7 @@ description: ""
 <h4><strong>What is Student MIMS?</strong></h4>
 <p>Student MOE Identity Management System (MIMS) is a new system that allow
 students to access MOE applications such as Student Learning Space (SLS),
-Student iCON,- Media Resource Library (MRL), etc.</p>
+Student iCON, Media Resource Library (MRL), etc.</p>
 <h4><strong>Managing MIMS Account</strong></h4>
 <p>This is how students will manager their MIMS account.</p>
 <p><strong>Primary 2 &amp; 3 </strong>- Since these students are still young,
@@ -49,6 +49,5 @@ capable enough to take responsibility and ownership of their MIMS account.</p>
 have forgotten the answers to your MIMS security challenge questions or
 other reasons, please contact/inform your child's Form Teacher or go to
 <a href="https://form.gov.sg/5cdcfea6cac839001734c5a9" rel="noopener nofollow" target="_blank">Student Password Reset Form</a>. to request password reset.</p>
-<p></p>
 <p></p>
 <p></p>

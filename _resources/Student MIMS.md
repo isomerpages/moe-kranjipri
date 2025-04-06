@@ -4,10 +4,10 @@ permalink: /resource/student-mims/
 variant: tiptap
 description: ""
 ---
-<h4><strong>What is MIMS?</strong></h4>
-<p>MOE Identity Management System (MIMS) is a new system that allow students
-to access MOE applications such as Student Learning Space (SLS), Media
-Resource Library (MRL), etc.</p>
+<h4><strong>What is Student MIMS?</strong></h4>
+<p>Student MOE Identity Management System (MIMS) is a new system that allow
+students to access MOE applications such as Student Learning Space (SLS),
+Media Resource Library (MRL), etc.</p>
 <h4><strong>Managing MIMS Account</strong></h4>
 <p>This is how students will manager their MIMS account.</p>
 <p><strong>Primary 2 &amp; 3 </strong>- Since these students are still young,

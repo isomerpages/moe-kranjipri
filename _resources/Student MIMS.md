@@ -15,7 +15,6 @@ etc.</p>
 <p><strong>MIMS portal</strong>: <strong><a href="https://idp.mims.moe.gov.sg/" rel="noopener nofollow" target="_blank">https://idp.mims.moe.gov.sg/</a></strong>
 </p>
 <h4><strong>What is MIMS Login ID format?</strong></h4>
-<p>It is based on Student iCON email address with MIMS password.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_login_format.jpg">
 </div>

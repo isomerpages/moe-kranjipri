@@ -54,9 +54,9 @@ other reasons, please contact/inform your child's Form Teacher or go to
 <a href="https://form.gov.sg/5cdcfea6cac839001734c5a9" rel="noopener nofollow" target="_blank">Student Password Reset Form</a>. to request password reset.</p>
 <p><strong>Important Information:</strong>
 </p>
-<p>Please do take note, once ICT Dept done a password reset, a default password
-will be given to the student and student MUST log in to MIMS portal with
-the default password and change his/her new password.</p>
+<p>Please do take note, once ICT Dept performed a password reset, a default
+password will be given to the student and student <strong>MUST</strong> log
+in to MIMS portal with the default password and change his/her new password.</p>
 <p></p>
 <p></p>
 <p></p>

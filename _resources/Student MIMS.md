@@ -20,7 +20,6 @@ etc.</p>
 <p><strong>Username:</strong>  <a href="mailto:muhammad_ali_muhammad_raihan@students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ali_muhammad_ahmad@students.edu.sg</a>
 </p>
 <p><strong>Password:</strong> MIMS Password</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_portal_login.png">
 </div>

@@ -7,7 +7,7 @@ description: ""
 <h4><strong>What is Student MIMS?</strong></h4>
 <p>Student MOE Identity Management System (MIMS) is a new system that allow
 students to access MOE applications such as Student Learning Space (SLS),
-Student iCON, Media Resource Library (MRL), etc.</p>
+Student iCON, SSPR, Media Resource Library (MRL), etc.</p>
 <p><strong>MIMS portal</strong>: <strong><a href="https://idp.mims.moe.gov.sg/" rel="noopener nofollow" target="_blank">https://idp.mims.moe.gov.sg/</a></strong>
 </p>
 <p><strong>Please take note the MIMS username follows this format.</strong>

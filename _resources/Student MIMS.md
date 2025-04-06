@@ -6,8 +6,9 @@ description: ""
 ---
 <h4><strong>What is Student MIMS?</strong></h4>
 <p>Student MOE Identity Management System (MIMS) is a new system that allow
-students to access MOE applications such as Student Learning Space (SLS),
-Student iCON, SSPR, Media Resource Library (MRL), etc.</p>
+students to access school SSOE2 devices and MOE applications such as Student
+Learning Space (SLS), Student iCON, SSPR, Media Resource Library (MRL),
+etc.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/Student_MIMS.png">
 </div>

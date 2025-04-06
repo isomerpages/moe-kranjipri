@@ -17,7 +17,9 @@ etc.</p>
 <p><strong>Please take note the MIMS username follows this format.</strong>
 </p>
 <p>Example: Muhammad Ali Bin Muhammad Raihan</p>
-<p>Username: muhammad_ali_muhammad_raihan@students.edu.sg</p>
+<p>Username: <a href="mailto:muhammad_ali_muhammad_raihan@students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ali_muhammad_raihan@students.edu.sg</a>
+</p>
+<p>Password: MIMS Password</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_portal_login.png">

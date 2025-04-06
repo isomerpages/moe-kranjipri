@@ -91,4 +91,11 @@ to request password reset.</p>
 password will be given to the student and student <strong>MUST</strong> log
 in to MIMS portal with the default password and change his/her a new password
 before you login to iCON.</p>
+<p><strong>Which Operating System or browser should my students use?</strong>
+</p>
+<p>You can refer to the following table for guidance on the Operating System/browser
+which students can user to log in.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/OS_on_icon.png">
+</div>
 <p></p>

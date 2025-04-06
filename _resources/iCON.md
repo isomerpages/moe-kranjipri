@@ -70,6 +70,10 @@ new password, following the password requirement guidelines on the screen.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/icon_forgot_password_set_new_pwd.png">
 </div>
+<h4><strong>For Account Lockout (<em>due to multiple incorrect password entries</em>)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/icon_accout_locked.png">
+</div>
 <p>If you are unable to perform Self-Service Password Reset (SSPR) as you
 have forgotten the answers to your MIMS security challenge questions or
 other reasons, please contact/inform your child's Form Teacher or go to

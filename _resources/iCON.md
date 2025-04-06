@@ -59,7 +59,6 @@ Self-Service Password Reset (SSPR)</p>
 </div>
 <p>You will be prompted to answer two security questions that you have set
 earlier in order to perform a self-service password reset.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/icon_forgot_password_2.jpg">
 </div>
@@ -72,4 +71,4 @@ other reasons, please contact/inform your child's Form Teacher or go to
 <p>Please do take note, once ICT Dept performed a password reset, a default
 password will be given to the student and student <strong>MUST</strong> log
 in to MIMS portal with the default password and change his/her a new password.</p>
-<p></p>
+<p>Enter your answers to the questions correctly and click ‘<strong><em>Check Answers</em></strong>’.</p>

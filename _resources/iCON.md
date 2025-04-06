@@ -70,8 +70,7 @@ new password, following the password requirement guidelines on the screen.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/icon_forgot_password_set_new_pwd.png">
 </div>
-<p><strong>For Account Lockout (due to multiple incorrect password entries)</strong>
-</p>
+<h4><strong>For Account Lockout (due to multiple incorrect password entries)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/icon_accout_locked.png">
 </div>

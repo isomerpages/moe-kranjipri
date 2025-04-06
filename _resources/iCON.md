@@ -22,6 +22,10 @@ using apps such as Google Classroom, Drive.</p>
 to Junior Colleges / Centralised Institutes.</p>
 </li>
 </ul>
+<h4><strong>What is Student iCON Login format?</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/icon_Login_format.jpg">
+</div>
 <h4><strong>Login to Student iCON</strong></h4>
 <p>From 01 Apr 2025 onwards, students will login to iCON via MIMS portal: <strong><a href="https://idp.mims.moe.gov.sg/" rel="noopener nofollow" target="_blank">https://idp.mims.moe.gov.sg/</a></strong>
 </p>

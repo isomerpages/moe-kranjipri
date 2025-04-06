@@ -25,6 +25,9 @@ to Junior Colleges / Centralised Institutes.</p>
 <h4><strong>Login to Student iCON</strong></h4>
 <p>From 01 Apr 2025 onwards, students will login to iCON via MIMS portal: <strong><a href="https://idp.mims.moe.gov.sg/" rel="noopener nofollow" target="_blank">https://idp.mims.moe.gov.sg/</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_portal_login.png">
+</div>
 <p>Students can still continue to log in using Google Workspace link:​&nbsp;<strong><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard, </a></strong>and
 students will be redirected to the MIMS Portal to sign in.</p>
 <div class="isomer-image-wrapper">

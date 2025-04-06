@@ -92,6 +92,4 @@ to request password reset.</p>
 <p>Please do take note, once ICT Dept performed a password reset, a default
 password will be given to the student and student <strong>MUST</strong> log
 in to MIMS portal with the default password and change his/her a new password.</p>
-<p>Enter your answers to the questions correctly and click ‘<strong><em>Check Answers</em></strong>’.</p>
-<p>If you are unable to remember your password, you may set a new password
-by clicking on ‘<strong><em>Change Password</em></strong>’</p>
+<p></p>

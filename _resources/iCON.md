@@ -48,9 +48,8 @@ students will be redirected to the MIMS Portal to sign in.</p>
 </div>
 <h4><strong>Help Assistance</strong></h4>
 <p>Your account will be locked out due to multiple incorrect password attempts.</p>
-<p>Use your web browser*(e.g., Chrome, Safari) to access <strong>MIMS Portal</strong> at:
-<br><strong><a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">https://mims.moe.gov.sg/sspr</a></strong>
-</p>
+<p><em>Click ‘</em><strong><em>Forgot Password?</em></strong>’ to perform
+Self-Service Password Reset (SSPR)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/MIMS_portal_login_forget_password.jpg">
 </div>

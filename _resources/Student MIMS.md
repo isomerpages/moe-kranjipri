@@ -21,6 +21,7 @@ etc.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_portal_login.png">
 </div>
+<p>Enter your username (Student ICON email address) and MIMS password.</p>
 <h4><strong>Managing MIMS Account</strong></h4>
 <p>This is how students will manager their MIMS account.</p>
 <p><strong>Primary 2 &amp; 3 </strong>- Since these students are still young,

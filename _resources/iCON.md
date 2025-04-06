@@ -30,6 +30,10 @@ to Junior Colleges / Centralised Institutes.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/Google_apps_for_P1_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/S2.jpg">
 </div>
 <div class="isomer-image-wrapper">

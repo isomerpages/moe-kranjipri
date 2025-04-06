@@ -73,6 +73,9 @@ new password, following the password requirement guidelines on the screen.</p>
 <h4><strong>For Account Lockout (due to multiple incorrect password entries)</strong></h4>
 <p>If you have too many failed login attempts due to incorrect password,
 your account will be locked.</p>
+<p>If you click on the ‘<strong><em>Forgot Password?</em></strong>’ feature
+and have answered your MIMS&nbsp; challenge questions correctly, you will
+see this screen.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/icon_accout_locked.png">
 </div>

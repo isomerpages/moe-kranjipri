@@ -66,6 +66,7 @@ earlier in order to perform a self-service password reset.</p>
 </div>
 <p>You will then be prompted to change your password. Enter and confirm your
 new password, following the password requirement guidelines on the screen.</p>
+<p>Click ‘<strong><em>Change Password</em></strong>’.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/icon_forgot_password_set_new_pwd.png">
 </div>

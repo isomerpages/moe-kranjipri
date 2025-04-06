@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - For Students, Teachers and Parents.md
-      - Student ICON.md
+      - Student MIMS.md
+      - Student iCON.md
       - Student Learning Space (SLS).md
-      - MOE Identity Management System (MIMS).md

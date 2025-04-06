@@ -92,7 +92,7 @@ to request password reset.</p>
 <p>Please do take note, once ICT Dept performed a password reset, a default
 password will be given to the student and student <strong>MUST</strong> log
 in to MIMS portal with the default password and change his/her a new password.</p>
-<p>Please wait for 30mins to allow sync to happen and students may try again
+<p>Please wait for 30mins to allow sync to happen and student may try again
 to login to iCON.</p>
 <p><strong>Which Operating System or browser should my students use?</strong>
 </p>

@@ -36,6 +36,7 @@ capable enough to take responsibility and ownership of their MIMS account.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/Posters_MIMS_SSPR_Guide_Page_1.jpg">
 </div>
+<h4><strong>Student Self-Service Password Reset (SSPR)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/Posters_MIMS_SSPR_Guide_Page_2.jpg">

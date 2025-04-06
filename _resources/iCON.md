@@ -54,6 +54,8 @@ students will be redirected to the MIMS Portal to sign in.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/MIMS_portal_login_forget_password.jpg">
 </div>
+<p><em>Click ‘</em><strong><em>Forgot Password?</em></strong>’ to perform
+Self-Service Password Reset (SSPR)</p>
 <p>If you are unable to perform Self-Service Password Reset (SSPR) as you
 have forgotten the answers to your MIMS security challenge questions or
 other reasons, please contact/inform your child's Form Teacher or go to

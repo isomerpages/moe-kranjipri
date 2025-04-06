@@ -16,7 +16,7 @@ variant: markdown
     
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)  
     
-*   [Student ICON Login](https://workspace.google.com/dashboard)
+*   [Student MIMS Login](https://idp.mims.moe.gov.sg/)
     
 *   [School Library Search Engine](https://schoolibrary.moe.edu.sg/kranjipri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)  
     

@@ -17,7 +17,7 @@ etc.</p>
 <p><strong>Please take note the MIMS username follows this format.</strong>
 </p>
 <p>Example: Muhammad Ali Bin Muhammad Ahmad</p>
-<p><strong>Username:</strong>  <a href="mailto:muhammad_ali_muhammad_raihan@students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ali_muhammad_ali@students.edu.sg</a>
+<p><strong>Username:</strong>  <a href="mailto:muhammad_ali_muhammad_raihan@students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ali_muhammad_ahmad@students.edu.sg</a>
 </p>
 <p><strong>Password:</strong> MIMS Password</p>
 <p></p>
@@ -63,7 +63,6 @@ other reasons, please contact/inform your child's Form Teacher or go to
 <p>Please do take note, once ICT Dept performed a password reset, a default
 password will be given to the student and student <strong>MUST</strong> log
 in to MIMS portal with the default password and change his/her a new password.</p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>

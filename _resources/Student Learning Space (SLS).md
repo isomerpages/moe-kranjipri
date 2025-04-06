@@ -26,7 +26,7 @@ Click on **"LOGIN WITH MIMS"**. You will be directed to MIMS Portal main page.
 
 ![](/images/MIMS_Login_page.png)
 
-Enter your username (Student ICON email address) and password.
+Enter your username (Student ICON email address) and MIMS password.
 
 #### **Student's Username &amp; Password**&nbsp;
 

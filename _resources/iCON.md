@@ -39,12 +39,6 @@ students will be redirected to the MIMS Portal to sign in.</p>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/S2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/FAQ_v2.png">
-</div>
 <h4><strong>Help Assistance</strong></h4>
 <p>Your account will be locked out due to multiple incorrect password attempts.</p>
 <p>If you are unable to perform Self-Service Password Reset (SSPR) as you

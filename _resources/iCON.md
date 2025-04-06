@@ -32,12 +32,7 @@ to Junior Colleges / Centralised Institutes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_portal_login.png">
 </div>
-<p><strong>Please take note the MIMS username follows this format.</strong>
-</p>
-<p>Example: Muhammad Ali Bin Muhammad Ahmad</p>
-<p><strong>Username:</strong>  <a href="mailto:muhammad_ali_muhammad_raihan@students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ali_muhammad_ahmad@students.edu.sg</a>
-</p>
-<p><strong>Password:</strong> MIMS Password</p>
+<p></p>
 <p>Students can still continue to log in using Google Workspace link:​&nbsp;<strong><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard, </a></strong>and
 students will be redirected to the MIMS Portal to sign in.</p>
 <div class="isomer-image-wrapper">

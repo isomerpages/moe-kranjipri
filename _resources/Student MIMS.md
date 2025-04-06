@@ -10,14 +10,6 @@ students to access MOE applications such as Student Learning Space (SLS),
 Student iCON, Media Resource Library (MRL), etc.</p>
 <p><strong>MIMS portal</strong>: <strong><a href="https://idp.mims.moe.gov.sg/" rel="noopener nofollow" target="_blank">https://idp.mims.moe.gov.sg/</a></strong>
 </p>
-<h4><strong>Managing MIMS Account</strong></h4>
-<p>This is how students will manager their MIMS account.</p>
-<p><strong>Primary 2 &amp; 3 </strong>- Since these students are still young,
-we have done a one-time set up of answers to challenge questions (printed
-in card form and attached to their student handbook).</p>
-<p><strong>Primary 4 to 6</strong> - They will need to reset or change their
-answers &amp; challenge questions. We believe Upper Primary students are
-capable enough to take responsibility and ownership of their MIMS account.</p>
 <p><strong>Please take note the MIMS username follows this format.</strong>
 </p>
 <p>Example: Muhammad Ali Bin Muhammad Raihan</p>
@@ -26,6 +18,14 @@ capable enough to take responsibility and ownership of their MIMS account.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_portal_login.png">
 </div>
+<h4><strong>Managing MIMS Account</strong></h4>
+<p>This is how students will manager their MIMS account.</p>
+<p><strong>Primary 2 &amp; 3 </strong>- Since these students are still young,
+we have done a one-time set up of answers to challenge questions (printed
+in card form and attached to their student handbook).</p>
+<p><strong>Primary 4 to 6</strong> - They will need to reset or change their
+answers &amp; challenge questions. We believe Upper Primary students are
+capable enough to take responsibility and ownership of their MIMS account.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/What_is_this_about_poster.jpg">

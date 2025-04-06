@@ -43,7 +43,7 @@ students will be redirected to the MIMS Portal to sign in.</p>
 </p>
 <p><strong>Note</strong>: App such as Gmail is not available for <strong>Primary 1 to 3 students.</strong>
 </p>
-<p>Click on <a href="/files/Resources/Google_Classroom.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click on <strong><a href="/files/Resources/Google_Classroom.pdf" rel="noopener nofollow" target="_blank">here</a></strong> to
 find out more on Google Classroom.</p>
 <h4><strong>Login Troubleshooting</strong></h4>
 <p>Prior to using this ‘<strong><em>Forgot Password?</em></strong>’ feature,

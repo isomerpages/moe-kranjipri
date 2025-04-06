@@ -17,6 +17,9 @@ etc.</p>
 <h4><strong>What is MIMS Login ID format?</strong></h4>
 <p>It is based on Student iCON email address with MIMS password.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_login_format.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_portal_login.png">
 </div>
 <h4><strong>Managing MIMS Account</strong></h4>

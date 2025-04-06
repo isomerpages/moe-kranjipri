@@ -47,6 +47,7 @@ capable enough to take responsibility and ownership of their MIMS account.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_SSPR_Change_QnA.jpg">
 </div>
+<h4><strong>Help Assistance</strong></h4>
 <p>If you are unable to perform Self-Service Password Reset (SSPR) as you
 have forgotten the answers to your MIMS security challenge questions or
 other reasons, please contact/inform your child's Form Teacher or go to

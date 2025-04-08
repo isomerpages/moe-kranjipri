@@ -38,7 +38,7 @@ students will be redirected to the MIMS Portal to sign in.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/MIMS_iCON.jpg">
 </div>
-<p><strong>Students should see these apps on the Google Workspace Dashboard.</strong>
+<p><strong>G Suite Applications on the Google Workspace Dashboard.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/Google_apps_for_P4_6.jpg">

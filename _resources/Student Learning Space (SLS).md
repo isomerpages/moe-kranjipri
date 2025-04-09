@@ -4,7 +4,7 @@ permalink: /resources/Student-Learning-Space-SLS/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Student Learning Space (SLS)</strong></h3>
+<h4><strong>Student Learning Space (SLS)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/SLS_main_page_login_2024.png">
 </div>

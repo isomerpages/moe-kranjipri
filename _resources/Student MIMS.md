@@ -4,7 +4,7 @@ permalink: /resource/student-mims/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Student MOE Identity Management System (MIMS)</strong></h4>
+<h3><strong>Student MOE Identity Management System (MIMS)</strong></h3>
 <p>Student MOE Identity Management System (MIMS) is a new system that allow
 students to access school SSOE devices and MOE applications such as Student
 Learning Space (SLS), Student iCON, SSPR, Media Resource Library (MRL),

@@ -4,7 +4,7 @@ permalink: /resources/For-Students-Teachers-and-Parents/
 description: ""
 variant: tiptap
 ---
-<h3><strong>For Students</strong></h3>
+<h4><strong>For Students</strong></h4>
 <ul>
 <li>
 <p><a href="https://sites.google.com/view/kpsartgallery2021/home" rel="noopener noreferrer nofollow" target="_blank">KPS Art Gallery</a>

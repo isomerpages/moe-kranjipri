@@ -4,7 +4,7 @@ permalink: /resources/student-icon/
 variant: tiptap
 description: ""
 ---
-<h4><strong>What is Student iCON?</strong></h4>
+<h4><strong>Student iCON</strong></h4>
 <p><strong>Student iCON</strong> (Google Workspace, previously known as G-Suite),
 is the digital identity for supporting the personal learning device (PLD),
 Device Management Application (DMA) and Microsoft Proplus. It is an extension
@@ -38,12 +38,13 @@ students will be redirected to the MIMS Portal to sign in.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/MIMS_iCON.jpg">
 </div>
-<p><strong>Students should see these apps on the Google Workspace Dashboard.</strong>
+<p><strong>Applications on the Google Workspace Dashboard.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/Google_apps_for_P4_6.jpg">
 </div>
-<p><strong>Note</strong>: App such as Gmail is not available for <strong>Primary 1 to 3 students.</strong>
+<p><strong>Note</strong>: App such as <strong>Gmail</strong> is not available
+for <strong>Primary 1 to 3 students.</strong>
 </p>
 <p>Click on <strong><a href="/files/Resources/Google_Classroom.pdf" rel="noopener nofollow" target="_blank">here</a></strong> to
 find out more on Google Classroom.</p>

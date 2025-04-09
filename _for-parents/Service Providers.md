@@ -17,7 +17,7 @@ and after 2.00pm.)
 website <a href="https://asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>The <strong>online ordering guide</strong> is also available <a href="/files/School_Uniform_Ordering_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
-Dear Parents / Guardians:
+</p><h4><strong>Dear Parents / Guardians:</strong></h4>
 
 Please click on the links for the respective book lists 2025.
 
@@ -43,7 +43,7 @@ Please click on the links for the respective book lists 2025.
 
 **Primary 6 Foundation:**
 [Primary 6 Foundation](/files/For%20Parents/Kranji_Primary_6F.pdf)
-</p>
+<p></p>
 <h4>2. School Bus Transport&nbsp;</h4>
 <p>Name of Company: Chang Chen Pte Ltd
 <br>Liaison Person: Mr Grif Lim

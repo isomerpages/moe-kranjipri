@@ -17,7 +17,7 @@ and after 2.00pm.)
 website <a href="https://asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>The <strong>online ordering guide</strong> is also available <a href="/files/School_Uniform_Ordering_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
-</p><h4><strong>Dear Parents / Guardians:</strong></h4>
+</p><h5><strong>Dear Parents / Guardians:</strong></h5>
 
 Please click on the links for the respective book lists 2025.
 

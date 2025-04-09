@@ -4,7 +4,7 @@ permalink: /service-providers/
 variant: markdown
 description: ""
 ---
-<h4><strong>Service Providers</strong></h4>
+<h3><strong>Service Providers</strong></h3>
 <h4>1. School Bookshop and Uniform</h4>
 <p>Asencio Pte Ltd
 <br>Operating Hours: 9am to 3pm

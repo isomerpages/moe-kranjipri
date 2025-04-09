@@ -4,7 +4,7 @@ permalink: /about-us/contact-us/
 description: ""
 variant: markdown
 ---
-<h4><strong>School Information</strong></h4>
+<h3><strong>School Information</strong></h3>
 <p><strong>Address</strong>: 11 Choa Chu Kang Street 54, S689189
 <br><strong>Tel</strong>: 67634812
 <br><strong>Fax</strong>: 67634568

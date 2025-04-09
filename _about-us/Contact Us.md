@@ -36,7 +36,7 @@ website <a href="https://asencio.com.sg" rel="noopener noreferrer nofollow" targ
 <br>Liaison Person: Mr Grif Lim
 <br>Contact No.: 6760 4835&nbsp;</p>
 <br>School Bus Registration Form 2025 <a href="/files/For%20Parents/Kranji_Pri_School_Bus_Registration_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-<br>School Bus Contact Price 1 Jan 2025 to 31 Dec 2026 <a href="/files/For%20Parents/Kranji_Pri_School_Bus_Contact_Price_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<br>School Bus Contract Price 1 Jan 2025 to 31 Dec 2026 <a href="/files/For%20Parents/Kranji_Pri_School_Bus_Contact_Price_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 
 <h4>3. School Dental Clinic</h4>
 <p>The school dental clinic will be closed from 7 August 2024 to August/September

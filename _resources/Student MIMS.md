@@ -23,7 +23,7 @@ etc.</p>
 </div>
 <p>Enter your username (Student ICON email address) and MIMS password.</p>
 <h4><strong>Managing MIMS Account</strong></h4>
-<p>This is how students will manager their MIMS account.</p>
+<p>This is how students will manage their MIMS account.</p>
 <p><strong>Primary 2 &amp; 3 </strong>- Since these students are still young,
 we have done a one-time set up of answers to challenge questions (printed
 in card form and attached to their student handbook).</p>

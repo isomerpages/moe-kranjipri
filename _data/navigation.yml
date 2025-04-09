@@ -35,6 +35,8 @@ links:
     sublinks:
       - title: Sexuality Education
         url: https://www.kranjipri.moe.edu.sg/for-parents/sexuality-education/
+      - title: Service Providers
+        url: /for-parents/service-providers/
       - title: 2025 Book lists
         url: /for-parents/book-list-2025/
       - title: Parent Support Group (PSG)
@@ -43,8 +45,6 @@ links:
         url: /for-parents/Student-Care-Centre/
       - title: Parents Gateway
         url: /for-parents/Parents-Gateway/Parents-Gateway/
-      - title: Service Providers
-        url: /for-parents/service-providers
   - title: MOE Kindergarten
     url: /moe-kindergarten/moe-kindergarten/
     sublinks:

@@ -4,7 +4,7 @@ permalink: /resources/student-icon/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Student iCON</strong></h3>
+<h4><strong>Student iCON</strong></h4>
 <p><strong>Student iCON</strong> (Google Workspace, previously known as G-Suite),
 is the digital identity for supporting the personal learning device (PLD),
 Device Management Application (DMA) and Microsoft Proplus. It is an extension

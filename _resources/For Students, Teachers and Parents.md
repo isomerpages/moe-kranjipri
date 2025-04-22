@@ -133,6 +133,10 @@ variant: tiptap
 <h4><strong>For Parents</strong></h4>
 <ul>
 <li>
+<p><a href="/files/For Parents/MS_Teams_KPS_final.pdf" rel="noopener nofollow" target="_blank">User Guide on How to Join MS TEAMS</a>
+</p>
+</li>
+<li>
 <p><a href="https://sites.google.com/view/kpsartgallery2021/home" rel="noopener noreferrer nofollow" target="_blank">KPS Art Gallery</a>
 </p>
 </li>

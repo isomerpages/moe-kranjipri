@@ -129,6 +129,10 @@ variant: tiptap
 <p><a href="https://forms.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">All Ears Form Builder</a>
 </p>
 </li>
+<li>
+<p><a href="https://form.gov.sg/5d1b158dd46125001149ce6c" rel="noopener nofollow" target="_blank">Time Off Records Form</a>
+</p>
+</li>
 </ul>
 <h4><strong>For Parents</strong></h4>
 <ul>

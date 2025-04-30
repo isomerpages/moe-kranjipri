@@ -141,6 +141,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="/files/For Parents/Google_Meet_KPS_final.pdf" rel="noopener nofollow" target="_blank">User Guide on How to Join Google Meet</a>
+</p>
+</li>
+<li>
 <p><a href="https://sites.google.com/view/kpsartgallery2021/home" rel="noopener noreferrer nofollow" target="_blank">KPS Art Gallery</a>
 </p>
 </li>

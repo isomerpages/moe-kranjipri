@@ -16,7 +16,7 @@ Click on this [link](https://vle.learning.moe.edu.sg/login) to access Student 
 
   
 
-Find out more about SLS in our dedicated [Student Learning Space (SLS) page](https://www.kranjipri.moe.edu.sg/resources/Student-Learning-Space-SLS/)
+Find out more about SLS in our dedicated [Student Learning Space (SLS) page](https://www.kranjipri.moe.edu.sg/resources/student-learning-space-sls/)
 
   
 

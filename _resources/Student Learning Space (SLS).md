@@ -62,7 +62,7 @@ at 67634812</p>
 <p><strong>Q3: My account has been locked. What should I do?</strong>&nbsp;</p>
 <p>Your account will be locked after 6 consecutive attempts to log in with
 an incorrect password.&nbsp;</p>
-<p> <strong>(i) On normal school days, please</strong>: Please inform your
+<p><strong>(i) On normal school days, please</strong>: Please inform your
 Form Teacher.</p>
 <p><strong>(ii) During home-based/ e-learning period, please:</strong>
 </p>

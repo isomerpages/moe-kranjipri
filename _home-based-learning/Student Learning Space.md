@@ -1,6 +1,6 @@
 ---
 title: Student Learning Space
-permalink: /home-based-learning/Student-Learning-Space/
+permalink: /resources/student-learning-space-sls/
 description: ""
 variant: markdown
 ---

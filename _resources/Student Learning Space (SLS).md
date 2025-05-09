@@ -40,7 +40,6 @@ Portal main page.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student Learning Space (SLS)/LOGIN_WITH_SLS.png">
 </div>
-<p>Enter your username (Student ICON email address) and MIMS password.</p>
 <h4><strong>Student's Username &amp; Password</strong>&nbsp;</h4>
 <p>Students have been informed of their MIMS username and password. Username
 and password are printed in card form and attached to their student handbook.</p>

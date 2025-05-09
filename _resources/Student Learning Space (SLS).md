@@ -30,15 +30,17 @@ system is developed iteratively to stay dynamic and responsive.</p>
 <h5><strong>How to Login?</strong></h5>
 <p><strong>SLS Website</strong>: <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/SLS_main_page_login_2024.png">
-</div>
 <p>Click on <strong>"LOGIN WITH MIMS"</strong>. You will be directed to MIMS
-Portal main page.</p>
+Portal main page. Enter your username (Student ICON email address) and
+MIMS password.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MIMS_Login_page.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student Learning Space (SLS)/LOGIN_WITH_MIMS.png">
 </div>
-<p>Enter your username (Student ICON email address) and MIMS password.</p>
+<p><strong>OR</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student Learning Space (SLS)/LOGIN_WITH_SLS.png">
+</div>
 <h4><strong>Student's Username &amp; Password</strong>&nbsp;</h4>
 <p>Students have been informed of their MIMS username and password. Username
 and password are printed in card form and attached to their student handbook.</p>
@@ -53,15 +55,15 @@ and password are printed in card form and attached to their student handbook.</p
 </p>
 <p><strong>3 Ways</strong>&nbsp;to reset password:</p>
 <p>1. You may contact your child's Form Teacher to request for a reset password.</p>
-<p>2. Go to <a href="http://go.gov.sg/passwordresetform" rel="noopener noreferrer nofollow" target="_blank">Student Password Reset Form</a>
+<p>2. Go to our <a href="http://go.gov.sg/passwordresetform" rel="noopener noreferrer nofollow" target="_blank">Student Password Reset Form</a>
 </p>
 <p>3.&nbsp;Call the <strong>school helpline</strong> to speak to the SLS administrator
 at 67634812</p>
 <p><strong>Q3: My account has been locked. What should I do?</strong>&nbsp;</p>
 <p>Your account will be locked after 6 consecutive attempts to log in with
 an incorrect password.&nbsp;</p>
-<p>&nbsp;<strong>(i) On normal school days, please</strong>: Go to&nbsp;
-our <a href="http://go.gov.sg/passwordresetform" rel="noopener noreferrer nofollow" target="\_blank">Student Password Reset Form</a>&nbsp;</p>
+<p><strong>(i) On normal school days, please</strong>: Please inform your
+Form Teacher.</p>
 <p><strong>(ii) During home-based/ e-learning period, please:</strong>
 </p>
 <p>1.&nbsp;&nbsp;Please call the&nbsp;<strong>school helpline</strong>&nbsp;to
@@ -70,3 +72,10 @@ speak to the SLS administrator to request for a password reset.</p>
 <p>Operating Hours:&nbsp;</p>
 <p>Mondays ― Fridays: 8:00 am ― 4:00 pm</p>
 <p>*Closed on Sundays &amp; Public Holidays</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Go to our <a href="http://go.gov.sg/passwordresetform" rel="noopener nofollow" target="_blank">Student Password Reset Form</a>
+</p>
+</li>
+</ol>
+<p></p>

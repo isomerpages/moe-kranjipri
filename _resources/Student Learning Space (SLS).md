@@ -30,13 +30,15 @@ system is developed iteratively to stay dynamic and responsive.</p>
 <h5><strong>How to Login?</strong></h5>
 <p><strong>SLS Website</strong>: <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/SLS_main_page_login_2024.png">
-</div>
 <p>Click on <strong>"LOGIN WITH MIMS"</strong>. You will be directed to MIMS
 Portal main page.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MIMS_Login_page.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student Learning Space (SLS)/LOGIN_WITH_MIMS.png">
+</div>
+<p><strong>OR</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student Learning Space (SLS)/LOGIN_WITH_SLS.png">
 </div>
 <p>Enter your username (Student ICON email address) and MIMS password.</p>
 <h4><strong>Student's Username &amp; Password</strong>&nbsp;</h4>

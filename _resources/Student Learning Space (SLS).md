@@ -62,8 +62,8 @@ at 67634812</p>
 <p><strong>Q3: My account has been locked. What should I do?</strong>&nbsp;</p>
 <p>Your account will be locked after 6 consecutive attempts to log in with
 an incorrect password.&nbsp;</p>
-<p>&nbsp;<strong>(i) On normal school days, please</strong>: Go to&nbsp;
-our <a href="http://go.gov.sg/passwordresetform" rel="noopener noreferrer nofollow" target="\_blank">Student Password Reset Form</a>&nbsp;</p>
+<p>&nbsp;<strong>(i) On normal school days, please</strong>: Go to&nbsp;our
+<a href="http://go.gov.sg/passwordresetform" rel="noopener noreferrer nofollow" target="\_blank">Student Password Reset Form</a>&nbsp;</p>
 <p><strong>(ii) During home-based/ e-learning period, please:</strong>
 </p>
 <p>1.&nbsp;&nbsp;Please call the&nbsp;<strong>school helpline</strong>&nbsp;to

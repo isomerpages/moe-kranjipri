@@ -17,8 +17,9 @@ For technical issues pertaining to the use of the portals such as resetting pass
                                                                                                                                                                                                                                        
 
   
-  
-![](/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/S2.jpg)  
+ ![](/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/Can_t_login_to_SLS.png)
+ 
+
   
 **SLS log-in troubleshooting guide:** [SLS Login Troubleshooting](https://www.learning.moe.edu.sg/login-troubleshooting/get-help/contact-sls-helpdesk/)
   

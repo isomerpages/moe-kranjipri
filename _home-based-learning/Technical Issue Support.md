@@ -20,6 +20,6 @@ For technical issues pertaining to the use of the portals such as resetting pass
   
 ![](/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/S2.jpg)  
   
-**SLS log-in troubleshooting guide:** [SLS Login Troubleshooting](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
+**SLS log-in troubleshooting guide:** [SLS Login Troubleshooting](https://www.learning.moe.edu.sg/login-troubleshooting/get-help/contact-sls-helpdesk/)
   
 **Instructions on setting up a password reset email:**  [ANNEX B\_Setting up password reset email in SLS.pdf](/files/Our%20Curriculum/Departments/ICT/Home%20Based%20Learning/ANNEX%20B_Setting%20up%20password%20reset%20email%20in%20SLS.pdf)

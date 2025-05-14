@@ -32,6 +32,7 @@ Closed on Saturdays, Sundays &amp; Public Holidays<br><br>
 
 
 
+
 <p>For Password Reset, you may also click on this <a href="https://form.gov.sg/5cdcfea6cac839001734c5a9" rel="noopener noreferrer nofollow" target="_blank">Student Password Reset Form</a>
 </p>
 <p><strong>SLS log-in troubleshooting guide:</strong>&nbsp;<a href="https://www.learning.moe.edu.sg/login-troubleshooting/get-help/contact-sls-helpdesk/" rel="noopener nofollow" target="_blank">SLS Login Troubleshooting</a>

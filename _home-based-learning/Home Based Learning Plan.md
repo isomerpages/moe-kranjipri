@@ -6,7 +6,6 @@ variant: markdown
 ---
 |   Level   |HBL Weekly Plan (Mon-Thurs) |
 |:---------:|:---------------------------:|
-| Primary 1 |    N.A   |
 | Primary 2 |    N.A   |
 | Primary 3 |             N.A             |
 | Primary 4 |             N.A             |

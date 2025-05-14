@@ -27,4 +27,4 @@ For technical issues pertaining to the use of the portals such as resetting pass
 For Password Reset, you may also click on this [Student Password Reset Form](https://form.gov.sg/5cdcfea6cac839001734c5a9)
 
   
-**SLS log-in troubleshooting guide:**  [SLS Login Troubleshooting](https://www.learning.moe.edu.sg/login-troubleshooting/get-help/contact-sls-helpdesk/)
+**SLS log-in troubleshooting guide:**  [SLS Login Troubleshooting]([Authentication](https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/)

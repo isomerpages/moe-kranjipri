@@ -18,7 +18,10 @@ passwords or errors during login, please refer to the contact details below:</p>
 2. Miss Woon Ai Ling, <a href="mailto:woon_ai_ling@moe.edu.sg">woon_ai_ling@moe.edu.sg</a><br>
 
 Operation Hours: Mondays to Fridays: 8.00am - 4.00pm<br>
-Closed on Saturdays, Sundays &amp; Public Holidays
+Closed on Saturdays, Sundays &amp; Public Holidays<br>
+
+You may contact school helpline at 67634812
+
 
 <h5><strong>SLS Helpdesk</strong></h5>
 Email: <a href="mailto:woon_ai_ling@moe.edu.sg">helpdesk@sls.ufinity.com</a><br>

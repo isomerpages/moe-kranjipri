@@ -58,5 +58,5 @@ Email: helpdesk@sls.ufinity.com</p>
 <p><strong>SLS log-in troubleshooting guide:</strong>  <a href="https://www.learning.moe.edu.sg/login-troubleshooting/get-help/contact-sls-helpdesk/" rel="noopener noreferrer nofollow" target="_blank">SLS Login Troubleshooting</a>
 </p>
 <p><strong>Instructions on setting up a password reset email:</strong>&nbsp;&nbsp;
-<a href="/files/Resources/SLS/Guide_for_SLS_Password_Reset_KPS_as_of_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide for SLS Password Reset</a>
+<a href="/files/Resources/SLS/Guide_for_SLS_Password_Reset_KPS_as_of_2025.pdf" rel="noopener nofollow" target="_blank">Guide for SLS Password Reset</a>
 </p>

@@ -23,7 +23,7 @@ Closed on Saturdays, Sundays &amp; Public Holidays
 <h5><strong>SLS Helpdesk</strong></h5>
 Email: <a href="mailto:woon_ai_ling@moe.edu.sg">helpdesk@sls.ufinity.com</a><br>
 
-Operation Hours: Mondays to Fridays: 8.00am - 4.00pm<br>
+Operation Hours: Mondays to Fridays: 4.00pm - 9.00pm (School Days)<br>
 Closed on Saturdays, Sundays &amp; Public Holidays
 <table style="minWidth: 75px">
 <colgroup>

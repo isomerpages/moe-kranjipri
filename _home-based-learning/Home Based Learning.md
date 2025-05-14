@@ -30,7 +30,7 @@ Saturdays: 9.00am - 3.00pm<br>
 Closed on Saturdays, Sundays &amp; Public Holidays<br><br>
 <strong><span style="text-decoration: underline;">Note:</span></strong> If you are a student, the Helpdesk will need to verify your identity using the security questions that you have set up when your account was first activated.
 
-
+![](/images/Resources/Student%20Learning%20Space%20(SLS)/SELF_HELP_TIPS_FOR_STUDENT_LOGIN.png)
 
 
 <p>For Password Reset, you may also click on this <a href="https://form.gov.sg/5cdcfea6cac839001734c5a9" rel="noopener noreferrer nofollow" target="_blank">Student Password Reset Form</a>

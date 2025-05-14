@@ -22,9 +22,11 @@ passwords or errors during login, please refer to the contact details below:</p>
 <li>
 <p>Miss Woon Ai Ling, <a href="mailto:woon_ai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon_ai_ling@moe.edu.sg</a>
 </p>
-<p></p>
 </li>
 </ol>
+<p>Operation Hours:</p>
+<p>Mondays to Fridays: 8,00am - 4.00pm</p>
+<p>Closed on Saturdays, Sundays &amp; Public Holidays</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

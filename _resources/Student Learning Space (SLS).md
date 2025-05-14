@@ -52,6 +52,9 @@ and password are printed in card form and attached to their student handbook.</p
 <li>
 <p>Check that you have recorded your MIMS username in your handbook.</p>
 </li>
+<li>
+<p>Approach your child's Form Teacher for username.</p>
+</li>
 </ul>
 <p><strong>Q2:&nbsp;I have forgotten my password on the day of e-learning. What should I do?</strong>
 </p>

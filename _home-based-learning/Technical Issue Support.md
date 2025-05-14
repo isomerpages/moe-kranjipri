@@ -4,7 +4,7 @@ permalink: /home-based-learning/Technical-Issue-Support/
 description: ""
 variant: markdown
 ---
-##### **Technical Issues**
+#### **Technical Issues**
 
 
 For technical issues pertaining to the use of the portals such as resetting passwords or errors during login, please refer to the contact details below:  
@@ -15,9 +15,8 @@ For technical issues pertaining to the use of the portals such as resetting pass
 |                                                 SLS Learning Portal                                                 | School Helpdesk (Mr Hafiz/Miss Woon Ai Ling)  6763 4812 |                                     Mondays to Fridays: 8am to 4pm  Closed on Saturdays, Sunday and Public Holidays  Email: woon_ai_ling@moe.edu.sg                                    |
 |                                                                                                                     |         SLS Central Helpdesk  6702 6513        | Mondays to Fridays: 4:00 pm ― 9:00 pm (School Days) 9:00 am ― 9:00 pm (School Holidays)  Saturdays: 9am - 3pm  *Closed on Sundays and Public Holidays  Email: helpdesk@sls.ufinity.com |
                                                                                                                                                                                                                                        
+![](/images/Resources/Student%20Learning%20Space%20(SLS)/SELF_HELP_TIPS_FOR_STUDENT_LOGIN.png)
 
-  
- ![](/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/Can_t_login_to_SLS.png)
  
 
   

@@ -24,6 +24,7 @@ Closed on Saturdays, Sundays &amp; Public Holidays
 Email: <a href="mailto:woon_ai_ling@moe.edu.sg">helpdesk@sls.ufinity.com</a><br>
 
 Operation Hours: Mondays to Fridays: 4.00pm - 9.00pm (School Days)<br>
+Saturdays: 9.00am - 3.00pm<br>
 Closed on Saturdays, Sundays &amp; Public Holidays
 <table style="minWidth: 75px">
 <colgroup>

@@ -20,7 +20,7 @@ passwords or errors during login, please refer to the contact details below:</p>
 Operation Hours: Mondays to Fridays: 8.00am - 4.00pm<br>
 Closed on Saturdays, Sundays &amp; Public Holidays
 
-SLS Helpdesk<br>
+<h5><strong>SLS Helpdesk</strong></h5>
 Email: <a href="mailto:woon_ai_ling@moe.edu.sg">helpdesk@sls.ufinity.com</a><br>
 
 <table style="minWidth: 75px">

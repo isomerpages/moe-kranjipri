@@ -14,8 +14,8 @@ Google Chrome or Apple Safari).</p>
 <p>For technical issues pertaining to the use of the portals such as resetting
 passwords or errors during login, please refer to the contact details below:</p>
 <h5><strong>School-based Helpline</strong></h5><br>
-1. Mr Muhammad Hafiz Mohamed Yasim, muhammad_hafiz_mohamed_yasim@moe.edu.sg<br>
-2. Miss Woon Ai Ling, woon_ai_ling@moe.edu.sg
+1. Mr Muhammad Hafiz Mohamed Yasim,  <a href="mailto:woon_ai_ling@moe.edu.sg">muhammad_hafiz_mohamed_yasim@moe.edu.sg</a><br>
+2. Miss Woon Ai Ling, <a href="mailto:woon_ai_ling@moe.edu.sg">woon_ai_ling@moe.edu.sg</a>
 
 
 <table style="minWidth: 75px">

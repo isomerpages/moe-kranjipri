@@ -13,20 +13,11 @@ Google Chrome or Apple Safari).</p>
 <h5><strong>Technical Issues Support for Student Learning Space (SLS)</strong></h5>
 <p>For technical issues pertaining to the use of the portals such as resetting
 passwords or errors during login, please refer to the contact details below:</p>
-<h4>School-based Helpline</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Mr Muhammad Hafiz Mohamed Yasim, <a href="mailto:muhammad_haifz_mohamed_yasim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_haifz_mohamed_yasim@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Miss Woon Ai Ling, <a href="mailto:woon_ai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon_ai_ling@moe.edu.sg</a>
-</p>
-</li>
-</ol>
-<p>Operation Hours:</p>
-<p>Mondays to Fridays: 8,00am - 4.00pm</p>
-<p>Closed on Saturdays, Sundays &amp; Public Holidays</p>
+<h5><strong>School-based Helpline</strong></h5><br>
+1. Mr Muhammad Hafiz Mohamed Yasim, muhammad_hafiz_mohamed_yasim@moe.edu.sg<br>
+2. Miss Woon Ai Ling, woon_ai_ling@moe.edu.sg
+
+
 <table style="minWidth: 75px">
 <colgroup>
 <col>

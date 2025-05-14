@@ -15,7 +15,11 @@ Google Chrome or Apple Safari).</p>
 passwords or errors during login, please refer to the contact details below:</p>
 <h5><strong>School-based Helpline</strong></h5><br>
 1. Mr Muhammad Hafiz Mohamed Yasim,  <a href="mailto:woon_ai_ling@moe.edu.sg">muhammad_hafiz_mohamed_yasim@moe.edu.sg</a><br>
-2. Miss Woon Ai Ling, <a href="mailto:woon_ai_ling@moe.edu.sg">woon_ai_ling@moe.edu.sg</a>
+2. Miss Woon Ai Ling, <a href="mailto:woon_ai_ling@moe.edu.sg">woon_ai_ling@moe.edu.sg</a><br>
+
+Operation Hours: Mondays to Fridays: 8.00am - 4.00pm<br>
+Closed on Saturdays, Sundays &amp; Public Holidays
+
 
 
 <table style="minWidth: 75px">

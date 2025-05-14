@@ -40,7 +40,7 @@ passwords or errors during login, please refer to the contact details below:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays to Fridays: 8am to 4pm Closed on Saturdays, Sunday and Public
-Holidays Email: woon_ai_ling@moe.edu.sg</p>
+Holidays Email: muhammad_hafiz_mohamed_yasim@moe.edu.sg/woon_ai_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

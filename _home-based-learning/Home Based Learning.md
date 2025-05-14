@@ -22,7 +22,6 @@ Closed on Saturdays, Sundays &amp; Public Holidays<br>
 
 You may contact school helpline at 67634812
 
-
 <h5><strong>SLS Helpdesk</strong></h5>
 Email: <a href="mailto:woon_ai_ling@moe.edu.sg">helpdesk@sls.ufinity.com</a><br>
 

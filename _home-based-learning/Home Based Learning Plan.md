@@ -1,9 +1,11 @@
 ---
 title: Home Based Learning Plan
-permalink: /home-based-learning/Home-Based-Learning-Plan/
+permalink: /home-based-learning/home-based-learning-plan/
 description: ""
 variant: markdown
 ---
+<h4><strong>Home Based Learning Plan</strong></h4>
+
 |   Level   |HBL Weekly Plan (Mon-Thurs) |
 |:---------:|:---------------------------:|
 | Primary 2 |    N.A   |

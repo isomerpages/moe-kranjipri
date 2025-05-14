@@ -1,7 +1,8 @@
 ---
 title: Cyber Wellness
-permalink: /Cyber-Wellness/
+permalink: /cyber-wellness/
 description: ""
+variant: tiptap
 ---
 ##### **Introduction**
 

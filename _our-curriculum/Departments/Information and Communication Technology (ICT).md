@@ -86,8 +86,8 @@ In collaboration with both the instructional and non-instructional programmes, s
 
 **Please click [here](https://www.kranjipri.moe.edu.sg/resources/student-icon/) for Student iCON**
 
-**Please click [here](/Cyber-Wellness/) for Cyber Wellness**
+**Please click [here](/cyber-wellness/) for Cyber Wellness**
 
-**Please click [here](/home-based-learning/Home-Based-Learning/) for Home-Based Learning**
+**Please click [here](/home-based-learning/home-based-learning/) for Home-Based Learning**
 
 **Please click [here](https://www.kranjipri.moe.edu.sg/resource/student-mims/) for Student MIMS**

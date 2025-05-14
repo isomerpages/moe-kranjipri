@@ -27,7 +27,7 @@ consideration their ideas and feedback on the resources and tools, the
 system is developed iteratively to stay dynamic and responsive.</p>
 <p><strong>Student Learning Space (SLS) Introduction</strong>: <a href="https://www.youtube.com/watch?v=ht--L3Pj_yQ" rel="noopener noreferrer nofollow" target="_blank">video</a>
 </p>
-<p><strong>SLS Instructions &amp; Guide:</strong>  <a href="/files/Resources/SLS/SLS_Students_Instructions___FAQs_KPS_as_of_2025.pdf" rel="noopener nofollow" target="_blank">SLS Student Instructions &amp; FAQ</a>
+<p><strong>SLS Instructions &amp; Guide:</strong>  <a href="/files/Resources/SLS_Students_Instructions___FAQs_KPS_as_of_2025.pdf" rel="noopener nofollow" target="_blank">SLS Student Instructions &amp; FAQ</a>
 </p>
 <h5><strong>How to Login?</strong></h5>
 <p><strong>SLS Website</strong>: <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">here</a>

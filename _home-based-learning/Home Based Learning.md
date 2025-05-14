@@ -10,7 +10,7 @@ ensure that learning continues for students during school closure. Students
 will be completing their online assignments for the respective subjects
 through the&nbsp;<strong>SLS Learning portal</strong>:&nbsp;<a href="https://vle.learning.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a> (with
 Google Chrome or Apple Safari).</p>
-<h5><strong>Technical Issues</strong></h5>
+<h5><strong>Technical Issues Support </strong></h5>
 <p>For technical issues pertaining to the use of the portals such as resetting
 passwords or errors during login, please refer to the contact details below:</p>
 <table style="minWidth: 75px">

@@ -4,7 +4,7 @@ permalink: /home-based-learning/Technical-Issue-Support/
 description: ""
 variant: markdown
 ---
-##### **Technical Issues**
+#### **Technical Issues**
 
 
 For technical issues pertaining to the use of the portals such as resetting passwords or errors during login, please refer to the contact details below:  

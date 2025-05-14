@@ -27,7 +27,8 @@ Email: <a href="mailto:woon_ai_ling@moe.edu.sg">helpdesk@sls.ufinity.com</a><br>
 
 Operation Hours: Mondays to Fridays: 4.00pm - 9.00pm (School Days)<br>
 Saturdays: 9.00am - 3.00pm<br>
-Closed on Saturdays, Sundays &amp; Public Holidays
+Closed on Saturdays, Sundays &amp; Public Holidays<br>
+<strong><span style="text-decoration: underline;">Note:</span></strong> If you are a student, the Helpdesk will need to verify your identity using the security questions that you have set up when your account was first activated.
 
 
 

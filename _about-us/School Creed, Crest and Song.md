@@ -36,4 +36,5 @@ Following faithfully our creed.<br>
 Working together hand in hand.<br>
 Showing our love for KPS.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/d5hkj_sgJLA?si=YOI4faymcNRfYho7" height="315" width="560"></iframe>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Kranji Primary School Song 2025" src="https://www.youtube.com/embed/mIZlHCZaYE0" height="383" width="681"></iframe>

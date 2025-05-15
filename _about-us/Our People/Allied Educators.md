@@ -49,7 +49,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shahrinah Binte Selamat</p>
+<p>Ms Shahrinah Binte Selamat
+<br>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>shahrinah_selamat@moe.edu.sg</p>

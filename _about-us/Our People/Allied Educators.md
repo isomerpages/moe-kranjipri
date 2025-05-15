@@ -49,10 +49,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Shahrinah Binte Selamat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>shahrinah_selamat@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

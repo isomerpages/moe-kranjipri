@@ -10,7 +10,7 @@ variant: markdown
 
 #### **1\. MOE Student Learning Space (SLS)**
 
-![](/images/SLS_main_page_login.png)
+![](/images/Our%20Curriculum/Signature%20Programmes/11%20Learning%20Experience/Apps/SLS_LOGIN_PAGE.png)
 
 Click on this [link](https://vle.learning.moe.edu.sg/login) to access Student Learning Space (SLS)
 

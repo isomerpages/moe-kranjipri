@@ -71,16 +71,14 @@ an incorrect password.&nbsp;</p>
 Form Teacher.</p>
 <p><strong>(ii) During home-based/ e-learning period, please:</strong>
 </p>
-<p>1.&nbsp;&nbsp;Please call the&nbsp;<strong>school helpline</strong>&nbsp;to
-speak to the SLS administrator to request for a password reset.</p>
-<p>Tel: (65)&nbsp;67634812</p>
-<p>Operating Hours:&nbsp;</p>
-<p>Mondays ― Fridays: 8:00 am ― 4:00 pm</p>
-<p>*Closed on Sundays &amp; Public Holidays</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Go to our <a href="http://go.gov.sg/passwordresetform" rel="noopener nofollow" target="_blank">Student Password Reset Form</a>
+1. Please call the School Helpline at 67634812 to speak to the SLS Administrator to request for a password reset.
+<p>Operation Hours: Mondays to Fridays: 8.00am - 4.00pm
+<br>Closed on Saturdays, Sundays &amp; Public Holidays
+<br>
 </p>
-</li>
-</ol>
+
+<p>2. Go to our <a href="http://go.gov.sg/passwordresetform" rel="noopener nofollow" target="_blank">Student Password Reset Form</a>
+</p>
+
+
 <p></p>

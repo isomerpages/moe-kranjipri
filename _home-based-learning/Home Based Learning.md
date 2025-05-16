@@ -2,7 +2,7 @@
 title: Home Based Learning
 permalink: /home-based-learning/home-based-learning/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>Introduction</strong></h4>
 <p>In view of the Coronavirus&nbsp;(COVID-19) situation,&nbsp;HBL aims to

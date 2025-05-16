@@ -74,7 +74,6 @@ Form Teacher.</p>
 1. Please call the School Helpline at 67634812 to speak to the SLS Administrator to request for a password reset.
 <p>Operation Hours: Mondays to Fridays: 8.00am - 4.00pm
 <br>Closed on Saturdays, Sundays &amp; Public Holidays
-<br>
 </p>
 
 <p>2. Go to our <a href="http://go.gov.sg/passwordresetform" rel="noopener nofollow" target="_blank">Student Password Reset Form</a>

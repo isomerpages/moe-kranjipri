@@ -11,7 +11,6 @@ In Kranji Primary School, we believe in preparing our students to be future-read
 
 Our school’s ICT literacy programme is built on MOE’s standards of new media literacy and includes the skills, knowledge, attitudes and values (SKAV) that students should apply and demonstrate when harnessing ICT for learning and interacting. The new ICT baseline standards are: curating digital content; connecting and communicating digitally; and creating digital multimodal products.
 ![](/images/Our%20Curriculum/Departments/ICT/ICT/ICT_LITERARCY_2.png)
-![](/images/Our%20Curriculum/Departments/ICT/ICT/ICT_literacy.png)
 
 
 ##### **Department Pedagogy**

@@ -59,7 +59,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Hafiz Bin Mohamed Yasim
-<br>Adjunct ICT Associate</p>
+<br>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_hafiz_mohamed_yasim@moe.edu.sg</p>

@@ -20,8 +20,8 @@ Our school’s ICT literacy programme is built on MOE’s standards of new media
 With the introduction of the Student Learning Space (SLS), learning with technology in Kranji Primary School is guided by the SLS Pedagogical Scaffold which enables teachers to design technology-enabled learning experiences to enhance students’ learning.  
 
 In designing learning with technology, teachers consider the following student-centric active learning process while planning a technology-enabled lesson:
+![](/images/Our%20Curriculum/Departments/ICT/ICT/ICT_pedagogy.png)
 
-![](/images/Our%20Curriculum/Departments/ICT/ICT/I2.jpg)
 
 **Activate Learning**
 

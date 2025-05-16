@@ -17,9 +17,7 @@ the ALP programme is specially designed to develop critical and&nbsp;inventive K
 
 The ALP programme runs through a 3-tiered Approach – Experience, Inquire and Hone, anchored by a strong foundation in the Sciences (Mathematics and Science curriculum). The ‘Experience’ and ‘Inquire’ tiers seek to provide opportunities for the masses while ‘Hone’ tier will promote the learning for interested and talented students. The approach is designed to allow students to deepen their appreciation and application of as they progress through each tier.
 
-
-
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/A2.jpg)
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/ALP.png)
 
 ##### **Junior Tinkering Programme**
 

@@ -71,7 +71,7 @@ an incorrect password.&nbsp;</p>
 Form Teacher.</p>
 <p><strong>(ii) During home-based/ e-learning period, please:</strong>
 </p>
-1. Please call the <strong>School helpline</strong> at 67634812 to speak to the SLS Administrator to request for a password reset.
+1. Please call the <strong>School helpline</strong> to speak to the SLS Administrator at 67634812 
 <p>Operation Hours: Mondays to Fridays: 8.00am - 4.00pm
 <br>Closed on Saturdays, Sundays &amp; Public Holidays
 </p>

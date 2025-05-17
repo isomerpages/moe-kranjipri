@@ -146,7 +146,8 @@ variant: markdown
 <p>Singapore Amazing Flying Machine Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: 3rd place in Learning Journey Award
+<p><strong>2025</strong>: 1st place in Presentation category<br>
+<strong>2024</strong>: 3rd place in Learning Journey Award
 <br><strong>2022</strong>:1 team in final, 2nd place, 3 teams in finals</p>
 </td>
 </tr>
@@ -453,8 +454,9 @@ Tour Winner.
 <p>National School Games Senior Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: 3rd place in League 1 (Senior Girls)</p>
-</td>
+<p><strong>2025</strong>: 3rd place in League 1 (Senior Girls)<br>
+<strong>2024</strong>: 3rd place in League 1 (Senior Girls)
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -655,11 +657,11 @@ Distinction</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: Vanda Miss Joaqium Award
+<p></p><p><strong>2024</strong>: Vanda Miss Joaqium Award
 <br><br>
-</p><p><strong>2023</strong>: Yellow Flame Award	
+</p><strong>2023</strong>: Yellow Flame Award	
 <br>
-</p><p><strong>2022</strong>: Yellow Flame Award</p>
+<p></p><p><strong>2022</strong>: Yellow Flame Award</p>
 </td>
 </tr>
 </tbody>

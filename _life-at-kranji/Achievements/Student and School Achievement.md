@@ -454,9 +454,9 @@ Tour Winner.
 <p>National School Games Senior Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2025</strong>: 3rd place in League 1 (Senior Girls)</p>
-<p><strong>2024</strong>: 3rd place in League 1 (Senior Girls)</p>
-</td>
+<p><strong>2025</strong>: 3rd place in League 1 (Senior Girls)<br>
+<strong>2024</strong>: 3rd place in League 1 (Senior Girls)
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

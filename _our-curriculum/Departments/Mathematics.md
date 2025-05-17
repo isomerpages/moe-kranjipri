@@ -10,7 +10,6 @@ variant: markdown
   
 The central focus of the Mathematics Framework is mathematical problem solving, that is, using Mathematics to solve problems. The framework stresses conceptual understanding, skills proficiency and mathematical processes, and gives due emphasis to attitudes and metacognition. These five components are inter-related.&nbsp;
 ![](/images/Our%20Curriculum/Departments/Mathematics/Math_framework.png)
-![](/images/Our%20Curriculum/Departments/Mathematics/M1.png)
 
 ##### **Department Pedagogy**
 

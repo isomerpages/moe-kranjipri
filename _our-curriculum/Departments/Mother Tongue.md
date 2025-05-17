@@ -57,17 +57,12 @@ These strategies&nbsp;focus on students' ability to understand comprehension pas
 The story mountain strategy is a pedagogical tool adopted by the Kranji Primary Tamil department. This tool helps children to understand, visualize and remember the 6 aspects that should be addressed in their compositions. The six core aspects of writing a story are:
 
 
-&nbsp; &nbsp; &nbsp;1)&nbsp;&nbsp;&nbsp;&nbsp;Introduction / Beginning
-
-&nbsp; &nbsp; &nbsp;2)&nbsp;&nbsp;&nbsp;&nbsp;Setting
-
-&nbsp; &nbsp; &nbsp;3)&nbsp;&nbsp;&nbsp;&nbsp;Action
-
-&nbsp; &nbsp; &nbsp;4)&nbsp;&nbsp;&nbsp;&nbsp;Climax
-
-&nbsp; &nbsp; &nbsp;5)&nbsp;&nbsp;&nbsp;&nbsp;Conflicts
-
-&nbsp; &nbsp; &nbsp;6)&nbsp;&nbsp;&nbsp;&nbsp;Resolution
+1)&nbsp;&nbsp;&nbsp;&nbsp;Introduction / Beginning<br>
+2)&nbsp;&nbsp;&nbsp;&nbsp;Setting<br>
+3)&nbsp;&nbsp;&nbsp;&nbsp;Action<br>
+4)&nbsp;&nbsp;&nbsp;&nbsp;Climax<br>
+5)&nbsp;&nbsp;&nbsp;&nbsp;Conflicts<br>
+6)&nbsp;&nbsp;&nbsp;&nbsp;Resolution
 
 This strategy aids pupils to plan their composition more effectively before writing the actual composition. It also acts as a check list for pupils to self-assess their own work and identify if all the important aspects of a composition in included in their work.&nbsp;
 

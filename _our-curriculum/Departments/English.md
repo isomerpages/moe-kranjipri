@@ -18,7 +18,8 @@ The following diagram presents the key features of the EL Syllabus 2020 undergir
 **STELLAR programme**  
 STELLAR stands for “Strategies for English Language Learning and Reading”. The programme uses research-based teaching strategies and age-appropriate materials to engage children in the learning of English. It aims to strengthen children’s language and reading skills, as well as promote a positive attitude towards learning in the foundational years.  
 
-![](/images/Our%20Curriculum/Departments/English/E2.png)
+![](/images/Our%20Curriculum/Departments/English/EL_Syllabus_2020___STELLAR_2_0.png)
+
 
   
 **STELLAR at Lower Primary**    

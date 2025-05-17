@@ -146,7 +146,8 @@ variant: markdown
 <p>Singapore Amazing Flying Machine Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: 3rd place in Learning Journey Award
+<p><strong>2025</strong>: 1st place in Presentation category
+</p><p><strong>2024</strong>: 3rd place in Learning Journey Award
 <br><strong>2022</strong>:1 team in final, 2nd place, 3 teams in finals</p>
 </td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Junior Tinkering Programme
-permalink: /Junior-Tinkering-Programme/
+permalink: /junior-tinkering-programme/
 description: ""
 variant: markdown
 ---
@@ -15,8 +15,5 @@ Designed to give the Primary 1 and 2 students a head-start in acquiring these co
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/Junior%20Tinkering%20Programme/JTP_programme_2.png)
 ![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/Junior%20Tinkering%20Programme/JTP_programme_3.png)
 
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/Junior%20Tinkering%20Programme/JTP6NEW.png)
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/Junior%20Tinkering%20Programme/JTP7.png)
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/Junior%20Tinkering%20Programme/JTP8NEW.png)
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/Junior%20Tinkering%20Programme/JTP9NEW.png)
-![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/Junior%20Tinkering%20Programme/JTP10.png)
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/Junior%20Tinkering%20Programme/P2_JTP_programme_1.png)
+![](/images/Our%20Curriculum/Signature%20Programmes/Applied%20Learning%20Prog%20(ALP)/Junior%20Tinkering%20Programme/P2_JTP_programme_2.png)

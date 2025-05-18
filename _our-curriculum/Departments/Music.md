@@ -23,9 +23,8 @@ The aims of the Primary Music Syllabus are to:
 
 Our Curriculum Framework focuses on providing musically engaging music lessons through student-centric teaching approaches, where students learn through the musical experiences of listening, performing and creating. Musical concepts are taught through songs, singing games, playing instruments or movement activities.
 
-  
+![](/images/Our%20Curriculum/Departments/Music/Music_framework.png)
 
-![](/images/Our%20Curriculum/Departments/Music/M1.jpg)
 
 ##### **Department Pedagogy**
   

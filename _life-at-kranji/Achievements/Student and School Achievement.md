@@ -526,7 +526,8 @@ Tour Winner.
 <p>AES 8-A-Side Football Challenge Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>: 2nd place</p>
+<p><strong>2025</strong>: Champion<br>
+	<strong>2022</strong>: 2nd place</p>
 </td>
 </tr>
 <tr>
@@ -547,7 +548,7 @@ Tour Winner.
 <p>Singapore Youth Festival (SYF) Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: Certificate of Distinction 2018: Certificate of
+	<p><strong>2024</strong>: Certificate of Distinction <strong>2018: </strong>Certificate of
 Distinction</p>
 </td>
 </tr>

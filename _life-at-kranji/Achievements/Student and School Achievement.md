@@ -548,7 +548,7 @@ Tour Winner.
 <p>Singapore Youth Festival (SYF) Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: Certificate of Distinction 2018: Certificate of
+	<p><strong>2024</strong>: Certificate of Distinction <strong>2018: </strong>Certificate of
 Distinction</p>
 </td>
 </tr>

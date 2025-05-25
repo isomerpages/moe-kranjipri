@@ -526,8 +526,8 @@ Tour Winner.
 <p>AES 8-A-Side Football Challenge Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<strong>2025</strong>: Champion<br>
-<strong>2022</strong>: 2nd place
+<p><strong>2025</strong>: Champion<br>
+	<strong>2022</strong>: 2nd place</p>
 </td>
 </tr>
 <tr>

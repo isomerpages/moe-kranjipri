@@ -56,7 +56,8 @@ variant: markdown
 <p>Raffles Mathematical Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: 3 Distinctions, 3 Merits (Junior Category)
+<p><strong>2025</strong>: 3 Distinctions, 4 Merits (Junior Category)
+<br><strong>2024</strong>: 3 Distinctions, 3 Merits (Junior Category)
 <br><strong>2024</strong>: 1 Distinction, 1 Merit (Open Category)</p>
 </td>
 </tr>

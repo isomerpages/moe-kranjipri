@@ -56,7 +56,9 @@ variant: markdown
 <p>Raffles Mathematical Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: 3 Distinctions, 3 Merits (Junior Category)
+<p><strong>2025</strong>: 3 Distinctions, 4 Merits (Junior Category)
+<br><strong>2025</strong>: 4 Merits (Open Category)
+<br><strong>2024</strong>: 3 Distinctions, 3 Merits (Junior Category)
 <br><strong>2024</strong>: 1 Distinction, 1 Merit (Open Category)</p>
 </td>
 </tr>
@@ -84,8 +86,9 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2023</strong>: 3 Gold, 2 Silver, 11 Bronze, 6 Honourable Mentions
-<br>2022: 3 Gold, 2 Silver, 7 Bronze, 8 Honourable Mentions
+<p><strong>2025</strong>: 12 Bronze, 4 Honorable Mentions<br>
+<strong>2023</strong>: 3 Gold, 2 Silver, 11 Bronze, 6 Honourable Mentions
+	<br><strong>2022</strong>: 3 Gold, 2 Silver, 7 Bronze, 8 Honourable Mentions
 <br>2020: 4 Silver, 10 Bronze
 <br><strong>2019</strong>: 2 Gold, 5 Silver, 6 Bronze 2018: 5 Gold, 6 Silver,
 9 Bronze</p>

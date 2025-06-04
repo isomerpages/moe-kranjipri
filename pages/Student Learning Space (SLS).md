@@ -5,8 +5,8 @@ description: ""
 variant: markdown
 ---
 #### **Student Learning Space (SLS)**
+![](/images/Our%20Curriculum/Departments/ICT/Student%20Learning%20Space/SLS_main_page_login_2024.png)
 
-![](/images/SLS_main_page_login.png)
 
 **SLS Website:**  **[](https://learning.moe.edu.sg/)** [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)  
 

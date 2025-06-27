@@ -139,8 +139,9 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 4</strong></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -156,6 +157,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Co-Form Teacher</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -168,6 +172,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Noorasmaedah Bte Ahmad
 <br>noorasmaedah_ahmad@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -182,6 +189,10 @@ variant: tiptap
 <p>Miss Ting Pui Sin
 <br>ting_pui_sin@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin
+<br>mohamad_fazlee_sabari@moe.edu.sg</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -195,6 +206,9 @@ variant: tiptap
 <p>Mdm Radhiah Bte Jais
 <br>radhiah_jais@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -207,6 +221,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Tay Li Ping
 <br>tay_li_ping@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

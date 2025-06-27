@@ -362,21 +362,8 @@ variant: tiptap
 <br>wee_kang_sheng_nicholas@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Andrea Lee Qing
-<br>lee_qing_andrea@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Chang Si Ying
 <br>chang_si_ying@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin
-<br>raja_nur_rasyidah_raja_kamarul_bahrin@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

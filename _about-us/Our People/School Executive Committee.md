@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Azzuling Bte Aripin
+<p>Miss Azzulin Bte Aripin
 <br>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">

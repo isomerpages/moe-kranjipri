@@ -366,8 +366,8 @@ variant: tiptap
 <br>lee_qing_andrea@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sri Rahayu Bte Mohad Amin
-<br>sri_rahayu_mohamed_amin@moe.edu.sg</p>
+<p>Miss Chang Si Ying
+<br>chang_si_ying@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

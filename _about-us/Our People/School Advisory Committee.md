@@ -30,6 +30,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Long Shih Pin Kevin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Goh Meei Yunn</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,23 +46,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chew Kum Boon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Chia Yi Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Long Shih Pin Kevin</p>
+<p>Ms Joreen Ong Li Yun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -70,7 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Lian Hwa</p>
+<p>Mr Muhammad Hafiz Bin Md Jamil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -86,26 +78,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Md Hafiz Bin Md Jamil</p>
+<p>Mr Ong Lian Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sin Lay Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>

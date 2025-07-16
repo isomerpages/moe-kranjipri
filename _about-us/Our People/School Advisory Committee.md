@@ -62,7 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Hafiz Bin Md Jamil</p>
+<p>Mr Mohamed Rasid Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -70,7 +70,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Rasid Ibrahim</p>
+<p>Mr Muhammad Hafiz Bin Md Jamil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>

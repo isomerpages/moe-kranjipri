@@ -133,6 +133,10 @@ variant: tiptap
 <p><a href="https://form.gov.sg/5d1b158dd46125001149ce6c" rel="noopener nofollow" target="_blank">Time Off Records Form</a>
 </p>
 </li>
+<li>
+<p><a href="https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx" rel="noopener nofollow" target="_blank">iCart (GeBIZ DA eCatalogues)</a>
+</p>
+</li>
 </ul>
 <h4><strong>For Parents</strong></h4>
 <ul>

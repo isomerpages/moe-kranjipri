@@ -410,6 +410,17 @@ Tour Winner.
 <p>Cub Scout</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+	<td rowspan="1" colspan="1">
 <p>National Cub Scouts Design Competition</p>
 </td>
 <td rowspan="1" colspan="1">

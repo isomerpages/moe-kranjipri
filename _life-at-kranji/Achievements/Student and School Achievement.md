@@ -399,7 +399,8 @@ Tour Winner.
 <p>Singapore Olympic Foundation - Peter Lim Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: 2 awardees
+<p><strong>2025</strong>: 1 awardee	
+<br><strong>2024</strong>: 2 awardees
 <br><strong>2023</strong>: 3 awardees
 <br><strong>2022</strong>: Encouragement Award</p>
 </td>

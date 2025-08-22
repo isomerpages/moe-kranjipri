@@ -240,10 +240,21 @@ Tour Winner.
 <p>Mother Tongue Language - Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Lensa Si Cilik 2025 Competition </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>: Top 5 Gold Award</p>
+</td>
+</tr>	
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Piala Cendekia Sahibba</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: West Zone Champion</p>
+<p><strong>2024</strong>:West Zone Champion</p>
 </td>
 </tr>
 <tr>

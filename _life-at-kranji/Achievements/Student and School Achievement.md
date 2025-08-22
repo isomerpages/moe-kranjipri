@@ -162,7 +162,8 @@ variant: markdown
 <p>Singapore Primary Science Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: 2 Bronze, 4 Merits, 4 Participation
+<p><strong>2025</strong>: 1 Gold, 1 Bronze, 8 Merits, 12 Participation
+<br><strong>2024</strong>: 2 Bronze, 4 Merits, 4 Participation
 <br><strong>2023</strong>: 3 Silver, 1 Bronze, 5 Merits
 <br><strong>2022</strong>: 1 team in final, 2nd place, 3 teams in finals
 <br>
@@ -193,7 +194,8 @@ Tour Winner.
 <p>Text Recital Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: Bronze Award
+<p><strong>2025</strong>: Bronze Award	
+<br><strong>2024</strong>: Bronze Award
 <br><strong>2023</strong>: Bronze Award
 <br><strong>2022</strong>: Silver Award</p>
 </td>
@@ -239,10 +241,21 @@ Tour Winner.
 <p>Mother Tongue Language - Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Lensa Si Cilik 2025 Competition </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>: Top 5 Gold Award</p>
+</td>
+</tr>	
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Piala Cendekia Sahibba</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: West Zone Champion</p>
+<p><strong>2024</strong>:West Zone Champion</p>
 </td>
 </tr>
 <tr>
@@ -399,7 +412,8 @@ Tour Winner.
 <p>Singapore Olympic Foundation - Peter Lim Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: 2 awardees
+<p><strong>2025</strong>: 1 awardee	
+<br><strong>2024</strong>: 2 awardees
 <br><strong>2023</strong>: 3 awardees
 <br><strong>2022</strong>: Encouragement Award</p>
 </td>
@@ -409,6 +423,17 @@ Tour Winner.
 <p>Cub Scout</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+	<td rowspan="1" colspan="1">
 <p>National Cub Scouts Design Competition</p>
 </td>
 <td rowspan="1" colspan="1">

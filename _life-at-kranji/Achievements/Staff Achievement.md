@@ -5,6 +5,56 @@ description: ""
 third_nav_title: Achievements
 variant: markdown
 ---
+<h4><strong>2025</strong></h4>
+
+<p><strong>National Day Awards</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Award_2025.png">
+</div>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+	<p><strong>Award/Achievement</strong></p>
+</td>
+<td rowspan="1" colspan="1">
+	<p><strong>Staff</strong></p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>The Teachers' Conference and ExCEL Fest 2025. Our team of key personnel presented a webinar titled "Tapping on Edtech and e-Pedalogy to develop future-ready learners in Kranji Primary School".</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/TCEF_2025.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Amanda Lin, EL/HOD
+<br>Mdm angie Ng, SSD
+<br>Miss Loh Jun Qin, LH/SC
+<br>Mdm Yak Hui Hwa, SH/ICT	</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Profesional Sharing for Malay Language Senior Teachers/Lead Teachers presented on stationed -based pedalogy at the Bestari Berbicara 2025</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%" height="auto" width="50%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/hesheam_bestari_berbicara_2025.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Hesheam Hashim (ST/ML)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 <h4><strong>2024</strong></h4>
 <p><strong>MOE Service Excellence Award (MSEA)</strong>
 </p>
@@ -15,7 +65,7 @@ variant: markdown
 <p><strong>National Day Awards</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Awards_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/National_Day_Award_2024_v2.png">
 </div>
 <hr>
 <table style="minWidth: 50px">

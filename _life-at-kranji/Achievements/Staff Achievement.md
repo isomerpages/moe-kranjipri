@@ -29,8 +29,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Profesional Sharing for Malay Language Senior Teachers/Lead Teachers organised
-by the Malay Language Centre of Singapore</p>
+<p>Profesional Sharing for Malay Language Senior Teachers/Lead Teachers presented on stationed -based pedalogy at the Bestari Berbicara 2025</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/Hesheam_Achievement_2024.jpg">
 </div>

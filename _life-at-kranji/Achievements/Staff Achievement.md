@@ -27,6 +27,17 @@ variant: markdown
 	<p><strong>Staff</strong></p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>The Teachers' Conference and ExCEL Fest 2025</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%" height="auto" width="50%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/hesheam_bestari_berbicara_2025.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Hesheam Hashim (ST/ML)</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Profesional Sharing for Malay Language Senior Teachers/Lead Teachers presented on stationed -based pedalogy at the Bestari Berbicara 2025</p>

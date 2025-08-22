@@ -31,7 +31,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>The Teachers' Conference and ExCEL Fest 2025</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="50%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/hesheam_bestari_berbicara_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/TCEF_2025.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

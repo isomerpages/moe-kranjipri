@@ -36,7 +36,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Amanda Lin, EL/HOD
-<br>Mdm angie Ng, SSD
+<br>Mdm Angie Ng, SSD
 <br>Miss Loh Jun Qin, LH/SC
 <br>Mdm Yak Hui Hwa, SH/ICT	</p>
 </td>

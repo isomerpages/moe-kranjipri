@@ -590,6 +590,17 @@ Tour Winner.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Junior Division</p>
+</td>
+<td rowspan="1" colspan="1">
+	<p><strong>2025</strong>: 1st in Tier 2 (Silver Achievement Pin) <strong>
+</strong></p></td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -103,7 +103,8 @@ variant: markdown
 <p>Annual Mathlympics for Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: 5 Bronze, 3 Merits
+<p><strong>2025</strong>: 3 Bronze, 9 Merits
+	<strong>2024</strong>: 5 Bronze, 3 Merits
 <br><strong>2022</strong>: 3 Gold</p>
 </td>
 </tr>

@@ -137,7 +137,8 @@ variant: markdown
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raffles Science  Olympiad</p>
+Raffles Science  Olympiad
+	<p>Raffles Science  Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2025</strong>: Merit Award<br>

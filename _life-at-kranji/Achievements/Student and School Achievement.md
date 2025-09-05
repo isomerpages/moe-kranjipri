@@ -500,7 +500,8 @@ Tour Winner.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2023</strong>: 3rd place (Senior Girls)
+<p><strong>2025</strong>: Sportmanship Award
+<br><strong>2023</strong>: 3rd place (Senior Girls)	
 <br>Tier 2 1st Position (Junior boys)
 <br>Tier 2 1st Position (Junior girls)
 <br><strong>2019</strong>: 1st place (Senior Girls)

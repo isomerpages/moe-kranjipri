@@ -33,6 +33,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>
+	<strong>2025</strong>: Silver Award<br>
 	<strong>2024</strong>: Merit Award
 <br><strong>2022</strong>: Merit Award</p>
 </td>

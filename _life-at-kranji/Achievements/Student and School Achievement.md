@@ -596,7 +596,18 @@ Tour Winner.
 <p>National School Games Junior Division</p>
 </td>
 <td rowspan="1" colspan="1">
-	<p><strong>2025</strong>: 1st in Tier 2 (Silver Achievement Pin) <strong>
+<p><strong>2025</strong>: 1st in Tier 2 (Silver Achievement Pin) <strong>
+</strong></p></td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Junior Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>: 5th in Tier 1 Group <strong>
 </strong></p></td>
 </tr>
 <tr>

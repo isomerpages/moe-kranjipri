@@ -501,6 +501,7 @@ Tour Winner.
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2025</strong>: Sportmanship Award (Senior Boys &amp; Girls)
+<br><strong>2025</strong>: Achievement Pin (Junior Boys &amp; Girls)	
 <br><strong>2023</strong>: 3rd place (Senior Girls)	
 <br>Tier 2 1st Position (Junior boys)
 <br>Tier 2 1st Position (Junior girls)

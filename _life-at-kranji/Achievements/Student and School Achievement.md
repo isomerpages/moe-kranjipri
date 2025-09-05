@@ -490,7 +490,19 @@ Tour Winner.
 <strong>2024</strong>: 3rd place in League 1 (Senior Girls)
 </p></td>
 </tr>
-<tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Junior Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>: 1st place  in Pool B Group (Junior Boys)<br>
+<strong>2025</strong>: 1st place  in Pool B Group (Junior Girls)
+</p></td>
+</tr>
+<tr>	
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

@@ -137,7 +137,6 @@ variant: markdown
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-Raffles Science  Olympiad
 	<p>Raffles Science  Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">

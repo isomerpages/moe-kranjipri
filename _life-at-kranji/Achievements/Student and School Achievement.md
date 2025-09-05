@@ -33,6 +33,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>
+	<strong>2025</strong>: Silver Award<br>
 	<strong>2024</strong>: Merit Award
 <br><strong>2022</strong>: Merit Award</p>
 </td>
@@ -102,7 +103,8 @@ variant: markdown
 <p>Annual Mathlympics for Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: 5 Bronze, 3 Merits
+<p><strong>2025</strong>: 3 Bronze, 9 Merits
+	<strong>2024</strong>: 5 Bronze, 3 Merits
 <br><strong>2022</strong>: 3 Gold</p>
 </td>
 </tr>
@@ -135,10 +137,12 @@ variant: markdown
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
+	<p>Raffles Science  Olympiad
+	<br>Abbott Young Science
+</p></td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: Abbott Young Scientist Award</p>
+<p><strong>2025</strong>: Merit Award<br>
+<strong>2024</strong>: Abbott Young Scientist Award</p>
 </td>
 </tr>
 <tr>
@@ -486,7 +490,19 @@ Tour Winner.
 <strong>2024</strong>: 3rd place in League 1 (Senior Girls)
 </p></td>
 </tr>
-<tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Junior Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>: 1st place  in Pool B Group (Junior Boys)<br>
+<strong>2025</strong>: 1st place  in Pool B Group (Junior Girls)
+</p></td>
+</tr>
+<tr>	
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -496,7 +512,9 @@ Tour Winner.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2023</strong>: 3rd place (Senior Girls)
+<p><strong>2025</strong>: Sportmanship Award (Senior Boys &amp; Girls)
+<br><strong>2025</strong>: Achievement Pin (Junior Boys &amp; Girls)	
+<br><strong>2023</strong>: 3rd place (Senior Girls)	
 <br>Tier 2 1st Position (Junior boys)
 <br>Tier 2 1st Position (Junior girls)
 <br><strong>2019</strong>: 1st place (Senior Girls)
@@ -543,7 +561,9 @@ Tour Winner.
 <p>National School Games Senior Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: 4th place in League 3 (Senior Boys)</p>
+<p><strong>2025</strong>: Sportmanship Award (Senior Boys)
+<br><strong>2025</strong>: 4th place in Tier 5 (Junior Boys)</p>	
+<br><strong>2024</strong>: 4th place in League 3 (Senior Boys)<p></p>
 </td>
 </tr>
 <tr>
@@ -567,6 +587,28 @@ Tour Winner.
 <td rowspan="1" colspan="1">
 <p><strong>2022</strong>: Tier 2 (Junior Boys)</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Junior Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>: 1st in Tier 2 (Silver Achievement Pin) <strong>
+</strong></p></td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Junior Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>: 5th in Tier 1 Group <strong>
+</strong></p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

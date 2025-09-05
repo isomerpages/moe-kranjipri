@@ -549,7 +549,8 @@ Tour Winner.
 <p>National School Games Senior Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>: 4th place in League 3 (Senior Boys)</p>
+<p><strong>2025</strong>: Sportmanship Award (Senior Boys)
+<br><strong>2024</strong>: 4th place in League 3 (Senior Boys)</p>
 </td>
 </tr>
 <tr>

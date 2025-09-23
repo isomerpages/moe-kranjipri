@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - MOE's Engagement Charter.md
       - Sexuality Education.md
       - Service Providers.md
       - Parent Support Group (PSG).md

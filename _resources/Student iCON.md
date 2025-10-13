@@ -33,7 +33,8 @@ login to iCON via MIMS portal: <strong><a href="https://idp.mims.moe.gov.sg/" re
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/Login_with_new_format_MIMS_as_of_Oct_2025_.png">
 </div>
-<p>Enter your username (Student ICON email address) and MIMS password.</p>
+<p>Enter your username and choose your domain option from dropdown list and
+MIMS password.</p>
 <p>Students can still continue to log in using Google Workspace link:​&nbsp;<strong><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard, </a></strong>and
 students will be redirected to the MIMS Portal to sign in.</p>
 <div class="isomer-image-wrapper">

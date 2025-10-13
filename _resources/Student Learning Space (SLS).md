@@ -2,7 +2,7 @@
 title: Student Learning Space (SLS)
 permalink: /resources/student-learning-space-sls/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>Student Learning Space (SLS)</strong></h4>
 <div class="isomer-image-wrapper">
@@ -33,10 +33,10 @@ system is developed iteratively to stay dynamic and responsive.</p>
 <p><strong>SLS Website</strong>: <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p>Click on <strong>"LOGIN WITH MIMS"</strong>. You will be directed to MIMS
-Portal main page. Enter your username (Student ICON email address) and
-MIMS password.</p>
+Portal main page. Enter your username and choose your domain option from
+dropdown list and MIMS password.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student Learning Space (SLS)/LOGIN_WITH_MIMS.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student Learning Space (SLS)/SLS_Login_with__new_format_MIMS_as_of_Oct_2025.png">
 </div>
 <p><strong>OR</strong>
 </p>
@@ -71,12 +71,10 @@ an incorrect password.&nbsp;</p>
 Form Teacher.</p>
 <p><strong>(ii) During home-based/ e-learning period, please:</strong>
 </p>
-1. Please call the <strong>School helpline</strong> to speak to the SLS Administrator at 67634812 
+<p>1. Please call the <strong>School helpline</strong> to speak to the SLS
+Administrator at 67634812</p>
 <p>Operation Hours: Mondays to Fridays: 8.00am - 4.00pm
-<br>Closed on Saturdays, Sundays &amp; Public Holidays
-</p>
+<br>Closed on Saturdays, Sundays &amp; Public Holidays</p>
 <p>2. Go to our <a href="http://go.gov.sg/passwordresetform" rel="noopener nofollow" target="_blank">Student Password Reset Form</a>
 </p>
-
-
 <p></p>

@@ -19,9 +19,10 @@ etc.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_login_format.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/MIMS_portal_login.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/MIMS/Login_with_new_format_MIMS_as_of_Oct_2025_.png">
 </div>
-<p>Enter your username (Student ICON email address) and MIMS password.</p>
+<p>Enter your username and choose your domain option from dropdown list and
+MIMS password.</p>
 <h4><strong>Managing MIMS Account</strong></h4>
 <p>This is how students will manage their MIMS account.</p>
 <p><strong>Primary 2 &amp; 3 </strong>- Since these students are still young,

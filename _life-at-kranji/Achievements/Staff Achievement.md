@@ -8,7 +8,7 @@ variant: markdown
 <h4><strong>2025</strong></h4>
 <p><strong>MOE Service Excellence Award (MSEA)</strong>
 </p>
-6 Gold 14 Silver
+5 Gold 15 Silver
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Life @ Kranji/Achievements/Staff Achievement/Staff Achievement/MSEA_2025_Winners.png">
 </div>

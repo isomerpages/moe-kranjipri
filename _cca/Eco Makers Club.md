@@ -15,7 +15,7 @@ Students will be able to:
 *   Tinker and propose creative methods to raise awareness for sustainability efforts.
   
 
-**Schedule**
+**Schedule (for Year 2025)**
 
   
 
@@ -80,4 +80,3 @@ Eco Makers Club members can look forward to visiting Science Fairs, such as Sing
 <figcaption> <strong> Mr. Wilson Ng guided our Eco Makers Club as they learned how to recycle and repurpose used papers into unique art &amp; craft creations!</strong> </figcaption>
 
 </figure>
-

@@ -16,7 +16,7 @@ Students will be able to:
 
   
 
-**Schedule (for all students) For Year 2025**
+**Schedule (for all students) for Year 2025**
 
   
 

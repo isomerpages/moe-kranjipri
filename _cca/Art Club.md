@@ -13,7 +13,7 @@ Students will be able to:
 *   Be exposed to various Art mediums
 *   Create art with like-minded peers in an aesthetically conducive environment&nbsp;
 
-**Schedule (For Year 2025)**
+**Schedule (for Year 2025)**
 
 
 | Day | Time | Remarks |

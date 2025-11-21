@@ -56,13 +56,13 @@ Please click on the links for the respective book lists 2026.
 <p>Parents may contact the clinic at 8798 5043 for appointment and enquiry. If the clinic is closed and students who require urgent dental treatment may contact the buddy clinics at one of hte following buddy clinics for assistance.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Yew Tee Primary School, Tel: 91145692</p>
+<p>Yew Tee Primary School, Tel: 9115 9835</p>
 </li>
 <li>
-<p>⁠Zhenghua Primary School, Tel: 9116-1070</p>
+<p>⁠Zhenghua Primary School, Tel: 9116 1070</p>
 </li>
 <li>
-<p>Mobile Dental Clinic, Tel: 9270-7789</p>
+<p>Mobile Dental Clinic, Tel: 9270 7789</p>
 </li>
 </ul>
 <p>Students with dental emergencies (e.g. dental trauma, facial/gum swellings

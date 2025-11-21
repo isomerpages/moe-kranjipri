@@ -53,9 +53,7 @@ Please click on the links for the respective book lists 2026.
 <br>School Bus Contract Price 1 Jan 2025 to 31 Dec 2026 <a href="/files/For%20Parents/Kranji_Pri_School_Bus_Contract_Price_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 
 <h4>3. School Dental Clinic</h4>
-<p>The school dental clinic will be closed from 7 August 2024 to August/September
-2025. Students who require dental treatment may contact the buddy clinics
-at nearby schools for dental appointment.</p>
+<p>Parents may contact the clinic at 8798 5043 for appointment and enquiry. If the clinic is closed and students who require urgent dental treatment may contact the buddy clinics at one of hte following buddy clinics for assistance.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>De La Salle Primary School, Tel: 91145692</p>
@@ -67,7 +65,7 @@ at nearby schools for dental appointment.</p>
 <p>Yew Tee Primary School, Tel: 9115-9835</p>
 </li>
 <li>
-<p>Mobile Dental Clinic, Tel: 9186-4597</p>
+<p>Mobile Dental Clinic, Tel: 8798-5043</p>
 </li>
 </ul>
 <p>Students with dental emergencies (e.g. dental trauma, facial/gum swellings

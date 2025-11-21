@@ -35,15 +35,15 @@ Please click on the links for the respective book lists 2026.
 <br>
 
 **Primary 5 Foundation:**
-[Primary 5 Booklist](/files/For%20Parents/Kranji_Primary_School_2026___Pri_5F.pdf)
+[Primary 5F Booklist](/files/For%20Parents/Kranji_Primary_School_2026___Pri_5F.pdf)
 <br>
 
 **Primary 6 Standard:**
-[Primary 6 Standard](/files/For%20Parents/Kranji_Primary_6.pdf)
+[Primary 6 Booklist](/files/For%20Parents/Kranji_Primary_6.pdf)
 <br>
 
 **Primary 6 Foundation:**
-[Primary 6 Foundation](/files/For%20Parents/Kranji_Primary_6F.pdf)
+[Primary 6F Booklist](/files/For%20Parents/Kranji_Primary_6F.pdf)
 <p></p>
 <h4>2. School Bus Transport&nbsp;</h4>
 <p>Name of Company: Chang Chen Pte Ltd

@@ -65,4 +65,4 @@ Please click on the links for the respective book lists 2026.
 <p>Mobile Dental Clinic, Tel: 9270 7789</p>
 </li>
 </ul>
-For general enquiy, please contact the School Dental Centre at <a href="Contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>.<p></p>
+For general enquiy, please contact the School Dental Centre at <a href="Contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>.

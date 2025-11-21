@@ -19,55 +19,50 @@ website <a href="https://asencio.com.sg" rel="noopener noreferrer nofollow" targ
 <br>
 </p><h5><strong>Dear Parents / Guardians:</strong></h5>
 
-Please click on the links for the respective book lists 2025.
+Please click on the links for the respective book lists 2026.
 
-**Primary 2:** 
-[Primary 2 Booklist](/files/For%20Parents/Kranji_Primary_2.pdf)
-<br>
 
 **Primary 3:**
-[Primary 3 Booklist](/files/For%20Parents/Kranji_Primary_3.pdf)
+[Primary 3 Booklist](/files/For%20Parents/Kranji_Primary_School_2026_Pri_3.pdf)
 <br>
 
 **Primary 4:**
-[Primary 4 Booklist](/files/For%20Parents/Kranji_Primary_4.pdf)
+[Primary 4 Booklist](/files/For%20Parents/Kranji_Primary_School_2026___Pri_4.pdf)
 <br>
 
-**Primary 5:**
-[Primary 5 Booklist](/files/For%20Parents/Kranji_Primary_5.pdf)
+**Primary 5 Standard:**
+[Primary 5 Booklist](/files/For%20Parents/Kranji_Primary_School_2026___Pri_5.pdf)
+<br>
+
+**Primary 5 Foundation:**
+[Primary 5F Booklist](/files/For%20Parents/Kranji_Primary_School_2026___Pri_5F.pdf)
 <br>
 
 **Primary 6 Standard:**
-[Primary 6 Standard](/files/For%20Parents/Kranji_Primary_6.pdf)
+[Primary 6 Booklist](/files/For%20Parents/Kranji_Primary_School_2026___Pri_6.pdf)
 <br>
 
 **Primary 6 Foundation:**
-[Primary 6 Foundation](/files/For%20Parents/Kranji_Primary_6F.pdf)
+[Primary 6F Booklist](/files/For%20Parents/Kranji_Primary_School_2026___Pri_6F.pdf)
 <p></p>
 <h4>2. School Bus Transport&nbsp;</h4>
 <p>Name of Company: Chang Chen Pte Ltd
 <br>Liaison Person: Mr Grif Lim
 <br>Contact No.: 6760 4835&nbsp;</p>
-<br>School Bus Registration Form 2025 <a href="/files/For%20Parents/Kranji_Pri_School_Bus_Registration_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-<br>School Bus Contract Price 1 Jan 2025 to 31 Dec 2026 <a href="/files/For%20Parents/Kranji_Pri_School_Bus_Contract_Price_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<br>School Bus Registration Form 2026 <a href="/files/For%20Parents/Kranji_Pri__School_Bus_9months_Payment.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+
 
 <h4>3. School Dental Clinic</h4>
-<p>The school dental clinic will be closed from 7 August 2024 to August/September
-2025. Students who require dental treatment may contact the buddy clinics
-at nearby schools for dental appointment.</p>
+<p>Parents may contact the clinic at 8798 5043 for appointment and enquiry. If the clinic is closed and students who require urgent dental treatment may contact the buddy clinics at one of hte following buddy clinics for assistance.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>De La Salle Primary School, Tel: 91145692</p>
+<p>Yew Tee Primary School, Tel: 9115 9835</p>
 </li>
 <li>
-<p>⁠Unity Primary School, Tel: 9115-8304</p>
+<p>⁠Zhenghua Primary School, Tel: 9116 1070</p>
 </li>
 <li>
-<p>Yew Tee Primary School, Tel: 9115-9835</p>
-</li>
-<li>
-<p>Mobile Dental Clinic, Tel: 9186-4597</p>
+<p>Mobile Dental Clinic, Tel: 9270 7789</p>
 </li>
 </ul>
-<p>Students with dental emergencies (e.g. dental trauma, facial/gum swellings
-or toothaches, may contact the School Dental Centre via email <a href="Contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+For general enquiy, please contact the School Dental Centre at <a href="Contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>.<p></p>

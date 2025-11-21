@@ -35,7 +35,7 @@ Please click on the links for the respective book lists 2026.
 <br>
 
 **Primary 5 Foundation:**
-[Primary 5 Booklist](/files/For%20Parents/Kranji_Primary_5.pdf)
+[Primary 5 Booklist](/files/For%20Parents/Kranji_Primary_School_2026___Pri_5F.pdf)
 <br>
 
 **Primary 6 Standard:**

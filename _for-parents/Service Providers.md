@@ -27,7 +27,7 @@ Please click on the links for the respective book lists 2026.
 <br>
 
 **Primary 4:**
-[Primary 4 Booklist](/files/For%20Parents/Kranji_Primary_School_2026_Pri_4.pdf)
+[Primary 4 Booklist](/files/For%20Parents/Kranji_Primary_School_2026___Pri_4.pdf)
 <br>
 
 **Primary 5 Standard:**

@@ -24,6 +24,7 @@ Please click on the links for the respective book lists 2026.
 
 **Primary 3:**
 [Primary3_Booklist](/files/For%20Parents/Kranji_Primary_School_2026___Pri_3.pdf)
+[Primary 3_Booklist](/files/For%20Parents/Kranji_Primary_School_2026___Pri_3.pdf)
 <br>
 
 **Primary 4:**

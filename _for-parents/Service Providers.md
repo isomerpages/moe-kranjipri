@@ -49,7 +49,9 @@ Please click on the links for the respective book lists 2026.
 <p>Name of Company: Chang Chen Pte Ltd
 <br>Liaison Person: Mr Grif Lim
 <br>Contact No.: 6760 4835&nbsp;</p>
-<br>School Bus Registration Form 2026 <a href="/files/For%20Parents/Kranji_Pri__School_Bus_9months_Payment.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<br>School Bus Registration Form 2026 <a href="/files/For%20Parents/Kranji_Pri__School_Bus_9months_Payment.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<br>
+<br>To view school bus price, please click <a href="/files/Kranji_Pri_School_Bus_Contact_Price_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 
 
 <h4>3. School Dental Clinic</h4>

@@ -51,6 +51,9 @@ Please click on the links for the respective book lists 2026.
 <br>Contact No.: 6760 4835&nbsp;</p>
 <br>School Bus Registration Form 2026 <a href="/files/For%20Parents/Kranji_Pri__School_Bus_9months_Payment.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 
+![School_Bus_Price](/images/Kranji_Pri_School_Bus_Contact_Price_2025.jpg)
+
+
 
 <h4>3. School Dental Clinic</h4>
 <p>Parents may contact the clinic at 8798 5043 for appointment and enquiry. If the clinic is closed and students who require urgent dental treatment may contact the buddy clinics at one of hte following buddy clinics for assistance.</p>

@@ -5,79 +5,6 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h4><strong>Primary 2</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Gwen Tan
-<br>gwen_tan@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sarimah Bte Mohd Noor
-<br>sarimah_mohamad_noor@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Liu Yan
-<br>liu_yan@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hafizah Beevi binti Abdul Basit
-<br>hafizah_beevi_abdul_basit@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Mariah Bte Rahmat
-<br>mariah_rahmat@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Goh Chow Thye
-<br>goh_chow_thye@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Abshah Bte Sulaiman
-<br>siti_abshah_sulaiman@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Chang Sheng Jansen
-<br>lee_chang_sheng_jansen@moe.edu.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Primary 3</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -127,8 +54,8 @@ variant: tiptap
 <br>mariah_rahmat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Lee Eng
-<br>chia_lee_eng@moe.edu.sg</p>
+<p>Mdm Lee Siyin
+<br>lee_siyin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

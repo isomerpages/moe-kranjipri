@@ -125,16 +125,14 @@ variant: tiptap
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Fazlee Bin Sabari
-<br>mohamad_fazlee_sabari@moe.edu.sg</p>
+<p>Mdm Lim Chai Lay
+<br>lim_chai_lay@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ting Pui Sin
-<br>ting_pui_sin@moe.edu.sg</p>
+<p>Mdm Rufaidah Bte Ismail rufaidah_ismail@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin
-<br>raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>

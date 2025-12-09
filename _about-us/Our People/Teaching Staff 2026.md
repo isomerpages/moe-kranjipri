@@ -66,15 +66,16 @@ variant: tiptap
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nordiana Bte Mohd Rashid
-<br>nordiana_mohd_rashid@moe.edu.sg</p>
+<p>Mdm Ernie Bte Jumat
+<br>ernie_jumat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Deborah Tham Lai Mei
-<br>deborah_tham_lai_mei@moe.edu.sg</p>
+<p>Mdm Noorasmaedah Bte Ahmad
+<br>noorasmaedah_ahmad@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Andrea Lee Qing
+<br>lee_qing_andrea@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -107,15 +108,16 @@ variant: tiptap
 <p>4 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Soh Eng Siong
-<br>soh_eng_siong@moe.edu.sg</p>
+<p>Mr (Ryan) Ng Chou Yeaw
+<br>ng_chou_yeaw@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noorasmaedah Bte Ahmad
-<br>noorasmaedah_ahmad@moe.edu.sg</p>
+<p>Mr Richard S/O Arokiasamy
+<br>richard_arokiasamy@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ong Wee Fern (Jermaine)
+<br>ong_wee_fern@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

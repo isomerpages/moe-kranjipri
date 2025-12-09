@@ -123,8 +123,8 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rufaidah Bte Ismail
-<br>rufaidah_ismail@moe.edu.sg</p>
+<p>Mdm Mariah Bte Rahmat
+<br>mariah_rahmat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chia Lee Eng

@@ -1,13 +1,14 @@
 ---
-title: Teaching Staff 2025
-permalink: /about-us/our-people/teaching-staff-2025/
+title: Teaching Staff 2026
+permalink: /about-us/our-people/teaching-staff-2026/
 description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h4><strong>Primary 2</strong></h4>
-<table style="minWidth: 75px">
+<h4><strong>Primary 3</strong></h4>
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -22,76 +23,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Co-Form Teacher</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Gwen Tan
-<br>gwen_tan@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sarimah Bte Mohd Noor
-<br>sarimah_mohamad_noor@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Liu Yan
-<br>liu_yan@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hafizah Beevi binti Abdul Basit
-<br>hafizah_beevi_abdul_basit@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Mariah Bte Rahmat
-<br>mariah_rahmat@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Goh Chow Thye
-<br>goh_chow_thye@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Abshah Bte Sulaiman
-<br>siti_abshah_sulaiman@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Chang Sheng Jansen
-<br>lee_chang_sheng_jansen@moe.edu.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Primary 3</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teacher</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Co-Form Teacher</p>
@@ -102,12 +33,16 @@ variant: tiptap
 <p>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr (Ryan) Ng Chou Yeaw
-<br>ng_chou_yeaw@moe.edu.sg</p>
+<p>Mdm Chia Lee Eng
+<br>chia_lee_eng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Saraswathi D/O Valliappan
-<br>saraswathi_valliappan@moe.edu.sg</p>
+<p>Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin
+<br>raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Gee Violet
+<br>gee_violet@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -115,12 +50,15 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rufaidah Bte Ismail
-<br>rufaidah_ismail@moe.edu.sg</p>
+<p>Mdm Mariah Bte Rahmat
+<br>mariah_rahmat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Lee Eng
-<br>chia_lee_eng@moe.edu.sg</p>
+<p>Mdm Lee Siyin
+<br>lee_siyin@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -128,12 +66,16 @@ variant: tiptap
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nordiana Bte Mohd Rashid
-<br>nordiana_mohd_rashid@moe.edu.sg</p>
+<p>Mdm Ernie Bte Jumat
+<br>ernie_jumat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Deborah Tham Lai Mei
-<br>deborah_tham_lai_mei@moe.edu.sg</p>
+<p>Mdm Noorasmaedah Bte Ahmad
+<br>noorasmaedah_ahmad@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Andrea Lee Qing
+<br>lee_qing_andrea@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -166,15 +108,16 @@ variant: tiptap
 <p>4 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Soh Eng Siong
-<br>soh_eng_siong@moe.edu.sg</p>
+<p>Mr (Ryan) Ng Chou Yeaw
+<br>ng_chou_yeaw@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noorasmaedah Bte Ahmad
-<br>noorasmaedah_ahmad@moe.edu.sg</p>
+<p>Mr Richard S/O Arokiasamy
+<br>richard_arokiasamy@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ong Wee Fern (Jermaine)
+<br>ong_wee_fern@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -182,16 +125,14 @@ variant: tiptap
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Fazlee Bin Sabari
-<br>mohamad_fazlee_sabari@moe.edu.sg</p>
+<p>Mdm Lim Chai Lay
+<br>lim_chai_lay@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ting Pui Sin
-<br>ting_pui_sin@moe.edu.sg</p>
+<p>Mdm Rufaidah Bte Ismail rufaidah_ismail@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin
-<br>raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>

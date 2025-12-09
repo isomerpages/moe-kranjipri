@@ -79,8 +79,9 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 3</strong></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -96,18 +97,25 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Co-Form Teacher</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Co-Form Teacher</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr (Ryan) Ng Chou Yeaw
-<br>ng_chou_yeaw@moe.edu.sg</p>
+<p>Mdm Chia Lee Eng
+<br>chia_lee_eng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Saraswathi D/O Valliappan
-<br>saraswathi_valliappan@moe.edu.sg</p>
+<p>Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin
+<br>raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Gee Violet
+<br>gee_violet@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -122,6 +130,9 @@ variant: tiptap
 <p>Mdm Chia Lee Eng
 <br>chia_lee_eng@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -134,6 +145,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Deborah Tham Lai Mei
 <br>deborah_tham_lai_mei@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

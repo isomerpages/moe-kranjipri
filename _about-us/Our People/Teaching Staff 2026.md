@@ -172,7 +172,7 @@ Mdm Tay Li Ping
 Mr Soh Eng Siong
 <br><a href="mailto:soh_eng_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_eng_siong@moe.edu.sg</a>
 <br>Ms Eldora Kok Ying Zhi
-<br><a href="mailto:eldora_kok_ying_zi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eldora_kok_ying_zhi@moe.edu.sg</a>
+<br><a href="mailto:eldora_kok_ying_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eldora_kok_ying_zhi@moe.edu.sg</a>
 		
 </td>
 </tr>
@@ -181,10 +181,9 @@ Mr Soh Eng Siong
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Hesheam Hashim
-<br>hesheam_hashim@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
+Mrs Gwen Tan
+<br><a href="mailto:gwen_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gwen_tan@moe.edu.sg</a>
+</td><td rowspan="1" colspan="1">
 <p>Mdm Ong Su Hui
 <br>ong_su_hui@moe.edu.sg</p>
 </td>

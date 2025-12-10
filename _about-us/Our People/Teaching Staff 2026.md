@@ -109,8 +109,8 @@ Mdm Ong Wee Fern (Jermaine)
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Chai Lay
-<br>lim_chai_lay@moe.edu.sg</p>
+Mdm Lim Chai Lay
+<br><a href="mailto:lim_chai_lay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chai_lay@moe.edu.sg</a>
 </td>
 <td rowspan="1" colspan="1">
 Mdm Rufaidah Bte Ismail

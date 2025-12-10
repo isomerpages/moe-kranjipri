@@ -76,11 +76,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Joanna Wong
-<br>HOD PAM &amp; CCA</p>
+<p>Miss Loh Jun Qin
+<br>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>joanna_teo_wei-jin@moe.edu.sg</p>
+<p>loh_jun_qin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

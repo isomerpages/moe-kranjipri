@@ -136,17 +136,7 @@ Mdm Tan Ai Fang
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>4 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Loh Yan Hao, Jeremy
-<br>loh_yan_hao_jeremy@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tay Li Ping
-<br>tay_li_ping@moe.edu.sg</p>
-</td>
+
 </tr>
 </tbody>
 </table>

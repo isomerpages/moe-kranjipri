@@ -165,8 +165,8 @@ Mdm Tan Ai Fang
 <p>5 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Alicia Ngo Phew Ling
-<br>alicia_ngo_phew_ling@moe.edu.sg</p>
+Mdm Tay Li Ping
+<br><a href="mailto:tay_li_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_li_ping@moe.edu.sg</a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lena Chua Siao Yen

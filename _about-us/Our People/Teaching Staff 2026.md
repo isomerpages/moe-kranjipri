@@ -93,7 +93,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr (Ryan) Ng Chou Yeaw
-<br>ng_chou_yeaw@moe.edu.sg</p>
+<br><a href="mailto:ng_chou_yeaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chou_yeaw@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Richard S/O Arokiasamy

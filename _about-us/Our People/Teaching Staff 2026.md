@@ -45,12 +45,12 @@ Mdm Gee Violet
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mariah Bte Rahmat
-<br>mariah_rahmat@moe.edu.sg</p>
+Mdm Mariah Bte Rahmat
+<br><a href="mailto:mariah_rahmat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mariah_rahmat@moe.edu.sg</a>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Siyin
-<br>lee_siyin@moe.edu.sg</p>
+Mdm Lee Siyin
+<br><a href="mailto:lee_siyin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siyin@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

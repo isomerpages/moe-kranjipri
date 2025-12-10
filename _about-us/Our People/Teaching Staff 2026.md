@@ -171,6 +171,9 @@ Mdm Tay Li Ping
 <td rowspan="1" colspan="1">
 Mr Soh Eng Siong
 <br><a href="mailto:soh_eng_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_eng_siong@moe.edu.sg</a>
+<br>Ms Eldora Kok Ying Zhi
+<br><a href="mailto:eldora_kok_ying_zi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eldora_kok_ying_zhi@moe.edu.sg</a>
+		
 </td>
 </tr>
 <tr>

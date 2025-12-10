@@ -38,7 +38,9 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin
-<br>raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg</p>
+raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg
+<br>Mdm Gee Violet
+<br>gee_violet@moe.edu.sg</p>	
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Gee Violet

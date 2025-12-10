@@ -260,12 +260,12 @@ Mdm Siti Abshah Binte Sulaiman
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Richard S/O Arokiasamy
-<br>richard_arokiasamy@moe.edu.sg</p>
+Mr Loh Yan Hao Jeremy
+<br><a href="mailto:loh_yan_hao_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_yah_hao_jeremy@moe.edu.sg</a>	
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Andrea Lee Qing
-<br>lee_qing_andrea@moe.edu.sg</p>
+Miss Fan Yiou
+<br><a href="mailto:fan_yiou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fan_yiou@moe.edu.sg</a>	
 </td>
 </tr>
 </tbody>

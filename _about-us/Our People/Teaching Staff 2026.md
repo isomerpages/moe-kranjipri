@@ -67,7 +67,9 @@ Mdm Noorasmaedah Bte Ahmad
 <br>Miss Andrea Lee Qing
 <br><a href="mailto:lee_qing_andrea@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_qing_andrea@moe.edu.sg</a>
 </td>
+	</tr><tr>
 </tr>
+
 </tbody>
 </table>
 <h4><strong>Primary 4</strong></h4>
@@ -136,7 +138,6 @@ Mdm Tan Ai Fang
 </td>
 </tr>
 <tr>
-
 </tr>
 </tbody>
 </table>

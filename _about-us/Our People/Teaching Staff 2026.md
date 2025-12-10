@@ -3,12 +3,11 @@ title: Teaching Staff 2026
 permalink: /about-us/our-people/teaching-staff-2026/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>Primary 3</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -24,9 +23,6 @@ variant: markdown
 <th rowspan="1" colspan="1">
 <p>Co-Form Teacher</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -37,13 +33,8 @@ variant: markdown
 <br>chia_lee_eng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin
-raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg
+<p>Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg
 <br>Mdm Gee Violet
-<br>gee_violet@moe.edu.sg</p>	
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Gee Violet
 <br>gee_violet@moe.edu.sg</p>
 </td>
 </tr>
@@ -59,9 +50,6 @@ raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg
 <p>Mdm Lee Siyin
 <br>lee_siyin@moe.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -74,20 +62,15 @@ raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg
 <td rowspan="1" colspan="1">
 <p>Mdm Noorasmaedah Bte Ahmad
 <br>noorasmaedah_ahmad@moe.edu.sg
-<br>Miss Lee Andrea	
-<br>lee_qing_andrea@moe.edu.sg</p>	
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Andrea Lee Qing
+<br>Miss Lee Andrea
 <br>lee_qing_andrea@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Primary 4</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -103,9 +86,6 @@ raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg
 <th rowspan="1" colspan="1">
 <p>Co-Form Teacher</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -117,9 +97,8 @@ raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Richard S/O Arokiasamy
-<br>richard_arokiasamy@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
+<br><a href="mailto:richard_arokiasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">richard_arokiasamy@moe.edu.sg</a>
+</p>
 <p>Mdm Ong Wee Fern (Jermaine)
 <br>ong_wee_fern@moe.edu.sg</p>
 </td>
@@ -135,9 +114,6 @@ raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg
 <td rowspan="1" colspan="1">
 <p>Mdm Rufaidah Bte Ismail rufaidah_ismail@moe.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -151,9 +127,6 @@ raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg
 <p>Mdm Radhiah Bte Jais
 <br>radhiah_jais@moe.edu.sg</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -166,9 +139,6 @@ raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg
 <td rowspan="1" colspan="1">
 <p>Mdm Tay Li Ping
 <br>tay_li_ping@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>

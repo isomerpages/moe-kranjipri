@@ -195,8 +195,8 @@ Mdm Saraswathi D/O Valliappan
 <p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Fan Yiou
-<br>fan_yiou@moe.edu.sg</p>
+Mdm Shirlene Tan
+<br><a href="mailto:shirlene_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shirlene_tan@moe.edu.sg</a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ernie Bte Jumat

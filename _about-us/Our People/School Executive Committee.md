@@ -1,9 +1,9 @@
 ---
 title: School Executive Committee
-permalink: /about-us/Our-People/School-Executive-Committee/
+permalink: /about-us/our-people/school-executive-committee/
 description: ""
 third_nav_title: Our People
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>Head of Department</strong></h3>
 <table style="minWidth: 50px">
@@ -26,7 +26,7 @@ variant: tiptap
 <br>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_pai_chen@moe.edu.sg</p>
+	<a href="mailto:ng_pai_chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pai_chen@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -35,16 +35,16 @@ variant: tiptap
 <br>HOD Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yong_chin@moe.edu.sg</p>
+<a href="mailto:yong_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_chin@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Neo Bee Leng
+<p>Mdm Chng Yuan Yuan
 <br>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>neo_bee_leng@moe.edu.sg</p>
+<a href="mailto:chng_yuan_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_yuan_yuan@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ variant: tiptap
 <br>HOD English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lin_weijia@moe.edu.sg</p>
+<a href="mailto:lin_weijia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_weijia@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

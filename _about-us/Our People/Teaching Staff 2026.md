@@ -184,8 +184,8 @@ Mr Soh Eng Siong
 Mrs Gwen Tan
 <br><a href="mailto:gwen_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gwen_tan@moe.edu.sg</a>
 </td><td rowspan="1" colspan="1">
-<p>Mdm Ong Su Hui
-<br>ong_su_hui@moe.edu.sg</p>
+Mdm Saraswathi D/O Valliappan
+<br><a href="mailto:saraswathi_valliappan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saraswathi_valliappan@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

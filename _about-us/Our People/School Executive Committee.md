@@ -44,7 +44,7 @@ variant: markdown
 <br>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chng_yuan_yuan@moe.edu.sg</p>
+<a href="mailto:chng_yuan_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_yuan_yuan@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

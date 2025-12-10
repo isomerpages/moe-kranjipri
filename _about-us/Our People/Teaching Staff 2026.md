@@ -186,6 +186,8 @@ Mrs Gwen Tan
 </td><td rowspan="1" colspan="1">
 Mdm Saraswathi D/O Valliappan
 <br><a href="mailto:saraswathi_valliappan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saraswathi_valliappan@moe.edu.sg</a>
+<br>Mdm Hafizah Beevi Binti Abdul Basit
+<br><a href="mailto:saraswathi_valliappan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saraswathi_valliappan@moe.edu.sg</a>	
 </td>
 </tr>
 <tr>

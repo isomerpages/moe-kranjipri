@@ -28,7 +28,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>3 Compassion</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">	
 Mdm Chia Lee Eng
 <br><a href="mailto:chia_lee_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_lee_eng@moe.edu.sg</a>
 </td>
@@ -124,9 +124,10 @@ Mdm Rufaidah Bte Ismail
 <p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shirlene Tan
-<br>shirlene_tan@moe.edu.sg</p>
+Mdm Nordiana Bte Md Rashid
+<br><a href="mailto:nordiana_mohd_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nordiana_mohd_rashid@moe.edu.sg</a>
 </td>
+
 <td rowspan="1" colspan="1">
 <p>Mdm Radhiah Bte Jais
 <br>radhiah_jais@moe.edu.sg</p>

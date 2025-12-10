@@ -58,8 +58,8 @@ Mdm Lee Siyin
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ernie Bte Jumat
-<br>ernie_jumat@moe.edu.sg</p>
+Mdm Ernie Bte Jumat
+<br><a href="mailto:ernie_jumat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ernie_jumat@moe.edu.sg</a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Noorasmaedah Bte Ahmad

@@ -230,12 +230,14 @@ Mdm Liu Yan
 <p>6 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eldora Kok Ying Zhi
-<br>eldora_kok_ying_zhi@moe.edu.sg</p>
+Mdm Alicia Ngo Phew Ling
+<br><a href="mailto:alicia_ngo_phew_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alicia_ngo_phew_ling@moe.edu.sg</a>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wilson Ng Whye Shoen
-<br>ng_whye_shoen_wilson@moe.edu.sg</p>
+Miss Ting Pui Sin
+<br><a href="mailto:alicia_ngo_phew_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alicia_ngo_phew_ling@moe.edu.sg</a>
+<br>Mr Liew Lim Han
+<br><a href="mailto:liew_lim_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_lim_han@moe.edu.sg</a>	
 </td>
 </tr>
 <tr>
@@ -243,12 +245,14 @@ Mdm Liu Yan
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Liew Lim Han
-<br>liew_lim_han@moe.edu.sg</p>
+Mrs Hesheam Hashim (Mdm Suriana Bte Mohd Bakri)
+<br><a href="mailto:hesheam_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hesheam_hashim@moe.edu.sg</a>	
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Chai Lay
-<br>lim_chai_lay@moe.edu.sg</p>
+Mdm Siti Abshah Binte Sulaiman
+<br><a href="mailto:siti_abshah_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_abshah_sulaiman@moe.edu.sg</a>	
+<br>Mr Lee Chang Sheng, Jansen
+<br><a href="mailto:lee_chang_sheng_jansen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chang_sheng_jansen@moe.edu.sg</a>		
 </td>
 </tr>
 <tr>

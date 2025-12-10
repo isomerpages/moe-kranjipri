@@ -230,12 +230,14 @@ Mdm Liu Yan
 <p>6 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eldora Kok Ying Zhi
-<br>eldora_kok_ying_zhi@moe.edu.sg</p>
+Mdm Alicia Ngo Phew Ling
+<br><a href="mailto:alicia_ngo_phew_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alicia_ngo_phew_ling@moe.edu.sg</a>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wilson Ng Whye Shoen
-<br>ng_whye_shoen_wilson@moe.edu.sg</p>
+Miss Ting Pui Sin
+<br><a href="mailto:alicia_ngo_phew_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alicia_ngo_phew_ling@moe.edu.sg</a>
+<br>Mr Liew Lim Han
+<br><a href="mailto:liew_lim_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_lim_han@moe.edu.sg</a>	
 </td>
 </tr>
 <tr>
@@ -243,12 +245,14 @@ Mdm Liu Yan
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Liew Lim Han
-<br>liew_lim_han@moe.edu.sg</p>
+Mrs Hesheam Hashim (Mdm Suriana Bte Mohd Bakri)
+<br><a href="mailto:hesheam_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hesheam_hashim@moe.edu.sg</a>	
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Chai Lay
-<br>lim_chai_lay@moe.edu.sg</p>
+Mdm Siti Abshah Binte Sulaiman
+<br><a href="mailto:siti_abshah_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_abshah_sulaiman@moe.edu.sg</a>	
+<br>Mr Lee Chang Sheng, Jansen
+<br><a href="mailto:lee_chang_sheng_jansen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chang_sheng_jansen@moe.edu.sg</a>		
 </td>
 </tr>
 <tr>
@@ -256,13 +260,16 @@ Mdm Liu Yan
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Richard S/O Arokiasamy
-<br>richard_arokiasamy@moe.edu.sg</p>
+Mr Loh Yan Hao Jeremy
+<br><a href="mailto:loh_yan_hao_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_yah_hao_jeremy@moe.edu.sg</a>	
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Andrea Lee Qing
-<br>lee_qing_andrea@moe.edu.sg</p>
+Miss Fan Yiou
+<br><a href="mailto:fan_yiou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fan_yiou@moe.edu.sg</a>	
+<br>Mdm Sarimah Bte Mohd Noor
+<br><a href="mailto:sarimah_mohamad_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarimah_mohamad_noor@moe.edu.sg</a>		
 </td>
+</tr><tr>
 </tr>
 </tbody>
 </table>
@@ -287,12 +294,12 @@ Mdm Liu Yan
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wee Kang Sheng, Nicholas
-<br>wee_kang_sheng_nicholas@moe.edu.sg</p>
+Mr Wee Kang Sheng, Nicholas
+<br><a href="mailto:wee_kang_sheng_nicholas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_kang_sheng_nicholas@moe.edu.sg</a>	
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chang Si Ying
-<br>chang_si_ying@moe.edu.sg</p>
+Miss Chang Si Ying
+<br><a href="mailto:chang_si_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_si_ying@moe.edu.sg</a>	
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

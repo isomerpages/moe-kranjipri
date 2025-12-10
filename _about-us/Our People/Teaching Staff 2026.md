@@ -29,8 +29,8 @@ variant: markdown
 <p>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Lee Eng
-<br>chia_lee_eng@moe.edu.sg</p>
+Mdm Chia Lee Eng
+<br><a href="mailto:chia_lee_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_lee_eng@moe.edu.sg</a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg

@@ -33,10 +33,12 @@ Mdm Chia Lee Eng
 <br><a href="mailto:chia_lee_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_lee_eng@moe.edu.sg</a>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg
-<br>Mdm Gee Violet
-<br>gee_violet@moe.edu.sg</p>
-</td>
+Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin
+<br><a href="mailto:raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg</a>
+<p>
+Mdm Gee Violet
+<br><a href="mailto:gee_violet@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gee_violet@moe.edu.sg</a>
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -99,7 +101,7 @@ Mr (Ryan) Ng Chou Yeaw
 <td rowspan="1" colspan="1">
 Mr Richard S/O Arokiasamy
 <br><a href="mailto:richard_arokiasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">richard_arokiasamy@moe.edu.sg</a>
-<p></p>
+<br>
 Mdm Ong Wee Fern (Jermaine)
 <br><a href="mailto:ong_wee_fern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wee_fern@moe.edu.sg</a>
 </td>

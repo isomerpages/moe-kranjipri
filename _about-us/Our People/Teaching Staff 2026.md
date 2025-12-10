@@ -101,7 +101,6 @@ variant: markdown
 </p>
 Mdm Ong Wee Fern (Jermaine)
 <br><a href="mailto:ong_wee_fern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wee_fern@moe.edu.sg</a>
-<p></p>
 </td>
 </tr>
 <tr>

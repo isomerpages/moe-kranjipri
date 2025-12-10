@@ -169,8 +169,8 @@ Mdm Tay Li Ping
 <br><a href="mailto:tay_li_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_li_ping@moe.edu.sg</a>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lena Chua Siao Yen
-<br>lena_chua_siao_yen@moe.edu.sg</p>
+Mr Soh Eng Siong
+<br><a href="mailto:soh_eng_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_eng_siong@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

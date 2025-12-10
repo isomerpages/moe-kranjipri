@@ -92,14 +92,14 @@ variant: markdown
 <p>4 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr (Ryan) Ng Chou Yeaw
+Mr (Ryan) Ng Chou Yeaw
 <br><a href="mailto:ng_chou_yeaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chou_yeaw@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Richard S/O Arokiasamy
+Mr Richard S/O Arokiasamy
 <br><a href="mailto:richard_arokiasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">richard_arokiasamy@moe.edu.sg</a>
-</p>
+<p></p>
 Mdm Ong Wee Fern (Jermaine)
 <br><a href="mailto:ong_wee_fern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wee_fern@moe.edu.sg</a>
 </td>

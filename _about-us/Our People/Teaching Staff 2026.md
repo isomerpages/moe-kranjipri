@@ -293,12 +293,12 @@ Miss Fan Yiou
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wee Kang Sheng, Nicholas
-<br>wee_kang_sheng_nicholas@moe.edu.sg</p>
+Mr Wee Kang Sheng, Nicholas
+<br><a href="mailto:wee_kang_sheng_nicholas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_kang_sheng_nicholas@moe.edu.sg</a>	
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chang Si Ying
-<br>chang_si_ying@moe.edu.sg</p>
+Miss Chang Si Ying
+<br><a href="mailto:chang_si_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_si_ying@moe.edu.sg</a>	
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

@@ -73,7 +73,9 @@ raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Noorasmaedah Bte Ahmad
-<br>noorasmaedah_ahmad@moe.edu.sg</p>
+<br>noorasmaedah_ahmad@moe.edu.sg
+<br>Miss Lee Andrea	
+<br>lee_qing_andrea@moe.edu.sg</p>	
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Andrea Lee Qing

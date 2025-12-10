@@ -64,8 +64,8 @@ Mdm Ernie Bte Jumat
 <td rowspan="1" colspan="1">
 Mdm Noorasmaedah Bte Ahmad
 <br><a href="mailto:noorasmaedah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noorasmaedah_ahmad@moe.edu.sg</a>
-<br>Miss Lee Andrea
-<br>lee_qing_andrea@moe.edu.sg<p></p>
+<br>Miss Andrea Lee Qing
+<br><a href="mailto:lee_qing_andrea@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_qing_andrea@moe.edu.sg</a>
 </td>
 </tr>
 </tbody>

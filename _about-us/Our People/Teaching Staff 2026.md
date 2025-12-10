@@ -199,8 +199,8 @@ Mdm Shirlene Tan
 <br><a href="mailto:shirlene_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shirlene_tan@moe.edu.sg</a>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ernie Bte Jumat
-<br>ernie_jumat@moe.edu.sg</p>
+Mdm Liu Yan
+<br><a href="mailto:liu_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yan@moe.edu.sg</a>
 </td>
 </tr>
 </tbody>

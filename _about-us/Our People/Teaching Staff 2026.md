@@ -69,7 +69,6 @@ Mdm Noorasmaedah Bte Ahmad
 </td>
 	</tr><tr>
 </tr>
-
 </tbody>
 </table>
 <h4><strong>Primary 4</strong></h4>
@@ -202,7 +201,9 @@ Mdm Shirlene Tan
 Mdm Liu Yan
 <br><a href="mailto:liu_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yan@moe.edu.sg</a>
 </td>
+	</tr><tr>
 </tr>
+
 </tbody>
 </table>
 <h4><strong>Primary 6</strong></h4>

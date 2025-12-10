@@ -266,6 +266,8 @@ Mr Loh Yan Hao Jeremy
 <td rowspan="1" colspan="1">
 Miss Fan Yiou
 <br><a href="mailto:fan_yiou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fan_yiou@moe.edu.sg</a>	
+<br>Mdm Sarimah Bte Mohd Noor
+<br><a href="mailto:sarimah_mohamad_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarimah_mohamad_noor@moe.edu.sg</a>		
 </td>
 </tr>
 </tbody>

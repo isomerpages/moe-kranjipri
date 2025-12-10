@@ -53,7 +53,7 @@ variant: markdown
 <br>HOD English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lin_weijia@moe.edu.sg</p>
+<a href="mailto:lin_weijia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_weijia@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

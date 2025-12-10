@@ -99,8 +99,9 @@ variant: markdown
 <p>Mr Richard S/O Arokiasamy
 <br><a href="mailto:richard_arokiasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">richard_arokiasamy@moe.edu.sg</a>
 </p>
-<p>Mdm Ong Wee Fern (Jermaine)
-<br>ong_wee_fern@moe.edu.sg</p>
+Mdm Ong Wee Fern (Jermaine)
+<br><a href="mailto:ong_wee_fern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wee_fern@moe.edu.sg</a>
+<p></p>
 </td>
 </tr>
 <tr>

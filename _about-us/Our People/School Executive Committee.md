@@ -28,7 +28,6 @@ variant: markdown
 <td rowspan="1" colspan="1">
 	<a href="mailto:ng_pai_chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pai_chen@moe.edu.sg</a>
 </td>
-
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -36,7 +35,7 @@ variant: markdown
 <br>HOD Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yong_chin@moe.edu.sg</p>
+<a href="mailto:yong_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_chin@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

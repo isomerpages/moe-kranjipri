@@ -113,7 +113,8 @@ Mdm Ong Wee Fern (Jermaine)
 <br>lim_chai_lay@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rufaidah Bte Ismail rufaidah_ismail@moe.edu.sg</p>
+Mdm Rufaidah Bte Ismail
+<br><a href="mailto:rufaidah_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rufaidah_ismail@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

@@ -44,7 +44,7 @@ variant: tiptap
 <br>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>neo_bee_leng@moe.edu.sg</p>
+<p>chng_yuan_yuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

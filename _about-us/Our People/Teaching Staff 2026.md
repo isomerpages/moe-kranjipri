@@ -129,8 +129,10 @@ Mdm Nordiana Bte Md Rashid
 </td>
 
 <td rowspan="1" colspan="1">
-<p>Mdm Radhiah Bte Jais
-<br>radhiah_jais@moe.edu.sg</p>
+Mdm Tan Ai Fang
+<br><a href="mailto:tan_ai_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_fang@moe.edu.sg</a>
+<br>Mdm Radhiah Bte Jais
+<br><a href="mailto:radhiah_jais@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">radhiah_jais@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

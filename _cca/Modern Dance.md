@@ -36,9 +36,9 @@ Students will be able to:
 
 | Teacher IC | Email address (ICON) |
 | --- | --- |
-| Mdm Nordiana Mohd Rashid | nordiana_rashid@moe.edu.sg |
 | Mdm Shirlene Tan | shirlene_tan@moe.edu.sg |
-| Mdm Radhiah Bte Jais | radhiah_jais@moe.edu.sg |
+| Mdm Nordiana Bte Md Rashid | nordiana_mohd_rashid@moe.edu.sg |
+| Mdm Ong Wee Fern (Jermaine) | ong_wee_fern@moe.edu.sg |
   
 
 ##### **Introduction**

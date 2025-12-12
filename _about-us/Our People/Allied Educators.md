@@ -1,9 +1,9 @@
 ---
 title: Allied Educators
-permalink: /about-us/Our-People/Allied-Educators/
+permalink: /about-us/our-people/allied-educators/
 description: ""
 third_nav_title: Our People
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>Special Education Needs (SEN) Officer</strong></h3>
 <table style="minWidth: 50px">
@@ -26,7 +26,7 @@ variant: tiptap
 <br>Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_tien_leng@moe.edu.sg</p>
+<a href="mailto:tan_tien_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tien_leng@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -35,7 +35,7 @@ variant: tiptap
 <br>Student Wellfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_iqbal_b_rosli@moe.edu.sg</p>
+<a href="mailto:muhammad_iqbal_b_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_iqbal_b_rosli@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ variant: tiptap
 <br>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>foo_jit_too@moe.edu.sg</p>
+<a href="mailto:foo_jit_too@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_jit_too@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ variant: tiptap
 <br>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shahrinah_selamat@moe.edu.sg</p>
+<a href="mailto:shahrinah_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahrinah_selamat@moe.edu.sg</a>
 </td>
 </tr>
 </tbody>

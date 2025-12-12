@@ -1,9 +1,9 @@
 ---
 title: Executive and Administrative Staff
-permalink: /about-us/Our-People/Executive-and-Administrative-Staff/
+permalink: /about-us/our-people/executive-and-administrative-staff/
 description: ""
 third_nav_title: Our People
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>School Administration Team</strong></h3>
 <table style="minWidth: 50px">
@@ -26,7 +26,7 @@ variant: tiptap
 <br>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_hwee_koon@moe.edu.sg</p>
+<a href="mailto:yeo_hwee_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_hwee_koon@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -35,7 +35,7 @@ variant: tiptap
 <br>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_seet_fong@moe.edu.sg</p>
+<a href="mailto:lee_seet_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_seet_fong@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ variant: tiptap
 <br>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_chin_hong_a@moe.edu.sg</p>
+<a href="mailto:tan_chin_hong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chin_hong_a@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ variant: tiptap
 <br>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>woon_ai_ling@moe.edu.sg</p>
+<a href="mailto:woon_ai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon_ai_ling@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ variant: tiptap
 <br>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_hafiz_mohamed_yasim@moe.edu.sg</p>
+<a href="mailto:muhammad_hafiz_mohamed_yasim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hafiz_mohamed_yasim@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ variant: tiptap
 <br>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>poh_lay_hong_a@moe.edu.sg</p>
+<a href="mailto:poh_lay_hong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_lay_hong_a@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ variant: tiptap
 <br>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>subaidah_syed_ahmad@moe.edu.sg</p>
+<a href="mailto:subaidah_syed_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subaidah_syed_ahmad@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ variant: tiptap
 <br>Adjunct Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_hidayah_abdul_rahman_a@moe.edu.sg</p>
+<a href="mailto:nur_hidayah_abdul_rahman_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_abdul_rahman_a@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

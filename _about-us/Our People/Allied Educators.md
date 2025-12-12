@@ -44,7 +44,7 @@ variant: markdown
 <br>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>foo_jit_too@moe.edu.sg</p>
+<a href="mailto:foo_jit_too@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_jit_too@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

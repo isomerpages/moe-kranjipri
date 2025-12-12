@@ -179,7 +179,7 @@ variant: markdown
 <br>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_hwee_koon@moe.edu.sg</p>
+<a href="mailto:yeo_hwee_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_hwee_koon@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

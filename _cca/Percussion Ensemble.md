@@ -38,7 +38,7 @@ Students will be able to:
 | --- | --- |
 |      Mdm Alicia Ngo Phew Ling     |      alicia_ngo_phew_ling@moe.edu.sg     |
 | Mdm Tay Li Ping | tay_li_ping@moe.edu.sg |
-| Mdm Saraswathi D/O Valliappan | saraswathi_valliappan@moe.edu.sg |
+| Mdm Gee Violet | gee_violet@moe.edu.sg |
 
 ##### **Introduction**
   

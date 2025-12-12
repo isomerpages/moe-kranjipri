@@ -26,7 +26,7 @@ variant: markdown
 <br>Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_tien_leng@moe.edu.sg</p>
+<a href="mailto:tan_tien_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tien_leng@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

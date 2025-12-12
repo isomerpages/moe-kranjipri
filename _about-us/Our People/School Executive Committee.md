@@ -143,7 +143,7 @@ variant: markdown
 <br>Subject Head PE &amp; PAL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chang_si_ying@moe.edu.sg</p>
+<a href="mailto:chang_si_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_si_ying@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

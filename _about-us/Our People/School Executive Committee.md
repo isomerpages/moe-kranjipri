@@ -125,7 +125,7 @@ variant: markdown
 <br>Level Head Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_tse_hui_adelene@moe.edu.sg</p>
+<a href="mailto:tan_tse_hui_adelene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tse_hui_adelene@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

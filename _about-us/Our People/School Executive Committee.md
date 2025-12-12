@@ -170,7 +170,7 @@ variant: markdown
 <br>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_chin_hong_a@moe.edu.sg</p>
+<a href="mailto:tan_chin_hong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chin_hong_a@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

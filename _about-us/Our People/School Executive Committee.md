@@ -80,7 +80,7 @@ variant: markdown
 <br>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loh_jun_qin@moe.edu.sg</p>
+<a href="mailto:loh_jun_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_jun_qin@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

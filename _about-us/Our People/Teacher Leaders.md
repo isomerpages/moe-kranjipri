@@ -35,7 +35,7 @@ variant: markdown
 <br>Senior Teacher/SEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mariah_rahmat@moe.edu.sg</p>
+<a href="mailto:yong_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mariah_rahmat@moe.edu.sg</a>	
 </td>
 </tr>
 <tr>

@@ -344,38 +344,15 @@ Miss Chang Si Ying
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamd Sahar Ismail
-<br>mohamd_sahar_ismail_a@moe.edu.sg</p>
-</td>
+<a href="mailto:mohamd_shar_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamd_sahar_ismail@moe.edu.sg</a>	
+</p></td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nazli Binti Mat Ali
 <a href="mailto:nazli_mat_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazli_mat_ali@moe.edu.sg</a>
-<br>lee_siyin@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Wee Fern (Jermaine)
-<br>ong_wee_fern@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Ai Fang
-<br>tan_ai_fang@moe.edu.sg</p>
-</td>
+
+</p></td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Violet Gee
-<br>gee_violet@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Goh Chow Thye
-<br>goh_chow_thye@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nazli Binti Mat Ali
-<br>nazli_mat_ali@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

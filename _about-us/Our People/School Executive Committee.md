@@ -71,7 +71,7 @@ variant: markdown
 <br>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hajerah_beevi_kutus@moe.edu.sg</p>
+<a href="mailto:hajerah_beevi_kutus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hajerah_beevi_kutus@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

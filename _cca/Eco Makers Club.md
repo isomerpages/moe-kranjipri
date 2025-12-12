@@ -28,8 +28,8 @@ Students will be able to:
   
 |          Teacher IC          |  Email address (ICON)  |
 | --- | --- |
-| Mdm Rufaidah Bte Ismail | rufaidah_ismail@moe.edu.sg |
-|       Mdm Chia Lee Eng (Mrs Joanne Yeong)       | chia_lee_eng@moe.edu.sg |
+| Mdm Lee Siyin | lee_siyin@moe.edu.sg |
+|       Mdm Saraswathi D/O Valliappan       | saraswathi_valliappan@moe.edu.sg |
 
 
 ##### **Introduction**

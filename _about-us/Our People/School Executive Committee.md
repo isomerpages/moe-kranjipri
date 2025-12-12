@@ -62,7 +62,7 @@ variant: markdown
 <br>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>azzulin_aripin@moe.edu.sg</p>
+<a href="mailto:azzulin_aripin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azzulin_aripin@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

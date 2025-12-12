@@ -134,7 +134,7 @@ variant: markdown
 <br>Level Head English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamad_fazlee_sabari@moe.edu.sg</p>
+<a href="mailto:mohamad_fazlee_sabari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_fazlee_sabari@moe.edu.sg</a>	
 </td>
 </tr>
 <tr>

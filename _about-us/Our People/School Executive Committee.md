@@ -107,7 +107,7 @@ variant: markdown
 <br>Year Head P5 &amp; P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_fazalina_hussin@moe.edu.sg</p>
+<a href="mailto:nur_fazalina_hussin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fazalina_hussin@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

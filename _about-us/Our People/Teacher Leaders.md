@@ -44,7 +44,7 @@ variant: markdown
 <br>Senior Teacher/SS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_whye_shoen_wilson@moe.edu.sg</p>
+<a href="mailto:ng_whye_shoen_wilson@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_whye_shoen_wilson@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

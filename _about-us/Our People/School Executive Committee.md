@@ -116,6 +116,7 @@ variant: markdown
 <br>Level Head Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
+<a href="mailto:lena_chua_siao_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lena_chua_siao_yen@moe.edu.sg</a>
 <p>lena_chua_siao_yen@moe.edu.sg</p>
 </td>
 </tr>

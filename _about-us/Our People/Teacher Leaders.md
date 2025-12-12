@@ -26,7 +26,7 @@ variant: markdown
 <br>Senior Teacher/ML</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hesheam_hashim@moe.edu.sg</p>
+<a href="mailto:hesheam_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hesheam_hashim@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

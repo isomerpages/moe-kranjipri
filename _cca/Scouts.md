@@ -33,7 +33,7 @@ Students will be able to:
 | --- | --- |
 |      Mdm Rufaidah Bte Ismail  |      rufaidah_ismail@moe.edu.sg     |
 | Mdm Hesheam Hashim (Mrs Suriana Bte Mohd Bakri)  | hesheam_hashim@moe.edu.sg |
-
+|      Mdm Sarimah Bte Mohd Noor  |      sarimah_mohd_noor@moe.edu.sg     |
 
 
 ##### **Introduction**

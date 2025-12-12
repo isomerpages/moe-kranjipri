@@ -161,7 +161,7 @@ variant: markdown
 <br>Subject Head CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_su_hui@moe.edu.sg</p>
+<a href="mailto:ong_su_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_su_hui@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

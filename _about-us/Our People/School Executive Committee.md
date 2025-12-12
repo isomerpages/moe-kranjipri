@@ -98,7 +98,7 @@ variant: markdown
 <br>Year Head P3 &amp; P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>stephanie_thoo@moe.edu.sg</p>
+<a href="mailto:stephanie_thoo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stephanie_thoo@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

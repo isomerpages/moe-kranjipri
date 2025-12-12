@@ -343,14 +343,14 @@ Miss Chang Si Ying
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamd Sahar Ismail
+Mr Mohamd Sahar Ismail
 <a href="mailto:mohamd_shar_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamd_sahar_ismail@moe.edu.sg</a>	
-</p></td>
+<p></p></td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazli Binti Mat Ali
+Mdm Nazli Binti Mat Ali
 <a href="mailto:nazli_mat_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazli_mat_ali@moe.edu.sg</a>
 
-</p></td>
+<p></p></td>
 </tr>
 <tr>
 </tr>

@@ -35,7 +35,7 @@ variant: markdown
 <br>Student Wellfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_iqbal_b_rosli@moe.edu.sg</p>
+<a href="mailto:muhammad_iqbal_b_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_iqbal_b_rosli@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

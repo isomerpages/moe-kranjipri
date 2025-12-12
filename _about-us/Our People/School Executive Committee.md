@@ -188,7 +188,7 @@ variant: markdown
 <br>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_seet_fong@moe.edu.sg</p>
+<a href="mailto:lee_seet_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_seet_fong@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

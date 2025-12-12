@@ -62,7 +62,7 @@ variant: markdown
 <br>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>azzulin_aripin@moe.edu.sg</p>
+<a href="mailto:azzulin_aripin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azzulin_aripin@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ variant: markdown
 <br>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hajerah_beevi_kutus@moe.edu.sg</p>
+<a href="mailto:hajerah_beevi_kutus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hajerah_beevi_kutus@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ variant: markdown
 <br>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loh_jun_qin@moe.edu.sg</p>
+<a href="mailto:loh_jun_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_jun_qin@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ variant: markdown
 <br>Year Head P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_fang_fang@moe.edu.sg</p>
+<a href="mailto:lim_fang_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_fang_fang@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ variant: markdown
 <br>Year Head P3 &amp; P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>stephanie_thoo@moe.edu.sg</p>
+<a href="mailto:stephanie_thoo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stephanie_thoo@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ variant: markdown
 <br>Year Head P5 &amp; P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_fazalina_hussin@moe.edu.sg</p>
+<a href="mailto:nur_fazalina_hussin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fazalina_hussin@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -116,16 +116,7 @@ variant: markdown
 <br>Level Head Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lena_chua_siao_yen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Loh Jun Qin
-<br>Level Head Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>loh_jun_qin@moe.edu.sg</p>
+<a href="mailto:lena_chua_siao_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lena_chua_siao_yen@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -134,7 +125,7 @@ variant: markdown
 <br>Level Head Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_tse_hui_adelene@moe.edu.sg</p>
+<a href="mailto:tan_tse_hui_adelene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tse_hui_adelene@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -143,7 +134,7 @@ variant: markdown
 <br>Level Head English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamad_fazlee_sabari@moe.edu.sg</p>
+<a href="mailto:mohamad_fazlee_sabari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_fazlee_sabari@moe.edu.sg</a>	
 </td>
 </tr>
 <tr>
@@ -152,7 +143,7 @@ variant: markdown
 <br>Subject Head PE &amp; PAL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chang_si_ying@moe.edu.sg</p>
+<a href="mailto:chang_si_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_si_ying@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -161,7 +152,7 @@ variant: markdown
 <br>Subject Head ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yak_hui_hwa@moe.edu.sg</p>
+<a href="mailto:yak_hui_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yak_hui_hwa@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -170,7 +161,7 @@ variant: markdown
 <br>Subject Head CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_su_hui@moe.edu.sg</p>
+<a href="mailto:ong_su_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_su_hui@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -179,7 +170,7 @@ variant: markdown
 <br>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_chin_hong_a@moe.edu.sg</p>
+<a href="mailto:tan_chin_hong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chin_hong_a@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -188,7 +179,7 @@ variant: markdown
 <br>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_hwee_koon@moe.edu.sg</p>
+<a href="mailto:yeo_hwee_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_hwee_koon@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -197,7 +188,7 @@ variant: markdown
 <br>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_seet_fong@moe.edu.sg</p>
+<a href="mailto:lee_seet_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_seet_fong@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

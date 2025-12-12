@@ -29,7 +29,7 @@ variant: markdown
 <p>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">	
-Mdm Chia Lee Eng
+Mdm Chia Lee Eng (Mrs Joanne Yeong)
 <br><a href="mailto:chia_lee_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_lee_eng@moe.edu.sg</a>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,13 +125,13 @@ Mdm Rufaidah Bte Ismail
 <p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-Mdm Nordiana Bte Md Rashid
-<br><a href="mailto:nordiana_mohd_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nordiana_mohd_rashid@moe.edu.sg</a>
+Mdm Tan Ai Fang
+<br><a href="mailto:tan_ai_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_fang@moe.edu.sg</a>
 </td>
 
 <td rowspan="1" colspan="1">
-Mdm Tan Ai Fang
-<br><a href="mailto:tan_ai_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_fang@moe.edu.sg</a>
+Mdm Nordiana Bte Md Rashid
+<br><a href="mailto:nordiana_mohd_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nordiana_mohd_rashid@moe.edu.sg</a>
 <br>Mdm Radhiah Bte Jais
 <br><a href="mailto:radhiah_jais@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">radhiah_jais@moe.edu.sg</a>
 </td>
@@ -298,8 +298,8 @@ Mr Wee Kang Sheng, Nicholas
 <br><a href="mailto:wee_kang_sheng_nicholas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_kang_sheng_nicholas@moe.edu.sg</a>	
 </td>
 <td rowspan="1" colspan="1">
-Miss Chang Si Ying
-<br><a href="mailto:chang_si_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_si_ying@moe.edu.sg</a>	
+Mr Wilson Ng Whye Shoen
+<br><a href="mailto:ng_whye_shoen_wilson@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_whye_shoen_wilson@moe.edu.sg</a>	
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -343,38 +343,19 @@ Miss Chang Si Ying
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamd Sahar Ismail
-<br>mohamd_sahar_ismail_a@moe.edu.sg</p>
-</td>
+Mr Mohamd Sahar Ismail
+<a href="mailto:mohamd_shar_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamd_sahar_ismail@moe.edu.sg</a>	
+<p></p></td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Siyin
-<br>lee_siyin@moe.edu.sg</p>
-</td>
+Mdm Nazli Binti Mat Ali
+<a href="mailto:nazli_mat_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazli_mat_ali@moe.edu.sg</a>
+<p></p></td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Wee Fern (Jermaine)
-<br>ong_wee_fern@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Ai Fang
-<br>tan_ai_fang@moe.edu.sg</p>
-</td>
+Mdm Kailee Muthu Silvi
+<a href="mailto:kailee_muthu_silvi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kailee_muthu_silvi@moe.edu.sg</a>	
+<p></p></td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Violet Gee
-<br>gee_violet@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Goh Chow Thye
-<br>goh_chow_thye@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nazli Binti Mat Ali
-<br>nazli_mat_ali@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

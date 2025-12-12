@@ -71,7 +71,7 @@ variant: markdown
 <br>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>poh_lay_hong_a@moe.edu.sg</p>
+<a href="mailto:poh_lay_hong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_lay_hong_a@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ variant: markdown
 <br>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>subaidah_syed_ahmad@moe.edu.sg</p>
+<a href="mailto:subaidah_syed_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subaidah_syed_ahmad@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

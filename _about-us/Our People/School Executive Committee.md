@@ -121,15 +121,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Loh Jun Qin
-<br>Level Head Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>loh_jun_qin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Adelene Tan Tse Hui
 <br>Level Head Chinese</p>
 </td>

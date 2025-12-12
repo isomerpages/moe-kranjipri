@@ -32,10 +32,9 @@ Students will be able to:
 |          Teacher IC          |        Email address (ICON)        |
 | --- | --- |
 |      Mdm Rufaidah Bte Ismail  |      rufaidah_ismail@moe.edu.sg     |
-| Mdm Sarimah Bte Mohd Noor  | sarimah_mohamad_noor@moe.edu.sg |
-| Mrs Hesheam Hashim  | hesheam_hashim@moe.edu.sg |
-| Mdm Hafizah Beevi Binti Abdul Basit  | hafizah_beevi_abdul_basit@moe.edu.sg |
-| Mdm Sri Rahayu Bte Mohd Amin  | sri_rahayu_mohamed_amin@moe.edu.sg |  
+| Mdm Hesheam Hashim  | hesheam_hashim@moe.edu.sg |
+
+
 
 ##### **Introduction**
 

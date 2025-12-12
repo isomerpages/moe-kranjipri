@@ -62,7 +62,7 @@ variant: markdown
 <br>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<a href="mailto:muhammad_hafiz_mohamed_yasim@moe.edu.sg@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hafiz_mohamed_yasim@moe.edu.sg</a>
+<a href="mailto:muhammad_hafiz_mohamed_yasim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hafiz_mohamed_yasim@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

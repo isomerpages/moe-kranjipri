@@ -152,7 +152,7 @@ variant: markdown
 <br>Subject Head ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yak_hui_hwa@moe.edu.sg</p>
+<a href="mailto:yong_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yak_hui_hwa@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

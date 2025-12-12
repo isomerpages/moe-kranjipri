@@ -90,7 +90,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <a href="mailto:nur_hidayah_abdul_rahman_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_abdul_rahman_a@moe.edu.sg</a>
-<p>nur_hidayah_abdul_rahman_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

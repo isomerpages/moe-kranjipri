@@ -26,7 +26,7 @@ variant: markdown
 <br>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>constance_wong@schools.gov.sg</p>
+<a href="mailto:constance_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">constance_wong@schools.gov.sg</a>
 </td>
 </tr>
 <tr>
@@ -35,7 +35,7 @@ variant: markdown
 <br>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_seow_ling@schools.gov.sg</p>
+	<a href="mailto:wong_seow_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_seow_ling@schools.gov.sg</a>
 </td>
 </tr>
 <tr>

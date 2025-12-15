@@ -44,7 +44,7 @@ variant: markdown
 <br>Vice Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>alenus_lee@schools.gov.sg</p>
+<a href="mailto:alenus_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alenus_lee@schools.gov.sg</a>
 </td>
 </tr>
 <tr>

@@ -3,7 +3,7 @@ title: School Leaders
 permalink: /about-us/our-people/school-leaders/
 description: ""
 third_nav_title: Our People
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>Our School Leaders</strong></h3>
 <table style="minWidth: 50px">
@@ -22,11 +22,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Meei Yunn
+<p>Mrs Constance Loke
 <br>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_meei_yunn@schools.gov.sg</p>
+<a href="mailto:constance_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">constance_wong@schools.gov.sg</a>
 </td>
 </tr>
 <tr>
@@ -35,7 +35,7 @@ variant: tiptap
 <br>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_seow_ling@schools.gov.sg</p>
+	<a href="mailto:wong_seow_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_seow_ling@schools.gov.sg</a>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ variant: tiptap
 <br>Vice Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>alenus_lee@schools.gov.sg</p>
+<a href="mailto:alenus_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alenus_lee@schools.gov.sg</a>
 </td>
 </tr>
 <tr>
@@ -57,5 +57,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3></h3>
 <p></p>

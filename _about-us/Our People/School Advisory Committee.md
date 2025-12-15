@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Meei Yunn</p>
+<p>Mrs Contance Loke</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Honorary Secretary</p>

@@ -26,7 +26,7 @@ variant: tiptap
 <br>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_meei_yunn@schools.gov.sg</p>
+<p>constance_wong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -57,5 +57,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3></h3>
 <p></p>

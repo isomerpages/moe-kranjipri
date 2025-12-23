@@ -118,10 +118,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://forms.gle/biyGGha8LYVGDvTD7" rel="noopener noreferrer nofollow" target="_blank">Request for Relief</a>
-</p>
-</li>
-<li>
 <p><a href="https://edu.google.com/for-educators/overview/?modal_active=none" rel="noopener noreferrer nofollow" target="_blank">Google Teacher Center</a>
 </p>
 </li>

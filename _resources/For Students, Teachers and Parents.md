@@ -58,6 +58,10 @@ variant: tiptap
 <h4><strong>For Teachers</strong></h4>
 <ul>
 <li>
+<p><a href="https://forms.gle/biyGGha8LYVGDvTD7" rel="noopener nofollow" target="_blank">Request for Relief</a>
+</p>
+</li>
+<li>
 <p><a href="https://form.gov.sg/63ad1a645b04ae0011a5c075" rel="noopener noreferrer nofollow" target="_blank">Application for Season Parking</a>
 </p>
 </li>
@@ -111,10 +115,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
-</p>
-</li>
-<li>
-<p><a href="https://forms.gle/biyGGha8LYVGDvTD7" rel="noopener noreferrer nofollow" target="_blank">Request for Relief</a>
 </p>
 </li>
 <li>

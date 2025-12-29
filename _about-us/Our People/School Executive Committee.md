@@ -86,7 +86,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Fang Fang
-<br>Year Head P2</p>
+<br>Year Head P3 &amp; P4</p>
 </td>
 <td rowspan="1" colspan="1">
 <a href="mailto:lim_fang_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_fang_fang@moe.edu.sg</a>
@@ -94,8 +94,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Stephanie Thoo
-<br>Year Head P3 &amp; P4</p>
+<p>Mrs Stephanie Thoo
+<br>Year Head P4 &amp; P5</p>
 </td>
 <td rowspan="1" colspan="1">
 <a href="mailto:stephanie_thoo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stephanie_thoo@moe.edu.sg</a>

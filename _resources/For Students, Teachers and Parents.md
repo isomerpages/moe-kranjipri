@@ -70,7 +70,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/69166fa69b66a62ae01493cd" rel="noopener nofollow" target="_blank">Adhoc Bus Booking </a>
+<p><a href="https://form.gov.sg/69166fa69b66a62ae01493cd" rel="noopener nofollow" target="_blank">Adhoc Bus Booking</a>
 </p>
 </li>
 <li>

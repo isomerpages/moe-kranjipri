@@ -116,6 +116,4 @@ position your child to be ready for the future (<em>Success</em>).</p>
 <p>Check out our Facebook and Instagram accounts, where we update school
 happenings on a very regular basis. We endeavour to update you of the latest
 happenings on our Tengah plans here, so be sure to check back here regularly.</p>
-<p>Your Partner in Education</p>
-<p>Mdm Goh Meei Yunn
-<br>Principal</p>
+<p></p>

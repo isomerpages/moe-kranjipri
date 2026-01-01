@@ -21,7 +21,7 @@ variant: markdown
 <p>Form Teacher</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+
 </th>
 </tr>
 <tr>
@@ -31,6 +31,7 @@ variant: markdown
 <td rowspan="1" colspan="1">	
 Mdm Chia Lee Eng (Mrs Joanne Yeong)
 <br><a href="mailto:chia_lee_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_lee_eng@moe.edu.sg</a>
+	
 </td>
 <td rowspan="1" colspan="1">
 Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin
@@ -87,7 +88,7 @@ Mdm Noorasmaedah Bte Ahmad
 <p>Form Teacher</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+
 </th>
 </tr>
 <tr>
@@ -156,7 +157,7 @@ Mdm Nordiana Bte Md Rashid
 <p>Form Teacher</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+
 </th>
 </tr>
 <tr>
@@ -222,7 +223,7 @@ Mdm Liu Yan
 <p>Form Teacher</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+
 </th>
 </tr>
 <tr>

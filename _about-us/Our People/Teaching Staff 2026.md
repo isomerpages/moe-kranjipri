@@ -82,8 +82,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr (Ryan) Ng Chou Yeaw <a href="ng_chou_yeaw@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_chou_yeaw@moe.edu.sg</a>
-</p>
-<p>Mr Richard S/O Arokiasamy <a href="richard_arokiasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">richard_arokiasamy@moe.edu.sg</a>
+<br>Mr Richard S/O Arokiasamy <a href="richard_arokiasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">richard_arokiasamy@moe.edu.sg</a>
 <br>Mdm Ong Wee Fern (Jermaine) <a href="ong_wee_fern@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_wee_fern@moe.edu.sg</a>
 </p>
 </td>

@@ -104,13 +104,10 @@ variant: tiptap
 <p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Ai Fang
-<br><a href="mailto:tan_ai_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_fang@moe.edu.sg</a>
+<p>Mdm Tan Ai Fang <a href="tan_ai_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_ai_fang@moe.edu.sg</a>
 </p>
-<p>Mdm Nordiana Bte Md Rashid
-<br><a href="mailto:nordiana_mohd_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nordiana_mohd_rashid@moe.edu.sg</a>
-<br>Mdm Radhiah Bte Jais
-<br><a href="mailto:radhiah_jais@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">radhiah_jais@moe.edu.sg</a>
+<p>Mdm Nordiana Bte Md Rashid <a href="nordiana_mohd_rashid@moe.edu.sg" rel="noopener nofollow" target="_blank">nordiana_mohd_rashid@moe.edu.sg</a>
+<br>Mdm Radhiah Bte Jais <a href="radhiah_jais@moe.edu.sg" rel="noopener nofollow" target="_blank">radhiah_jais@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -144,13 +141,10 @@ variant: tiptap
 <p>5 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tay Li Ping
-<br><a href="mailto:tay_li_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_li_ping@moe.edu.sg</a>
+<p>Mdm Tay Li Ping <a href="tay_li_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_li_ping@moe.edu.sg</a>
 </p>
-<p>Mr Soh Eng Siong
-<br><a href="mailto:soh_eng_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_eng_siong@moe.edu.sg</a>
-<br>Ms Eldora Kok Ying Zhi
-<br><a href="mailto:eldora_kok_ying_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eldora_kok_ying_zhi@moe.edu.sg</a>
+<p>Mr Soh Eng Siong <a href="soh_eng_siong@moe.edu.sg" rel="noopener nofollow" target="_blank">soh_eng_siong@moe.edu.sg</a>
+<br>Ms Eldora Kok Ying Zhi <a href="eldora_kok_ying_zhi@moe.edu.sg" rel="noopener nofollow" target="_blank">eldora_kok_ying_zhi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -159,13 +153,10 @@ variant: tiptap
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Gwen Tan
-<br><a href="mailto:gwen_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gwen_tan@moe.edu.sg</a>
+<p>Mrs Gwen Tan <a href="gwen_tan@moe.edu.sg" rel="noopener nofollow" target="_blank">gwen_tan@moe.edu.sg</a>
 </p>
-<p>Mdm Saraswathi D/O Valliappan
-<br><a href="mailto:saraswathi_valliappan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saraswathi_valliappan@moe.edu.sg</a>
-<br>Mdm Hafizah Beevi Binti Abdul Basit
-<br><a href="mailto:hafizah_beevi_abdul_basit@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hafizah_beevi_abdul_basit@moe.edu.sg</a>
+<p>Mdm Saraswathi D/O Valliappan <a href="saraswathi_valliappan@moe.edu.sg" rel="noopener nofollow" target="_blank">saraswathi_valliappan@moe.edu.sg</a>
+<br>Mdm Hafizah Beevi Binti Abdul Basit <a href="hafizah_beevi_abdul_basit@moe.edu.sg" rel="noopener nofollow" target="_blank">hafizah_beevi_abdul_basit@moe.edu.sg</a>
 </p>
 </td>
 </tr>

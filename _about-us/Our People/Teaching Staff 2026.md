@@ -93,11 +93,9 @@ variant: tiptap
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Chai Lay
-<br><a href="mailto:lim_chai_lay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chai_lay@moe.edu.sg</a>
+<p>Mdm Lim Chai Lay <a href="lim_chai_lay@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_chai_lay@moe.edu.sg</a>
 </p>
-<p>Mdm Rufaidah Bte Ismail
-<br><a href="mailto:rufaidah_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rufaidah_ismail@moe.edu.sg</a>
+<p>Mdm Rufaidah Bte Ismail <a href="rufaidah_ismail@moe.edu.sg" rel="noopener nofollow" target="_blank">rufaidah_ismail@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -127,9 +125,8 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 5</strong></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -141,9 +138,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Form Teacher</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -153,8 +147,6 @@ variant: tiptap
 <p>Mdm Tay Li Ping
 <br><a href="mailto:tay_li_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_li_ping@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Soh Eng Siong
 <br><a href="mailto:soh_eng_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_eng_siong@moe.edu.sg</a>
 <br>Ms Eldora Kok Ying Zhi
@@ -170,8 +162,6 @@ variant: tiptap
 <p>Mrs Gwen Tan
 <br><a href="mailto:gwen_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gwen_tan@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Saraswathi D/O Valliappan
 <br><a href="mailto:saraswathi_valliappan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saraswathi_valliappan@moe.edu.sg</a>
 <br>Mdm Hafizah Beevi Binti Abdul Basit
@@ -187,17 +177,12 @@ variant: tiptap
 <p>Mdm Shirlene Tan
 <br><a href="mailto:shirlene_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shirlene_tan@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Liu Yan
 <br><a href="mailto:liu_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

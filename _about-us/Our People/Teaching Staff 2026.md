@@ -139,8 +139,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tay Li Ping <a href="tay_li_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_li_ping@moe.edu.sg</a>
-</p>
-<p>Mr Soh Eng Siong <a href="soh_eng_siong@moe.edu.sg" rel="noopener nofollow" target="_blank">soh_eng_siong@moe.edu.sg</a>
+<br>Mr Soh Eng Siong <a href="soh_eng_siong@moe.edu.sg" rel="noopener nofollow" target="_blank">soh_eng_siong@moe.edu.sg</a>
 <br>Ms Eldora Kok Ying Zhi <a href="eldora_kok_ying_zhi@moe.edu.sg" rel="noopener nofollow" target="_blank">eldora_kok_ying_zhi@moe.edu.sg</a>
 </p>
 </td>
@@ -151,8 +150,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Gwen Tan <a href="gwen_tan@moe.edu.sg" rel="noopener nofollow" target="_blank">gwen_tan@moe.edu.sg</a>
-</p>
-<p>Mdm Saraswathi D/O Valliappan <a href="saraswathi_valliappan@moe.edu.sg" rel="noopener nofollow" target="_blank">saraswathi_valliappan@moe.edu.sg</a>
+<br>Mdm Saraswathi D/O Valliappan <a href="saraswathi_valliappan@moe.edu.sg" rel="noopener nofollow" target="_blank">saraswathi_valliappan@moe.edu.sg</a>
 <br>Mdm Hafizah Beevi Binti Abdul Basit <a href="hafizah_beevi_abdul_basit@moe.edu.sg" rel="noopener nofollow" target="_blank">hafizah_beevi_abdul_basit@moe.edu.sg</a>
 </p>
 </td>
@@ -163,8 +161,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shirlene Tan <a href="shirlene_tan@moe.edu.sg" rel="noopener nofollow" target="_blank">shirlene_tan@moe.edu.sg</a>
-</p>
-<p>Mdm Liu Yan <a href="liu_yan@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_yan@moe.edu.sg</a>
+<br>Mdm Liu Yan <a href="liu_yan@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>

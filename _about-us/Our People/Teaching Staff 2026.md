@@ -103,8 +103,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Ai Fang <a href="tan_ai_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_ai_fang@moe.edu.sg</a>
-</p>
-<p>Mdm Nordiana Bte Md Rashid <a href="nordiana_mohd_rashid@moe.edu.sg" rel="noopener nofollow" target="_blank">nordiana_mohd_rashid@moe.edu.sg</a>
+<br>Mdm Nordiana Bte Md Rashid <a href="nordiana_mohd_rashid@moe.edu.sg" rel="noopener nofollow" target="_blank">nordiana_mohd_rashid@moe.edu.sg</a>
 <br>Mdm Radhiah Bte Jais <a href="radhiah_jais@moe.edu.sg" rel="noopener nofollow" target="_blank">radhiah_jais@moe.edu.sg</a>
 </p>
 </td>

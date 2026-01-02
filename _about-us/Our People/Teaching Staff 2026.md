@@ -38,8 +38,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mariah Bte Rahmat <a href="mailto:mariah_rahmat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mariah_rahmat@moe.edu.sg</a>
-<br>Mdm Lee Siyin
-<br><a href="mailto:lee_siyin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siyin@moe.edu.sg</a>
+<br>Mdm Lee Siyin <a href="lee_siyin@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_siyin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -48,8 +47,7 @@ variant: tiptap
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ernie Bte Jumat
-<br><a href="mailto:ernie_jumat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ernie_jumat@moe.edu.sg</a>
+<p>Mdm Ernie Bte Jumat <a href="ernie_jumat@moe.edu.sg" rel="noopener nofollow" target="_blank">ernie_jumat@moe.edu.sg</a>
 </p>
 </td>
 </tr>

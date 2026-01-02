@@ -31,27 +31,24 @@ variant: markdown
 <td rowspan="1" colspan="1">	
 Mdm Chia Lee Eng (Mrs Joanne Yeong)
 <br><a href="mailto:chia_lee_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_lee_eng@moe.edu.sg</a>
-	
-</td>
-<td rowspan="1" colspan="1">
+<br>
 Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin
-<br><a href="mailto:raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg</a>
+<br><a href="mailto:raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg</a>	
 <br>
 Mdm Gee Violet
 <br><a href="mailto:gee_violet@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gee_violet@moe.edu.sg</a>
+</td><td rowspan="1" colspan="1">
 </td>
-</tr>
-<tr>
+</tr><tr>
 <td rowspan="1" colspan="1">
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-Mdm Mariah Bte Rahmat
-<br><a href="mailto:mariah_rahmat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mariah_rahmat@moe.edu.sg</a>
+Mdm Mariah Bte Rahmat <a href="mailto:mariah_rahmat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mariah_rahmat@moe.edu.sg</a>
+<br>Mdm Lee Siyin
+<br><a href="mailto:lee_siyin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siyin@moe.edu.sg</a>	
 </td>
 <td rowspan="1" colspan="1">
-Mdm Lee Siyin
-<br><a href="mailto:lee_siyin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siyin@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

@@ -231,9 +231,12 @@ variant: markdown
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Hesheam Hashim (Mdm Suriana Bte Mohd Bakri) <a href="hesheam_hashim@moe.edu.sg" rel="noopener nofollow" target="_blank">hesheam_hashim@moe.edu.sg</a>
-<br>Mdm Siti Abshah Binte Sulaiman <a href="siti_abshah_sulaiman@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_abshah_sulaiman@moe.edu.sg </a>
-<br>Mr Lee Chang Sheng, Jansen <a href="lee_chang_sheng_jansen@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_chang_sheng_jansen@moe.edu.sg</a>
+<p>Mrs Hesheam Hashim (Mdm Suriana Bte Mohd Bakri) 
+<a href="mailto:hesheam_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hesheam_hashim@moe.edu.sg</a>	
+<br>Mdm Siti Abshah Binte Sulaiman 
+<a href="mailto:siti_abshah_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_abshah_sulaiman@moe.edu.sg</a>
+<br>Mr Lee Chang Sheng, Jansen 
+<a href="mailto:lee_chang_sheng_jansen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chang_sheng_jansen@moe.edu.sg</a>
 </p>
 </td>
 </tr>

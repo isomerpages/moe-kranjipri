@@ -201,13 +201,10 @@ variant: tiptap
 <p>6 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Alicia Ngo Phew Ling
-<br><a href="mailto:alicia_ngo_phew_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alicia_ngo_phew_ling@moe.edu.sg</a>
+<p>Mdm Alicia Ngo Phew Ling <a href="alicia_ngo_phew_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">alicia_ngo_phew_ling@moe.edu.sg</a>
 </p>
-<p>Miss Ting Pui Sin
-<br><a href="mailto:alicia_ngo_phew_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alicia_ngo_phew_ling@moe.edu.sg</a>
-<br>Mr Liew Lim Han
-<br><a href="mailto:liew_lim_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_lim_han@moe.edu.sg</a>
+<p>Miss Ting Pui Sin <a href="ting_pui_sin@moe.edu.sg" rel="noopener nofollow" target="_blank">ting_pui_sin@moe.edu.sg</a>
+<br>Mr Liew Lim Han <a href="liew_lim_han@moe.edu.sg" rel="noopener nofollow" target="_blank">liew_lim_han@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -216,13 +213,10 @@ variant: tiptap
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Hesheam Hashim (Mdm Suriana Bte Mohd Bakri)
-<br><a href="mailto:hesheam_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hesheam_hashim@moe.edu.sg</a>
+<p>Mrs Hesheam Hashim (Mdm Suriana Bte Mohd Bakri) <a href="hesheam_hashim@moe.edu.sg" rel="noopener nofollow" target="_blank">hesheam_hashim@moe.edu.sg</a>
 </p>
-<p>Mdm Siti Abshah Binte Sulaiman
-<br><a href="mailto:siti_abshah_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_abshah_sulaiman@moe.edu.sg</a> 
-<br>Mr Lee Chang Sheng, Jansen
-<br><a href="mailto:lee_chang_sheng_jansen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chang_sheng_jansen@moe.edu.sg</a>
+<p>Mdm Siti Abshah Binte Sulaiman <a href="siti_abshah_sulaiman@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_abshah_sulaiman@moe.edu.sg </a>
+<br>Mr Lee Chang Sheng, Jansen <a href="lee_chang_sheng_jansen@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_chang_sheng_jansen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -231,15 +225,11 @@ variant: tiptap
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Yan Hao Jeremy
-<br><a href="mailto:loh_yan_hao_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_yah_hao_jeremy@moe.edu.sg</a>
+<p>Mr Loh Yan Hao Jeremy <a href="loh_yah_hao_jeremy@moe.edu.sg" rel="noopener nofollow" target="_blank">loh_yah_hao_jeremy@moe.edu.sg</a>
 </p>
-<p>Miss Fan Yiou
-<br><a href="mailto:fan_yiou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fan_yiou@moe.edu.sg</a> 
-<br>Mdm Sarimah Bte Mohd Noor
-<br><a href="mailto:sarimah_mohamad_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarimah_mohamad_noor@moe.edu.sg</a>
+<p>Miss Fan Yiou <a href="fan_yiou@moe.edu.sg" rel="noopener nofollow" target="_blank">fan_yiou@moe.edu.sg </a>
+<br>Mdm Sarimah Bte Mohd Noor <a href="sarimah_mohamad_noor@moe.edu.sg" rel="noopener nofollow" target="_blank">sarimah_mohamad_noor@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>

@@ -245,9 +245,13 @@ variant: markdown
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Yan Hao Jeremy <a href="loh_yah_hao_jeremy@moe.edu.sg" rel="noopener nofollow" target="_blank">loh_yah_hao_jeremy@moe.edu.sg</a>
-<br>Miss Fan Yiou <a href="fan_yiou@moe.edu.sg" rel="noopener nofollow" target="_blank">fan_yiou@moe.edu.sg </a>
-<br>Mdm Sarimah Bte Mohd Noor <a href="sarimah_mohamad_noor@moe.edu.sg" rel="noopener nofollow" target="_blank">sarimah_mohamad_noor@moe.edu.sg</a>
+<p>Mr Loh Yan Hao Jeremy 
+<a href="mailto:loh_yan_hao_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_yan_hao_jeremy@moe.edu.sg</a>
+<br>Miss Fan Yiou 
+<a href="mailto:fan_yiou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fan_yiou@moe.edu.sg</a>
+<br>Mdm Sarimah Bte Mohd Noor 
+<a href="mailto:sarimah_mohamad_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarimah_mohamad_noor@moe.edu.sg</a>
+
 </p>
 </td>
 </tr>

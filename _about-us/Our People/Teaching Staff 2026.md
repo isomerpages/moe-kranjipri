@@ -103,7 +103,8 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Chai Lay 
 <a href="mailto:lim_chai_lay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chai_lay@moe.edu.sg</a>
-<br>Mdm Rufaidah Bte Ismail <a href="rufaidah_ismail@moe.edu.sg" rel="noopener nofollow" target="_blank">rufaidah_ismail@moe.edu.sg</a>
+<br>Mdm Rufaidah Bte Ismail 
+<a href="mailto:rufaidah_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rufaidah_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -112,9 +113,11 @@ variant: markdown
 <p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Ai Fang <a href="tan_ai_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_ai_fang@moe.edu.sg</a>
+<p>Mdm Tan Ai Fang 
+<a href="mailto:tan_ai_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_fang@moe.edu.sg</a>
 <br>Mdm Nordiana Bte Md Rashid <a href="nordiana_mohd_rashid@moe.edu.sg" rel="noopener nofollow" target="_blank">nordiana_mohd_rashid@moe.edu.sg</a>
-<br>Mdm Radhiah Bte Jais <a href="radhiah_jais@moe.edu.sg" rel="noopener nofollow" target="_blank">radhiah_jais@moe.edu.sg</a>
+<br>Mdm Radhiah Bte Jais 
+<a href="mailto:radhiah_jais@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">radhiah_jais@moe.edu.sg</a>
 </p>
 </td>
 </tr>

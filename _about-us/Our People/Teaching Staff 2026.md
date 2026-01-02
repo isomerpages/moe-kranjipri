@@ -62,9 +62,8 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 4</strong></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -76,25 +75,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Form Teacher</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr (Ryan) Ng Chou Yeaw
-<br><a href="mailto:ng_chou_yeaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chou_yeaw@moe.edu.sg</a>
+<p>Mr (Ryan) Ng Chou Yeaw <a href="ng_chou_yeaw@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_chou_yeaw@moe.edu.sg</a>
 </p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Richard S/O Arokiasamy
-<br><a href="mailto:richard_arokiasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">richard_arokiasamy@moe.edu.sg</a>
-<br>Mdm Ong Wee Fern (Jermaine)
-<br><a href="mailto:ong_wee_fern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wee_fern@moe.edu.sg</a>
+<p>Mr Richard S/O Arokiasamy <a href="richard_arokiasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">richard_arokiasamy@moe.edu.sg</a>
+<br>Mdm Ong Wee Fern (Jermaine) <a href="ong_wee_fern@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_wee_fern@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -106,8 +96,6 @@ variant: tiptap
 <p>Mdm Lim Chai Lay
 <br><a href="mailto:lim_chai_lay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chai_lay@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Rufaidah Bte Ismail
 <br><a href="mailto:rufaidah_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rufaidah_ismail@moe.edu.sg</a>
 </p>
@@ -121,8 +109,6 @@ variant: tiptap
 <p>Mdm Tan Ai Fang
 <br><a href="mailto:tan_ai_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_fang@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Nordiana Bte Md Rashid
 <br><a href="mailto:nordiana_mohd_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nordiana_mohd_rashid@moe.edu.sg</a>
 <br>Mdm Radhiah Bte Jais
@@ -131,9 +117,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

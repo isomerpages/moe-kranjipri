@@ -17,7 +17,7 @@ variant: markdown
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p>Teacher</p>
 </th>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ variant: markdown
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p>Teacher</p>
 </th>
 </tr>
 <tr>
@@ -144,7 +144,7 @@ variant: markdown
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p>Teacher</p>
 </th>
 </tr>
 <tr>
@@ -209,7 +209,7 @@ variant: markdown
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p>Teacher</p>
 </th>
 </tr>
 <tr>

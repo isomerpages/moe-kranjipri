@@ -95,7 +95,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Chai Lay <a href="lim_chai_lay@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_chai_lay@moe.edu.sg</a>
 </p>
-<p>Mdm Rufaidah Bte Ismail <a href="rufaidah_ismail@moe.edu.sg" rel="noopener nofollow" target="_blank">rufaidah_ismail@moe.edu.sg</a> 
+<p>Mdm Rufaidah Bte Ismail <a href="rufaidah_ismail@moe.edu.sg" rel="noopener nofollow" target="_blank">rufaidah_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -193,9 +193,8 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Primary 6</strong></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -207,9 +206,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Form Teacher</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -219,8 +215,6 @@ variant: tiptap
 <p>Mdm Alicia Ngo Phew Ling
 <br><a href="mailto:alicia_ngo_phew_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alicia_ngo_phew_ling@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Ting Pui Sin
 <br><a href="mailto:alicia_ngo_phew_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alicia_ngo_phew_ling@moe.edu.sg</a>
 <br>Mr Liew Lim Han
@@ -236,8 +230,6 @@ variant: tiptap
 <p>Mrs Hesheam Hashim (Mdm Suriana Bte Mohd Bakri)
 <br><a href="mailto:hesheam_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hesheam_hashim@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Siti Abshah Binte Sulaiman
 <br><a href="mailto:siti_abshah_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_abshah_sulaiman@moe.edu.sg</a> 
 <br>Mr Lee Chang Sheng, Jansen
@@ -253,19 +245,15 @@ variant: tiptap
 <p>Mr Loh Yan Hao Jeremy
 <br><a href="mailto:loh_yan_hao_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_yah_hao_jeremy@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Fan Yiou
 <br><a href="mailto:fan_yiou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fan_yiou@moe.edu.sg</a> 
 <br>Mdm Sarimah Bte Mohd Noor
 <br><a href="mailto:sarimah_mohamad_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarimah_mohamad_noor@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

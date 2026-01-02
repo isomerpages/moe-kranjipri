@@ -26,10 +26,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chia Lee Eng (Mrs Joanne Yeong) <a href="chia_lee_eng@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_lee_eng@moe.edu.sg</a>
-<br>Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin
-<br><a href="mailto:raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg</a> 
-<br>Mdm Gee Violet
-<br><a href="mailto:gee_violet@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gee_violet@moe.edu.sg</a>
+<br>Mdm Raja Nur Rasyidah Bte Raja Kamarul Bahrin <a href="raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg" rel="noopener nofollow" target="_blank">raja_nur_rasyidah_kamarul_bahrin@moe.edu.sg </a>
+<br>Mdm Gee Violet <a href="gee_violet@moe.edu.sg" rel="noopener nofollow" target="_blank">gee_violet@moe.edu.sg</a>
+<br>
 </p>
 </td>
 </tr>

@@ -152,9 +152,12 @@ variant: markdown
 <p>5 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tay Li Ping <a href="tay_li_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_li_ping@moe.edu.sg</a>
-<br>Mr Soh Eng Siong <a href="soh_eng_siong@moe.edu.sg" rel="noopener nofollow" target="_blank">soh_eng_siong@moe.edu.sg</a>
-<br>Ms Eldora Kok Ying Zhi <a href="eldora_kok_ying_zhi@moe.edu.sg" rel="noopener nofollow" target="_blank">eldora_kok_ying_zhi@moe.edu.sg</a>
+<p>Mdm Tay Li Ping 
+<a href="mailto:tay_li_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_li_ping@moe.edu.sg</a>
+<br>Mr Soh Eng Siong 
+<a href="mailto:soh_eng_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_eng_siong@moe.edu.sg</a>
+<br>Ms Eldora Kok Ying Zhi 
+<a href="mailto:eldora_kok_ying_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eldora_kok_ying_zhi@moe.edu.sg</a>	
 </p>
 </td>
 </tr>

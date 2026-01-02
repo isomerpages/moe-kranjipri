@@ -217,9 +217,12 @@ variant: markdown
 <p>6 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Alicia Ngo Phew Ling <a href="alicia_ngo_phew_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">alicia_ngo_phew_ling@moe.edu.sg</a>
-<br>Miss Ting Pui Sin <a href="ting_pui_sin@moe.edu.sg" rel="noopener nofollow" target="_blank">ting_pui_sin@moe.edu.sg</a>
-<br>Mr Liew Lim Han <a href="liew_lim_han@moe.edu.sg" rel="noopener nofollow" target="_blank">liew_lim_han@moe.edu.sg</a>
+<p>Mdm Alicia Ngo Phew Ling 
+<a href="mailto:alicia_ngo_phew_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alicia_ngo_phew_ling@moe.edu.sg</a>
+<br>Miss Ting Pui Sin 
+<a href="mailto:ting_pui_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ting_pui_sin@moe.edu.sg</a>
+<br>Mr Liew Lim Han 
+<a href="mailto:liew_lim_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_lim_han@moe.edu.sg</a>
 </p>
 </td>
 </tr>

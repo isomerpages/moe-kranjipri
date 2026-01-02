@@ -166,8 +166,10 @@ variant: markdown
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Gwen Tan <a href="gwen_tan@moe.edu.sg" rel="noopener nofollow" target="_blank">gwen_tan@moe.edu.sg</a>
-<br>Mdm Saraswathi D/O Valliappan <a href="saraswathi_valliappan@moe.edu.sg" rel="noopener nofollow" target="_blank">saraswathi_valliappan@moe.edu.sg</a>
+<p>Mrs Gwen Tan 
+<a href="mailto:gwen_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gwen_tan@moe.edu.sg</a>	
+<br>Mdm Saraswathi D/O Valliappan 
+<a href="mailto:saraswathi_valliappan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saraswathi_valliappan@moe.edu.sg</a>
 <br>Mdm Hafizah Beevi Binti Abdul Basit <a href="hafizah_beevi_abdul_basit@moe.edu.sg" rel="noopener nofollow" target="_blank">hafizah_beevi_abdul_basit@moe.edu.sg</a>
 </p>
 </td>

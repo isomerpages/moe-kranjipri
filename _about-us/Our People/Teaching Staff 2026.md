@@ -180,8 +180,10 @@ variant: markdown
 <p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shirlene Tan <a href="shirlene_tan@moe.edu.sg" rel="noopener nofollow" target="_blank">shirlene_tan@moe.edu.sg</a>
-<br>Mdm Liu Yan <a href="liu_yan@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_yan@moe.edu.sg</a>
+<p>Mdm Shirlene Tan 
+<a href="mailto:shirlene_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shirlene_tan@moe.edu.sg</a>
+<br>Mdm Liu Yan 
+<a href="mailto:liu_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>

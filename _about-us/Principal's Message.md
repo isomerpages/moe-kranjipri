@@ -4,11 +4,26 @@ permalink: /about-us/Principals-Message/
 description: ""
 variant: tiptap
 ---
-<p>Welcome to Kranji Primary School! My colleagues and I have spent much
-time and effort to put together the content that you see on our website,
-which showcases the unique value propositions and rich programmes of our
-school. We have also included information about the relocation of the school
-to Tengah, to provide a taster of the exciting chapter ahead for the school.</p>
+<p>It is my honour to serve as the sixth Principal of&nbsp;Kranji Primary
+School (KPS). I am grateful for the strong foundations laid by my predecessors
+and our dedicated staff and am committed to building on their good work
+as we continue to grow a school that our students and staff are proud to
+call our second home.</p>
+<p>Our philosophy, <strong><em>Every Kranjian Matters and Deserves the Best</em></strong>,
+resonates with me. It reflects our commitment to ensuring that each student
+and staff member is seen, heard, valued, loved and accepted for who they
+are. This philosophy drives everything we do, making the growth and well-being
+of our students and staff central to the work we do each day. Student and
+staff voice and agency matter deeply to us, as we believe that empowered
+individuals are more motivated, engaged and committed to learning, growth
+and innovation.</p>
+<p>This philosophy anchors our vision of nurturing <strong><em>Joyful Learners, Gracious Citizens and Champions in Life</em></strong>,
+our&nbsp;mission of <strong><em>Nurturing Minds, Engaging Hearts, Building Character</em></strong> and
+our&nbsp;ReCIPe values (<strong><u>Re</u></strong>silience, <strong><u>Re</u></strong>sponsibility, <strong><u>C</u></strong>ompassion, <strong><u>I</u></strong>ntegrity,
+Res<strong><u>Pe</u></strong>ct) that shape who we are as a school community.
+We see learning as an&nbsp;active, social endeavour—one that is meaningful,
+engaging and joyful—while nurturing strong values and developing the&nbsp;21st
+century competencies&nbsp;our students need for life and lifelong learning.</p>
 <p><strong><u>Nurturing Future-Ready Learners</u></strong>
 </p>
 <p>Kranji Primary School is committed to provide a forward-looking learning

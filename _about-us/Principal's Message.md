@@ -49,6 +49,15 @@ They work collaboratively to design engaging lessons, provide timely support
 and celebrate each child’s effort and progress. Our staff care for and
 look out for one another, and this strong sense of collegiality is at the
 heart of our school’s positive culture that shapes our students’ experiences.</p>
+<p>It takes a village to raise a child and our school believes in enlisting
+the entire village to support our students’ growth an d well-being.&nbsp;
+Our students will flourish when there is strong school-parent-community
+partnership, underpinned by shared values and goals. We value the close
+collaboration with our&nbsp;Parent Support Group,&nbsp;School Advisory
+Committee, alumni and community and industry partners. These partnerships
+provide a strong support network, enrich our students’ learning experiences
+and offer diverse opportunities that extend learning beyond the classroom
+and school</p>
 <p><strong><u>Nurturing Future-Ready Learners</u></strong>
 </p>
 <p>Kranji Primary School is committed to provide a forward-looking learning
@@ -156,5 +165,6 @@ position your child to be ready for the future (<em>Success</em>).</p>
 <p>Check out our Facebook and Instagram accounts, where we update school
 happenings on a very regular basis. We endeavour to update you of the latest
 happenings on our Tengah plans here, so be sure to check back here regularly.</p>
+<p></p>
 <p></p>
 <p></p>

@@ -50,14 +50,29 @@ and celebrate each child’s effort and progress. Our staff care for and
 look out for one another, and this strong sense of collegiality is at the
 heart of our school’s positive culture that shapes our students’ experiences.</p>
 <p>It takes a village to raise a child and our school believes in enlisting
-the entire village to support our students’ growth an d well-being.&nbsp;
+the entire village to support our students’ growth and well-being.&nbsp;
 Our students will flourish when there is strong school-parent-community
 partnership, underpinned by shared values and goals. We value the close
 collaboration with our&nbsp;Parent Support Group,&nbsp;School Advisory
 Committee, alumni and community and industry partners. These partnerships
 provide a strong support network, enrich our students’ learning experiences
 and offer diverse opportunities that extend learning beyond the classroom
-and school</p>
+and school.</p>
+<p>Our staff and I are excited about new possibilities as we prepare to move
+to our Tengah campus in&nbsp;<strong>2028.</strong> &nbsp;Building on our
+KPS ExCITE Learning Approach, our new campus is designed to facilitate
+experiential, inquiry-based learning and transform learning into an adventure.
+Our architects have designed learning spaces that encourage exploration,
+discovery and collaborative learning.&nbsp; Students will navigate different
+learning landscapes, each designed to spark curiosity and promote meaningful
+interaction with their peers and environment. The Tengah Garden district,
+where the school will be located, will feature a 20-hectare park with a
+forest amphitheatre, water bodies, and community farmways. Designed in
+harmony with Tengah’s identity as Singapore’s first “Forest Town,” our
+campus will include green corridors, outdoor learning spaces and biophilic
+design elements that connect students with the natural environment and
+reflect the Tengah community's commitment to sustainable and nature-centric
+living.</p>
 <p><strong><u>Nurturing Future-Ready Learners</u></strong>
 </p>
 <p>Kranji Primary School is committed to provide a forward-looking learning

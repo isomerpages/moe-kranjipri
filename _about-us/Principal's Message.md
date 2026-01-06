@@ -24,6 +24,31 @@ Res<strong><u>Pe</u></strong>ct) that shape who we are as a school community.
 We see learning as an&nbsp;active, social endeavour—one that is meaningful,
 engaging and joyful—while nurturing strong values and developing the&nbsp;21st
 century competencies&nbsp;our students need for life and lifelong learning.</p>
+<p>We believe that every child can learn and is capable of being his/her
+best self. Learning is designed to bring out the best in our students and
+empower them to discover their strengths, pursue their passions and contribute
+to their community and nation. This is realised through our KPS ExCITE
+Learning Approach -- <strong><u>Ex</u></strong>periential learning, <strong><u>C</u></strong>haracter-focused
+education, <strong><u>I</u></strong>nquiry-based learning, <strong><u>T</u></strong>echnology-mediated
+learning and Positive <strong><u>E</u></strong>ducation-driven -- supported
+by student ownership and agency in a caring and enabling environment. Through
+authentic learning experiences, students learn by doing, asking questions,
+solving problems and reflecting on their growth. Character development
+is woven intentionally into school life, while technology is used purposefully
+to enhance learning, not replace it. Grounded in Positive Education and
+guided by our&nbsp;Student Well-being Framework, we equip our students
+with the skills to build resilience and healthy relationships and create
+safe, supportive environments where children feel secure to take risks,
+make mistakes and learn from them.</p>
+<p>What makes Kranji Primary special is our caring culture. Stepping into
+our school, one can feel the warm and welcoming environment.&nbsp; Our
+school is a supportive and inclusive community where staff, students and
+parents work together to bring out the best in our students. Our dedicated
+staff care about each child’s growth and go the extra mile for their students.
+They work collaboratively to design engaging lessons, provide timely support
+and celebrate each child’s effort and progress. Our staff care for and
+look out for one another, and this strong sense of collegiality is at the
+heart of our school’s positive culture that shapes our students’ experiences.</p>
 <p><strong><u>Nurturing Future-Ready Learners</u></strong>
 </p>
 <p>Kranji Primary School is committed to provide a forward-looking learning
@@ -131,4 +156,5 @@ position your child to be ready for the future (<em>Success</em>).</p>
 <p>Check out our Facebook and Instagram accounts, where we update school
 happenings on a very regular basis. We endeavour to update you of the latest
 happenings on our Tengah plans here, so be sure to check back here regularly.</p>
+<p></p>
 <p></p>

@@ -55,13 +55,13 @@ Please click on the links for the respective book lists 2026.
 
 
 <h4>3. School Dental Clinic</h4>
-<p>Parents may contact the clinic at 8798 5043 for appointment and enquiry. If the clinic is closed and students who require urgent dental treatment may contact the buddy clinics at one of hte following buddy clinics for assistance.</p>
+<p>Parents may contact the clinic at 8798 5043 for appointment and enquiry. If the clinic is closed and students who require urgent dental treatment may contact the buddy clinics at one of the following buddy clinics for assistance. Kranji Primary School Dental Clinic is closed till Jul/Aug 2026.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yew Tee Primary School, Tel: 9115 9835</p>
 </li>
 <li>
-<p>⁠Zhenghua Primary School, Tel: 9116 1070</p>
+<p>⁠Zhenghua Primary School, Tel: 9114 2186</p>
 </li>
 <li>
 <p>Mobile Dental Clinic, Tel: 9270 7789</p>

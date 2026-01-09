@@ -4,6 +4,10 @@ permalink: /about-us/Principals-Message/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/School Leaders/Mrs_Loke_edited.jpg">
+</div>
 <p>It is my honour to serve as the sixth Principal of&nbsp;Kranji Primary
 School (KPS). I am grateful for the strong foundations laid by my predecessors
 and our dedicated staff and am committed to building on their good work

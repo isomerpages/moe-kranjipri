@@ -1,8 +1,8 @@
 ---
 title: Principal's Message
-permalink: /about-us/Principals-Message/
+permalink: /about-us/principals-message/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p></p>
 <div class="isomer-image-wrapper">
@@ -80,9 +80,9 @@ living.</p>
 <p>We look forward to partnering you in nurturing <strong><em>Joyful Learners, Gracious Citizens and Champions in Life</em></strong> --
 each one valued, supported and inspired to be their best selves.</p>
 <p>Your partner in education</p>
-<p>Mrs Constance Loke&nbsp;Principal
-<br>Kranji Primary School</p>
-<p></p>
+Mrs Constance Lok
+<br>Principal
+<br>Kranji Primary School<p></p>
 <p></p>
 <p></p>
 <p></p>

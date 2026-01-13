@@ -57,4 +57,3 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p></p>

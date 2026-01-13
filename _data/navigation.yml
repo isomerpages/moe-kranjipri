@@ -1,10 +1,10 @@
 logo: /images/website logo.png
 links:
   - title: About Us
-    url: /about-us/Principals-Message/
+    url: /about-us/principals-message/
     sublinks:
       - title: Principal's Message
-        url: /about-us/Principals-Message/
+        url: /about-us/principals-message/
       - title: School Philosophy and More
         url: /about-us/school-philosophy-vision-mission-values/
       - title: School Creed, Crest and Song

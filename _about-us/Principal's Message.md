@@ -82,7 +82,7 @@ each one valued, supported and inspired to be their best selves.</p>
 <p>Your partner in education</p>
 Mrs Constance Lok
 <br>Principal
-<br>Kranji Primary School<p></p>
+<br>Kranji Primary School
 <p></p>
 <p></p>
 <p></p>

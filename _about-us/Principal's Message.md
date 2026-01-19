@@ -80,7 +80,7 @@ living.</p>
 <p>We look forward to partnering you in nurturing <strong><em>Joyful Learners, Gracious Citizens and Champions in Life</em></strong> --
 each one valued, supported and inspired to be their best selves.</p>
 <p>Your partner in education</p>
-Mrs Constance Lok
+Mrs Constance Loke
 <br>Principal
 <br>Kranji Primary School
 <p></p>

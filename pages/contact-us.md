@@ -18,18 +18,14 @@ locations:
       - Kranji Primary School
       - 11 Choa Chu Kang St 54
       - Singapore 689189
-    title: MOE Kindergarten@Kranji
     operating_hours: []
     maps_link: ""
+    title: MOE Kindergarten@Kranji
 contacts:
   - content:
       - phone: +65 6763 4812
       - email: kranji_ps@moe.edu.sg
-      - other: "For general enquiries, do send us an email using the email above. "
+      - other: For general enquiries, do send us an email using the email above.
     title: General Enquiries & Feedback
-  - content:
-      - phone: +65 6760 0367
-      - email: mk_kranji@moe.edu.sg
-      - other: ""
-    title: MK Office
+feedback: ""
 ---

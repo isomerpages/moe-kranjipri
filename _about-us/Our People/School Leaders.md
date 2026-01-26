@@ -35,7 +35,7 @@ variant: markdown
 <br>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-	<a href="mailto:wong_seow_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_seow_ling@schools.gov.sg</a>
+	<a href="mailto:wong_seow_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_seow_ling@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

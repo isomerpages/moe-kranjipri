@@ -26,7 +26,7 @@ variant: markdown
 <br>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<a href="mailto:constance_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">constance_wong@schools.gov.sg</a>
+<a href="mailto:wong_hian_hwee_constance@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_hian_hwee_constance@moe.edu.sg</a>
 </td>
 </tr>
 <tr>

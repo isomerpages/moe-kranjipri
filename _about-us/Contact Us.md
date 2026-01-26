@@ -7,7 +7,6 @@ variant: markdown
 <h3><strong>School Information</strong></h3>
 <p><strong>Address</strong>: 11 Choa Chu Kang Street 54, S689189
 <br><strong>Tel</strong>: 67634812
-<br><strong>Fax</strong>: 67634568
 <br><strong>E-mail</strong>:&nbsp;<a href="mailto:kranji_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kranji_ps@moe.edu.sg</a>
 </p>
 <p><strong>Nearest MRT Station</strong>: Yew Tee MRT&nbsp;</p>

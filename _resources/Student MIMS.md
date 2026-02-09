@@ -55,7 +55,7 @@ capable enough to take responsibility and ownership of their MIMS account.</p>
 <h4><strong>Login Troubleshooting</strong></h4>
 <p>If you are unable to perform Self-Service Password Reset (SSPR) as you
 have forgotten the answers to your MIMS security challenge questions or
-other reasons, please contact your child's Form Teacher or go to <a href="https://form.gov.sg/5cdcfea6cac839001734c5a9" rel="noopener nofollow" target="_blank">Student Password Reset Form</a>,
+other reasons, please contact your child's Form Teacher or go to <a href="https://go.gov.sg/kpsstudentpasswordresetform" rel="noopener nofollow" target="_blank">Student Password Reset Form</a>,
 to request password reset.</p>
 <p><strong>Important Information:</strong>
 </p>

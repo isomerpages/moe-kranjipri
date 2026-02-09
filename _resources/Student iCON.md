@@ -88,7 +88,7 @@ by clicking on ‘<strong><em>Change Password</em></strong>’</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Student ICON/icon_accout_locked.png">
 </div>
 <p>If you have forgotten the answers to your MIMS security challenge questions
-or other reasons, please contact your child's Form Teacher or go to <a href="https://form.gov.sg/688ab11796c937e68862d06a" rel="noopener nofollow" target="_blank">Student Password Reset Form</a>,
+or other reasons, please contact your child's Form Teacher or go to <a href="https://go.gov.sg/kpsstudentpasswordonlineresetform" rel="noopener nofollow" target="_blank">Student Password Reset Form</a>,
 to request password reset.</p>
 <p><strong>Important Information:</strong>
 </p>

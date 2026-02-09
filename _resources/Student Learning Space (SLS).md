@@ -60,7 +60,7 @@ and password are printed in card form and attached to their student handbook.</p
 </p>
 <p><strong>3 Ways</strong>&nbsp;to reset password:</p>
 <p>1. You may contact your child's Form Teacher to request for a reset password.</p>
-<p>2. Go to our <a href="https://go.gov.sg/kpsstudentpasswordonlineresetform" rel="noopener noreferrer nofollow" target="_blank">Student Password Reset Form</a>
+<p>2. Go to our <a href="https://go.gov.sg/kpsstudentpasswordresetform" rel="noopener noreferrer nofollow" target="_blank">Student Password Reset Form</a>
 </p>
 <p>3.&nbsp;Call the <strong>school helpline</strong> to speak to the SLS administrator
 at 67634812</p>

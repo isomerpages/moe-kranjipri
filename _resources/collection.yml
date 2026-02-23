@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - For Students, Teachers and Parents.md
+      - For Students, Staff and Parents.md
       - Student MIMS.md
       - Student iCON.md
       - Student Learning Space (SLS).md

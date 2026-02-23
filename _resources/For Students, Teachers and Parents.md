@@ -55,12 +55,8 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>For Teachers</strong></h4>
+<h4><strong>For Staff</strong></h4>
 <ul>
-<li>
-<p><a href="https://forms.gle/biyGGha8LYVGDvTD7" rel="noopener nofollow" target="_blank">Request for Relief</a>
-</p>
-</li>
 <li>
 <p><a href="https://form.gov.sg/63ad1a645b04ae0011a5c075" rel="noopener noreferrer nofollow" target="_blank">Application for Season Parking</a>
 </p>
@@ -74,6 +70,18 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://education.apple.com/#/home/resources" rel="noopener noreferrer nofollow" target="_blank">Apple Teacher Learning Center</a>
+</p>
+</li>
+<li>
+<p><a href="https://forms.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">All Ears Form Builder</a>
+</p>
+</li>
+<li>
+<p><a href="https://edu.google.com/for-educators/overview/?modal_active=none" rel="noopener noreferrer nofollow" target="_blank">Google Teacher Center</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">HR and Payroll Portal (HRP)</a>
 </p>
 </li>
@@ -83,6 +91,10 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient" rel="noopener noreferrer nofollow" target="_blank">iEXAM 2.0 Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx" rel="noopener nofollow" target="_blank">iCart (GeBIZ DA eCatalogues)</a>
 </p>
 </li>
 <li>
@@ -106,6 +118,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://forms.gle/biyGGha8LYVGDvTD7" rel="noopener nofollow" target="_blank">Request for Relief</a>
+</p>
+</li>
+<li>
 <p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System (RBS)</a>
 </p>
 </li>
@@ -114,27 +130,15 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://go.gov.sg/kpsschoolincidentreport" rel="noopener nofollow" target="_blank">School Incident Report</a>
+</p>
+</li>
+<li>
 <p><a href="https://form.gov.sg/6347d978eae00c0012c06449" rel="noopener noreferrer nofollow" target="_blank">Staff Travel Declaration</a>
 </p>
 </li>
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
-</p>
-</li>
-<li>
-<p><a href="https://edu.google.com/for-educators/overview/?modal_active=none" rel="noopener noreferrer nofollow" target="_blank">Google Teacher Center</a>
-</p>
-</li>
-<li>
-<p><a href="https://education.apple.com/#/home/resources" rel="noopener noreferrer nofollow" target="_blank">Apple Teacher Learning Center</a>
-</p>
-</li>
-<li>
-<p><a href="https://forms.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">All Ears Form Builder</a>
-</p>
-</li>
-<li>
-<p><a href="https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx" rel="noopener nofollow" target="_blank">iCart (GeBIZ DA eCatalogues)</a>
 </p>
 </li>
 </ul>

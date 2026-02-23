@@ -7,27 +7,11 @@ variant: tiptap
 <h4><strong>For Students</strong></h4>
 <ul>
 <li>
+<p><a href="https://form.gov.sg/677c8153103c8249e2bc7e1c" rel="noopener noreferrer nofollow" target="_blank">Google Classroom (at home) login issue report form</a>
+</p>
+</li>
+<li>
 <p><a href="https://sites.google.com/view/kpsartgallery2021/home" rel="noopener noreferrer nofollow" target="_blank">KPS Art Gallery</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.facebook.com/KranjiPrimarySchool.Official" rel="noopener noreferrer nofollow" target="_blank">School Facebook Page</a>
-</p>
-</li>
-<li>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
-</p>
-</li>
-<li>
-<p><a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Student MIMS &amp; iCON Login</a>
-</p>
-</li>
-<li>
-<p><a href="https://schoolibrary.moe.edu.sg/kranjipri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">School Library Search Engine</a>
-</p>
-</li>
-<li>
-<p><a href="https://online.fliphtml5.com/obrr/qkde/#p=1" rel="noopener noreferrer nofollow" target="_blank">WE STories 2023</a>
 </p>
 </li>
 <li>
@@ -51,7 +35,23 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/677c8153103c8249e2bc7e1c" rel="noopener noreferrer nofollow" target="_blank">Google Classroom (at home) login issue report form</a>
+<p><a href="https://www.facebook.com/KranjiPrimarySchool.Official" rel="noopener noreferrer nofollow" target="_blank">School Facebook Page</a>
+</p>
+</li>
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+</p>
+</li>
+<li>
+<p><a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Student MIMS &amp; iCON Login</a>
+</p>
+</li>
+<li>
+<p><a href="https://schoolibrary.moe.edu.sg/kranjipri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">School Library Search Engine</a>
+</p>
+</li>
+<li>
+<p><a href="https://online.fliphtml5.com/obrr/qkde/#p=1" rel="noopener noreferrer nofollow" target="_blank">WE STories 2023</a>
 </p>
 </li>
 </ul>
@@ -145,14 +145,6 @@ variant: tiptap
 <h4><strong>For Parents</strong></h4>
 <ul>
 <li>
-<p><a href="/files/For Parents/MS_Teams_KPS_final.pdf" rel="noopener nofollow" target="_blank">User Guide on How to Join MS TEAMS</a>
-</p>
-</li>
-<li>
-<p><a href="/files/For Parents/Google_Meet_KPS_final.pdf" rel="noopener nofollow" target="_blank">User Guide on How to Join Google Meet</a>
-</p>
-</li>
-<li>
 <p><a href="https://sites.google.com/view/kpsartgallery2021/home" rel="noopener noreferrer nofollow" target="_blank">KPS Art Gallery</a>
 </p>
 </li>
@@ -166,6 +158,14 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://schoolibrary.moe.edu.sg/kranjipri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">School Library Search Engine</a>
+</p>
+</li>
+<li>
+<p><a href="/files/For Parents/MS_Teams_KPS_final.pdf" rel="noopener nofollow" target="_blank">User Guide on How to Join MS TEAMS</a>
+</p>
+</li>
+<li>
+<p><a href="/files/For Parents/Google_Meet_KPS_final.pdf" rel="noopener nofollow" target="_blank">User Guide on How to Join Google Meet</a>
 </p>
 </li>
 <li>

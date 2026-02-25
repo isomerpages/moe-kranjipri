@@ -101,6 +101,6 @@ Overseas learning journeys to Vietnam and Malaysia are organized to inculcate gl
   
 
 
-**Please click [here](https://www.kranjipri.moe.edu.sg/sexuality-education/)) for Sexuality Education information**
+**Please click [here](https://www.kranjipri.moe.edu.sg/sexuality-education/) for Sexuality Education information**
 
 **Please click [here](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) for Education and Career Guidance (ECG)**

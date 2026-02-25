@@ -99,14 +99,14 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_15_130823.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Departments/CCE/Sexuality Education/2026_Info_on_SEd_for_schs_webs_to_be_uploaded_to_sch_website_3.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_15_130839.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Departments/CCE/Sexuality Education/2026_Info_on_SEd_for_schs_webs_to_be_uploaded_to_sch_website_4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_15_131615.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Departments/CCE/Sexuality Education/2026_Info_on_SEd_for_schs_webs_to_be_uploaded_to_sch_website_5.jpg">
 </div>
 <p><strong><br>Information for Parents</strong>
 </p>

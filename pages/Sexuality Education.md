@@ -95,7 +95,7 @@ social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
-<p><strong>At Kranji Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Kranji Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">

@@ -67,8 +67,14 @@ information on the scope of Sexuality Education in the school curriculum.</p>
 <p></p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The subjects that incorporate
 topics on sexuality include:</p>
-<p>a) Science</p>
-<p>b) Character and Citizenship Education (CCE)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Science</p>
+</li>
+<li>
+<p>Character and Citizenship Education (CCE)</p>
+</li>
+</ul>
 <p></p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years
@@ -116,7 +122,6 @@ The completed opt-out form is to be submitted by 01/04/2025.</p>
 at <a rel="noopener noreferrer nofollow" target="_blank">kranji_ps@moe.edu.sg</a> or
 67634812 for discussion or to seek clarification about the school’s Sexuality
 Education programme.</p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>

@@ -69,9 +69,6 @@ topics on sexuality include:</p>
 <p>a) Science</p>
 <p>b) Character and Citizenship Education (CCE)</p>
 <p></p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
-(CCE)</p>
-<p></p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years
 mark the onset of puberty. With better nutrition and improved health care,
@@ -118,7 +115,6 @@ The completed opt-out form is to be submitted by 01/04/2025.</p>
 at <a rel="noopener noreferrer nofollow" target="_blank">kranji_ps@moe.edu.sg</a> or
 67634812 for discussion or to seek clarification about the school’s Sexuality
 Education programme.</p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>

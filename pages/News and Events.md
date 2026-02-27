@@ -2,16 +2,16 @@
 title: News and Events
 permalink: /news-and-events/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Read our latest news</strong></h3>
-
 <p>EXCITING NEWS!</p>
 <h3><strong>Our School is Relocating to Tengah in 2028!</strong></h3>
 <p>We are thrilled to announce that in 2028, our school will be relocating
 to a brand new campus in the vibrant and rapidly growing Tengah Estate!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Tengah.png">
+<img style="width: 100%" height="auto" width="100%" alt="kps_tengah_campus" src="/images/New_Campus.png">
 </div>
 <p>This move marks a significant milestone in our school's journey and promises
 an enhanced educational experience for all. Our new location will feature
@@ -29,19 +29,17 @@ preparing our students for future challenges and opportunities.</p>
 with regular reports on our plans for the new school. Join us in our journey
 to our new home, where the Kranjian spirit will continue to thrive and
 grow.&nbsp; We can’t wait to see you at Tengah!</p>
-<p><a href="https://www.moe.gov.sg/news/press-releases/20240116-meeting-shifting-demand-for-school-and-preschool-places-across-singapore" rel="noopener noreferrer nofollow" target="_blank">MOE Press Release</a>
-</p>
+<p></p>
 <hr>
 <h4>National School Games Senior Division</h4>
 <div class="isomer-image-wrapper">
-<img src="/images/News%20and%20Events/basketball_2024.png">
+<img style="width: 100%" height="auto" width="100%" src="/images/News%20and%20Events/basketball_2024.png">
 </div>
 <p>We are proud to announce that our Senior Girls Basketball Team has emerged
 as 3rd place in League 1 at the National School Games Senior Division Basketball
 Competition. <strong>Congratulations to our Basketballers!</strong>
 </p>
-<p>
-</p>
+<p></p>
 <hr>
 <h4>Applied Learning Programme</h4>
 <div class="isomer-image-wrapper">

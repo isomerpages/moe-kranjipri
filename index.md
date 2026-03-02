@@ -22,8 +22,8 @@ sections:
       title: Our School is Relocating to Tengah in 2028!
       subtitle: EXCITING NEWS!
       id: infopic
-      description: We are committed to ensuring a smooth transition and will keep you
-        updated with regular reports on our plans for the new school.
+      description: We are thrilled that in 2028, our school will be relocating to a
+        brand new campus in the vibrant and rapidly growing Tengah Estate!
       image: /images/New_Campus.png
       alt: Image alt text
       button: READ MORE

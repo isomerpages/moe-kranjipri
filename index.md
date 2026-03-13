@@ -62,7 +62,7 @@ sections:
       image: /images/Homepage/LLP_2025.png
   - infobar:
       title: KPS Social Media
-      description: You can follow KPS on Facebook, Instagram, Youtube and TikTok
+      description: You can follow KPS on Facebook, Instagram and Youtube
       button: Click Here
       url: /kps-on-social-media/
 ---

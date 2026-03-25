@@ -35,7 +35,6 @@ are premised on the family as the basic unit of society.</p>
 </ul>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
@@ -56,7 +55,7 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>Overview of Kranji Primary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>OVERVIEW OF KRANJI PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -64,11 +63,17 @@ for Sexuality Education is grouped into five main themes: Human Development,
 Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
 Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information on the scope of Sexuality Education in the school curriculum.</p>
+<p></p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The subjects that incorporate
 topics on sexuality include:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
-(CCE)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Science</p>
+</li>
+<li>
+<p>Character and Citizenship Education (CCE)</p>
+</li>
+</ul>
 <p></p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years
@@ -89,18 +94,18 @@ social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
-<p><strong>At Kranji Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Kranji Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_15_130823.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Departments/CCE/Sexuality Education/2026_Info_on_SEd_for_schs_webs_to_be_uploaded_to_sch_website_3.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_15_130839.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Departments/CCE/Sexuality Education/2026_Info_on_SEd_for_schs_webs_to_be_uploaded_to_sch_website_4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_15_131615.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Curriculum/Departments/CCE/Sexuality Education/2026_Info_on_SEd_for_schs_webs_to_be_uploaded_to_sch_website_5.jpg">
 </div>
 <p><strong><br>Information for Parents</strong>
 </p>
@@ -110,14 +115,12 @@ Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="/files/For Parents/parent_opt_out_form_sed_2025_kps.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 01/04/2025.</p>
+of the year and is also downloadable <a href="/files/Our Curriculum/Departments/CCE/Sexuality Education/opt_out_form_sed_2026.pdf" rel="noopener nofollow" target="_blank">here</a> .
+The completed opt-out form is to be submitted by 01/04/2026.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at <a href="mailto:kranji_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">kranji_ps@moe.edu.sg</a> or
+at <a rel="noopener noreferrer nofollow" target="_blank">kranji_ps@moe.edu.sg</a> or
 67634812 for discussion or to seek clarification about the school’s Sexuality
 Education programme.</p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>

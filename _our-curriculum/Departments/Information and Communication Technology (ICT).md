@@ -53,10 +53,7 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 2\. Demonstrate e21st&nbsp;CC through self-directed and collaborative learning
 
 3\. Develop computational thinking and problem-solving skills
-
-![](/images/Our%20Curriculum/Departments/ICT/ICT/ICT_Level_Programme_2024.png)
-
-
+![](/images/Our%20Curriculum/Departments/ICT/ICT/ICT_Level_Programme_2026.png)
 
 ##### **Students in Action!**
 

@@ -57,9 +57,10 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 
 ##### **Students in Action!**
 
-P6 Code for fun
-![](/images/Our%20Curriculum/Departments/ICT/ICT/ICT_Code_for_fun.png)
+**P5 Code for fun**
+![](/images/Our%20Curriculum/Departments/ICT/ICT/P5_Code_for_fun_2026_1.png)
 
+![](/images/Our%20Curriculum/Departments/ICT/ICT/P5_Code_for_fun_2026_2.png)
 
 ![](/images/Our%20Curriculum/Departments/ICT/ICT/Drone_Adventures_workshop_2024.png)
 

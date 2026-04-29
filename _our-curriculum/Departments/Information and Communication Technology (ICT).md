@@ -62,7 +62,9 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 
 ![](/images/Our%20Curriculum/Departments/ICT/ICT/P5_Code_for_fun_2026_2.png)
 
-![](/images/Our%20Curriculum/Departments/ICT/ICT/Infocomm_Media_Club_2024_.png)
+![](/images/Our%20Curriculum/Departments/ICT/ICT/National_Digital_Explorer_2025.png)
+
+![](/images/Our%20Curriculum/Departments/ICT/ICT/Swift_Explorers_2025.png)
 
 ##### **ICT Facilities**
 

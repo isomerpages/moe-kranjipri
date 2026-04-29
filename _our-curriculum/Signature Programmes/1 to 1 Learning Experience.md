@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Signature Programmes
 variant: markdown
 ---
-
 ![](/images/Our%20Curriculum/Signature%20Programmes/11%20Learning%20Experience/11%20Learning%20Experience/1_to_1_Learning_Experience_2024.png)
 1:1 Learning Experience refers to the allocation of one device for every student. This allows students to access learning, both in and out of the classroom.
 
@@ -30,13 +29,7 @@ Learning activities are crafted with our Kranjians' learning experience and the 
   
 
 With 1:1 Learning Experience, the learning of our Kranjians is no longer constrained by physical space. Learning can now take place anywhere, anytime; across space, across time. This allows teachers to blend learning seamlessly in both face-to-face and online spaces, synchronously and asynchronously.&nbsp;  
-  
-  
-  
-  
-**Our iPad Learning Experience**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yM4ZJyPLIgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Please click [here](/1-1-learning-experience/Digital-Parenting/) for Digital Parenting**
 

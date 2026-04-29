@@ -9,9 +9,8 @@ variant: markdown
 
 In Kranji Primary School, we believe in preparing our students to be future-ready champions in life. Therefore, the ICT department aims to create an ICT enriched environment, providing opportunities for our students to be joyful and responsible digital learners through a range of quality learning experiences with technology.&nbsp;
 
-Our school’s ICT literacy programme is built on MOE’s standards of new media literacy and includes the skills, knowledge, attitudes and values (SKAV) that students should apply and demonstrate when harnessing ICT for learning and interacting. The new ICT baseline standards are: curating digital content; connecting and communicating digitally; and creating digital multimodal products.
-![](/images/Our%20Curriculum/Departments/ICT/ICT/ICT_LITERARCY_2.png)
-
+Our school’s ICT literacy programme is built on MOE’s standards of Digital Literacy and Technological Skills that would help our students to be confident, critical and responsible users of digital technologies for information, communication and problem-solving.
+![](/images/Our%20Curriculum/Departments/ICT/ICT/ICT_curriculum_Framework_2026.png)
 
 ##### **Department Pedagogy**
 
@@ -54,31 +53,28 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 2\. Demonstrate e21st&nbsp;CC through self-directed and collaborative learning
 
 3\. Develop computational thinking and problem-solving skills
-
-![](/images/Our%20Curriculum/Departments/ICT/ICT/ICT_Level_Programme_2024.png)
-
-
+![](/images/Our%20Curriculum/Departments/ICT/ICT/ICT_Level_Programme_2026.png)
 
 ##### **Students in Action!**
 
-P6 Code for fun
-![](/images/Our%20Curriculum/Departments/ICT/ICT/ICT_Code_for_fun.png)
+**P5 Code for fun**
+![](/images/Our%20Curriculum/Departments/ICT/ICT/P5_Code_for_fun_2026_1.png)
 
+![](/images/Our%20Curriculum/Departments/ICT/ICT/P5_Code_for_fun_2026_2.png)
 
-![](/images/Our%20Curriculum/Departments/ICT/ICT/Drone_Adventures_workshop_2024.png)
+![](/images/Our%20Curriculum/Departments/ICT/ICT/National_Digital_Explorer_2025.png)
 
-![](/images/Our%20Curriculum/Departments/ICT/ICT/Infocomm_Media_Club_2024_.png)
+![](/images/Our%20Curriculum/Departments/ICT/ICT/Swift_Explorers_2025.png)
 
 ##### **ICT Facilities**
 
   
 
-The school has computer laboratories and mobile carts equipped with laptops optimised for teaching and learning purposes. Students and teachers also have access to the use of iPads and chromebooks for mobile learning to take place. A wireless network is in place to further enhance students' learning and teachers are able to conduct lessons anywhere in our school using these devices.
+The school has computer laboratories and mobile carts equipped with laptops optimised for teaching and learning purposes. Students and teachers also have access to the use of iPads for mobile learning to take place. A wireless network is in place to further enhance students' learning and teachers are able to conduct lessons anywhere in our school using these devices.
 
 In collaboration with both the instructional and non-instructional programmes, students have opportunities to enhance their learning experience in an ICT-empowered learning environment,&nbsp;helping them to become innovative, confident and&nbsp; independent learners.
+![](/images/Our%20Curriculum/Departments/ICT/ICT/ICT_Facilities_2026.png)
 
-![](/images/Our%20Curriculum/Departments/ICT/ICT/facilities.png)
-![](/images/Our%20Curriculum/Departments/ICT/ICT/facilities2.png)
 
 **Please click [here](https://www.kranjipri.moe.edu.sg/resources/student-learning-space-sls/) for Student Learning Space (SLS)**
 

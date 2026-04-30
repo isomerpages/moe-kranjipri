@@ -59,7 +59,7 @@ sections:
       button: READ MORE
       url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/Learning-for-Life-Programme-LLP/
       alt: Image alt text
-      image: /images/Homepage/LLP_2026.png
+      image: /images/Homepage/LLP_2026_final.png
   - infobar:
       title: KPS Social Media
       description: You can follow KPS on Facebook, Instagram and Youtube

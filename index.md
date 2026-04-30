@@ -50,7 +50,7 @@ sections:
         creativity through science, technology, engineering and mathematics.
       button: Read more
       url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/Applied-Learning-Programme-ALP/
-      image: /images/Homepage/ALP_2026_final.png
+      image: /images/Homepage/ALP_2026.png
       alt: Image alt text
   - infopic:
       title: Learning for Life Programme (LLP)

@@ -38,11 +38,11 @@ sections:
       alt: Image alt text
   - infopic:
       title: 1:1 Learning Experience
-      description: An iPad is provided for every P4 to P6 Kranjian while they are in
-        school everyday, to tap on the affordances of technology for learning.
+      description: Students are provided with learning devices that allows them with
+        opportunities to gain future-ready competencies.
       button: Read More
       url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/1-1-Learning-Experience/
-      image: /images/Homepage/1_1_learning_experience.png
+      image: /images/Homepage/Kranji_Tech_2026_final.png
       alt: Image alt text
   - infopic:
       title: Applied Learning Programme (ALP)
@@ -50,7 +50,7 @@ sections:
         creativity through science, technology, engineering and mathematics.
       button: Read more
       url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/Applied-Learning-Programme-ALP/
-      image: /images/Homepage/ALP_2025.png
+      image: /images/Homepage/ALP_2026_final.png
       alt: Image alt text
   - infopic:
       title: Learning for Life Programme (LLP)
@@ -59,7 +59,7 @@ sections:
       button: READ MORE
       url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/Learning-for-Life-Programme-LLP/
       alt: Image alt text
-      image: /images/Homepage/LLP_2025.png
+      image: /images/Homepage/LLP_2026_final.png
   - infobar:
       title: KPS Social Media
       description: You can follow KPS on Facebook, Instagram and Youtube

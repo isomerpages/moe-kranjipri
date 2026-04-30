@@ -38,8 +38,8 @@ sections:
       alt: Image alt text
   - infopic:
       title: 1:1 Learning Experience
-      description: An iPad is provided for every P4 to P6 Kranjian while they are in
-        school everyday, to tap on the affordances of technology for learning.
+      description: Students are provided with learning devices that allows them with
+        opportunities to gain future-ready competencies.
       button: Read More
       url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/1-1-Learning-Experience/
       image: /images/Homepage/1_1_learning_experience.png

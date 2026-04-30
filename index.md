@@ -42,7 +42,7 @@ sections:
         opportunities to gain future-ready competencies.
       button: Read More
       url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/1-1-Learning-Experience/
-      image: /images/Homepage/Kranji_Tech_2026_final.png
+      image: /images/Homepage/Kranji_Tech_2026.png
       alt: Image alt text
   - infopic:
       title: Applied Learning Programme (ALP)

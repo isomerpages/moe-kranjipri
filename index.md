@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/KPSBanner_text (1).png
+      background: /images/Homepage/KPS_Banner_2026_2.png
       key_highlights:
         - title: News & Events
           description: ""
@@ -18,6 +18,7 @@ sections:
         - title: Voices of Our Alumni
           description: ""
           url: /Voices-of-our-alumni/
+      variant: image
   - infopic:
       title: Our School is Relocating to Tengah in 2028!
       subtitle: EXCITING NEWS!

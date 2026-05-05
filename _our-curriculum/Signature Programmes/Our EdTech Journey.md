@@ -22,9 +22,9 @@ Through carefully designed tools and resources, students acquire and hone their 
 **Learning Experience**  
   
 
-With the use of e-Pedagogy, active learning takes place. This creates a classroom that allows Kranjians to participate, connect and reflect on their learning.&nbsp;
+With the use of e-Pedagogy, active learning takes place. This creates classrooms that allows Kranjians to participate, connect and reflect on their learning.&nbsp;
 
-Learning activities are crafted with our Kranjians' learning experience and the learning outcomes in mind. The learning processes entails students making sense of information to achieve deep understanding and/or develop a skill. Tapping on the affordances of technology, learning is transformed where students are more participative, reflective and connected.&nbsp;
+Learning activities are thoughtfully crafted with our Kranjians' learning experience and the learning outcomes in mind. The learning processes entails students making sense of information to achieve deep understanding and/or develop a skill. Tapping on the affordances of technology, learning is transformed where students are more participative, reflective and connected.&nbsp;
 
   
 

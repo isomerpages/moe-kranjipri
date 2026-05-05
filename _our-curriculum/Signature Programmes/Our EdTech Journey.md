@@ -28,7 +28,7 @@ Learning activities are thoughtfully crafted with our Kranjians' learning experi
 
   
 
-With EdTech, the learning of our Kranjians is no longer constrained by physical space. Learning can now take place anywhere, anytime; across space, across time. This allows teachers to blend learning seamlessly in both face-to-face and online spaces, synchronously and asynchronously.&nbsp;  
+With EdTech, the learning of our Kranjians is no longer constrained by physical space. Learning can now take place anywhere, anytime; across space, across time. This empowers teachers to blend learning seamlessly across both face-to-face and online spaces, synchronously and asynchronously, ensuring that every Kranjian continues to grow as a confident and capable learner.
 
 
 **Please click [here](/1-1-learning-experience/Digital-Parenting/) for Digital Parenting**

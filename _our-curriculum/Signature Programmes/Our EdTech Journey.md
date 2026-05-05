@@ -16,7 +16,7 @@ By redesigning how teachers teach and how students learn with technology, we str
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;extend their learning beyond the classroom.
 
-Through carefully designed tools and resources, students acquire and hone their collaborative, critical thinking and communication skills.As they grow in independence through self-directed learning, they also develop digital literacies and the etiquette of responsible device use - building the knowledge, skills, practices and attitudes necessary to thrive as future-ready learners. In this way, students are supported in their development of digital literacies. They learn the etiquette of the use of devices and understand the importance of new media literacy. These are knowledge, skills, practices and attitudes necessary for a future-ready learner.&nbsp; &nbsp;
+Through carefully designed tools and resources, students acquire and hone their collaborative, critical thinking and communication skills.As they grow in independence through self-directed learning, they also develop digital literacies and the etiquette of responsible device use - building the knowledge, skills, practices and attitudes necessary to thrive as future-ready learners. 
 
   
 **Learning Experience**  

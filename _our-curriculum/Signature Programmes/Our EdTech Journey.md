@@ -6,9 +6,9 @@ third_nav_title: Signature Programmes
 variant: markdown
 ---
 ![](/images/Our%20Curriculum/Signature%20Programmes/11%20Learning%20Experience/11%20Learning%20Experience/Our_EdTech_Journey_2026.png)
-1:1 Learning Experience refers to the allocation of one device for every student. This allows students to access learning, both in and out of the classroom.
+At Kranji Primary School, we believe that technology is a powerful enabler of meaningful learning. Kranjians are provided with learning devices to support them both in and out of the classroom, giving them easy access to resources and opportunities that help them develop future-ready competencies.
 
-Each P4 to P6 student is provided with an iPad to support them in learning. The main aim of the 1:1 Learning Experience is to enable our students to gain future-ready competencies. By redesigning how teachers teach and how students learn with technology, we strive to create a positive and impactful teaching and learning environment which encourages our students to:
+By redesigning how teachers teach and how students learn with technology, we strive to create a positive and impactful teaching and learning environment which encourages our students to:
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;take ownership of their learning
 

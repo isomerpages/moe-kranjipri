@@ -43,7 +43,7 @@ sections:
         opportunities to gain future-ready competencies.
       button: Read More
       url: https://www.kranjipri.moe.edu.sg/signature-programmes/our-edtech-journey/
-      image: /images/Homepage/EdTech_2026.png
+      image: /images/Homepage/EdTech_2026_final.png
       alt: Image alt text
   - infopic:
       title: Applied Learning Programme (ALP)

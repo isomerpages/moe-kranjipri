@@ -42,7 +42,7 @@ sections:
       description: Students are provided with learning devices that allows them with
         opportunities to gain future-ready competencies.
       button: Read More
-      url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/1-1-Learning-Experi/
+      url: https://www.kranjipri.moe.edu.sg/signature-programmes/our-edtech-journey/
       image: /images/Homepage/EdTech_2026.png
       alt: Image alt text
   - infopic:

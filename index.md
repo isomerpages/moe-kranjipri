@@ -38,12 +38,12 @@ sections:
       image: /images/Homepage/Every_Kranjian_matters_2026.png
       alt: Image alt text
   - infopic:
-      title: 1:1 Learning Experience
+      title: Our EdTech Journey
       description: Students are provided with learning devices that allows them with
         opportunities to gain future-ready competencies.
       button: Read More
       url: https://www.kranjipri.moe.edu.sg/Signature-Programmes/1-1-Learning-Experience/
-      image: /images/Homepage/Kranji_Tech_2026.png
+      image: /images/Homepage/EdTech_2026.png
       alt: Image alt text
   - infopic:
       title: Applied Learning Programme (ALP)

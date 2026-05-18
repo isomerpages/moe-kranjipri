@@ -53,7 +53,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ernie Bte Jumat 
-<a href="mailto:ernie_jumats@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ernie_jumat@moe.edu.sg</a>	
+<a href="mailto:ernie_jumats@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ernie_jumat@moe.edu.sg</a>
+</p><p> Miss Andrea Lee <a href="mailto:lee_qing_andrea@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_qing_andrea@moe.edu.sg</a>
 </p>
 </td>
 </tr>

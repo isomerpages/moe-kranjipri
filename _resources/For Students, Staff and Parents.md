@@ -58,7 +58,7 @@ variant: tiptap
 <h4><strong>For Staff</strong></h4>
 <ul>
 <li>
-<p><a href="https://form.gov.sg/63ad1a645b04ae0011a5c075" rel="noopener noreferrer nofollow" target="_blank">Application for Season Parking</a>
+<p><a href="https://form.gov.sg/6a0fb312e87d95c540cd2a5c" rel="noopener noreferrer nofollow" target="_blank">Application for Season Parking</a>
 </p>
 </li>
 <li>
